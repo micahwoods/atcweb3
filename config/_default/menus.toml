@@ -14,28 +14,63 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Top Posts"
+  url = "#top-posts"
   weight = 30
 
 [[main]]
-  name = "Talks"
-  url = "#talks"
+  name = "Projects"
+  url = "#projects"
+  identifier = "projects"
   weight = 40
 
 [[main]]
+  name = "MLSN"
+  url = "#mlsn"
+  parent = "projects"
+  weight = 10
+
+[[main]]
+  name = "OM246"
+  url = "#om246"
+  parent = "projects"
+  weight = 20
+
+[[main]]
+  name = "ClipVol"
+  url = "#clipvol"
+  parent = "projects"
+  weight = 30
+
+[[main]]
+  name = "All"
+  url = "#projects"
+  parent = "projects"
+  weight = 40
+
+#[[main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = 40
+
+[[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 50
+
+[[main]]
+  name = "About"
+  url = "#about"
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
- [[main]]
-    name = "CV"
-    url = "media/202005_micah_woods_cv.pdf"
-    weight = 70
+# [[main]]
+#    name = "CV"
+#    url = "media/202005_micah_woods_cv.pdf"
+#    weight = 70

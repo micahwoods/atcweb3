@@ -27,8 +27,9 @@ email: "micah[at]asianturfgrass[dot]com"
 
 interests:
 - Turfgrass nutrition
-- Turfgrass selection
+- Turfgrass selection & performance
 - Efficient greenkeeping
+- Soil nutrient analysis
 
 # organizations/affiliations
 organizations:
@@ -40,9 +41,9 @@ organizations:
   role: Adjunct Assistant Professor
   
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/asianturfgrass
@@ -55,9 +56,9 @@ social:
 - icon: vimeo
   icon_pack: fab
   link: https://vimeo.com/micahwoods
-# - icon: youtube
-#  icon_pack: fab
-#  link: https://www.youtube.com/user/AsianTurfgrassCenter
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/user/AsianTurfgrassCenter
 - icon: github
   icon_pack: fab
   link: https://github.com/micahwoods
@@ -77,5 +78,4 @@ user_groups:
 Micah Woods, Ph.D., is the founder and chief scientist of the Asian Turfgrass Center. Since graduating from Oregon State University in 1998, Micah has been traveling extensively, collecting data, and advising turfgrass managers across Asia, Australia, North America, and Europe. From 2001 to 2005, he was in New York to study with Frank Rossi at Cornell University. The broad scope of his research on grasses around the world led to his collaboration with scientists from PACE Turf to create the MLSN guidelines which are applicable to turf in all climate zones, or as he says, "any grass, anywhere." You can read more about Micah’s unique take on tending turfgrass in his book, [*A Short Grammar of Greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping), as well as on his website, [asianturfgrass.com](https://www.asianturfgrass.com).   
 
 If you have the pleasure of hearing Micah speak at a conference, you may notice that he frequently dons a bow tie and sports some unusual hairstyles. A devoted Dickens fan, Micah has read all of his novels, from *Barnaby Rudge* to *A Tale of Two Cities*. Micah is inspired as much by clever turns of phrase and stunning mountaintop views as he is by solving problems, creating graphs, and discovering unexpected statistics. 
-
 
