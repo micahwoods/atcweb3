@@ -1,13 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Rturf"
-summary: ""
+title: "Soil Tests"
+summary: "We provide soil testing services for clients around through Brookside Labs, and continue with an active research program in the area of turfgrass nutrition, soil and plant analysis, and sampling methods."
 authors: []
 tags: 
-- rturf
+- Soil test
+- MLSN
 categories: []
-date: 2021-01-03T15:07:22+07:00
+date: 2021-01-03T19:31:45+07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -18,7 +19,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -39,11 +40,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-weight: 60
+weight: 10
 ---
 
-I've been doing some teaching, or demonstrating, how I use `R` software for some data analysis in turf-related matters. The initial project is about stimpmeter measurements and [ClipVol](/tag/clipvol/).
+We do soil tests for clients around the world. Contact me if you want to know more.
 
-Watch the videos here.
-
-<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7965798/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+We also do a lot of research in this area. We developed the MLSN guidelines, have been studying spatial variability and sampling techniques, and my Ph.D. research was all about soil testing methods and nutrient availability in sand rootzones.

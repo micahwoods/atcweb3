@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Turf Twitter"
-summary: ""
+summary: "Analyzing the tweets and the accounts of the turf industry on Twitter."
 authors: []
 tags: []
 categories: []
@@ -38,4 +38,15 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+weight: 90
 ---
+
+I have made an analysis in 2017 to 2020 and they are here:
+
+* [Turf Twitter in 2020](https://asianturfgrass.shinyapps.io/turf_twitter_2020/)
+
+* [Turf Twitter in 2019](https://asianturfgrass.shinyapps.io/turf_twitter_2019/)
+
+* [Turf Twitter in 2018](https://asianturfgrass.shinyapps.io/turf_twitter_2018/)
+
+* [Turf Twitter in  2017](https://asianturfgrass.shinyapps.io/turf_twitter/)

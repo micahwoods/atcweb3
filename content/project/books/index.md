@@ -19,6 +19,7 @@ url_video: ""
 tags:
   - Books
   - ClipVol
+weight: 70
 ---
 
 Micah is the author of three books: 

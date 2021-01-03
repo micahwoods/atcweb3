@@ -40,6 +40,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+weight: 80
 ---
 
 [Shiny](https://shiny.rstudio.com/) is a web application framework for R. These Shiny apps make calculations, or generate charts, to provide answers or comparisons about fundamental turfgrass management practices.

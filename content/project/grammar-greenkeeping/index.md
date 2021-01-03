@@ -38,6 +38,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+weight: 55
 ---
+
+I've made some movies with my friends to explain how this works. You may enjoy watching.
 
 <div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7916864/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>

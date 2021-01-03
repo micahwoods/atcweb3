@@ -10,4 +10,7 @@ tags:
  - Soil Organic Matter
  - Topdressing
 title: "OM246"
+weight: 50
 ---
+
+OM246 is really useful. There is so much work done to manage the organic matter at the surface. Measuring exactly how much organic matter is there, and how it has changed over time, gives all the information you need to adjust the work, and the surfaces, to be exactly as you want them.

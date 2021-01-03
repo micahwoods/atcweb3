@@ -1,13 +1,16 @@
 ---
 date: "2020-12-02T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/keya_montage2.jpg
 subtitle: 'Why I like to know both humus (a standard soil organic matter test) and
   total organic matter (the #OM246 test), and how I use that information'
 tags:
-- soil testing
-- organic matter
-- om246
+- Soil test
+- Organic matter
+- OM246
 title: A Tale of Two Tests
+math: true
+author: Micah Woods
+image:
+  preview_only: true
 ---
 
 This post takes a few minutes to read because it covers this topic in a bit of detail. The summary is, I make use of two types of soil organic matter tests for turfgrass, these tests measure two different things, both important, and I recommend turfgrass managers measure both of these, ideally once a year.

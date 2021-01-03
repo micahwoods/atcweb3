@@ -28,7 +28,7 @@ Based on [the research by Kreuser et al.](http://www.blog.asianturfgrass.com/200
 
 Ben did get the soil tests done. Thanks to Ben Pease for the photo and [PACE Turf for this version with annotations](https://www.paceturf.org/photo/cultural-practices/p1745-phosphorus.html).
 
-![Ben Pease P photo with ](http://www.paceturf.org/photo/data/503/Pease_P.jpg)
+![Ben Pease P photo with ](https://www.paceturf.org/photo/data/503/Pease_P.jpg)
 
 Where no P was added at left, the average Mehlich 3 P in the soil was 4.7 ppm. At right, where a small amount of P was added, the average was 4.3 ppm. 
 

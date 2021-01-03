@@ -11,6 +11,7 @@ tags:
   - Fertilizer
   - Soil test
 title: "MLSN"
+weight: 30
 ---
 
 This is *the* MLSN page.
@@ -23,8 +24,6 @@ All the data are in the public domain.
 
 All the code in GPL2.
 
-This GCM article.
-
 ---
 
 Popular include:
@@ -32,6 +31,17 @@ Popular include:
 MLSN newsletter
 
 MLSN newsletter archive
+
+MLSN Cheat sheet
+
+Explained in GCM here
+
+Explained in BIGGA here
+
+Explained in Spanish here
+
+This Humbug movie
+
 
 
 

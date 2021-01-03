@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Clipvol"
-summary: ""
+title: "ClipVol"
+summary: "Measuring the growth rate by clipping volume. Really."
 authors: []
 tags: []
 categories: []
@@ -38,4 +38,14 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+weight: 20
 ---
+
+This turned out to be way more useful than I ever thought it would be.
+
+These videos explain.
+
+This article.
+
+These spreadsheets.
+
