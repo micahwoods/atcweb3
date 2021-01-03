@@ -2,11 +2,16 @@
 date: "2020-02-17T00:00:00Z"
 share-media: https://www.asianturfgrass.com/media/om_bullet.jpg
 tags:
-- om246
-- organic matter
-- soil testing
+- OM246
+- Organic matter
+- Soil test
 title: 'Soil organic matter: a bullet list'
 featured: true
+author: Micah Woods
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: yes
 ---
 
 These are some key things I've learned after studying organic matter (OM) for a few years. This is about organic matter in the context of playing conditions---how a ball reacts when it hits the surface. And this is also about the maintenance done to manage organic matter, like sand topdressing, core aerification, and scarification. 

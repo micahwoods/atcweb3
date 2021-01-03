@@ -14,9 +14,18 @@
   weight = 30
 
 [[main]]
+  name = "Tags"
+  url = "#tags"
+  weight = 32
+
+[[main]]
+  name = "MLSN"
+  url = "/project/mlsn/"
+  weight = 35
+
+[[main]]
   name = "Projects"
   url = "#projects"
-  identifier = "projects"
   weight = 40
 
 #[[main]]
@@ -27,12 +36,12 @@
 [[main]]
   name = "Library"
   url = "#publications"
-  weight = 50
+  weight = 55
 
 [[main]]
   name = "Newsletters"
   url = "#newsletters"
-  weight = 55
+  weight = 50
 
 [[main]]
   name = "About"

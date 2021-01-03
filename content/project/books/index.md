@@ -2,7 +2,7 @@
 date: "2018-02-15"
 external_link: ""
 image:
-  caption: Micah books
+  caption: ""
   focal_point: Smart
 links: 
 - icon: twitter
@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/asianturfgrass
 # slides: example 
-summary: I've written a few books about greenkeeping, turfgrass science, and clipping volume.
+summary: My books about greenkeeping, turfgrass science, and clipping volume.
 title: Books
 url_code: ""
 url_pdf: ""

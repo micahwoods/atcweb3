@@ -1,17 +1,15 @@
 ---
-bigmedia:
-- /media/ww_leaf_shredded.jpg: manilagrass leaves have high silica content
-- /media/korai_green_sept.jpg: korai green, Hyogo
-- /media/korai_stimpmeter.jpg: korai green speed measurement, Fukuoka
 date: "2017-07-06T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/ww_leaf_shredded.jpg
 subtitle: In 11 attempts, Si failed to increase green speed every single time
 tags:
-- green speed
-- mowing
-- fertilizer
+- Green speed
+- Mowing
+- Fertilizer
 title: This will make you rethink what you throw in the spray tank
+author: Micah Woods
 featured: true
+image:
+  preview_only: yes
 ---
 
 Beth Guertal wrote to me a couple weeks ago:

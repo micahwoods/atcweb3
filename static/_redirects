@@ -1,0 +1,8 @@
+# this to redirect the posts from old (2008 through June 2020 micahwoods.com) Typepad site
+# and to 301 redirect them all to current Hugo micahwoods.com at Netlify
+
+/2008/07/sunrise-between-taiwan-and-okinawa.html 	      /post/2008-07-29-sunrise-between-taiwan-and-okinawa/
+/2020/04/mango-season.html 				      /post/mango-season/
+/2020/04/i-wasnt-expecting-that.html			      /post/wasnt-expecting-that/
+
+
