@@ -54,12 +54,24 @@
 [[main]]
   name = "About"
   url = "#about"
-  weight = 60
+  identifier = "about"
+  weight = 70
+
+[[main]]
+  name = "About"
+  url = "#about"
+  parent = "about"
+
+[[main]]
+  name = "Case studies"
+  url = "#case-studies"
+  parent = "about"
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  parent = "about"
+ # weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
