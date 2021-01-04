@@ -47,6 +47,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/asianturfgrass
+  label: Follow ATC on Twitter
+  display:
+    header: true
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=JAlxOXEAAAAJ
@@ -56,6 +59,9 @@ social:
 - icon: vimeo
   icon_pack: fab
   link: https://vimeo.com/micahwoods
+  label: Watch our videos
+  display:
+    header: true
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/user/AsianTurfgrassCenter
@@ -68,6 +74,11 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/micah.turfgrass
+  label: Find on Facebook
+  display:
+    header: true
+  
+  
 
 
 user_groups:
