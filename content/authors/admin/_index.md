@@ -78,15 +78,18 @@ social:
   display:
     header: true
   
-  
 
-
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Micah Woods, Ph.D., is the founder and chief scientist of the Asian Turfgrass Center. Since graduating from Oregon State University in 1998, Micah has been traveling extensively, collecting data, and advising turfgrass managers across Asia, Australia, North America, and Europe. From 2001 to 2005, he was in New York to study with Frank Rossi at Cornell University. The broad scope of his research on grasses around the world led to his collaboration with scientists from PACE Turf to create the MLSN guidelines which are applicable to turf in all climate zones, or as he says, "any grass, anywhere." You can read more about Micah’s unique take on tending turfgrass in his book, [*A Short Grammar of Greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping), as well as on his website, [asianturfgrass.com](https://www.asianturfgrass.com).   
+Micah Woods established the Asian Turfgrass Center in 2006 to develop and provide turfgrass information for the golf and sports turf industry in Asia. Since then, the work he did at the ATC research facility in Thailand, his efforts with the Thai Golf Course Superintendents Association to put on the Sustainable Turfgrass Management in Asia Conference for a decade, and his wide-ranging and practical research into better ways to manage grass has led to international recognition of work he does with ATC.
 
-If you have the pleasure of hearing Micah speak at a conference, you may notice that he frequently dons a bow tie and sports some unusual hairstyles. A devoted Dickens fan, Micah has read all of his novels, from *Barnaby Rudge* to *A Tale of Two Cities*. Micah is inspired as much by clever turns of phrase and stunning mountaintop views as he is by solving problems, creating graphs, and discovering unexpected statistics. 
+Introduced to the world of golf at a young age by a golf professional father and inspired by early work at courses as diverse as the Augusta National Golf Club, Desert Mountain Golf Club, and Shanghai Links Golf and Country Club, Micah earned a Ph.D. in Horticulture from Cornell University before beginning extensive research and travels around the world as an invited speaker for events and organizations such as the Asia Pacific Golf Summit, the Australian Turfgrass Conference, the European Turfgrass Society, and the Golf Course Superintendent’s Association of America. All in all, his work as a consultant, researcher, and speaker has taken him to more than 30 countries on five continents. 
+
+Indeed, the scope of Micah’s research is global. Through the ATC, he provides turfgrass advisory and [soil testing services](/project/soil-tests) not only to golf clubs and sports facilities in Asia, but to select clients around the world. Since 2009, he has been an Assistant Adjunct Professor in the [Department of Plant Sciences](https://plantsciences.tennessee.edu/) at the University of Tennessee. His collaboration with [PACE Turf](https://www.paceturf.org/) to develop the [MLSN nutrient guidelines](/project/mlsn/) for turfgrass led to rapid worldwide adoption and a method that is quickly becoming the industry standard. Although Micah has become well known as a scientist and is in demand as a speaker and consultant, anyone who plays golf with him can attest to the fact that he is perhaps most famous for his [birdie dance](https://www.micahwoods.com/post/2011-11-20-dancing-and-eating-my-way-across-india/). 
+
+In fact, Micah remains well grounded in the practical aspects of the golf game and his writing has been praised for its accessible style. Author of over two hundred [articles](/publication/) in publications such as *GOLF Magazine* and *Soil Science* as well as [books](/project/books/) with intriguing titles like [*One Bucket at a Time*](https://www.asianturfgrass.com/buckets/) and [芝草科学とグリーンキーピング: マイカの時間 The BOOK](https://www.amazon.co.jp/dp/4772841725/ref=cm_sw_r_cp_ep_dp_U-eyAbHH25ZNN), Micah enjoys spending time creating animated charts and graphs of the data he has collected while discovering unexpected statistics. 
+
 
