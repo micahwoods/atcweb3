@@ -9,16 +9,16 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Popular Topics
+title: Tagged topics
 subtitle: ''
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
   taxonomy: tags
   # Choose how many tags you would like to display (0 = all tags)
-  count: 30
+  count: 32
 design:
   # Minimum and maximum font sizes (1.0 = 100%).
-  font_size_min: 0.7
-  font_size_max: 2
+  font_size_min: 0.6
+  font_size_max: 2.2
 ---

@@ -6,26 +6,34 @@
 [[main]]
   name = "Blog"
   url = "#posts"
+  identifier = "blog-top-menu"
   weight = 20
 
 [[main]]
+  name = "New posts"
+  url = "#posts"
+  parent = "blog-top-menu"
+  
+[[main]]
   name = "Top Posts"
   url = "#top-posts"
-  weight = 30
+  parent = "blog-top-menu"
+ # weight = 30
 
 [[main]]
-  name = "Tags"
+  name = "Topic list"
   url = "#tags"
-  weight = 32
-
-[[main]]
-  name = "MLSN"
-  url = "/project/mlsn/"
-  weight = 35
+  parent = "blog-top-menu"
+ # weight = 32
 
 [[main]]
   name = "Projects"
   url = "#projects"
+  weight = 30
+  
+[[main]]
+  name = "MLSN"
+  url = "/project/mlsn/"
   weight = 40
 
 #[[main]]
@@ -36,12 +44,12 @@
 [[main]]
   name = "Library"
   url = "#publications"
-  weight = 55
+  weight = 50
 
 [[main]]
   name = "Newsletters"
   url = "#newsletters"
-  weight = 50
+  weight = 55
 
 [[main]]
   name = "About"
