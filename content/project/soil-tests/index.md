@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Soil Tests"
-summary: "We provide soil testing services for clients around through Brookside Labs, and continue with an active research program in the area of turfgrass nutrition, soil and plant analysis, and sampling methods."
+summary: "We provide soil testing services for clients around the world through Brookside Labs, and continue with an active research program in the area of turfgrass nutrition, soil and plant analysis, and sampling methods."
 authors: []
 tags: 
 - Soil test
@@ -19,7 +19,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

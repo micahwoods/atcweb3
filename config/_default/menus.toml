@@ -33,7 +33,7 @@
   
 [[main]]
   name = "MLSN"
-  url = "/project/mlsn/"
+  url = "/mlsn/"
   weight = 40
 
 #[[main]]
