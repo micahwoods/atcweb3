@@ -62,10 +62,10 @@
   url = "#about"
   parent = "about"
 
-[[main]]
-  name = "Case studies"
-  url = "#case-studies"
-  parent = "about"
+#[[main]]
+#  name = "Case studies"
+#  url = "#case-studies"
+#  parent = "about"
 
 [[main]]
   name = "Contact"

@@ -27,16 +27,18 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: MLSN
-    tag: MLSN
-  - name: Writing
-    tag: TurfReads
   - name: Clipping volume
     tag: ClipVol
-  - name: Soil testing
+  - name: MLSN
     tag: MLSN
   - name: R
-    tag: R
+    tag: rturf
+  - name: Soil testing
+    tag: Soil test
+  - name: Videos
+    tag: Video
+  - name: Writing
+    tag: TurfReads
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

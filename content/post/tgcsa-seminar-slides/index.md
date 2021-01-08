@@ -1,15 +1,15 @@
 ---
 date: "2020-12-14T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/woods_tgcsa_dec2020.jpg
 tags:
-- seminar
-- mlsn
-- clipvol
-- om246
-- thailand
-- greenkeeping
-- stimpmeter
+- Seminar
+- MLSN
+- ClipVol
+- OM246
+- Thailand
+- Stimpmeter
 title: 'Thai GCSA seminar: improving playing conditions and optimizing work efficiency'
+image:
+  preview_only: true
 ---
 
 Today I gave a seminar at the Thai GCSA meeting. 

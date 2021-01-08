@@ -6,6 +6,7 @@ summary: ""
 authors: []
 tags: 
 - rturf
+- Video
 categories: []
 date: 2021-01-03T15:07:22+07:00
 
@@ -42,7 +43,9 @@ slides: ""
 weight: 60
 ---
 
-I've been doing some teaching, or demonstrating, how I use `R` software for some data analysis in turf-related matters. The initial project is about stimpmeter measurements and [ClipVol](/tag/clipvol/).
+I've been doing some teaching, or demonstrating, how I use `R` software for data analysis in turf-related matters. See the full list of [rturf posts](https://www.micahwoods.com/category/rturf/).
+
+The initial project is about stimpmeter measurements and [ClipVol](/tag/clipvol/).
 
 Watch the videos here.
 

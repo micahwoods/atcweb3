@@ -1,5 +1,5 @@
 ---
-date: "2018-02-15"
+date: "2018-12-15"
 external_link: ""
 image:
   caption: ""
@@ -19,6 +19,7 @@ url_video: ""
 tags:
   - Books
   - ClipVol
+  - TurfReads
 weight: 70
 ---
 

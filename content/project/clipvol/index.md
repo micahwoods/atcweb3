@@ -4,7 +4,8 @@
 title: "ClipVol"
 summary: "Measuring the growth rate by clipping volume. Really."
 authors: []
-tags: []
+tags: 
+- ClipVol
 categories: []
 date: 2021-01-03T14:42:20+07:00
 
@@ -17,7 +18,7 @@ external_link: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -41,11 +42,21 @@ slides: ""
 weight: 20
 ---
 
-This turned out to be way more useful than I ever thought it would be.
+When I was a golf course superintendent in Japan, we collected clipping volume. But I didn't pay much attention to it. In 2013, I became intrigued[^1] by the relationship between clipping volume and green speed. When the grass was producing fewer clippings, the stimpmeter measurement was faster. "But of course it would be faster," we all might realize. But that was how I got started with this. 
 
-These videos explain.
+[^1]: See my blog post [More about the measurement of grass clippings](https://www.blog.asianturfgrass.com/2014/08/more-about-the-measurement-of-grass-clippings.html) for a bit of the backstory.
 
-This article.
+Then I started to wonder if the dry weight of clippings (the *clipping yield*) could be estimated from the volume. Because if it could, then clipping volume would be an easy way to estimate nutrient harvest.
 
-These spreadsheets.
+It turns out, clipping volume is way more useful, and easier to implement, than I ever though it would be. 
+
+- posts with [ClipVol](/tag/clipvol/) tag
+
+- video [Leaves of Grass](https://vimeo.com/micahwoods/clip1): applications and implications of clipping volume
+
+- video [Five reasons why you should measure clipping volume](https://www.turfnet.com/webinar_archives.html/five-reasons-why-you-should-measure-clipping-volume-r180/)
+
+- book [*One Bucket at a Time*](https://www.asianturfgrass.com/buckets/)
+
+- Two suggestions about clipping volume [data recording](/post/two-suggestions-clipvol-records/)
 

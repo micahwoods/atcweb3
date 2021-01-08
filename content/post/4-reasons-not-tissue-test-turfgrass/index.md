@@ -8,7 +8,7 @@ tags:
 title: Tissue testing for turfgrass
 author: Micah Woods
 image:
-  preview_only: yes
+  preview_only: true
 ---
 
 When I received [the question about tissue testing](http://www.asianturfgrass.com/2017-08-07-tissue-testing-wrong-target/), I replied that I would write a more detailed explanation later on the blog. I've tried to do this here without resorting to numbers or charts. I think of this topic, and the problems with it, in terms of numbers, but I'll try to explain in words.

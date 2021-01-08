@@ -17,9 +17,9 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "The SI calculator shows how any soil test level compares to the large MLSN dataset."
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -57,18 +57,6 @@ Returns the sustainability index (SI) based on soil test inputs. This is a direc
 
 Calculates the fertilizer K requirement given inputs of grass species, soil test K, and annual N rate. A diagonal line on the chart displays how the fertilizer K will change based on the amount of K in the soil.
 
-### [Turf Twitter in 2019](https://asianturfgrass.shinyapps.io/turf_twitter_2019/)
-
-This app shows searchable calculations and rankings related to turfgrass industry Twitter accounts in calendar year 2019.
-
-### [Turf Twitter in 2018](https://asianturfgrass.shinyapps.io/turf_twitter_2018/)
-
-This app shows searchable calculations and rankings related to turfgrass industry Twitter accounts in calendar year 2018.
-
-### [Turf Twitter in 2017](https://asianturfgrass.shinyapps.io/turf_twitter/)
-
-This app shows searchable calculations and rankings related to turfgrass industry Twitter accounts in calendar year 2017.
-
 ### [Irrigation requirement at Manila, Cebu, and Baguio: 2013 to 2016](https://asianturfgrass.shinyapps.io/irr_ph/)
 
 Calculates the daily soil water balance using precipitation and evapotranspiration data for three locations in the Philippines, matching a user-specified set of irrigation *rules*.
@@ -95,4 +83,4 @@ Returns the expected photosynthetic photon flux density (PPFD) for a second with
 
 ### [Make a GP avatar for your location](https://paceturf.shinyapps.io/GPAvatar/)
 
-This app from [PACE Turf](https://www.paceturf.org/) generates a downloadable avatar that shows two lines -- blue and red. Blue is the cool-season growth potential through the year, and red is the warm season growth potential. 
+This app from [PACE Turf](https://www.paceturf.org/) generates a downloadable avatar that shows two lines -- blue and red. Blue is the cool-season growth potential through the year, and red is the warm season growth potential. We put this together in a hackathon when I visited PACE Turf headquarters a few years ago.

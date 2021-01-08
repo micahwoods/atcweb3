@@ -8,7 +8,7 @@ weight = 30  # Order that this section will appear.
 title = "Soil tests"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
- hero_media = "soil_logos.png"
+ hero_media = "soil-labs-3.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -51,5 +51,5 @@ title = "Soil tests"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates"  #data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Of course you need soil test results to fully implement MLSN. ATC provides soil testing services to select clients around the world. Contact us to see if we can provide the testing services you need.
+Of course you need soil test results to fully implement MLSN. ATC provides [soil testing services](/project/soil-tests/) to select clients around the world. Contact us to see if we can provide the testing services you need.
 

@@ -4,7 +4,10 @@
 title: "Turf Twitter"
 summary: "Analyzing the tweets and the accounts of the turf industry on Twitter."
 authors: []
-tags: []
+tags: 
+- Web/Tech
+- rturf
+- TurfTwitter
 categories: []
 date: 2021-01-03T14:39:31+07:00
 
@@ -21,11 +24,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: Follow
+   url: https://twitter.com/asianturfgrass
+   icon_pack: fab
+   icon: twitter
 
 url_code: ""
 url_pdf: ""
@@ -41,12 +44,14 @@ slides: ""
 weight: 90
 ---
 
-I have made an analysis in 2017 to 2020 and they are here:
+I have downloaded turf industry tweets[^1] and analyzed them along with account characteristics. This finds some of the most influential industry accounts.
 
-* [Turf Twitter in 2020](https://asianturfgrass.shinyapps.io/turf_twitter_2020/)
+[^1]: The methodology is explained here: <https://www.asianturfgrass.com/turf_twitter_2017/>
 
-* [Turf Twitter in 2019](https://asianturfgrass.shinyapps.io/turf_twitter_2019/)
+- [Turf Twitter in 2020](https://asianturfgrass.shinyapps.io/turf_twitter_2020/)
 
-* [Turf Twitter in 2018](https://asianturfgrass.shinyapps.io/turf_twitter_2018/)
+- [Turf Twitter in 2019](https://asianturfgrass.shinyapps.io/turf_twitter_2019/)
 
-* [Turf Twitter in  2017](https://asianturfgrass.shinyapps.io/turf_twitter/)
+- [Turf Twitter in 2018](https://asianturfgrass.shinyapps.io/turf_twitter_2018/)
+
+- [Turf Twitter in  2017](https://asianturfgrass.shinyapps.io/turf_twitter/)
