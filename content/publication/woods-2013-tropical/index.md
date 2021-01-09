@@ -1,11 +1,12 @@
 ---
 title: "Nutrient requirements of tropical turfgrass"
-date: 2013-01-01
-publishDate: 2021-01-05T03:48:06.510204Z
+date: 2013-02-01
+publishDate: 2021-01-09T06:43:22.350574Z
 authors: ["M. S. Woods"]
 publication_types: ["4"]
 abstract: ""
 featured: false
-publication: ""
+publication: "ATC Technical Report"
+url_pdf: http://www.files.asianturfgrass.com/20130311_woods_handout_nutrient_requirements_tropical_turfgrass.pdf
 ---
 

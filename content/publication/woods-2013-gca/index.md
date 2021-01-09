@@ -1,12 +1,12 @@
 ---
 title: "Achieving the warm season links"
 date: 2013-01-01
-publishDate: 2021-01-05T03:48:06.509560Z
+publishDate: 2021-01-09T06:43:22.350006Z
 authors: ["M. S. Woods"]
 publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Golf Course Architecture*"
-tags: ["zoysia"]
+url_pdf: http://www.files.asianturfgrass.com/woods_gca_links.pdf
 ---
 

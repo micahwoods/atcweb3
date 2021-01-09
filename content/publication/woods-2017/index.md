@@ -1,33 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The turfgrass genki level"
-authors: []
-date: 2019-04-06T10:57:19+07:00
+title: "芝草科学とグリーンキーピング (マイカの時間 The BOOK)"
+authors: [M. S. Woods]
+date: 2017-03-06
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-01-05T10:57:19+07:00
+publishDate: 2021-01-09T14:36:46+07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: "I've been thinking about turfgrass growth and the relative degree to which the turf manager is pushing the grass to grow with fertilizer, or is trying to slow the growth from what it could be by withholding fertilizer, for a number of years. In a series of posts from February 2019, all published at www.asianturfgrass.com, I explained how the genki level concept works and its practical applications. This document puts those posts together in pamphlet form."
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "The turfgrass genki level is a way to express the degree to which turgrass is being pushed to grow, or restructed from growing, by the supply of nitrogen."
+summary: ""
 
-tags: 
-- Nitrogen
-- Fertilizer
-- Genki level
+tags: []
 categories: []
 featured: false
 
@@ -45,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://www.amazon.co.jp/dp/4772841725/ref=cm_sw_r_cp_ep_dp_U-eyAbHH25ZNN
 url_video:
 
 # Featured image

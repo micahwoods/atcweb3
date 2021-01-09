@@ -1,8 +1,30 @@
-# this to redirect the posts from old (2008 through June 2020 micahwoods.com) Typepad site
-# and to 301 redirect them all to current Hugo micahwoods.com at Netlify
+# this to redirect the posts from old ATC pages
+# and to 301 redirect them all to current Hugo asianturfgrass.com at Netlify
 
-/2008/07/sunrise-between-taiwan-and-okinawa.html 	      /post/2008-07-29-sunrise-between-taiwan-and-okinawa/
-/2020/04/mango-season.html 				      /post/mango-season/
-/2020/04/i-wasnt-expecting-that.html			      /post/wasnt-expecting-that/
+# examples
+#/2008/07/sunrise-between-taiwan-and-okinawa.html 	      /post/2008-07-29-sunrise-between-taiwan-and-okinawa/
+#/2020/04/mango-season.html 				      /post/mango-season/
+#/2020/04/i-wasnt-expecting-that.html			      /post/wasnt-expecting-that/
 
+# ok, this is going to be daunting to do hundreds of pages
+
+/about/									/#about
+/tags/									/#tags
+/library/								/publication/
+/media/									/tag/video/
+/shiny/									/project/shiny-apps/
+/books/									/project/books/
+/lists/									/#newsletters
+/2020-12-30-top-blog-posts-2020/					/post/top-10-posts-2020/
+/2020-12-28-awesome-things-other-people-did-turfgrass-this-year/	/post/non-comprehensive-awesome-list-2020/
+/2020-12-24-sand-topdressing-by-depth/					/post/sand-topdressing-by-depth/
+/2020-12-21-soil-test-showdown/						/post/soil-test-showdown/
+/2020-12-16-flying-blind-episode-youve-waited-for/			/post/flying-blind-episode-youve-waited-for/
+/2018-05-31-is-carbon-the-next-frontier-in-fertilization/		/post/is-carbon-the-next-frontier-in-fertilization/
+/2019-06-25-one-simple-trick-better-greens/				/post/one-simple-trick-better-greens/
+/2018-02-03-new-mlsn-cheat-sheet/					/post/new-mlsn-cheat-sheet/
+/2020-02-17-soil-organic-matter-bullet-list/				/post/soil-organic-matter-bullet-list/
+/2017-07-06-rethink-throw-spray-tank-si/				/post/rethink-throw-spray-tank-si/
+/2020-11-28-worldwide-agroclimatology-data/				/post/worldwide-agroclimatology-data/
+/2020-12-04-5-examples-goodharts-law-turfgrass-management/		/post/5-examples-goodharts-law-turfgrass-management/
 
