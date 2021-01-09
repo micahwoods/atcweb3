@@ -1,12 +1,14 @@
 ---
 date: "2020-05-26T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/sampling_tublamu.jpg
 tags:
-- mlsn
-- fertilizer
-- salinity
-- irrigation
+- MLSN
+- Fertilizer
+- Salinity
+- Irrigation
 title: MLSN and salinity
+math: true
+image:
+  preview_only: true
 ---
 
 When this question arrived, I thought I could respond by showing a blog post I'd written in the past with the answer.
