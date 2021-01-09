@@ -1,14 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The turfgrass genki level"
-authors: 
-- M. S. Woods
-date: 2019-04-06T10:57:19+07:00
+title: "Composite soil sampling for turfgrass"
+authors: [M. S. Woods]
+date: 2020-02-15
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-01-05T10:57:19+07:00
+publishDate: 2021-01-09T20:32:03+07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,15 +19,13 @@ publication_types: ["4"]
 publication: "ATC Technical Report"
 publication_short: ""
 
-abstract: "I've been thinking about turfgrass growth and the relative degree to which the turf manager is pushing the grass to grow with fertilizer, or is trying to slow the growth from what it could be by withholding fertilizer, for a number of years. In a series of posts from February 2019, all published at www.asianturfgrass.com, I explained how the genki level concept works and its practical applications. This document puts those posts together in pamphlet form."
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "The turfgrass genki level is a way to express the degree to which turgrass is being pushed to grow, or restructed from growing, by the supply of nitrogen."
+summary: ""
 
 tags: 
-- Nitrogen
-- Fertilizer
-- Genki level
+- Soil test
 categories: []
 featured: false
 
@@ -40,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: http://www.files.asianturfgrass.com/202002_composite_sampling.pdf
 url_code:
 url_dataset:
 url_poster:
@@ -55,7 +52,7 @@ url_video:
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

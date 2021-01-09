@@ -10,6 +10,9 @@
 
 /about/									/#about
 /tags/									/#tags
+/tags/#mlsn								/tag/mlsn/
+/tags/#om246								/tag/om246/
+/tags/#clipvol								/tag/clipvol/
 /library/								/publication/
 /media/									/tag/video/
 /shiny/									/project/shiny-apps/
@@ -27,4 +30,32 @@
 /2017-07-06-rethink-throw-spray-tank-si/				/post/rethink-throw-spray-tank-si/
 /2020-11-28-worldwide-agroclimatology-data/				/post/worldwide-agroclimatology-data/
 /2020-12-04-5-examples-goodharts-law-turfgrass-management/		/post/5-examples-goodharts-law-turfgrass-management/
+/2020-12-14-tgcsa-seminar-slides/					/post/tgcsa-seminar-slides/
+/2020-12-12-flying-blind-trailer/					/post/flying-blind-trailer/
+/2020-12-08-still-learning-full-movie/					/post/still-learning-full-movie/
+/2020-12-02-tale-two-tests-soil-organic-matter/				/post/tale-two-tests-soil-organic-matter/
+/2020-11-30-last-year-dli-weekly-avg/					/post/last-year-dli-weekly-avg/
+/2020-11-29-sill-learning-official-trailer/				/post/sill-learning-official-trailer/
+/2020-11-25-organic-matter-soil-separation/				/post/organic-matter-soil-separation/
+/2020-11-16-truth-about-great-turf-seminar/				/post/truth-about-great-turf-seminar/
+/2020-11-14-sodding-miles-of-road-median-with-zoysia/			/post/sodding-miles-of-road-median-with-zoysia/
+/2020-10-24-two-suggestions-clipvol-records/				/post/two-suggestions-clipvol-records/
+/2020-10-14-fun-front-steps/						/post/fun-front-steps/
+/2020-10-08-total-organic-matter-warm-season-putting-greens/		/post/total-organic-matter-warm-season-putting-greens/
+/2020-10-06-total-organic-matter-surface-putting-greens/		/post/total-organic-matter-surface-putting-greens/
+/2020-10-04-bigga-regional-conference-november/				/post/bigga-regional-conference-november/
+/2020-09-14-this-is-why-you-replicate/					/post/this-is-why-you-replicate/
+/2020-09-09-bermuda-stolons-zoysia-rhizomes/				/post/bermuda-stolons-zoysia-rhizomes/
+/2020-08-31-column-nichino-ryokka/					/post/column-nichino-ryokka/
+/2020-08-26-three-rturf-projects-green-speed-zoysia-reports/		/post/three-rturf-projects-green-speed-zoysia-reports/
+/2020-08-20-what-do-ninja-tines-poacure-mlsn-disease-models-clipvol/	/post/what-do-ninja-tines-poacure-mlsn-disease-models-clipvol/
+/2020-08-12-not-what-you-think/						/post/not-what-you-think/
+/2020-08-03-updated-sand-topdressing-by-gp/				/post/updated-sand-topdressing-by-gp/
+/2020-08-01-numerical-notes-nikanti/					/post/numerical-notes-nikanti/
+/2020-07-24-hollow-tine-solid-tine-both-fail-alleviate-summer-bentgrass-decline/	/post/hollow-tine-solid-tine-both-fail-alleviate-summer-bentgrass-decline/
+/2020-07-21-mlsn-geo-analysis-updated/				        /post/mlsn-geo-analysis-updated/
+/2020-07-20-turfgrass-soil-sampling-composite-or-not/			/post/turfgrass-soil-sampling-composite-or-not/
+/2020-07-19-difficult-choice-walk-ride/					/post/difficult-choice-walk-ride/
+/2020-07-08-variation-in-humus-from-point-to-point-same-green/		/post/variation-in-humus-from-point-to-point-same-green/
+
 
