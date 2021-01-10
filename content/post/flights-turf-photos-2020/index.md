@@ -70,7 +70,7 @@ I had not been to this course (formerly Milford) since 2011. The trees have grow
 
 {{< figure library="true" src="banyan_3_morning.jpg" title="Morning view of the third at Banyan GC, December" >}}
 
-Speaking of spectacular settings for golf, Banyan GC in Hua Hin has one of the best. This is a morning view. The late afternoon view from the 19<sup>th</th> hole, Mulligan's Pub, is one of the best in the world. Maybe I can get that picture this year!
+Speaking of spectacular settings for golf, Banyan GC in Hua Hin has one of the best. This is a morning view. The late afternoon view from the 19<sup>th</sup> hole, Mulligan's Pub, is one of the best in the world. Maybe I can get that picture this year!
 
 
 
