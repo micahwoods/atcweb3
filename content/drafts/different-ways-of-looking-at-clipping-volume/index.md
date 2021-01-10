@@ -4,6 +4,7 @@ share-media: http://www.asianturfgrass.com/media/ytd_total.png
 tags:
 - ClipVol
 title: Different ways of looking at clipping volume
+draft: true
 ---
 
 When I look at the clipping volume, I usually don't pay a lot of attention to the amount from any given area (usually that would be a green) on any given day. Rather, I'll make some charts
