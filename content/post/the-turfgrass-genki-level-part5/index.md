@@ -1,10 +1,5 @@
 ---
-bigmedia:
-- /media/habu3mow.jpg: mowing a bentgrass green at Habu CC after verticutting
-- /media/keya13_aug.jpg: Mt. Kaya from the 14th tee at Keya GC, August
-- /media/keya13_feb.jpg: Mt. Kaya from the 14th tee at Keya GC, February
 date: "2019-02-18T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/hn18_clipvol.png
 tags:
 - growth potential
 - nitrogen
@@ -12,8 +7,9 @@ tags:
 - genki level
 - turfgrass speedo
 - video
-title: 'The turfgrass genki level, part 5: what''s real, what''s not, & the simplicity
-  of this'
+title: "The turfgrass genki level, part 5: what's real, what's not, & the simplicity of this"
+image:
+  preview_only: true
 ---
 
 In this series of posts, I've showed how one can start with temperatures and go all the way to a standardized comparison of growth in response to nitrogen supply. In this one, I want to emphasize which of these are real, which aren't real but are useful, and to make an argument that this is a lot easier than it might seem.
@@ -60,10 +56,9 @@ Every turf manager has the temperatures and forecast temperatures. Every profess
 
 To look at the growth and use the speedo, one needs some measurement of growth. And that's pretty easy to get. I've written about that in [*One Bucket at a Time*](https://www.asianturfgrass.com/buckets/).
 
-<video width="100%" controls>
-  <source src="https://www.asianturfgrass.com/media/empty_12.mp4" type="video/mp4">
-</video>
-<small><strong>Emptying clippings into a bucket for [#ClipVol](https://www.asianturfgrass.com/buckets/) measurement only takes a few seconds. And one needs to empty the basket anyway.</strong></small>
+{{< video library="true" src="empty_12.mp4" controls="yes" >}}
+
+Emptying clippings into a bucket for [#ClipVol](https://www.asianturfgrass.com/buckets/) measurement only takes a few seconds. And one needs to empty the basket anyway.
 
 ### An example from start to finish
 
