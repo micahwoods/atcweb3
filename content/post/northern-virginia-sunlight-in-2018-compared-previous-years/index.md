@@ -39,8 +39,7 @@ Expressed another way, that's about 107 hours of light---by *light* in this case
 
 This is a [reminder](https://www.asianturfgrass.com/2018-10-14-high-resolution-dli-maps-united-states/) about the high resolution DLI maps of the entire United States prepared by Faust and Logan to accompany their article about DLI in *HortScience*.
 
-[<media src="https://www.asianturfgrass.com/media/dli_map_va.png">](https://www.asianturfgrass.com/2018-10-14-high-resolution-dli-maps-united-states/)
-<small><strong>Average daily light integral data (based on 1998 to 2012 measurements) for anywhere in the USA are available from the map prepared by Joanne Logan and James Faust.</strong></small>
+{{< figure library="true" src="dli_map_va.png" title="Average daily light integral data (based on 1998 to 2012 measurements) for anywhere in the USA are available from the map prepared by Joanne Logan and James Faust." >}}
 
 
 

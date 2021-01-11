@@ -51,7 +51,7 @@ local_business_type = ""
 org_name = "Asian Turfgrass Center"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "ATC was founded by Dr. Micah Woods in 2006 and now researches and shares practical information about turfgrass selection and management."
 
 ############################
 ## Site Features
@@ -237,14 +237,14 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 2
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
   [search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
+    app_id = "5DHGESJLP4"
+    api_key = "d64fcd206975d583cc9ff63df49a23bb"
+    index_name = "atc_website"
     show_logo = false
 
 ############################
