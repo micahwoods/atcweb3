@@ -46,7 +46,7 @@ weight: 90
 
 I have downloaded turf industry tweets[^1] and analyzed them along with account characteristics. This finds some of the most influential industry accounts.
 
-[^1]: The methodology is explained here: <https://www.asianturfgrass.com/turf_twitter_2017/>
+[^1]: The methodology is explained here: <https://micahwoods.github.io/turf_twitter_2017/>
 
 - [Turf Twitter in 2020](https://asianturfgrass.shinyapps.io/turf_twitter_2020/)
 
