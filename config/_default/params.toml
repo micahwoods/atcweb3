@@ -276,7 +276,7 @@ plugins_js  = []
 #  google_analytics = "G-X1BE70LCGD"  a new one I had set up just for this rather than
 # continuing with the old one I had used for asianturfgrass hosted on Github
   google_analytics = "UA-83670583-1"
-  google_tag_manager = "G-SRBF8FYNS0"
+#  google_tag_manager = "G-SRBF8FYNS0"
 
 ############################
 ## Content Management System
