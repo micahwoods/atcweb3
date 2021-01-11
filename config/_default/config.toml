@@ -42,8 +42,18 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   categories = "/category/:slug/"
   publication_types = "/publication-type/:slug/"
 
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"]
+
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest", "Algolia" ]
   section = [ "HTML", "RSS" ]
 
 [mediaTypes."application/manifest+json"]
