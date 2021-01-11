@@ -4,6 +4,7 @@
 # Hugo
 /resources/
 public/
+drafts/
 
 # Temp .md files from Emacs
 *.md~
