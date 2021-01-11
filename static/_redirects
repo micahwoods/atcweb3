@@ -6,7 +6,9 @@
 #/2020/04/mango-season.html 				      /post/mango-season/
 #/2020/04/i-wasnt-expecting-that.html			      /post/wasnt-expecting-that/
 
-# ok, this is going to be daunting to do hundreds of pages
+# wasn't as daunting as I thought to do hundreds of pages
+# try a redirect of blog subdomain single post
+blog.asianturfgrass.com/2016/12/how-to-lose-120-million-yen-with-frost-delays.html  /post/how-to-lose-millions-with-golf-frost-delays/
 
 /about/									/#about
 /tags/									/#tags
