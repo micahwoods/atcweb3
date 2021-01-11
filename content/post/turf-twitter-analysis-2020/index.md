@@ -69,7 +69,7 @@ Another way to look at this is at favorites per tweet. You can see that in the "
 
 ## The overall numbers
 
-I think the total number of active accounts are interesting. I started this looking at tweets in 2017, and I identified the "turfgrass industry" accounts by intersecting lists of accounts that followed at least 1 of 7 turfgrass scientists[^1] and that also followed at least 1 of 6 industry associations.[^2] I know that some people for whatever reason don't follow associations---I don't get it but I know they don't. And there are some people that don't follow any of these scientists. They can still be in the turfgrass industry but the net I am using won't capture those accounts. 
+I think the total number of active accounts are interesting. I started this looking at tweets in 2017, and I identified the "turfgrass industry" accounts by intersecting lists of accounts that followed at least 1 of 7 turfgrass scientists[^1] and that also followed at least 1 of 6 industry associations.[^2] I know that some people for whatever reason don't follow associations---I don't get it but I know they don't. And there are some people that don't follow any of these scientists. They can still be in the turfgrass industry but the net I am throwing won't capture those accounts. 
 
 [^1]: Me, Larry Stowell, Bill Kreuser, Tom Young, Jyri Kaapro, John Kaminski, or Bryan Unruh
 
@@ -88,7 +88,9 @@ Two things strike me about those numbers. First, that seems tiny to me. Consider
 
 And then after that initial screen, if we look at accounts that have sent more than 50 tweets overall, and that tweeted at least 12 times in 2020---those are what I call *active* accounts, the number drops to 5,892.
 
-But it's a good number. I've certainly been able to make great use of Twitter to share information that I otherwise wouldn't be able to share with such a large and global audience. And I've learned a ton from reading what others have shared, or observing what others are doing. 
+But it's a good number. I've certainly been able to make great use of Twitter to share information that I otherwise wouldn't be able to share with such a large and global audience. And I've learned a ton from reading what others have shared, or observing what others are doing. Here's to another fun and informative year of turfgrass twitter. 
+
+:smile: :sunny: :green_heart: :cocktail: :airplane:
 
 
 
