@@ -242,9 +242,9 @@ plugins_js  = []
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
   [search.algolia]
-    app_id = "5DHGESJLP4"
-    api_key = "d64fcd206975d583cc9ff63df49a23bb"
-    index_name = "atc_website"
+    app_id = "IIVNQT87S5"
+    api_key = "97eaa6e0ca2f48a52bd5cb4b45a5e721"
+    index_name = "atc_crawled"
     show_logo = false
 
 ############################
