@@ -14,7 +14,7 @@
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
 theme = "atc_theme"
-
+#theme = "minimal"
 # Enable users to switch between day and night mode?
 day_night = false
 
@@ -245,7 +245,7 @@ plugins_js  = []
     app_id = "IIVNQT87S5"
     api_key = "97eaa6e0ca2f48a52bd5cb4b45a5e721"
     index_name = "netlify_42333bde-3158-439e-9846-64e6abf25f0c_master_all"
-    show_logo = false
+    show_logo = true
 
 ############################
 ## Maps

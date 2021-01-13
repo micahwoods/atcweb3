@@ -14,7 +14,7 @@ baseurl = "https://asianturfgrass.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy 2006--{year} [Asian Turfgrass Center](https://www.asianturfgrass.com/). This site made with [Wowchemy](https://wowchemy.com/) & [Hugo](https://gohugo.io/)."
+copyright = "&copy 2006--{year} [Asian Turfgrass Center](https://www.asianturfgrass.com/). This site made with the [Wowchemy](https://wowchemy.com/) & [Hugo](https://gohugo.io/)."
 
 ############################
 ## Advanced options below ##
@@ -42,18 +42,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   categories = "/category/:slug/"
   publication_types = "/publication-type/:slug/"
 
-[outputFormats.Algolia]
-baseName = "algolia"
-isPlainText = true
-mediaType = "application/json"
-notAlternative = true
-
-[params.algolia]
-vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
-params = ["categories", "tags"]
-
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest", "Algolia" ]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
   section = [ "HTML", "RSS" ]
 
 [mediaTypes."application/manifest+json"]
