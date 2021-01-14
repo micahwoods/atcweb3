@@ -10,6 +10,9 @@
 # try a redirect of blog subdomain single post
 https://www.blog.asianturfgrass.com/2016/12/how-to-lose-120-million-yen-with-frost-delays.html  /post/how-to-lose-millions-with-golf-frost-delays/
 
+# do ones I later realize need done
+/2014_gss_report/							https://micahwoods.github.io/2014_gss_report/
+
 /about/									/#about
 /tags/									/#tags
 /tags/#mlsn								/tag/mlsn/
