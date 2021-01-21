@@ -1,5 +1,5 @@
 ---
-date: "2018-04-05T00:00:00Z"
+date: 2018-04-05T00:00:00Z
 lastmod: 2021-01-21T19:04:21+07:00
 authors: [admin]
 tags:
@@ -8,7 +8,8 @@ tags:
 - Water
 - Aerify
 - Growth potential
-title: Learn the rules like a pro, so you can break them like an artist
+- Turf reads
+title: "Learn the rules like a pro, so you can break them like an artist"
 image:
   preview_only: true
 ---
