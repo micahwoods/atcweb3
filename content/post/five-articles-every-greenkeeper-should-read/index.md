@@ -1,13 +1,16 @@
 ---
 date: "2018-04-05T00:00:00Z"
-share-media: https://c1.staticflickr.com/5/4564/24772520048_7268a66e01_b_d.jpg
+lastmod: 2021-01-21T19:04:21+07:00
+authors: [admin]
 tags:
-- fertilizer
-- topdress
-- water
-- aerify
-- growth potential
+- Fertilizer
+- Topdress
+- Water
+- Aerify
+- Growth potential
 title: Learn the rules like a pro, so you can break them like an artist
+image:
+  preview_only: true
 ---
 
 Some years ago I shared some articles that I often referred to or recommended, and I called that [Five articles every greenkeeper should read](http://www.blog.asianturfgrass.com/2012/04/five-articles-every-greenkeeper-should-read.html). As I look at this list of articles now, I'm reminded of the familiar maxim about understanding the rules before breaking them. By that I mean that these fundamentals and principles should be understood. Once understood, then I would make the adjustments required to produce the desired surfaces at any location.
