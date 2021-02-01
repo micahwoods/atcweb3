@@ -31,21 +31,24 @@ image:
 projects: []
 ---
 
-The American Battle Monuments Commission (ABMC) has a new series of videos about each of their facilities. I watched [this one](https://youtu.be/_gVpJkr4GAU) about the Manila American Cemetery with special interest.
+The American Battle Monuments Commission (ABMC) has a new series of videos about each of their facilities. I watched [this one](https://youtu.be/_gVpJkr4GAU) about the Manila American Cemetery with special interest. I think you'll be impressed when you see this.
 
 {{< youtube _gVpJkr4GAU >}}
 
-The [Manila American Cemetery](http://www.abmc.gov/Manila) is the largest of all the overseas cemeteries. The fine lawn areas over the graves are planted to manilagrass, more than 31 hectares (77 acres) of highly maintained lawns that I've [written about before](/post/turfgrass-mystery-where-find-beautiful-grass/) as "the best-maintained large sward of manilagrass in Southeast Asia."
+The cemetery is so large that I've never been able to take photos that capture the scale of it. The aerial views in the video are superb, and give a better sense of the vast size of the grounds.
+
+The [Manila American Cemetery](http://www.abmc.gov/Manila) is the largest of all the overseas cemeteries.  The graves sit in a fine lawn of manilagrass --- more than 31 hectares (77 acres) of highly maintained turf that I've [written about before](/post/turfgrass-mystery-where-find-beautiful-grass/) as "the best-maintained large sward of manilagrass in Southeast Asia." And it is at a stunning location, on a small hilltop, right in the middle of Metro Manila.
 
 {{< figure library="false" src="mnl_cemetery_fine_lawn.jpg" >}}
 
-I've visited this cemetery many times over the years. Before I visited for the first time, I'd heard from friends in the Philippines about the quality of the turf there.
+Before my first visit to the cemetery, I'd heard from friends in the Philippines about the quality of the turf there. Since that first visit, and many times since, I've had a chance to study the grass at the cemetery and to reflect on many things --- life, death, war, sacrifice, love, loss, honor, dedication.
 
 {{< figure library="false" src="mnl_cemetery_bench.jpg" >}}
 
-I subsequently had a chance to do some advisory work for the ABMC here --- being involved with this cemetery was a tremendous honor, and is one of the favorite projects I've worked on.
+One of the great honors I've had in my career was the opportunity to perform advisory work for the ABMC here. This is one of the favorite projects I've worked on, and it always will be.
 
 {{< figure library="false" src="featured.jpg" >}}
+
 
 
 
