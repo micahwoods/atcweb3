@@ -1,10 +1,11 @@
 ---
 date: "2018-09-29T00:00:00Z"
+lastmod: 2021-02-02T15:05:03+07:00
 share-media: https://c1.staticflickr.com/5/4442/36578960112_5f2f585c30_b_d.jpg
 tags:
 - ClipVol
 - Podcast
-title: "Hell, I did that 30 years ago"
+title: '"Hell, I did that 30 years ago"'
 authors: [admin]
 image:
   preview_only: true
@@ -46,6 +47,6 @@ Another great thing about the world today is that anyone can ask a question to e
 
 But there's a problem with knowing what your clipping yield is in terms of basket empties, or in general terms of growing a lot or not growing much, and actually expressing that as a number. I'm the only desk jockey I know of making tons of calculations and charts about this, so [I've tried that measure](http://www.seminar.asianturfgrass.com/20140612_clipping_yield.html) of amount of clippings in the basket, or empties, and it just doesn't transfer. 
 
-If that growth number did transfer from site to site, just like other measures we use such as ET, soil temperature, mowing height, and so on, maybe turf managers from the younger generations could make good use of that. And just like a podcast can go out to the whole world, so also can questions or information about how much the grass is growing. I'm not going to elaborate on all the ways that the number can be used---do a "clipping volume" [site search](https://cse.google.com/cse?cx=002453456411648864480:0ken194xpnc) of [www.asianturfgrass.com](https://www.asianturfgrass.com/) for a day's worth of reading about all aspects of this---but I do find it useful in a lot of ways.  
+If that growth number did transfer from site to site, just like other measures we use such as ET, soil temperature, mowing height, and so on, maybe turf managers from the younger generations could make good use of that. And just like a podcast can go out to the whole world, so also can questions or information about how much the grass is growing. I'm not going to elaborate on all the ways that the number can be used---see the [ClipVol project page](/project/clipvol/) for a list of resources about this---but I do find it useful in a lot of ways.
 
 No one has to measure the clipping volume. It's not necessary to measure clipping volume to produce good turf. But it is easy and it can lead to improved playing conditions with less work done to the turf. So I expect more and more people in the audience at Kevin's seminars to be familiar with this, or actually measuring clipping volume, in years to come.
