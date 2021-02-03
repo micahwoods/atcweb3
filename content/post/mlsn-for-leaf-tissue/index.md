@@ -1,11 +1,14 @@
 ---
 date: "2018-09-30T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/jones_book.jpg
+lastmod: 2021-02-02T15:05:03+07:00
 tags:
-- fertilizer
-- tissue testing
-- mlsn
+- Fertilizer
+- Tissue test
+- MLSN
 title: MLSN for leaf tissue
+authors: [admin]
+image:
+  focalPoint: TopRight
 ---
 
 This inquiry came by email under the heading of "MLSN for leaf tissue."

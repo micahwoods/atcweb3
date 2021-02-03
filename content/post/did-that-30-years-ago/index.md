@@ -1,7 +1,6 @@
 ---
 date: "2018-09-29T00:00:00Z"
 lastmod: 2021-02-02T15:05:03+07:00
-share-media: https://c1.staticflickr.com/5/4442/36578960112_5f2f585c30_b_d.jpg
 tags:
 - ClipVol
 - Podcast
