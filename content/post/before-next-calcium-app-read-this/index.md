@@ -1,13 +1,15 @@
 ---
 date: "2020-02-23T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/habu_9_irr_crop.jpg
-subtitle: On average, irrigation water contains 7 times more Ca than grass uses
+subtitle: "On average, irrigation water contains 7 times more Ca than grass uses"
 tags:
-- calcium
-- irrigation
-- clipvol
-- fertilizer
-title: Before your next calcium app, read this
+- Calcium
+- Irrigation
+- ClipVol
+- Fertilizer
+title: "Before your next calcium app, read this"
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 The normal range of calcium (Ca) in irrigation water is 20 to 60 ppm. That comes right from Penn State's [Irrigation water quality guidelines for turfgrass sites](https://extension.psu.edu/irrigation-water-quality-guidelines-for-turfgrass-sites).
@@ -22,8 +24,7 @@ The normal range is 20 to 60 ppm Ca. That is 20 to 60 mg/L. It is convenient to 
 
 I'll take the middle of the normal range and say the average water has 40 mg of Ca in each liter. 
 
-![habu irrigation 9 green](/media/habu_9_irr_crop.jpg)
-<small><strong>Irrigation water normally contains from 20 to 60 mg of Ca in each liter.</strong></small>
+{{< figure library="true" src="habu_9_irr_crop.jpg" title="Irrigation water normally contains from 20 to 60 mg of Ca in each liter." >}}
 
 How much water might be applied? A recent nationwide survey, with results reported by Gelernter et al. in [Documenting trends in water use and conservation practices on U.S. golf courses](https://doi.org/10.2134/cftm2015.0149), provides an answer. The median water use was 105.7 acre-feet per year and the median irrigated area was 80.3 acres. That works out to a median irrigation amount of 381 mm. 
 

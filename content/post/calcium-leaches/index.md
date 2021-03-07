@@ -2,10 +2,15 @@
 date: "2020-02-14T00:00:00Z"
 share-media: https://www.asianturfgrass.com/media/keya_15_irrigation.jpg
 tags:
-- calcium
-- irrigation
-- clipvol
-title: Calcium leaches?
+- Calcium
+- Irrigation
+- ClipVol
+title: "Calcium leaches?"
+authors: [admin]
+lastmod: 2021-03-07T14:00:00+07:00
+featured: false
+image:
+  preview_only: true
 ---
 
 Did you see where soil potassium (K) only [went down by 1 ppm](https://www.asianturfgrass.com/2020-01-29-potassium-leached-kbc/) after 374 mm (14.7 inches) of rain? 
@@ -14,8 +19,7 @@ In that same comparison of pre- and post-rain samples, the soil calcium (Ca) wen
 
 Why did Ca go down with rain, but K didn't? I reckon it's because irrigation was supplying about 26 times more Ca than the grass was using. And all that extra Ca has to go somewhere.
 
-![irr 15 grn keya](/media/keya_15_irrigation.jpg)
-<small><strong>Irrigation water at Keya GC supplies 26 times more Ca than the grass uses.</strong></small>
+{{< figure library="true" src="keya_15_irrigation.jpg" title="Irrigation water at Keya GC supplies 26 times more Ca than the grass uses." >}}
 
 If you are interested in the math, it goes like this. And it's just a coincidence that it is 26 times more Ca in irrigation water than grass use, and 26 ppm decrease. Those 26's aren't connected in any way.
 
@@ -27,8 +31,7 @@ The most recent irrigation water analysis at Keya GC found 18.62 ppm (mg/L) Ca i
 
 Clippings are collected from the greens at Keya GC after mowing, and the volume of those clippings is measured. In August, a typical daily [#ClipVol](https://twitter.com/search?q=%23clipvol&src=hashtag_click) is about 15 mL/m<sup>2</sup>. 
 
-![clipvol bucket keya](/media/keya_clipvol_bucket.jpg)
-<small><strong>The quantity of clippings harvested from greens is recorded at each mowing.</strong></small>
+{{< figure library="true" src="keya_clipvol_bucket.jpg" title="The quantity of clippings harvested from greens is recorded at each mowing." >}}
 
 I estimate that the ratio of volume to dry weight for [korai clippings is 1:0.11](https://www.asianturfgrass.com/buckets/june-2017-clipping-volume-report.html#estimating-nutrient-use-and-harvest). For every 1 mL of korai clippings, the expected dry weight is 0.11 g. That 15 mL of ClipVol weighs about 1.65 g. 
 
