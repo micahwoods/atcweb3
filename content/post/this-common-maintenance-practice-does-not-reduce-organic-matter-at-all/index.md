@@ -21,17 +21,21 @@ image:
 math: true
 ---
 
-Hollow-tine aerification, coring, core aeration, whatever you call it, removes organic matter from the soil. But if you measure the soil organic matter prior to the treatment, and then again after the cores are removed, it will be exactly the same. Removing cores doesn't change soil organic matter content one bit. I hadn't quite realized this myself until I worked through the calculations a couple years ago. 
+Hollow-tine aerification, coring, core aeration, whatever you call it, removes organic matter from the soil. 
 
-Loss on ignition (LOI) is a standard way to measure soil organic matter. This is the equation to calculuate the organic matter percentage.
+But if you measure the soil organic matter before pulling any cores, and then measure again after the cores are removed, the soil organic matter % will be exactly the same. Removing cores doesn't change soil organic matter content one bit. 
+
+I hadn't quite realized the full impact of this until I worked through the calculations myself a couple years ago as I was getting started with the [OM246 project]({{< relref "/project/om246" >}}).
+
+Loss on ignition (LOI) is a standard way to measure soil organic matter. This is an equation to calculuate the organic matter percentage from the mass of the sample before and after burning:
 
 $$ OM = \frac{(W_{105} - W_{burn}) \times 100}{W_{105}} $$
 
-where $OM$ is the percentage of organic matter in the sample, $W_{105}$ is the dry weight of the soil sample, and $W_{burn}$ is the weight of the soil sample after burning at a known temperature---common burn temperatures are 360, 400, or 440 °C.
+where $OM$ is the percentage of organic matter in the sample, $W_{105}$ is the dry weight of the soil sample which has been dried at 105 °C, and $W_{burn}$ is the weight of the soil sample after burning at a known temperature---common burn temperatures are 360, 400, or 440 °C.
 
 This is on a mass basis. And on that basis, removing cores and then checking OM again will give the same number. And when removing cores (and organic matter) from a turfgrass sward, the same phenomenon occurs. The OM is the same at the beginning and at the end of the operation.
 
-Here's how this works; I've copied from an e-mail conversation I had last year. A golf course superintendent wrote with some questions about small diameter hollow-tines:
+Here's how this works; I've copied from an e-mail conversation I had last year. A golf course superintendent wrote with some questions about frequent use of small diameter hollow-tines:
 
 > "I would like to see OM data to see how effective this is, compared to just solid needle tining at the same rate. Might reduce OM to some degree, but might not be significant enough to justify the increased cost."
 
@@ -39,7 +43,7 @@ This was my reply.
 
 > You'll be aware, or will after you calculate it, that removing material through core aerification of any size doesn't actually reduce soil organic matter percentage. 
 
-> Soil organic matter is customarily reported on a mass basis. Percentage OM by weight in the soil (say 2%), or that would be 20 g of OM per kg of soil.
+> Soil organic matter is customarily reported on a mass basis. Here's an example.
 
 > Let's say I come in with tines that are pulling a core 4 mm in diameter. Let's say I do those on 3 x 3 cm spacing, so I put 1,111 holes of that diameter per square meter. Let's say the core I pull is 3 cm deep too, and say the bulk density of the soil at that depth is 1.35 g/cm<sup>3</sup>.
 
