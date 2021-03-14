@@ -4,7 +4,7 @@ tags:
 - Fertilizer
 - Disease
 title: So much silicon research I can't keep up with it all
-author: [admin]
+authors: [admin]
 image:
   preview_only: true
 ---
