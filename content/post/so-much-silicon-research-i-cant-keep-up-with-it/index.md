@@ -1,10 +1,12 @@
 ---
 date: "2018-05-20T00:00:00Z"
-share-media: https://farm4.staticflickr.com/3441/3753703557_c090f980ff_o_d.jpg
 tags:
-- fertilizer
-- disease
+- Fertilizer
+- Disease
 title: So much silicon research I can't keep up with it all
+author: [admin]
+image:
+  preview_only: true
 ---
 
 I was searching the [Turfgrass Information File](http://tic.msu.edu/tgif/search) for 'turfgrass quality rating' and a couple interesting silicon/silica/silicate projects appeared in the results. 
