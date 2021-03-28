@@ -1,13 +1,15 @@
 ---
-bigmedia:
-- /media/sand_topdressing_gp_updated.png
 date: "2020-08-03T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/sand_topdressing_gp_updated.png
-subtitle: The spreadsheets from PACE Turf start with a new default value
 tags:
 - topdress
 - growth potential
 title: Updated spreadsheets for sand topdressing by GP
+subtitle: The spreadsheets from PACE Turf start with a new default value
+
+math: true
+image:
+  preview_only: true
+authors: [admin]
 ---
 
 The [PACE Turf](https://www.paceturf.org/) topdressing rate spreadsheets have been updated with a new default starting value for monthly maximum topdressing sand.
@@ -28,7 +30,7 @@ I think it makes sense to use the higher rate as a default because:
 
 1. The higher rate in Hempfling et al. had less disease, faster green speed, and better turf quality.
 
-2. [Schmid et al.](https://dx.doi.org/10.2134/ATS-2014-0031-BR) found that "greens receiving an annual sand topdressing rate of 20.3 ft<sup>3</sup>/1000 ft<sup>2</sup> [6 mm] were consistently $$\leq$$ 3.3% soil organic matter" in the top 3 inches (7.6 cm). Based on these survey results, which were obtained from a large survey of greens from 15 US states, there is an expectation that 6 mm is a reasonable starting point number.
+2. [Schmid et al.](https://dx.doi.org/10.2134/ATS-2014-0031-BR) found that "greens receiving an annual sand topdressing rate of 20.3 ft<sup>3</sup>/1000 ft<sup>2</sup> [6 mm] were consistently $\leq$ 3.3% soil organic matter" in the top 3 inches (7.6 cm). Based on these survey results, which were obtained from a large survey of greens from 15 US states, there is an expectation that 6 mm is a reasonable starting point number.
 
 3. [Whitlark and Thompson](https://gsr.lib.msu.edu/article/whitlark-thompson-light-5-3-19.pdf) wrote about light and frequent topdressing in the USGA *Green Section Record* in 2019. About the amount of sand to apply, they wrote that "trends observed by USGA agronomists suggest that 25 to 35 
 cubic feet of sand per 1,000 square feet per year [that's 7.6 to 10.7 mm] is a good annual target to adequately dilute organic matter."
