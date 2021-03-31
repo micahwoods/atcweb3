@@ -5,11 +5,10 @@ tags:
 - growth potential
 title: Updated spreadsheets for sand topdressing by GP
 subtitle: The spreadsheets from PACE Turf start with a new default value
-
+authors: [admin]
 math: true
 image:
   preview_only: true
-authors: [admin]
 ---
 
 The [PACE Turf](https://www.paceturf.org/) topdressing rate spreadsheets have been updated with a new default starting value for monthly maximum topdressing sand.
