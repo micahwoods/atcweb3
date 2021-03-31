@@ -6,14 +6,14 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "Sustainability index"
-
+title = "Shiny Apps"
+subtitle = "Web apps for turfgrass data and calculations"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -29,14 +29,14 @@ title = "Sustainability index"
 #  gradient_end = "ForestGreen"
   
   # Background image.
-   image = "si_index.jpg"  # Name of image in `static/media/`.
-   image_darken = 0.7   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-   image_position = "center"  # Options include `left`, `center` (default), or `right`.
-   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+#   image = "dli_header.jpg"  # Name of image in `static/media/`.
+#   image_darken = 0.7   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+#   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+#   image_position = "center"  # Options include `left`, `center` (default), or `right`.
+#   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+#  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -50,9 +50,7 @@ title = "Sustainability index"
  css_class = ""
 +++
 
-{{< cta cta_text="Open ET app" cta_link="https://asianturfgrass.shinyapps.io/turfsi/" cta_new_tab="true" >}}
+I've made apps to calculate evapotranspiration, find the past year of DLI at any location, compare your soil test results to the [MLSN]({{< relref "/mlsn" >}}) dataset, see turfgrass industry Twitter rankings, and much more.
 
-This app returns the sustainability index (SI) based on soil test inputs. This is a direct comparison of input soil test results to the MLSN data.
-
-Users can put in soil test results for K, P, Ca, Mg, and S. The app then shows where the input level of soil nutrients would sit on the cumulative distribution function (CDF) for all the MLSN data.
+You can see the underlying R code for many of these apps on [Github](https://github.com/micahwoods).
 

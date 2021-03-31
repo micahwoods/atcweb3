@@ -6,9 +6,10 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "GP avatar"
+title = "Sustainability index"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -28,8 +29,8 @@ title = "GP avatar"
 #  gradient_end = "ForestGreen"
   
   # Background image.
-   image = "gp_avatar.jpg"  # Name of image in `static/media/`.
-   image_darken = 0.6   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image = "si_index.jpg"  # Name of image in `static/media/`.
+   image_darken = 0.7   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
    image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -49,13 +50,9 @@ title = "GP avatar"
  css_class = ""
 +++
 
-{{< cta cta_text="Open GP avatar app" cta_link="https://paceturf.shinyapps.io/GPAvatar/" cta_new_tab="true" >}}
+{{< cta cta_text="Open TurfSI app" cta_link="https://asianturfgrass.shinyapps.io/turfsi/" cta_new_tab="true" >}}
 
+This app returns the sustainability index (SI) based on soil test inputs. This is a direct comparison of input soil test results to the MLSN data.
 
-### [Make a GP avatar for your location](https://paceturf.shinyapps.io/GPAvatar/)
-
-This app developed with [PACE Turf](https://www.paceturf.org/) generates a downloadable avatar that shows two lines -- blue and red. Blue is the cool-season growth potential through the year, and red is the warm season growth potential. We put this together in a hackathon when I visited PACE Turf headquarters a few years ago.
-
-You can choose built-in temperature data from *any* zip code in the USA, or can input your own temperature data for any location.
-
+Users can put in soil test results for K, P, Ca, Mg, and S. The app then shows where the input level of soil nutrients would sit on the cumulative distribution function (CDF) for all the MLSN data.
 
