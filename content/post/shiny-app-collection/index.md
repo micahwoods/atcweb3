@@ -15,9 +15,9 @@ featured: false
 draft: false
 
 image:
-  caption: ""
+  caption: "This app calculates the irrigation requirment in response to adjustments of rootzone depth, irrigation rules, field capacity, and distribution uniformity."
   focal_point: ""
-  preview_only: true
+  preview_only: false
 ---
 
 I've made a number of Shiny apps, and have collected them all on [this new page]({{< relref "/shiny-apps" >}}).
