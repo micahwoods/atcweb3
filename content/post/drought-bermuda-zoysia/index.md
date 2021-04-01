@@ -1,13 +1,18 @@
 ---
 date: "2020-05-23T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/green_bermuda_dormant_zoysia.jpg
-tags:
-- zoysia
-- bermuda
-- water
-- drought
-- irrigation
 title: Bermudagrass, zoysiagrass, and water use
+authors: [admin]
+tags:
+- Zoysia
+- Bermuda
+- Water
+- Drought
+- Irrigation
+
+image:
+  preview_only: true
+  
+featured: true
 ---
 
 I was talking with a golf course designer recently, and he mentioned that "zoysia starts to look pretty attractive because of its lower water use." That led to a long conversation about how incorrect that statement is. 
