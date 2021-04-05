@@ -1,11 +1,13 @@
 ---
 date: "2020-05-10T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/algae_p.jpg
 tags:
 - algae
 - fertilizer
 - phosphorus
 title: Algae, sand, and phosphorus
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 On February 28, I planted 'Wana' manilagrass as two node rhizomes in sand-filled pots. All pots have had irrigation and rainfall. One pot has not been fertilized. One has received only N from urea. Another pot has gotten N and P, from urea and from diammonium phosphate (DAP). The fourth pot has gotten all the macronutrients---N, P, and K---from urea and DAP and potassium chloride (KCl).

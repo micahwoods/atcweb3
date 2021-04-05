@@ -15,7 +15,7 @@ featured: false
 draft: false
 
 image:
-  caption: "This app calculates the irrigation requirment in response to adjustments of rootzone depth, irrigation rules, field capacity, and distribution uniformity."
+  caption: "This app calculates the irrigation requirement in response to adjustments of rootzone depth, irrigation rules, field capacity, and distribution uniformity."
   focal_point: ""
   preview_only: false
 ---
