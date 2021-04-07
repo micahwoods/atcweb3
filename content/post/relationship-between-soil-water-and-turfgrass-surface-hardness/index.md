@@ -1,12 +1,13 @@
 ---
 title: Relationship between soil water content and turfgrass surface hardness
 authors: [admin]
-date: 2014-03-02T08:04:18+00:00
-lastmod: 2021-04-07T13:20:18+07:00
+date: "2014-03-02T08:04:18+00:00"
+lastmod: "2021-04-07T13:20:18+07:00"
 
 tags:
-  - Drainage
-  - Surface firmness
+- Drainage
+- Surface firmness
+- Research
 
 featured: false
 draft: false
