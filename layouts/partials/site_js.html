@@ -60,7 +60,7 @@
         <div class="search-hit" id="summary-{{"{{key}}"}}">
           <div class="search-hit-content">
             <div class="search-hit-name">
-              {{ printf "<a href=\"%s\">%s</a>" "{{relpermalink}}" "{{title}}" | safeHTML }}
+              {{ printf "<a href=\"%s\">%s</a>" "{{url}}" "{{title}}" | safeHTML }}
               <div class="article-metadata search-hit-type">{{"{{type}}"}}</div>
               <p class="search-hit-description">{{"{{snippet}}"}}</p>
             </div>
@@ -77,7 +77,7 @@
         <div class="search-hit">
           <div class="search-hit-content">
             <div class="search-hit-name">
-              {{ printf "<a href=\"%s\">{{{_highlightResult.title.value}}}</a>" "{{relpermalink}}" | safeHTML }}
+              {{ printf "<a href=\"%s\">{{{_highlightResult.title.value}}}</a>" "{{url}}" | safeHTML }}
             </div>
             <div class="article-metadata search-hit-type">{{"{{type}}"}}</div>
             <p class="search-hit-description">{{ safeHTML "{{{_highlightResult.summary.value}}}" }}</p>
