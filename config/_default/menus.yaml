@@ -1,0 +1,46 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: 'Blog'
+    url: '#posts'
+    identifier: 'blog-top-menu'
+    weight: 20
+  - name: 'New posts'
+    url: '#posts'
+    parent: 'blog-top-menu'
+  - name: 'Top posts'
+    url: '#top-posts'
+    parent: 'blog-top-menu'
+  - name: 'Topic list'
+    url: '#tags'
+    parent: 'blog-top-menu'
+  - name: 'Projects'
+    url: '#projects'
+    weight: 30
+  - name: 'MLSN'
+    url: '/mlsn/'
+    weight: 40
+  - name: 'Library'
+    url: '#publications'
+    weight: 50
+  - name: 'Newsletters'
+    url: '#newsletters'
+    weight: 55
+  - name: 'About'
+    url: '#about'
+    identifier: 'about'
+  - name: 'About'
+    url: '#about'
+    parent: 'about'
+  - name: 'Contact'
+    url: '#contact'
+    parent: 'about'
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
