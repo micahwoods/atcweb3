@@ -1,24 +1,22 @@
 ---
-bigmedia:
-- topdress_shimane.jpg: sand topdressing, Shimane, Japan
 date: "2017-12-20T00:00:00Z"
-share-media: http://www.asianturfgrass.comgk_2018_map.png
 tags:
 - sand
-- topdress
-- japan
+- topdressing
+- Japan
 title: Topdressing frequency on golf course putting greens in Japan
+image: 
+  preview_only: true
+authors: [admin]
 ---
 
 A recent conversation about [putting surfaces in Japan](https://twitter.com/GCIMagazineGuy/status/942017294586216449) led to discussion of topdressing amounts and frequency.
 
 *[The Greenkeeper 2018](https://twitter.com/asianturfgrass/status/942405511076462594)* has course maintenance summaries for 17 courses in Japan. I mapped the locations of those courses by zip code.
 
-![map of Greenkeeper 2018](gk_2018_map.png)
+{{< figure src="gk_2018_map.png" title="<small>Map tiles by [Stamen Design](http://stamen.com), under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0). Data by [OpenStreetMap](http://openstreetmap.org), under [ODbL](http://www.openstreetmap.org/copyright).</small>" >}}
 
-<sup>Map tiles by [Stamen Design](http://stamen.com), under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0). Data by [OpenStreetMap](http://openstreetmap.org), under [ODbL](http://www.openstreetmap.org/copyright).</sup>
-
-All those courses have bentgrass greens. Eight of them reported the variety as Pencross, three as L-93, and the other varieties were:
+All those courses have bentgrass greens. Eight of them reported the variety as Penncross, three as L-93, and the other varieties were:
 
 * Penncross/L-93
 * SR1020

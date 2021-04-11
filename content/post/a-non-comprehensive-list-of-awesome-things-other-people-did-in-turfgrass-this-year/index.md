@@ -1,11 +1,14 @@
 ---
 date: "2017-12-24T00:00:00Z"
-share-media: https://farm1.staticflickr.com/493/19285549093_386c379af2_b_d.jpg
 tags:
 - roundup
 - awesome
-title: A non-comprehensive list of awesome turfgrass things other people did this
-  year
+title: "A non-comprehensive list of awesome turfgrass things other people did this
+  year (2017)"
+  
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I'm taking this idea from Jeff Leek at the [Simply Statistics](https://simplystatistics.org/2017/12/20/a-non-comprehensive-list-of-awesome-things-other-people-did-in-2017/) blog. He's been putting together a list of awesome things other people did each year. He makes the list off the top of his head. My memory is not that good, so I've referred to some notes in addition to the top of my head. I'm sure I've missed lots of awesome things. If you'd like to add them, please do so in the comments.

@@ -1,6 +1,4 @@
 ---
-bigmedia:
-- habu_9_irr.jpg: irrigation of creeping bentgrass, Chiba, Japan
 date: "2017-12-04T00:00:00Z"
 share-media: https://farm4.staticflickr.com/3700/9173213174_3af51ef778_b_d.jpg
 subtitle: '"Do you find that these nutrients contribute anything to the soil? Is this
@@ -10,6 +8,9 @@ tags:
 - fertilizer
 - soil test
 title: '"I am curious about your stance on nutrients in irrigation water ..."'
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 A correspondent wrote with these inquiries:
@@ -39,6 +40,4 @@ This was my response:
 
 > [Waterfall chart of putting green sodium levels](http://www.blog.asianturfgrass.com/2013/03/waterfall-chart-putting-green-sodium-levels.html)
 
-![calcium waterfall chart in ppm](https://farm4.staticflickr.com/3700/9173213174_3af51ef778_b_d.jpg)
-
-
+{{< figure src="featured.jpg" >}}

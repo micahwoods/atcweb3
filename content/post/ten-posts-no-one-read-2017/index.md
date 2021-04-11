@@ -1,15 +1,17 @@
 ---
 date: "2017-12-21T00:00:00Z"
-share-media: https://c1.staticflickr.com/9/8683/15913288945_d7c4e4064c_b_d.jpg
 subtitle: These are the posts with the lowest pageviews this year
 tags:
 - web/tech
 title: Ten posts that no one read in 2017
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I've written more than 100 blog posts this year. A few of them were read by many -- hundreds, and for a few posts, more than 1,000 -- people. The median post from 2017 got 184 pageviews. The middle 50% of the posts had pageviews from 112 on the low end to 299 on the high end.
 
-![histogram of ATC blog pageviews in 2017](blog_2017_histogram.png)
+{{< figure src="blog_2017_histogram.png" >}}
 
 And then there are *these ones* that almost no one read. These are the 10 posts of 2017 that got the fewest views -- all have had less than 62 views as of now. For the 2016 list, [see here](http://www.blog.asianturfgrass.com/2016/12/10-posts-that-no-one-read.html).
 

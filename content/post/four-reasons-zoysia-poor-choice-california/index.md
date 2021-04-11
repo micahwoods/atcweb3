@@ -1,13 +1,6 @@
 ---
-bigmedia:
-- korai_dormant_yamaguchi.jpg: korai fairway in Yamaguchi-ken, after more than
-    a month with no precipitation
-- bermuda_dormant_korai.jpg: bermudagrass growing in a dormant korai fairway
-    after more than a month with no rain, Yamaguchi-ken
-- noshiba_fishers.jpg: Zoysia japonica growing wild at Fishers Island, New York
-- bermuda_pebble18.jpg: bermudagrass growing wild at Pebble Beach, California
-date: "2018-10-15T00:00:00Z"
-share-media: https://www.asianturfgrass.comcynodon_pebble_18_green.jpg
+date: 2018-10-15
+authors: [admin]
 tags:
 - zoysia
 - temperature
@@ -15,7 +8,14 @@ tags:
 - water
 - climate
 - bermudagrass
+- drought
+- irrigation
+- manilagrass
+
 title: Four reasons zoysia should be a poor choice for California
+
+image:
+  preview_only: true
 ---
 
 I've been asked about zoysia suitability for California, particularly northern parts of California, many times. Every time, I give the same answer. In such a relatively cool climate, and in such a relatively sunny and dry climate, *Cynodon* seems like a much better choice. I'm posting this for reference in case I'm asked again, and to see how these predictions stand up a few years from now.
@@ -34,21 +34,21 @@ In Asia, where zoysia is common (and well-adapted), this effect is seen whenever
 
 Here is an unirrigated korai (manilagrass) fairway in Yamaguchi prefecture, Japan. The photo was taken on 28 August 2018; there had been no rain at this location since 29 July.
 
-![drought dormant korai fairway, Yamaguchi, Japan](korai_dormant_yamaguchi.jpg)
+{{< figure src="korai_dormant_yamaguchi.jpg" >}}
 
 There were a few little spots of bermuda (*Cynodon*) in these same fairways, and they stood out because the bermuda was still green.
 
-![green bermuda in dormant korai, Yamaguchi](cynodon_korai_yamaguchi.jpg)
+{{< figure src="cynodon_korai_yamaguchi.jpg" >}}
 
 In fact, the bermuda wasn't just green when the korai was dormant; the bermuda was growing.
 
-![growing and green bermuda in dormant korai, Yamaguchi](bermuda_dormant_korai.jpg)
+{{< figure src="bermuda_dormant_korai.jpg" >}}
 
 If one is growing bermuda in a climate requiring irrigation, one can apply less water to bermuda than to zoysia to keep the grass growing at the desired growth rate.
 
 This effect goes for Japanese lawngrass too. This is bermuda, green and growing, in dormant unirrigated noshiba (Japanese lawngrass) rough in Kumamoto prefecture, Japan. 
 
-![growing and green bermuda in dormant noshiba, Kumamoto](cynodon_noshiba_kumamoto.jpg)
+{{< figure src="cynodon_noshiba_kumamoto.jpg" >}}
 
 ### 3) Light
 
@@ -62,9 +62,9 @@ In my analysis so far, temperature, water, and light all favor bermuda over zoys
 
 I was at Pebble Beach in August, and there was lots of bermuda growing wild.
 
-![cynodon growing pebble beach 18 green](cynodon_pebble_18_green.jpg)
+{{< figure src="cynodon_pebble_18_green.jpg" >}}
 
-![bermuda on pebble beach 18 right rough](bermuda_pebble18.jpg)
+{{< figure src="bermuda_pebble18.jpg" >}}
 
 As one moves from the Monterey Peninsula to warmer and drier places in California, I expect there is even more wild bermuda. 
 
@@ -72,10 +72,10 @@ I don't recall seeing any zoysia growing wild in California. If anyone has photo
 
 There are places in the United States where it is routine to see zoysia growing wild. For example, on a trip to New York five years ago, I saw this manilagrass on Long Island.
 
-![zoysia on long island](zoysia_long_island.jpg)
+{{< figure src="zoysia_long_island.jpg" >}}
 
 And I saw this Japanese lawngrass on Fishers Island.
 
-![noshiba at Fishers Island](noshiba_fishers.jpg)
+{{< figure src="noshiba_fishers.jpg" >}}
 
 Grass species that don't die in the wild can be really incredible when one maintains them. But if one can't even find that species growing wild, or find it invading maintained turf? There must be a reason for that. 

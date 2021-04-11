@@ -1,13 +1,14 @@
 ---
 date: "2020-11-14T00:00:00Z"
-share-media: https://www.asianturfgrass.comroadside_zoysia_lampang_before.jpg
 tags:
 - Zoysia
 - Thailand
 - Turf tourism
 - Irrigation
+- drought
+- manilagrass
 title: Sodding highway median strips with zoysia
-author: Micah Woods
+authors: [admin]
 image:
   caption: ''
   focal_point: ''
@@ -18,23 +19,22 @@ I've seen a lot of highways in Thailand. Highway medians are sodded with manilag
 
 On a recent drive from Chiang Rai to Bangkok, I turned onto a new highway in northern Thailand and noticed the sodding work underway. I didn't have a chance to get a photo in that construction zone, but after about 5 km I reached a section of the road where I could stop to get a picture of recently planted manilagrass sod on the median.
 
-![highway median in Lampang, Thailand recently sodded with manilagrass](roadside_zoysia_lampang_before.jpg)
-<small><strong>A highway median in Lampang, Thailand, recently sodded with manilagrass (*Zoysia matrella*) </strong></small>
+{{< figure src="roadside_zoysia_lampang_before.jpg" title="A highway median in Lampang, Thailand, recently sodded with manilagrass (*Zoysia matrella*)" >}}
 
 This was impressive, because it was a 20 or 30 km stretch of road. I passed it like a zoysia chronosequence---first a median that was soil during construction, then sod being laid, then for many kilometers it was recently laid sod, and then I arrived at the inevitable consequence for all unirrigated zoysia in Thailand. Weeds.
 
-![highway median in Lampang, Thailand recently sodded with manilagrass and now overtaken by weeds](roadside_zoysia_lampang_after1.jpg)
-<small><strong>A few kilometers along the same highway, a slightly older stand of sodded manilagrass has been taken over by weeds.</strong></small>
+{{< figure src="roadside_zoysia_lampang_after1.jpg" title="A few kilometers along the same highway, a slightly older stand of sodded manilagrass has been taken over by weeds." >}}
+
+![highway median in Lampang, Thailand recently sodded with manilagrass and now overtaken by weeds]()
+<small><strong></strong></small>
 
 During the dry season, unirrigated and infrequently mown manilagrass gets replaced by species that can tolerate such conditions. 
 
-![highway median in Lampang, Thailand recently sodded with manilagrass and now overtaken by weeds](roadside_zoysia_lampang_after2.jpg)
-<small><strong>A few kilometers along the same highway, a slightly older stand of sodded manilagrass has been taken over by weeds.</strong></small>
+{{< figure src="roadside_zoysia_lampang_after2.jpg" title="A few kilometers along the same highway, a slightly older stand of sodded manilagrass has been taken over by weeds." >}}
 
 Manilagrass survives, and in fact thrives in this climate, where it is provided with irrigation and with regular mowing. But roadsides and medians tend to get irrigation at the time of planting, and after that no irrigation and infrequent mowing.
 
-![highway verge in Bangkok sodded with manilagrass](roadside_zoysia_bangkok.jpg)
-<small><strong>An irrigated highway verge in Bangkok, Thailand, sodded to manilagrass.</strong></small>
+{{< figure src="roadside_zoysia_bangkok.jpg" title="An irrigated highway verge in Bangkok, Thailand, sodded to manilagrass." >}}
 
 All grasses stop growing in drought conditions. Zoysia stops growing before bermudagrass does. And then when the soil is rewetted, it takes zoysia a long time to start growing again. These photos from side-by-side tests in the USA show the dramatic differences between species.
 

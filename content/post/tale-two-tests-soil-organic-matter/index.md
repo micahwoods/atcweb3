@@ -8,7 +8,7 @@ tags:
 - OM246
 title: A Tale of Two Tests
 math: true
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: true
 ---
@@ -29,8 +29,7 @@ I make use of two types of soil organic matter tests. One is the standard test, 
 
 For agriculture, I don't think there is much use in measuring total organic matter. But for turfgrass, which often is treated with sand topdressing or cultivation or biostimulants intended to adjust the amount of undecomposed organic matter near the soil surface, it seems there is tremendous value in measuring *all* the organic matter too. 
 
-![view of Keya GC green 11 in August 2019](keya_11_2019.jpg)
-<small><strong>Looking from the 11<sup>th</sup> green at Keya GC toward the tee and the Genkai-nada Sea in the background.</strong></small>
+{{< figure src="keya_11_2019.jpg" title="Looking from the 11<sup>th</sup> green at Keya GC toward the tee and the Genkai-nada Sea in the background." >}}
 
 Here are five distinct ways that I make use of these two tests. I happen to have a lot of tests from a photogenic green, the 11<sup>th</sup> at Keya GC in Fukuoka, Japan, and all the example data shown here are from that green. 
 
@@ -40,14 +39,13 @@ This is a tale of two tests.
 
 This is the number you get from what is typically a mass loss on ignition (LOI) test done as part of a standard soil nutrient analysis. It's usually going to be less than 2% --- that's 20 g of organic matter per kg of soil --- on sand-based putting green rootzones. These are the past four years of the organic matter from the 11<sup>th</sup> green. This is for samples taken to a 10 cm depth, and passed through a 2 mm sieve.
 
-![organic matter in top 10 cm for past 4 years on the 11th green at Keya GC](keya_om_11.png)
+{{< figure src="keya_om_11.png" >}}
 
 The most recent test was 1.4%. The average for putting greens in the ATC dataset is about 1.1%. So these are a little above average for putting greens.
 
 And I think that is good, because this measure of organic matter is an indicator of the soil's water and nutrient holding (or supplying) capacity. In relative terms, this green should be a little bit above average in this regard.
 
-![hole 11 at Keya GC in autumn 2020](keya_11_2020.jpg)
-<small><strong>View of the uphill par four 11<sup>th</sup> hole at Keya GC from the tee in early autumn 2020 after a bunker renovation project by [Paul Jansen](http://www.jansengolfdesign.com/) with shaping led by [Keith Cutten](https://twitter.com/CuttenGolf). Photo by Keya's golf course superintendent and assistant general manager, [Andrew McDaniel](https://twitter.com/drumcturf). </strong></small>
+{{< figure src="keya_11_2020.jpg" title="View of the uphill par four 11<sup>th</sup> hole at Keya GC from the tee in early autumn 2020 after a bunker renovation project by [Paul Jansen](http://www.jansengolfdesign.com/) with shaping led by [Keith Cutten](https://twitter.com/CuttenGolf). Photo by Keya's golf course superintendent and assistant general manager, [Andrew McDaniel](https://twitter.com/drumcturf)." >}}
 
 ## Cation exchange capacity
 
@@ -67,7 +65,7 @@ where
 
 What was the contribution of organic matter to the CEC of this green, then, with data from the most recent test? Organic matter was 1.4% and the pH was 6.5. That's 20 mmol<sub>c</sub> kg<sup>-1</sup>.
 
-That's pretty good. To put that into context, nutrients in the soil at the  [MLSN](https://www.asianturfgrass.com/2018-02-03-new-mlsn-cheat-sheet/) guideline levels for Ca, Mg, and K have a CEC of 22 mmol<sub>c</sub> kg<sup>-1</sup>. There's almost enough organic matter in this green to have those nutrient cations at the MLSN minimum level, even with nothing else in the soil providing a single negative charge.
+That's pretty good. To put that into context, nutrients in the soil at the [MLSN]({{< relref "/mlsn" >}}) guideline levels for Ca, Mg, and K have a CEC of 22 mmol<sub>c</sub> kg<sup>-1</sup>. There's almost enough organic matter in this green to have those nutrient cations at the MLSN minimum level, even with nothing else in the soil providing a single negative charge.
 
 If you've been paying attention to MLSN over the past eight years, you may have wondered what's wrong with the conventional SLAN guidelines, that would have us introduce completely new guidelines? Well, CEC of sand rootzones is one. The SLAN minimums for Ca, Mg, and K *in sand rootzones* are given as 751, 121, and 117 mg/kg. When a sand rootzone tests lower than that, the SLAN interpretation is "approximately a 50% chance of getting a plant growth response from application of the nutrient; if supplemental fertilizer is not applied, growth will probably be limited, especially as the season progresses." In a sand rootzone, it's almost impossible to have a CEC high enough to hold that many nutrients. Those values correspond to a CEC of 50 mmol<sub>c</sub> kg<sup>-1</sup>. 
 
@@ -91,7 +89,7 @@ I find it useful to make some additional calculations, with temperature data fro
 
 When I make the calculations that way, using the 1.4% organic matter that was measured at Keya GC in samples collected in April 2020, and using daily temperature data for that location, and assuming that soil moisture on that green is kept on average at half of field capacity, then the calculations provide a nice estimate of both when and how much N will be mineralized at that location.
 
-![expected monthly N mineralization for Keya GC 11th green](keya_11_nmin.png)
+{{< figure src="keya_11_nmin.png" >}}
 
 The lump sum annual estimate in the preceding section was 2.6 grams with a range from 1.1 to 4.2. The daily calculations here, summed over the year and shown by month, using local temperature data, come to 3.2 g. That's right in the ballpark, isn't it?
 
@@ -117,12 +115,11 @@ If we are to make an assessment of the need for, or the effect of, disruptive ma
 
 Here's the OM246 results for the 11<sup>th</sup> green. 
 
-![keya 11 green OM246](keya_11_om246.jpg)
+{{< figure src="keya_11_om246.jpg" >}}
 
 See how different those numbers are from the regular organic matter test result? There are two reasons for this. First, these samples are from specific depths right at the surface of the putting green. There is more organic matter closer to the soil surface than there is deeper in the soil profile. The standard soil test is a sample taken to a depth of 10 cm. The OM246 is samples at 0 to 2, 2 to 4, and 4 to 6 cm. That's one reason. The second reason for higher organic matter is because these samples are tested at the lab as they are received. Everything that burns off as mass loss on ignition is reported. Nothing is screened and discarded. So we get the rhizomes, and the thatch, and the roots, and the stems, and the microbes, and the humus. In short, everything.
 
-![keya 11 green in 2018 KBC Augusta](keya_11_2018.jpg)
-<small><strong>Hole 11 at Keya GC during a practice round for the 2018 KBC Augusta Tournament.</strong></small>
+{{< figure src="keya_11_2018.jpg" title="Hole 11 at Keya GC during a practice round for the 2018 KBC Augusta Tournament." >}}
 
 The OM2 and the OM4 are going up on this green. The surface is still performing well. I'd like to see the OM2 keep flat at about 12% on this green, because for the professional tournament held the last week of August each year at this course, I think the surface firmness is easier to adjust to the desired level when the OM2 is at about 12%. Because of this, I've recommended application of a bit more topdressing sand.
 
