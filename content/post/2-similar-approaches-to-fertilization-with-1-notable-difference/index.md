@@ -1,6 +1,8 @@
 ---
 date: "2015-04-26T09:57:00Z"
 
+authors: [admin]
+
 tags:
 - Fertilizer
 - Research

@@ -9,7 +9,7 @@ main:
     identifier: 'blog-top-menu'
     weight: 20
   - name: 'New posts'
-    url: '#posts'
+    url: '/post/'
     parent: 'blog-top-menu'
   - name: 'Top posts'
     url: '#top-posts'

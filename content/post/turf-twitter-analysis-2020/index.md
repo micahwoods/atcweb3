@@ -4,7 +4,7 @@
 title: "An analysis of turfgrass industry Twitter accounts in 2020"
 subtitle: ""
 summary: ""
-authors: ["admin"]
+authors: [admin]
 tags: 
 - Turf Twitter
 - Web/Tech
