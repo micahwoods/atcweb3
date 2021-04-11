@@ -17,6 +17,6 @@ I thought it might be useful to summarize the key details of MLSN in a cheat she
 
 Anything missing? Please let me know, and I'll put it on a list for future updates of the cheat sheet.
 
-![mlsn cheat sheet page 1](/media/mlsn_cheat_sheet1.png)
+![mlsn cheat sheet page 1](mlsn_cheat_sheet1.png)
 
-![mlsn cheat sheet page 2](/media/mlsn_cheat_sheet2.png)
+![mlsn cheat sheet page 2](mlsn_cheat_sheet2.png)

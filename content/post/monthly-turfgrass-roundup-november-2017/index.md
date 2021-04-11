@@ -1,6 +1,6 @@
 ---
 bigmedia:
-- /media/highlands_fwy.jpg: manilagrass fairway and rough, Tagaytay, Philippines
+- highlands_fwy.jpg: manilagrass fairway and rough, Tagaytay, Philippines
 date: "2017-12-03T00:00:00Z"
 share-media: https://c1.staticflickr.com/5/4529/37614130244_ac6863812a_b_d.jpg
 subtitle: Dew from fairways, Curvularia, groundwater, thatch, herd immunity, overseeding,

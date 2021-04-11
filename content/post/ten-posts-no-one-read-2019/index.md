@@ -1,6 +1,6 @@
 ---
 date: "2020-01-10T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/royal_tree.jpg
+share-media: https://www.asianturfgrass.comroyal_tree.jpg
 tags:
 - turf tourism
 - tissue testing
@@ -13,7 +13,7 @@ title: Ten posts no one read in 2019
 
 The median blog post on this site in 2019 got 244 views. And there were a few up around 1,000 to 2,000 views.
 
-![histogram of ATC website blog post pageviews in 2019](/media/2019_no_read_histogram.png)
+![histogram of ATC website blog post pageviews in 2019](2019_no_read_histogram.png)
 
 There were [these top 10](https://www.asianturfgrass.com/2019-12-26-top-blog-posts-2019/) that *everyone* read. 
 

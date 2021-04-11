@@ -24,7 +24,7 @@ I was at Bangsai Country Club last week to plant some manilagrass (*Zoysia matre
 
 With these tropical temperatures, I expect this manilagrass to grow in about as fast as it possibly can---the growth certainly won't be limited by temperatures. I'll be monitoring the coverage with some type of digital image analysis. For now I've been using [Canopeo](https://www.canopeoapp.com).
 
-![grass stolons after planting](/media/canopeo_plot4.png)
+![grass stolons after planting](canopeo_plot4.png)
 
 By the way, if you are ever out at Bangsai, it's a great place to see birds. This is the [Asian golden weaver](https://en.wikipedia.org/wiki/Asian_golden_weaver).
 

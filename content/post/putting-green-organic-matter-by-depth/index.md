@@ -1,6 +1,6 @@
 ---
 date: "2020-05-13T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/topdress_profile.jpg
+share-media: https://www.asianturfgrass.comtopdress_profile.jpg
 tags:
 - topdress
 - sand

@@ -1,6 +1,6 @@
 ---
 date: "2020-07-06T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/sand_profile_om.jpg
+share-media: https://www.asianturfgrass.comsand_profile_om.jpg
 tags:
 - om246
 - organic matter
@@ -14,7 +14,7 @@ There's a ton of work done to modify the soil organic matter of turfgrass surfac
 
 First, to put this in context, I recommend having a review of [this organic matter bullet list](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/).
 
-![om bullet list image](/media/om_bullet.jpg)
+![om bullet list image](om_bullet.jpg)
 
 Next, why is this important? 
 

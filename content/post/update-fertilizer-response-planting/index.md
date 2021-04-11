@@ -1,6 +1,6 @@
 ---
 date: "2019-11-17T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/eagle_45.jpg
+share-media: https://www.asianturfgrass.comeagle_45.jpg
 tags:
 - research
 - fertilizer
@@ -13,10 +13,10 @@ I showed the appearance of two greens-type grasses---Tifeagle and a greens-type 
 
 I've now received photos of these grasses from [#ATC南店](https://twitter.com/hashtag/ATC%E5%8D%97%E5%BA%97?src=hashtag_click) at 45 days after planting.
  
-![tifeagle after 45 days](/media/eagle_45.jpg)
+![tifeagle after 45 days](eagle_45.jpg)
 <small><strong>Tifeagle 45 days after planting in coconut coir as 3 cm diameter plugs. Fertilizer was applied at planting (day 1), and again 10, 18, and 30 days after planting.</strong></small>
 
-![manilagrass after 45 days](/media/mnl_45.jpg)
+![manilagrass after 45 days](mnl_45.jpg)
 <small><strong>Greens-type manilagrass 45 days after planting in coconut coir as 3 cm diameter plugs. Fertilizer was applied at planting (day 1), and again 10, 18, and 30 days after planting.</strong></small>
 
 It is interesting to see the difference in growth between ultradwarf bermudagrass and a greens-type manilagrass. It is also interesting to see what happens to ultradwarf bermudagrass when the grass is not supplied with enough nutrients to match its potential growth rate. The manilagrass grows a lot slower, but at some point I expect to notice some differences between fertilizer treatments with that grass too.

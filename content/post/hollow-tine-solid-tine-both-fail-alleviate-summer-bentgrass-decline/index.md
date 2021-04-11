@@ -1,6 +1,6 @@
 ---
 date: "2020-07-24T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/summer_cultivation.jpg
+share-media: https://www.asianturfgrass.comsummer_cultivation.jpg
 tags:
 - bentgrass
 - coring
@@ -11,7 +11,7 @@ title: Hollow-tine cultivation and solid-tine spiking both failed to alleviate s
   bentgrass decline
 ---
 
-![creeping bentgrass putting green treatment with solid-tine spiking](/media/summer_cultivation.jpg)
+![creeping bentgrass putting green treatment with solid-tine spiking](summer_cultivation.jpg)
 <small><strong>A late July solid-tine spiking treatment of a creeping bentgrass green in Hokkaido, Japan</strong></small>
 
 How's this for a lede?

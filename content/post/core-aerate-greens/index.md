@@ -1,6 +1,6 @@
 ---
 date: "2019-09-29T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/pgm_ibaraki_4mm.jpg
+share-media: https://www.asianturfgrass.compgm_ibaraki_4mm.jpg
 tags:
 - aerify
 - coring

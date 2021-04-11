@@ -1,6 +1,6 @@
 ---
 date: "2019-01-27T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/btme_cloud.png
+share-media: https://www.asianturfgrass.combtme_cloud.png
 tags:
 - web/tech
 - bigga
@@ -16,23 +16,23 @@ Please note that I looked just at tweets sent (London time) from January 18 to J
 
 There were 1,202 tweets (including retweets) with that "official" [#BTME2019](https://twitter.com/hashtag/BTME2019?src=hash) hashtag on those dates.
 
-![dates of BTME2019 tweets](/media/btme_per_day.png)
+![dates of BTME2019 tweets](btme_per_day.png)
 
 During the Continue to Learn days and then at BTME itself, these were the number of tweets per hour.
 
-![btme per hour](/media/btme_per_hour.png)
+![btme per hour](btme_per_hour.png)
 
 Of those accounts using the #BTME2019 hashtag, these are the top tweeters, those sending 5 or more tweets with that tag from January 18 to 26.
 
-![btme top tweeters](/media/btme_top_tweeters.png)
+![btme top tweeters](btme_top_tweeters.png)
 
 There were some conversations about #BTME2019 too. This network graph shows the accounts that were replying to each other about #BTME2019.
 
-![replies btme2019](/media/convos.png)
+![replies btme2019](convos.png)
 
 Lots of people were tweeting from iPhones.
 
-![device or source](/media/btme_source.png)
+![device or source](btme_source.png)
 
 These were the top 10 tweets as ranked by their favorite count as of this morning.
 
@@ -181,7 +181,7 @@ What were people tweeting about? I looked at all the words used in the 1,202 twe
 
 Here's a word cloud of the words that remained.
 
-![word cloud btme](/media/btme_cloud.png)
+![word cloud btme](btme_cloud.png)
 
 
 

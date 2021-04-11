@@ -1,6 +1,6 @@
 ---
 date: "2018-09-16T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/composite_ritual.jpg
+share-media: https://www.asianturfgrass.comcomposite_ritual.jpg
 subtitle: When a measure serves as a surrogate for the desired outcome, then achieving
   that measure or endpoint isn't the real goal
 tags:

@@ -1,6 +1,6 @@
 ---
 date: "2020-01-31T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/green.jpg
+share-media: https://www.asianturfgrass.comgreen.jpg
 tags:
 - zoysia
 - bermuda
@@ -14,15 +14,15 @@ Yesterday I took a walk around a golf course in Chonburi, Thailand. It is three 
 
 The tees and fairways at this course have received irrigation, but the unirrigated manilagrass (*Zoysia matrella*) rough between tees and fairways was fully dormant. However, one can still find green and growing bermudagrass (*Cynodon*) plants interspersed among the dormant manilagrass.
 
-![green bermudagrass in a sward of dormant manilagrass](/media/green.jpg)
+![green bermudagrass in a sward of dormant manilagrass](green.jpg)
 <small><strong>Green bermudagrass in unirrigated and dormant manilagrass.</strong></small>
 
-![green and growing bermudagrass in a sward of dormant manilagrass](/media/green_and_growing.jpg)
+![green and growing bermudagrass in a sward of dormant manilagrass](green_and_growing.jpg)
 <small><strong>Bermudagrass remains green and growing long after manilagrass has gone dormant.</strong></small>
 
 In places with a lot of rainfall and plenty of irrigation water, this difference between bermudagrass and manilagrass isn't a big deal. In fact, manilagrass outgrows and [outperforms bermudagrass](http://www.files.asianturfgrass.com/201305_manilagrass_links_turf.pdf) in much of East and Southeast Asia. There seem to be two reasons for this. First, there is ample annual rainfall in East Asia. Second, in East Asia there tend to be periods of high temperatures that are ideal for growth of C<sub>4</sub> grasses coinciding with cloud cover that reduces the photosynthetically active radiation (PAR). When turfgrass is regularly mown in such conditions, manilagrass performs better than bermudagrass.
 
-![irrigated manilagrass on fairway](/media/irrigated_fairway.jpg)
+![irrigated manilagrass on fairway](irrigated_fairway.jpg)
 <small><strong>Regular fairway irrigation during the dry season prevents the manilagrass from going dormant.</strong></small>
 
 In parts of the world that don't have much rain, and that do have plenty of PAR at the same time the temperatures are high, then bermudagrass performs better than manilagrass. This is the subject of a new article by Culpepper et al. entitled  [Comparison of four warm-season turfgrass species to natural rainfall or supplemental irrigation in a semiarid climate](https://doi.org/10.1002/agg2.20011).

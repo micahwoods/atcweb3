@@ -1,6 +1,6 @@
 ---
 date: "2018-04-24T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/turfnet_slides.png
+share-media: http://www.asianturfgrass.comturfnet_slides.png
 tags:
 - clipvol
 - video

@@ -1,6 +1,6 @@
 ---
 date: "2020-03-19T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/wat_phuket.jpg
+share-media: https://www.asianturfgrass.comwat_phuket.jpg
 tags:
 - fertilizer
 - turfhacks

@@ -45,4 +45,4 @@ Here's some of the other things that make KBC Augusta more than the average tour
 * Lots of fine food and drinks at the maintenance shop, with a daily bento lunch
 * Rhodesian ridgebacks. They run the course to keep the hogs away and I imagine there may be one or two out at the course during tournament week.
 
-![rhodesian ridgebacks](/media/fukuoka_dog.jpg)
+![rhodesian ridgebacks](fukuoka_dog.jpg)

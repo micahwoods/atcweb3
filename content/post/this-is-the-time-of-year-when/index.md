@@ -1,6 +1,6 @@
 ---
 bigmedia:
-- /media/hokkaido_fall.jpg: creeping bentgrass and kentucky bluegrass in Hokkaido, October
+- hokkaido_fall.jpg: creeping bentgrass and kentucky bluegrass in Hokkaido, October
 date: "2017-10-10T00:00:00Z"
 share-media: https://c1.staticflickr.com/5/4506/37360171080_2f55cc85c4_b_d.jpg
 subtitle: the most important fertilizer application of the year. Or is it?

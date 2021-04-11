@@ -78,7 +78,7 @@ Last year I made one of these lists [for the first time](https://www.asianturfgr
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * Joel Kachmarek's post about the [irrigation system history](http://www.tacomaturf.net/2018/08/the-irrigation-system-history.html) at Tacoma Country and Golf Club is superb.
-* Every superintendent (or staff members) who filled out the information for the [GCSAA Tournament Fact Sheets](https://www.gcsaa.org/media/tournament-fact-sheets). And the GCSAA for sharing this information. 
+* Every superintendent (or staff members) who filled out the information for the [GCSAA Tournament Fact Sheets](https://www.gcsaa.orgtournament-fact-sheets). And the GCSAA for sharing this information. 
 
 I've missed a lot, I'm sure. Feel free to add more awesome things in the comments. And here's the [non-comprehensive awesome list](https://www.asianturfgrass.com/2017-12-24-a-non-comprehensive-list-of-awesome-things-other-people-did-in-turfgrass-this-year/) from last year. And this idea is based on [Jeff Leek's non-comprehensive awesome lists](https://simplystatistics.org/2017/12/20/a-non-comprehensive-list-of-awesome-things-other-people-did-in-2017/) from [Simply Statistics](https://simplystatistics.org/).
 

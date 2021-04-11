@@ -1,6 +1,6 @@
 ---
 date: "2020-01-17T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/business_mirror.png
+share-media: https://www.asianturfgrass.combusiness_mirror.png
 tags:
 - video
 - seminar
@@ -12,7 +12,7 @@ title: Catching up with my reading
 
 A friend sent me a link to the [Business Mirror's Golf Section](https://issuu.com/businessmirror/docs/businessmirror_november_30__2019/5) and said I should check it out. I just did that, and found a picture of myself above a report about Nutranta's Best Practices seminar.
 
-![](/media/business_mirror_v2.png)
+![](business_mirror_v2.png)
 
 I spoke at the seminar about a continuous improvement system for turfgrass, and recorded [this screencast](https://vimeo.com/375475148) describing that system.
 

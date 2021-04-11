@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/keya_pg_am.jpg: Keya GC on a rainy morning
+- keya_pg_am.jpg: Keya GC on a rainy morning
 date: "2019-08-27T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/keya_pg_am.jpg
+share-media: https://www.asianturfgrass.comkeya_pg_am.jpg
 tags:
 - tournament
 - japan

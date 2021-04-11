@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/asia_locs.jpg: ""
+- asia_locs.jpg: ""
 date: "2018-07-30T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/asia_locs.jpg
+share-media: https://www.asianturfgrass.comasia_locs.jpg
 tags:
 - disease
 - climate

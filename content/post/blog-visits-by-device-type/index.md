@@ -1,6 +1,6 @@
 ---
 date: "2018-04-22T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/device_2018.png
+share-media: http://www.asianturfgrass.comdevice_2018.png
 tags:
 - web/tech
 title: ATC website visits by device type

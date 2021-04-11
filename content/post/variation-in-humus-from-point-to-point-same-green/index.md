@@ -1,6 +1,6 @@
 ---
 date: "2020-07-08T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/multiple_samples_keya_11.jpg
+share-media: https://www.asianturfgrass.commultiple_samples_keya_11.jpg
 tags:
 - om246
 - organic matter
@@ -23,7 +23,7 @@ My [previous post](https://www.asianturfgrass.com/2020-07-06-within-green-variab
 
 The coefficient of variation (**cv**) that I would expect in the total organic matter right at the soil surface in the top 2 cm, going from point to point across the green, is 14%. That means that on average, I'd expect the next point I sample to be 14% higher, or lower, in total organic matter, compared to the average total organic matter measured across the entire green.
 
-![multiple samples collected from the same green](/media/multiple_samples_keya_11.jpg)
+![multiple samples collected from the same green](multiple_samples_keya_11.jpg)
 
 What about the humus? What's the spatial variability of that? I've been doing some research about this too, and I checked the cv of samples taken from the same green. These data are from samples taken to a 10 cm depth (4 inches), with the undecayed material removed. This is the organic matter you see on regular soil tests---this is the humus. This is the number to look at for estimates of nitrogen mineralization and for calculating the contribution of soil organic matter to the soil CEC. For evaluating sand topdressing requirements, or assessing sand topdressing effect, I'd use OM246.
 

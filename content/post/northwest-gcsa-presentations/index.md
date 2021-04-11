@@ -1,6 +1,6 @@
 ---
 bigmedia:
-- /media/ayutthaya.jpg: tropical carpetgrass and manilagrass, Ayutthaya
+- ayutthaya.jpg: tropical carpetgrass and manilagrass, Ayutthaya
 date: "2017-10-19T00:00:00Z"
 share-media: https://c1.staticflickr.com/3/2518/3753911765_5ee768b424_o_d.jpg
 subtitle: The slides for "Turf Around the World" and "Leaves of Grass"

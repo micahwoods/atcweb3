@@ -1,6 +1,6 @@
 ---
 date: "2020-02-14T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/keya_15_irrigation.jpg
+share-media: https://www.asianturfgrass.comkeya_15_irrigation.jpg
 tags:
 - Calcium
 - Irrigation

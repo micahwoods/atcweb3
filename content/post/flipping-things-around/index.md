@@ -26,4 +26,4 @@ For creeping bentgrass, I expect that will be just over 1 g N/m<sup>2</sup>. To 
 
 By knowing how much growth one wants, and about how much N it takes to produce that much growth, one can be a little more precise with the turf management.
 
-![clip vol joyplot Keya Aug 2017](/media/201708_amClip_Keya.svg)
+![clip vol joyplot Keya Aug 2017](201708_amClip_Keya.svg)

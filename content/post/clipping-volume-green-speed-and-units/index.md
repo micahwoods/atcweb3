@@ -1,7 +1,7 @@
 ---
 bigmedia:
-- /media/clipvol_keya_march.jpg: measuring clippings from a korai green, March
-- /media/dormancy_keya12.jpg: korai and noshiba in Fukuoka, March
+- clipvol_keya_march.jpg: measuring clippings from a korai green, March
+- dormancy_keya12.jpg: korai and noshiba in Fukuoka, March
 date: "2018-03-25T00:00:00Z"
 share-media: https://c1.staticflickr.com/5/4780/26132899187_bf305510b7_b_d.jpg
 subtitle: Explaining why clipping volume and green speed are completely related, except
@@ -41,7 +41,7 @@ Of course, one can find plenty of exceptions. Three notable ones are here.
 
 This chart with data from 39 days of paired measurements at Keya GC in Fukuoka, Japan, shows all of these exceptions, and it also shows how one can expect clipping volume and green speed to be related.
 
-![clip vol and green speed at Keya GC in Fukuoka](/media/clip_vs_speed.png)
+![clip vol and green speed at Keya GC in Fukuoka](clip_vs_speed.png)
 
 The red circles are labeled "mid-summer." They are all collected in July and August. Those two days at the bottom right were July 29 and July 31 of 2016, and represent the [#ClipVol](https://twitter.com/search?q=%23ClipVol&src=typd) with a single cut. 50 mL/m<sup>2</sup> is a lot of clippings; the grass was growing fast on those days. You can imagine that if another cut had been put on the greens, the clipping volume may have gone up to 70 or 80---and the speed would have gone up too.
 

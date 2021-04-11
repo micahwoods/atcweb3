@@ -1,6 +1,6 @@
 ---
 date: "2019-12-26T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/golden_weaver.jpg
+share-media: https://www.asianturfgrass.comgolden_weaver.jpg
 tags:
 - web/tech
 - turf info

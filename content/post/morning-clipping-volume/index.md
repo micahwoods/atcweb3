@@ -18,11 +18,11 @@ The KBC Augusta tournament is coming up next week at [Keya Golf Club](http://www
 
 I think it is interesting to look at the [density](https://en.wikipedia.org/wiki/Probability_density_function) of the measurements. This [joyplot](https://cran.r-project.org/web/packages/ggjoy/vignettes/introduction.html) provides a quick summary of clipping volume during the 2016 tournament.
 
-![density morning clip vol 2016](/media/kbc_vol_2016_joy.svg)
+![density morning clip vol 2016](kbc_vol_2016_joy.svg)
 
 The joyplot above uses the same data as this chart I made last year.
 
-![kbc clip vol 2016 version](/media/kbc_vol_2016_v1.svg)
+![kbc clip vol 2016 version](kbc_vol_2016_v1.svg)
 
 For more about this topic, see:
 

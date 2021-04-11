@@ -1,6 +1,6 @@
 ---
 date: "2020-03-14T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/al_ph.png
+share-media: https://www.asianturfgrass.comal_ph.png
 tags:
 - pH
 - soil testing
@@ -11,7 +11,7 @@ I almost always recommend keeping the soil pH above 5.5. This minimizes soluble 
 
 This week I received test results from [Brookside Labs](https://www.blinc.com/) for five golf course clients. Plotting the soil pH (measured in a 1:1 solution with H<sub>2</sub>O) and the KCl-extractable aluminum, you'll see just how dramatically that Al<sup>3+</sup> drops as the pH gets above 5.5.
 
-![plot of soluble aluminum going down when soil pH is above 5.5](/media/al_ph.png)
+![plot of soluble aluminum going down when soil pH is above 5.5](al_ph.png)
 
 Another reason to keep the pH above 5.5 is to optimize microbial activity. Once the pH gets above 5.5, I'm not especially worried about it. 
 

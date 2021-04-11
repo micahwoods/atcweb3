@@ -1,6 +1,6 @@
 ---
 date: "2018-12-26T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/rain_12_keya.jpg
+share-media: https://www.asianturfgrass.comrain_12_keya.jpg
 tags:
 - climate
 title: 'Four amazing charts: number 3 will shock you!'
@@ -16,21 +16,21 @@ By plotting temperature and sunshine together, one gets a graph of the normal co
 
 Here are two locations that have a similar climate---Chicago, Illinois and Madison, Wisconsin.
 
-![animated chicago and madison](/media/chi_mad.gif)
+![animated chicago and madison](chi_mad.gif)
 
 You'll notice that the track of temperature and sunshine hours through the year is almost the same at these locations. When the combination of light and temperature is the same, one expects similar grasses to grow, and management requirements to be similar too.
 
 Now compare Chicago and Sacramento, and you'll see that there is not nearly the amount of overlap as was seen with Chicago and Madison.
 
-![animated chicago and sacramento](/media/chi_sac.gif)
+![animated chicago and sacramento](chi_sac.gif)
 
 And here's one that might shock you. Tokyo has such a low amount of sunshine that it doesn't have much overlap with either Chicago or Sacramento. And the tiny bit of overlap is in the winter, when cool-season grasses won't be growing much and warm-season grasses will be dormant.
 
-![animated chicago, sacramento, and tokyo](/media/chi_sac_tyo.gif)
+![animated chicago, sacramento, and tokyo](chi_sac_tyo.gif)
 
 During the growing season, when temperatures are high, Chicago and Sacramento have a little overlap with each other, but none with Tokyo.
 
 Adding on a tropical location such as Bangkok, Tokyo in mid-summer has a little bit of overlap with that climate.
 
-![animated chicago, sacramento, tokyo, and bangkok](/media/bkk_chi_sac_tyo.gif)
+![animated chicago, sacramento, tokyo, and bangkok](bkk_chi_sac_tyo.gif)
 

@@ -1,6 +1,6 @@
 ---
 date: "2018-04-16T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/blog_email_page.png
+share-media: http://www.asianturfgrass.comblog_email_page.png
 tags:
 - web/tech
 - clipvol

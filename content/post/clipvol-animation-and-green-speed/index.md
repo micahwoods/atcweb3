@@ -14,7 +14,7 @@ This week I've thought of a couple things about [#ClipVol](https://twitter.com/h
 
 First is the way I think of the data.
 
-![annotated animated chart of clip vol](/media/y2018.gif)
+![annotated animated chart of clip vol](y2018.gif)
 
 I've shared a lot of charts about clipping volume, and as this growing season gets underway in the northern hemisphere, I wondered if I could describe it on an animated chart.
 

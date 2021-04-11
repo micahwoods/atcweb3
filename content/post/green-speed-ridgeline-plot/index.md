@@ -29,13 +29,13 @@ Table 1: Number of measurements and median green speed in feet, by species. Data
 
 This shows those green speed data summarized in the form of a [ridgeline plot](https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html).
 
-![ridgeline plot of green speed measurements by grass species](/media/joy_speed.svg)
+![ridgeline plot of green speed measurements by grass species](joy_speed.svg)
 
 [I suggested yesterday](http://www.asianturfgrass.com/2017-07-16-species-ease-speed/) that I expect the amount of work required to produce the same speed for all the grasses (given mid-growing season conditions in a location where the grass is well-adapted) will be the greatest for zoysiagrass and the lowest for fine fescue.
 
 I adapted the chart from yesterday with data I've collected on green speed of these grasses.
 
-![green speed medians by grass species](/media/ease_with_speed.svg)
+![green speed medians by grass species](ease_with_speed.svg)
 
 One could draw a line on the chart from bent-poa to *Poa annua*, bermudagrass, seashore paspalum, and ending at zoysiagrass, and it would match my prediction exactly, if the amount of work done to those surfaces on average was the same. 
 

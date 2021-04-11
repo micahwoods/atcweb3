@@ -1,6 +1,6 @@
 ---
 date: "2017-07-14T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/miniverde_stimpmeter.jpg
+share-media: http://www.asianturfgrass.comminiverde_stimpmeter.jpg
 tags:
 - Green speed
 - Playability

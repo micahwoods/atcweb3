@@ -1,9 +1,9 @@
 ---
 bigmedia:
-- /media/plaza_espanya.jpg: Plaza de España in Seville
-- /media/sevilla_congress.jpg: banner at the 40th Congress of the AEdG
+- plaza_espanya.jpg: Plaza de España in Seville
+- sevilla_congress.jpg: banner at the 40th Congress of the AEdG
 date: "2018-12-01T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/sevilla_congress.jpg
+share-media: https://www.asianturfgrass.comsevilla_congress.jpg
 tags:
 - spain
 - seminar

@@ -1,11 +1,11 @@
 ---
 bigmedia:
-- /media/keya_11_2x_mow.jpg: mowing the 11th green during the 2019 KBC Augusta tournament
-- /media/keya_16_bunker_fix.jpg: repairing a greenside bunker during the 2019 KBC Augusta
+- keya_11_2x_mow.jpg: mowing the 11th green during the 2019 KBC Augusta tournament
+- keya_16_bunker_fix.jpg: repairing a greenside bunker during the 2019 KBC Augusta
     tournament
-- /media/keya_loader_11_bunker.jpg: moving sand around during the 2019 KBC Augusta tournament
+- keya_loader_11_bunker.jpg: moving sand around during the 2019 KBC Augusta tournament
 date: "2019-09-22T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/firmness_speed.png
+share-media: https://www.asianturfgrass.comfirmness_speed.png
 tags:
 - tournament
 - green speed
@@ -22,13 +22,13 @@ Last week I had a couple conversations about green speed.
 
 My column in the June 2018 issue of *Golf Course Seminar* magazine discusses the relationship between effective mowing height and green speed.
 
-![green speed and effective mowing height](/media/201806_gc_seminar.jpg)
+![green speed and effective mowing height](201806_gc_seminar.jpg)
 
 [Eric Reasor](https://twitter.com/TurfBlade) collected a fascinating set of data on green speed and effective mowing height measured with a prism gauge. With green speeds from less than 7 to more than 14 feet, and effective mowing heights from less than 1 to more than 6 mm, it is clear that the length of the grass blades is a primary influence on green speed.
 
 "What about surface hardness and green speed?" That's a question I was asked last week. These two things aren't related. I looked at data from almost 400 putting greens from non-tournament conditions and made this chart.
 
-![hardness and speed](/media/firmness_speed.png)
+![hardness and speed](firmness_speed.png)
 
 Of course one can find a relationship between firmness and speed by carefully selecting data; for example, tournament conditions tend to be faster green speeds and firmer conditions. But it is not a cause and effect relationship.
 
@@ -46,15 +46,15 @@ Here's a note about green speed at clipping volume at the recent KBC Augusta tou
 
 One thing I've noticed when measuring clipping volume is that it tends to be consistent when turf is intensively maintained. During the tournament week, even with considerable variation in rain amounts and sunshine and temperature, the average clipping volume per mow ranged from 3 to 5 mL/m<sup>2</sup>.
 
-![gif of clip vol late aug](/media/clipvol_perMow_animate.gif)
+![gif of clip vol late aug](clipvol_perMow_animate.gif)
 
 Another thing I've noticed is that when the clipping volume is consistent, the green speeds tend to be consistent too. I think this has to do with the effective mowing height mentioned in the first section of this post. During the tournament week, there was a lot of rain, and the morning maintenance included mowing on 6 days and rolling on 4 days. 
 
-![16 bunker fix](/media/keya_16_bunker_fix.jpg)
+![16 bunker fix](keya_16_bunker_fix.jpg)
 
-![11 bunker fix](/media/keya_loader_11_bunker.jpg)
+![11 bunker fix](keya_loader_11_bunker.jpg)
 
-![11 green mow](/media/keya_11_2x_mow.jpg)
+![11 green mow](keya_11_2x_mow.jpg)
 
 How consistent? On the two days during tournament week when the greens were mown but were not rolled, the average green speed between days was within 0.6 inches (1.5 cm). On the four days during tournament week when the greens were mown and rolled, the average green speeds between days were within a range of 3.4 inches (8.6 cm).
 

@@ -21,7 +21,7 @@ Of course, some disagree, and you can see plenty of comments about that [here](h
 
 I made a conceptual ranking of the seven species that I'm familiar with as putting green surfaces. Let's take each of these species and plant it as a putting green turf in a location where it is well-adapted. Now let's go in time to the middle of the growing season at each location. Now let's try to manage each of these seven species, in the middle of the growing season, to achieve the same speed. How much work will be required to accomplish this with each species? This is my ranking.
 
-![conceptual ranking seven species ease of green speed](/media/species_ease_speed.svg)
+![conceptual ranking seven species ease of green speed](species_ease_speed.svg)
 
 You'll also notice, if you are familiar with these grasses, that there is a distinct increase in the rigidity of the leaves as you go from fine fescue to zoysiagrass. It is the grasses with the softest leaves that require the least work to achieve the desired green speeds. Why make it more complicated by trying to increase leaf rigidity?
 

@@ -1,6 +1,6 @@
 ---
 date: "2019-09-28T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/media.jpg
+share-media: https://www.asianturfgrass.commedia.jpg
 tags:
 - video
 - podcast
@@ -8,7 +8,7 @@ tags:
 title: New ATC Media Library with videos, podcasts, and more
 ---
 
-I've been a guest on a lot of shows, and have produced a lot of material myself. Over the years the videos and podcast episodes and presentation slide decks and books accumulate. With the new [Media Library](https://www.asianturfgrass.com/media/) page on the ATC website, I've put a lot of that material (and links to much more) all in one place.
+I've been a guest on a lot of shows, and have produced a lot of material myself. Over the years the videos and podcast episodes and presentation slide decks and books accumulate. With the new [Media Library](https://www.asianturfgrass.com) page on the ATC website, I've put a lot of that material (and links to much more) all in one place.
 
 The page includes 10 videos and links to ATC's Vimeo and YouTube pages.
 

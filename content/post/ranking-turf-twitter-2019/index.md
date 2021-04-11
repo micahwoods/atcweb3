@@ -1,6 +1,6 @@
 ---
 date: "2020-01-20T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/top_20_2019.png
+share-media: https://www.asianturfgrass.comtop_20_2019.png
 tags:
 - web/tech
 - data analysis

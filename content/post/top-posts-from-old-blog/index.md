@@ -1,6 +1,6 @@
 ---
 date: "2019-12-11T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/jan_andaman.jpg
+share-media: https://www.asianturfgrass.comjan_andaman.jpg
 tags:
 - fertilizer
 - roots

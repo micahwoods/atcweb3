@@ -23,7 +23,7 @@ Keya GC hosts a golf tournament each year at the end of August. Andrew wants to 
 
 Soil samples from Keya GC have been sent to Brookside Laboratories for the past five years. The soils are tested for nutrients, and ATC then prepares a report and recommendations. This chart extracted from ATC's most recent soil test report for Keya GC, showing potassium (K) from putting green (G) samples, illustrates how the MLSN guidelines work.
 
-![ATC soil test report legend and K chart](/media/k_soil_chart_vert.png)
+![ATC soil test report legend and K chart](k_soil_chart_vert.png)
 
 In 2013, the soil K was 67 ppm, and I recommended applying an N:K ratio of 2:1 for the next year. That's a little bit less K than the korai will use. As expected, the soil K dropped, but was still at 50 ppm in 2014, well above the MLSN minimum of 37. I again recommended a 2:1 ratio for the next year.
 

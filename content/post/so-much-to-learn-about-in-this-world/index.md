@@ -1,11 +1,11 @@
 ---
 bigmedia:
-- /media/park_grass_2015a.jpg: read more about the Park Grass Experiment in Silvertown
+- park_grass_2015a.jpg: read more about the Park Grass Experiment in Silvertown
     et al. (2006)
-- /media/park_grass_2015b.jpg: read more about the Park Grass Experiment in Silvertown
+- park_grass_2015b.jpg: read more about the Park Grass Experiment in Silvertown
     et al. (2006)
 date: "2019-10-11T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/park_grass_2015b.jpg
+share-media: https://www.asianturfgrass.compark_grass_2015b.jpg
 tags:
 - science
 title: So many things to learn about in this world

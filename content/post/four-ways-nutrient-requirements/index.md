@@ -1,6 +1,6 @@
 ---
 date: "2020-03-26T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/zontek_quotes.jpg
+share-media: https://www.asianturfgrass.comzontek_quotes.jpg
 tags:
 - fertilizer
 - mlsn
@@ -15,6 +15,6 @@ The four ways I described are the Jim Arthur approach, Ericsson's demand-driven 
 
 Understanding nutrient requirements---how much fertilizer to apply---is important because one wants to be sure to apply what is **required**. At the same time, one wants, as much as possible, to avoid applying any **extra**.
 
-![quotes from Zontek et al about extra fertilizer](/media/zontek_quotes.jpg)
+![quotes from Zontek et al about extra fertilizer](zontek_quotes.jpg)
 
 On this topic, I also recommend the article by Zontek et al. about product choice, and product amounts, called [Does the Grass Know the Cost?](http://gsr.lib.msu.edu/2010s/2010/100532.pdf)

@@ -15,11 +15,7 @@ Last week I led a seminar about MLSN on Monday. Then I did it again on Tuesday, 
 
 I explained the results one gets with MLSN, what prompted us to develop these new guidelines, and how to make practical use of the guidelines. I'm not going to record a video or a screencast of everything I talked about for those three hours. But I summarized the key points in this one slide:
 
-{{< figure src="mlsn_4_bullet_point.png" caption="A caption" >}}
-
 {{< figure src="mlsn_4_bullet_point.png" >}}
-
-![](mlsn_4_bullet_point.png)
 
 For more information about this, see:
 

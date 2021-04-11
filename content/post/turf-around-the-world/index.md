@@ -1,6 +1,6 @@
 ---
 date: "2017-11-15T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/2017_flight_map_ytd.png
+share-media: http://www.asianturfgrass.com2017_flight_map_ytd.png
 tags:
 - seminar
 title: Turf around the world, with a couple maps
@@ -8,7 +8,7 @@ title: Turf around the world, with a couple maps
 
 When I led a seminar in Idaho last month about *Turf Around the World*, I wanted to show a map of the flights I'd taken this year. I didn't have a map to show then, however, because of some software problems. I fixed that problem and am now back to making maps again. The maps I show here are made with code modified from [this example](http://strimas.com/spatial/long-flights/).
 
-![map of flights ytd in 2017](/media/2017_ytd_flight_map.svg)
+![map of flights ytd in 2017](2017_ytd_flight_map.svg)
 
 And [these are the slides](https://speakerdeck.com/micahwoods/turf-around-the-world) for that turf around the world presentation.
 
@@ -42,4 +42,4 @@ In Bangkok, as a comparison, bermudagrass fairways would be mediocre (because th
 
 I made another map to show flights since 8 August 2013. That's a lot of airports. And a lot of grass still yet to study, and places still to go.
 
-![map flights since Aug 8 2013](/media/2013_kara_flight_map.svg)
+![map flights since Aug 8 2013](2013_kara_flight_map.svg)

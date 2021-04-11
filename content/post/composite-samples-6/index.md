@@ -1,6 +1,6 @@
 ---
 date: "2020-02-07T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/sampling_tublamu.jpg
+share-media: https://www.asianturfgrass.comsampling_tublamu.jpg
 tags:
 - soil testing
 - research

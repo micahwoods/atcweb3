@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/ice_cube_bentgrass.jpg: bentgrass canopy temperature, Japan
+- ice_cube_bentgrass.jpg: bentgrass canopy temperature, Japan
 date: "2017-10-04T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/ice_cube_bentgrass.jpg
+share-media: http://www.asianturfgrass.comice_cube_bentgrass.jpg
 subtitle: Understanding the subtle differences between many GDD models in turf
 tags:
 - gdd

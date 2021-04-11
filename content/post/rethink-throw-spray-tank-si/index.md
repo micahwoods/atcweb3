@@ -24,7 +24,7 @@ There were three treatments applied to a Tifeagle green. Control of nothing appl
 
 The N rate was 0.1 lbs N/1000 ft<sup>2</sup>/week (0.5 g N/m<sup>2</sup>). Treatments were applied weekly for seven weeks. Green speed was measured 11 times. Here's the results.
 
-![si speed chart 11 dates](/media/guertal_si_plot.svg)
+![si speed chart 11 dates](guertal_si_plot.svg)
 
 On 11 times the green speed was measured, the Si treatment had the fastest speed on 0 of them. 
 
@@ -38,11 +38,11 @@ And I expect I may hear some responses like this:
 
 Ok, fine. High silica content of zoysia leaves still leaves the grass susceptible to decimation from insects and diseases. Here's some armyworm activity on *Zoysia japonica* in Chiba.
 
-![noshiba armyworm damage](/media/habu_armyworm.jpg)
+![noshiba armyworm damage](habu_armyworm.jpg)
 
 Here is the wonderfully-named *dog's footprint* on *Zoysia matrella* in Hilo.
 
-![inu no ashiato in Hilo](/media/korai_curvularia.jpg)
+![inu no ashiato in Hilo](korai_curvularia.jpg)
 
 Maybe Si helps with something. But I'd prefer to manage turf without adding any extra.
 

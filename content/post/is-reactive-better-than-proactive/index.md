@@ -1,10 +1,10 @@
 ---
 bigmedia:
-- /media/habu_9_irr.jpg: putting green irrigation, Chiba
-- /media/krabi.jpg: tropical carpetgrass and manilagrass, Krabi
-- /media/topdress_eagle.jpg: topdressing a Tifeagle green, Prachuap Khiri Khan
+- habu_9_irr.jpg: putting green irrigation, Chiba
+- krabi.jpg: tropical carpetgrass and manilagrass, Krabi
+- topdress_eagle.jpg: topdressing a Tifeagle green, Prachuap Khiri Khan
 date: "2018-04-01T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/stenotaphrum_hi.jpg
+share-media: http://www.asianturfgrass.comstenotaphrum_hi.jpg
 tags:
 - clipvol
 - fertilizer

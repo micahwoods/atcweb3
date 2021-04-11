@@ -1,12 +1,12 @@
 ---
 bigmedia:
-- /media/kaskada_horse.jpg: sculpture, grass roofs, and fine turf at Golf Kaskáda near
+- kaskada_horse.jpg: sculpture, grass roofs, and fine turf at Golf Kaskáda near
     Brno
-- /media/micah_13dec.jpg: preparing for a presentation in Lednice
-- /media/riding_hall.jpg: The grand baroque riding hall at Lednice
-- /media/chateau_lednice.jpg: Lednice castle in the snow
+- micah_13dec.jpg: preparing for a presentation in Lednice
+- riding_hall.jpg: The grand baroque riding hall at Lednice
+- chateau_lednice.jpg: Lednice castle in the snow
 date: "2018-12-14T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/riding_hall.jpg
+share-media: https://www.asianturfgrass.comriding_hall.jpg
 subtitle: MLSN, the Short Grammar, Turfgrass Growth Potential, and Clipping Volume
 tags:
 - seminar
@@ -16,7 +16,7 @@ title: 3 presentations at the Czech Greenkeepers Association conference
 
 I taught 3 seminars at the Czech Greenkeepers Association ([Český svaz greenkeeperů](http://www.czgreen.com/)) conference in Lednice. What a grand location for a conference! The [Lednice-Valtice Cultural Landscape](https://whc.unesco.org/en/list/763) is a UNESCO world heritage site and the conference was held at Lednice castle in the baroque (and very grand) riding hall.
 
-![riding hall at Lednice castle](/media/riding_hall.jpg)
+![riding hall at Lednice castle](riding_hall.jpg)
 
 My slides can be viewed or downloaded at these links:
 
@@ -32,7 +32,7 @@ After that start, we discussed how the MSLN approach to making fertilizer recomm
 
 I also gave a presentation about the [*Short Grammar of Greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping). That is based on an approach to turfgrass management that considers the growth rate of the grass as key. Grass growing too slow cannot produce the desired surface. Grass growing too fast may be able to produce the desired surface, but doing it that way requires a lot of work that wouldn't be necessary if the grass was growing slower. 
 
-![seminar preparation](/media/micah_13dec.jpg)
+![seminar preparation](micah_13dec.jpg)
 
 My final presentation was about the temperature-based turfgrass growth potential (GP) *and* about clipping volume. That's a lot to pack into 90 minutes, but we did it. GP can seem like magic, going from high and low air temperatures all the way to predicted magnesium use in May in Prague, for example. I explained how this works, and how it can be so useful. For turfgrass nutrient requirements, I like to use GP as a tool for making site-specific starting point estimates of nutrient use. 
 

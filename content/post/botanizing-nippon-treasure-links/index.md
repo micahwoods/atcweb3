@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/hamayu_bahia.jpg: mixed sward of Zoysia japonica & Paspalum notatum, Ojikajima
-- /media/hamayu_2.jpg: approach shot to the 2nd at Hamayu GC, Ojika
-- /media/hirabaru_456.jpg: approach shot to the 4th at Hirabaru GC, Ukushima
+- hamayu_bahia.jpg: mixed sward of Zoysia japonica & Paspalum notatum, Ojikajima
+- hamayu_2.jpg: approach shot to the 2nd at Hamayu GC, Ojika
+- hirabaru_456.jpg: approach shot to the 4th at Hirabaru GC, Ukushima
 date: "2018-10-10T00:00:00Z"
 share-media: https://c2.staticflickr.com/2/1917/44302471075_2fcc1dd89a_b_d.jpg
 tags:
@@ -67,11 +67,11 @@ When I scrambled down to the rocks behind the third tee, I found lots of noshiba
 
 These are great courses for botanizing, and pretty spectacular for golf too. 
 
-![tee off hole five Hamayu GC](/media/micah_tee_5.jpg)
+![tee off hole five Hamayu GC](micah_tee_5.jpg)
 
 Our hosts treated us to a great post-round meal with local delicacies before we departed. The local food in Japan is one of the many reasons---gracious hospitality is another---to travel to different regions and to explore golf courses such as these.
 
-![post-round meal, Ojika](/media/meal.jpg)
+![post-round meal, Ojika](meal.jpg)
 
 When we were walking around town, I saw this beautiful manilagrass. These grasses are growing all over East and SE Asia, and this one has some special attributes. A sample of this grass was collected by one of our party to see how it performs with maintenance.
 
@@ -79,6 +79,6 @@ When we were walking around town, I saw this beautiful manilagrass. These grasse
 
 We took this trip in early September, and Andrew Thomson wrote an article about this trip for [*Golf Digest Choice* magazine](http://gd.golfdigest.co.jp/choice/). When I was back in Japan this month, I went to the bookstore in Osaka, straight to the magazine rack, got a couple copies, and a big smile came onto my face as I remembered this trip.
 
-![magazine rack, Osaka](/media/magazine_rack.jpg)
+![magazine rack, Osaka](magazine_rack.jpg)
 
-![choice magazine article about Nippon Treasure Links](/media/choice_201810.jpg)
+![choice magazine article about Nippon Treasure Links](choice_201810.jpg)

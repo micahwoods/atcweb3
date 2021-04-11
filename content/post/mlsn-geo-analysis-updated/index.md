@@ -1,6 +1,6 @@
 ---
 date: "2020-07-21T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/mlsn_reach.png
+share-media: https://www.asianturfgrass.commlsn_reach.png
 tags:
 - soil testing
 - mlsn
@@ -14,7 +14,7 @@ In 2017, the top five were Hong Kong, Iceland, Ireland, the Philippines, and Tha
 
 With the number of subscribers to that newsletter almost doubled now, I took another look at the breakdown of subscribers by country, ranked in terms of the number of facilities per subscriber. I'd much rather express in terms of subscribers per facility, but there aren't *that* many subscribers yet.
 
-![mlsn newsletter subscribers per facility](/media/mlsn_reach.png)
+![mlsn newsletter subscribers per facility](mlsn_reach.png)
 
 The top five now are Mauritius, Hong Kong, United Arab Emirates, Vietnam, and Pakistan. Canada has remained relatively static in terms of subscribers, but the big golfing countries of Australia (from 1 subscriber every 62 facilities to 1 every 27!), the UK (1 per 57 to 1 per 46), and the USA (1 per 59 to 1 per 48) have increased the reach of the newsletter to more people and presumably to more facilities as well.
 

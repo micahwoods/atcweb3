@@ -1,6 +1,6 @@
 ---
 date: "2019-10-12T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/fry_mlsn.png
+share-media: https://www.asianturfgrass.comfry_mlsn.png
 tags:
 - mlsn
 - article

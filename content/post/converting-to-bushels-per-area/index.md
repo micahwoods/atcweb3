@@ -1,6 +1,6 @@
 ---
 header:
-  image:  "/media/lamlukka_nursery.jpg"
+  image:  "lamlukka_nursery.jpg"
   caption: "Planting a manilagrass sod field in Lam Luk Ka, Thailand"
 date: "2017-09-23T00:00:00Z"
 share-media: https://c1.staticflickr.com/5/4427/37018765580_726579286c_b_d.jpg

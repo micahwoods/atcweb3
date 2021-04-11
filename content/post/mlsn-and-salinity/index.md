@@ -17,7 +17,7 @@ When this question arrived, I thought I could respond by showing a blog post I'd
 
 But I didn't find a blog post with the answer in any detail, so here's a new one, with the answer to that specific question. This answer is broadly applicable to the question of MLSN and salinity in general.
 
-![salinity damage on the 17th green of the Tublamu GC in Phang Nga, Thailand in September 2005](/media/sampling_tublamu.jpg)
+![salinity damage on the 17th green of the Tublamu GC in Phang Nga, Thailand in September 2005](sampling_tublamu.jpg)
 <small><strong>Salinity stress on bermudagrass at Tublamu Royal Navy GC in Phang Nga, Thailand, in September 2005. The course was under renovation after the December 2004 tsunami.</strong></small>
 
 What kind of adjustments would I recommend?
@@ -52,7 +52,7 @@ One is deliberately leaching salts from the rootzone. I'm not too concerned with
 
 This is almost certainly more than is required, but it is a starting point that guarantees ample nutrients are supplied. That's the basic approach I suggested in the [MLSN cheat sheet](https://www.asianturfgrass.com/2018-02-03-new-mlsn-cheat-sheet/).
 
-[![media of salinty section mlsn cheat sheet](/media/salinity_mlsn_cheat_sheet.png)](https://www.asianturfgrass.com/2018-02-03-new-mlsn-cheat-sheet/)
+[![media of salinty section mlsn cheat sheet](salinity_mlsn_cheat_sheet.png)](https://www.asianturfgrass.com/2018-02-03-new-mlsn-cheat-sheet/)
 
 Adding 100% of plant use is more than required because 1) it disregards the nutrients in the soil completely and 2) it disregards the probably substantial amount of K and Mg and Ca and etc. in the irrigation water. It's likely that the irrigation water, with 1,500 TDS, has [a lot of plant available nutrients in it](https://www.asianturfgrass.com/2020-02-23-before-next-calcium-app-read-this/).
 

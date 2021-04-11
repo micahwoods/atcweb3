@@ -1,6 +1,6 @@
 ---
 bigmedia:
-- /media/2017_map.png: flights in 2017
+- 2017_map.png: flights in 2017
 date: "2017-12-29T00:00:00Z"
 share-media: https://c1.staticflickr.com/5/4684/39361563541_69c464dd88_b_d.jpg
 tags:
@@ -19,7 +19,7 @@ As I say at the end of every year, it has been another extraordinary year for st
 
 This year I took 78 flights for a total distance of 205,043 km (127,000 miles). That's a pleasant decrease from 2016 when it was 82 flights and 221,494 km.
 
-![2017 flight map](/media/2017_map.png)
+![2017 flight map](2017_map.png)
 
 I scrolled through my photos from this year and selected these ones. Here they are, in chronological order.
 

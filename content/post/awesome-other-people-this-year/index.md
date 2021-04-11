@@ -1,6 +1,6 @@
 ---
 date: "2019-12-31T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/awesome_2019.jpg
+share-media: https://www.asianturfgrass.comawesome_2019.jpg
 tags:
 - roundup
 - awesome
@@ -23,7 +23,7 @@ Here's a non-comprehensive list for this year. I've certainly missed lots of awe
 
 * Bruce Clarke, Paul Vincelli, Paul Koch, and Gregg Munshaw updated the [Chemical Control of Turfgrass Diseases 2020](https://twitter.com/turfmow/status/1140961675773956096?s=20) reference. There's an amazing amount of useful information in those 34 pages.
 
-* It's awesome when there is a golf event happening and the [GCSAA's tournament fact sheet](https://www.gcsaa.org/media/tournament-fact-sheets) is available with background information about the course maintenance.
+* It's awesome when there is a golf event happening and the [GCSAA's tournament fact sheet](https://www.gcsaa.orgtournament-fact-sheets) is available with background information about the course maintenance.
 
 * It's awesome to have programs and events like [Syngenta's Growing Golf](https://www.growinggolf.com/), [Bayer's Women in Golf](https://www.environmentalscience.bayer.us/turf-and-ornamentals-management/golf-course-management/women-in-golf), the GCSAA's Ladies Leading Turf event at the [Golf Industry Show](https://www.golfindustryshow.com/events/gcsaa-wednesday-events), to encourage and support women in the turf industry.
 

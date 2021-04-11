@@ -1,10 +1,10 @@
 ---
 bigmedia:
-- /media/canopeo_plot1_12may.jpg: processed image taken 20 days after planting
-- /media/sena_6days.jpg: Sena manilagrass at 6 days after planting
-- /media/soil_temp_apr_th.jpg: ""
+- canopeo_plot1_12may.jpg: processed image taken 20 days after planting
+- sena_6days.jpg: Sena manilagrass at 6 days after planting
+- soil_temp_apr_th.jpg: ""
 date: "2019-07-22T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/video_shoot_ytk.jpg
+share-media: https://www.asianturfgrass.comvideo_shoot_ytk.jpg
 tags:
 - thailand
 - zoysia

@@ -1,12 +1,12 @@
 ---
 bigmedia:
-- /media/double_green_pano.jpg: multiple samples were taken from greens and tested individually
+- double_green_pano.jpg: multiple samples were taken from greens and tested individually
     to check variability
-- /media/double_green.jpg: a double green in Bangkok was sampled for total organic matter
+- double_green.jpg: a double green in Bangkok was sampled for total organic matter
     in 42 locations
-- /media/double_green_samples.jpg: samples collected for individual testing
+- double_green_samples.jpg: samples collected for individual testing
 date: "2019-07-29T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/double_green_samples.jpg
+share-media: https://www.asianturfgrass.comdouble_green_samples.jpg
 tags:
 - organic matter
 - sand
@@ -35,12 +35,12 @@ Here's the long answer, with some explanation of why I recommend that amount of 
 
 I'm using terminolgy here of **subsample** and **sample**. By subsample I mean the many cores I might take from a green, placing them all in the same bag to be measured at the lab in a single test. Each of the cores I'll call a subsample. The subsamples all combined together I call the sample. And if I sometimes call a *subsample* a *sample*, I hope you'll be able to infer my meaning from the context.
 
-![organic matter samples on a green](/media/double_green_samples.jpg)
+![organic matter samples on a green](double_green_samples.jpg)
 <small><strong>Individual subsamples were collected for testing from multiple greens; measuring the individual subsamples provides information about the variation from sample to sample, which can be used to estimate the number of subsamples required for a particular test.</strong></small>
 
 Kauffman et al. have an interesting article about this called ["Field sampling warm-season putting greens for thatch-mat depth and organic matter content."](https://doi.org/10.21273/HORTTECH.23.3.369) They measured organic matter to a depth of 1 inch (25 mm) using large (10 cm diameter) core samples, and they got standard deviations ranging from 1.9 to 5.2 g kg<sup>-1</sup> (that's 0.19% to 0.52% OM). When I've measured individual samples from greens, I've found standard deviations from 3 to 21 g kg<sup>-1</sup> (that's 0.3 to 2.1% OM).
 
-![sample size vs standard deviation](/media/size_std_dev.png)
+![sample size vs standard deviation](size_std_dev.png)
 <small><strong>Figure 1. Standard deviation of individual samples collected from putting greens. </strong></small>
 
 I've done this with small coring tools or soil profilers, and the standard deviation tends to be higher than reported by Kauffman. However, they worked with cup cutter samples having a volume of 196 cm<sup>3</sup>. In addition to that, I'd like to point out two things from Figure 1. First, at these relatively low sample sizes, which one gets from 2, 3, or 4 cm diameter soil samplers, there doesn't appear to be a relationship between standard deviation and sample size. Second, there is variation that is inherent to the putting greens (or to the different golf courses) themselves.
@@ -59,7 +59,7 @@ There is variation in the OM<sub>T2</sub> on each of those greens. So if I take 
 
 At each number of subsamples---at 1, 2, 3 per green, all the way up to 40---I instructed the computer to calculate an 89% highest posterior density interval ([HPDI](https://en.wikipedia.org/wiki/Credible_interval)). That interval contains 89% of the probability mass for the posterior distribution of the parameter values in the model, given the data that I collected. 
 
-![expected precision](/media/precision_om.png)
+![expected precision](precision_om.png)
 <small><strong>Figure 2. Width of 89% highest posterior density intervals (HPDI) for 9 greens (the light grey lines) and the mean (blue line) of those greens for 1 to 40 subsamples.</strong></small>
 
 I've plotted this in Figure 2 as lines that go from from left to right, for each of the nine greens that was tested for individual subsamples, and included the mean line (in blue) which is what I expect for the average green.

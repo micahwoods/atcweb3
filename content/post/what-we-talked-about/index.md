@@ -1,6 +1,6 @@
 ---
 date: "2018-09-27T00:00:00Z"
-share-media: https://pbs.twmedia.com/media/CthZenqWcAAupgz.jpg
+share-media: https://pbs.twmedia.comCthZenqWcAAupgz.jpg
 subtitle: Morning topics from stimpmeter team B at the 2016 Ryder Cup
 tags:
 - tournament

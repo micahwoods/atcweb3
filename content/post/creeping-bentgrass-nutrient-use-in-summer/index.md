@@ -1,6 +1,6 @@
 ---
 bigmedia:
-- /media/pg_bentgrass.jpg: creeping bentgrass practice green, PGA Catalunya
+- pg_bentgrass.jpg: creeping bentgrass practice green, PGA Catalunya
 date: "2019-04-18T00:00:00Z"
 share-media: https://live.staticflickr.com/6176/6190240197_694e7da164_b_d.jpg
 tags:

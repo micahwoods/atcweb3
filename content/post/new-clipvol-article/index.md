@@ -1,6 +1,6 @@
 ---
 date: "2019-07-03T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/migcsa_clipvol1.jpg
+share-media: https://www.asianturfgrass.commigcsa_clipvol1.jpg
 tags:
 - clipvol
 - article

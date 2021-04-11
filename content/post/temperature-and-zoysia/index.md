@@ -15,7 +15,7 @@ The ensuing email conversation clarified that we were discussing manilagrass (*Z
 
 I downloaded the daily temperature data for calendar year 2017 from these 11 locations. 
 
-![map of 11 locations](/media/loc11.png)
+![map of 11 locations](loc11.png)
 
 Some of these places, like Singapore, and Tokyo, and Hilo, have lots of thriving manilagrass. Here's a lawn in central Tokyo.
 
@@ -25,7 +25,7 @@ Other places, like Ithaca (New York), don't have manilagrass, because it is too 
 
 Manilagrass thrives in a tropical climate; this species really grows well when it is hot, but it doesn't grow much in moderate temperatures. To look at when it is hot, I calculated the GDD<sub>20</sub> for each day in 2017 at each of these locations, and summed them across the year. This is the sum of temperatures at 20 °C and above in 2017.
 
-![gdd20](/media/gdd20_2017.png)
+![gdd20](gdd20_2017.png)
 
 Of course, there are various ways to look at when it is "hot." This table shows the sum for various measures related to temperature. Each of these is based on the daily mean temperature calculated as (daily high + daily low)/2.
 

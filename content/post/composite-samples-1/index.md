@@ -1,6 +1,6 @@
 ---
 date: "2020-02-02T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/grid_samples.jpg
+share-media: https://www.asianturfgrass.comgrid_samples.jpg
 tags:
 - soil testing
 - research
@@ -13,7 +13,7 @@ statistics: A review](https://dx.doi.org/10.1002/agj2.20048), I made some calcul
 
 I soon realized that it might be a long blog post. Too long, probably. And the topic of soil sampling and the number of cores (or subsamples) to collect to then put together as a single composite sample representative of the tested area---that's a particularly dry subject, isn't it? So I decided to break that post I'd drafted into a number of short ones.
 
-![multiple cores taken for soil sampling on a single green](/media/grid_samples.jpg)
+![multiple cores taken for soil sampling on a single green](grid_samples.jpg)
 <small><strong>How many cores should be taken from a single putting green, or sports field, or fairway, or lawn, to put together as a composite sample for soil nutrient analysis?</strong></small>
 
 In these posts, I'll be considering soil nutrient analyses. I'll often use individual putting greens as an example. 

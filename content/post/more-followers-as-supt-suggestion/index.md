@@ -21,7 +21,7 @@ Of those accounts, I selected the ten accounts with the highest number of follow
 
 I checked the number of days since account opening. Maybe having the account open for longer will help one to get more followers. That seems to be the case, as one would expect. I called that the *longevity effect*. How about tweeting a lot? I called that the *activity effect*, and there might be something to that. I also looked at the favoriting of other people's tweets, calling that the *interaction effect*, and the number of accounts that one follows, calling that the *friendliness effect*.
 
-![plot of twitter followers](/media/twitterPlot.svg)
+![plot of twitter followers](twitterPlot.svg)
 
 It doesn't look to me like there is a surefire way to get more followers as a superintendent. Working at a famous place seems to help. I'm going to fall back on my usual answer, and suggest tweeting interesting stuff. 
 

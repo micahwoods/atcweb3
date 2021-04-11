@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/speedo_pamphlet.png: ""
+- speedo_pamphlet.png: ""
 date: "2019-04-07T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/speedo_pamphlet.png
+share-media: https://www.asianturfgrass.comspeedo_pamphlet.png
 tags:
 - genki level
 - nitrogen

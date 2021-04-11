@@ -1,6 +1,6 @@
 ---
 date: "2019-02-15T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/keya_18_2gatsu.jpg
+share-media: https://www.asianturfgrass.comkeya_18_2gatsu.jpg
 tags:
 - growth potential
 - nitrogen
@@ -21,22 +21,22 @@ What if one compares the genki level to the turfgrass speedo on a scatterplot? T
 
 Let's look at this for korai (*Zoysia matrella*) putting greens at Keya GC in Fukuoka, Japan. In the winter, this warm-season grass isn't growing, and the clipping volume during January 2018 was 0, because the greens weren't mown.
 
-![keya 18 in Feb 2019](/media/keya_18_2gatsu.jpg)
+![keya 18 in Feb 2019](keya_18_2gatsu.jpg)
 <small><strong>Korai greens at Keya GC don't grow in the winter; the clipping volume is 0.</strong></small>
 
 When the clipping volume is 0, the turfgrass speedo is 0. And no N was applied in January 2018, so that gives a GL of 0 too. 
 
-![genki level plotted against speedo](/media/keya_ratio_jan.png)
+![genki level plotted against speedo](keya_ratio_jan.png)
 
 When the GL is the same as the speedo, the point will fall on the 1:1 line. What if the point would fall to the left of (or above) the 1:1 line? That means that the growth for that time duration is more than would have been expected, given the amount of N supplied. And if the point falls to the right of (or below) the 1:1 line? That means that one is pushing the grass with N fertilizer during that time duration but the growth response isn't happening yet.
 
 Here we can look at this for January, August, and October 2018.
 
-![gl plotted vs speedo for 3 months in 2018 at Keya](/media/keya_ratio_aug.png)
+![gl plotted vs speedo for 3 months in 2018 at Keya](keya_ratio_aug.png)
 
 In August, the point falls to the left of the 1:1 line, and in October, the point falls to the right of it. What's going on here?
 
-![keya gc in August 2018](/media/keya_18_sunrise.jpg)
+![keya gc in August 2018](keya_18_sunrise.jpg)
 <small><strong>The 18<sup>th</sup> green at Keya GC in August 2018. The turfgrass speedo was 0.63 during that month even though the GL was 0.19.</strong></small>
 
 During August, the temperatures at Keya GC are hot, and there is a lot of N mineralization. In addition to that, warm-season grass grows a lot when the temperatures are hot. So the speedo is more than the GL. 
@@ -48,7 +48,7 @@ But by October, the GL is now more than the speedo. That indicates that the gras
 
 In the next charts, I show all the months in which the greens were mown, and I show also for Hazeltine National GC and for Van Tri GC. I've also normalized this in one more way; I've set the maximum growth for the speedo at 600 mL m<sup>-2</sup> month<sup>-1</sup> for all the locations. 
 
-![speedo ratio 2](/media/speedo_ratio2.png)
+![speedo ratio 2](speedo_ratio2.png)
 
 I find this to be a useful way to think of, and to visualize, the turfgrass response to the N supplied. I also find this especially useful in comparing how grass is managed at different locations, and that's another reason I've set the maximum N and the maximum growth at the same value for the speedo and GL calculations.
 

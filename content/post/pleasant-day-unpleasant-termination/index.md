@@ -14,10 +14,10 @@ tags:
 title: A pleasant day, with an unpleasant termination
 ---
 
-Last week I spent a few days in Fukuoka. I was there for the 103<sup>rd</sup> Japan Amateur Golf Championship. On the the morning of July 5, I recorded [this video](https://www.asianturfgrass.com/media/ball_16.mp4) of a short iron shot landing on the 16<sup>th</sup> green at the host venue, [Keya Golf Club](http://www.keyagc.co.jp/index.html).
+Last week I spent a few days in Fukuoka. I was there for the 103<sup>rd</sup> Japan Amateur Golf Championship. On the the morning of July 5, I recorded [this video](https://www.asianturfgrass.comball_16.mp4) of a short iron shot landing on the 16<sup>th</sup> green at the host venue, [Keya Golf Club](http://www.keyagc.co.jp/index.html).
 
 <video width="100%" controls>
-  <source src="https://www.asianturfgrass.com/media/ball_16.mp4" type="video/mp4">
+  <source src="https://www.asianturfgrass.comball_16.mp4" type="video/mp4">
 </video>
 
 The way the ball reacts as it lands on the green is notable for two reasons. 

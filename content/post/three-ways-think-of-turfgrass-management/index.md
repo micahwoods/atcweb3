@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/fescue_green.jpg: fine fescue in Scotland, July
-- /media/fuji_two_bent_kanagawa.jpg: bentgrass greens in Kanagawa, April
-- /media/krabi.jpg: manilagrass and tropical carpetgrass in Krabi, May
+- fescue_green.jpg: fine fescue in Scotland, July
+- fuji_two_bent_kanagawa.jpg: bentgrass greens in Kanagawa, April
+- krabi.jpg: manilagrass and tropical carpetgrass in Krabi, May
 date: "2017-09-13T00:00:00Z"
 share-media: https://c1.staticflickr.com/5/4419/36388347333_a7fb245fa2_b_d.jpg
 subtitle: I find each of these useful depending on the situation

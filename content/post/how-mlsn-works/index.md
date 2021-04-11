@@ -1,6 +1,6 @@
 ---
 date: "2020-05-27T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/mlsn_what_happens.jpg
+share-media: https://www.asianturfgrass.commlsn_what_happens.jpg
 tags:
 - mlsn
 - fertilizer

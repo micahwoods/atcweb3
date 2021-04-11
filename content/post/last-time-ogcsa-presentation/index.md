@@ -1,6 +1,6 @@
 ---
 date: "2019-08-20T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/pl97.jpg
+share-media: https://www.asianturfgrass.compl97.jpg
 tags:
 - seminar
 title: Three seminars with the Oregon GCSA

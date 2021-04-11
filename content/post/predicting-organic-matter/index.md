@@ -13,7 +13,7 @@ Jason Haines has been sharing some ideas on his [Turf Hacker](https://www.turfha
 
 I think this equation, or one similar to it, might predict what the soil organic matter content in turfgrass soils will be.
 
-![does this equation predict organic matter in turfgrass soils?](/media/om_prediction_equation.png)
+![does this equation predict organic matter in turfgrass soils?](om_prediction_equation.png)
 
 If that equation can predict soil organic matter, then it is relatively straightforward to adjust the variables on the right side of the equation in order to achieve the desired result on the left side.
 

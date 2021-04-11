@@ -1,6 +1,6 @@
 ---
 date: "2020-12-16T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/flying_blind_montage.jpg
+share-media: https://www.asianturfgrass.comflying_blind_montage.jpg
 tags:
 - Video
 - MLSN

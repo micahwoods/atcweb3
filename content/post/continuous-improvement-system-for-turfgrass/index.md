@@ -1,6 +1,6 @@
 ---
 date: "2019-09-08T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/nutranta_nov2019.jpg
+share-media: https://www.asianturfgrass.comnutranta_nov2019.jpg
 tags:
 - seminar
 - philippines

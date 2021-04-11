@@ -1,6 +1,6 @@
 ---
 date: "2018-03-31T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/par_cover.jpg
+share-media: http://www.asianturfgrass.compar_cover.jpg
 tags:
 - japan
 title: Par Golf's Impact manga, media, and golf course maintenance
@@ -13,7 +13,7 @@ There is a really interesting [manga comic](https://en.wikipedia.org/wiki/Manga)
 
 Why is it so interesting? This is a [fictional story based on the KBC Augusta golf tournament](https://twitter.com/drumcturf/status/969937627464941568), and it includes a storyline related to golf course maintenance during the tournament and includes the course superintendent [Andrew McDaniel](https://twitter.com/drumcturf). The story is about the "KBS" Augusta tournament, rather than KBC, and in the manga, the Andrew character is "Daniel-san."
 
-![magazines at konbini](/media/magazine_shelves.jpg)
+![magazines at konbini](magazine_shelves.jpg)
 
 Print magazines are a big business in Japan. Go to any convenience store---those are a big business in Japan too---and there will be a rack with all kinds of magazines, including golf weeklies, golf monthlies, and golf magazines that specialize in travel, fashion, and features.
 
@@ -24,7 +24,7 @@ It is fascinating to see a golf course superintendent and golf course maintenanc
 
 The television coverage of the KBC Augusta tournament always includes special features about Andrew and the course preparations for the tournament. Now there is a manga series that will be compiled into a book at the end of its run.
 
-![Andrew McDaniel tv segment](/media/dru_tv.jpg)
+![Andrew McDaniel tv segment](dru_tv.jpg)
 
 For more about manga and golf in Japan, see this article that asks [Is manga the miracle cure for your golf game?](https://www.cnn.com/2017/04/26/golf/golf-japan-manga-golf-lesson-comic/index.html) or watch the [Living Golf segment](https://www.cnn.com/videos/sports/2017/05/04/japan-tokyo-2020-olympics-isao-aoki-manga-living-golf-may-2017-spc.cnn) from CNN.
 

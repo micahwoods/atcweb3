@@ -1,6 +1,6 @@
 ---
 date: "2019-07-10T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/red_shirts.jpg
+share-media: https://www.asianturfgrass.comred_shirts.jpg
 tags:
 - clipvol
 - podcast

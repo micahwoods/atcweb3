@@ -1,6 +1,6 @@
 ---
 date: "2019-01-31T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/top_15_2018.png
+share-media: https://www.asianturfgrass.comtop_15_2018.png
 tags:
 - web/tech
 - data analysis

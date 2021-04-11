@@ -1,6 +1,6 @@
 ---
 date: "2018-06-24T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/fertiliser_quote1.png
+share-media: https://www.asianturfgrass.comfertiliser_quote1.png
 tags:
 - fertilizer
 title: What causes disasters, expensive corrective measures, and deterioration of
@@ -9,11 +9,11 @@ title: What causes disasters, expensive corrective measures, and deterioration o
 
 I moved my books to a different room in my home office earlier this month.
 
-![bookshelves and books](/media/bookshelf.jpg)
+![bookshelves and books](bookshelf.jpg)
 
 One of those books contains this strongly-worded sentence. 
 
-![quote on the misuse of fertiliser for golfing surfaces](/media/fertiliser_quote1.png)
+![quote on the misuse of fertiliser for golfing surfaces](fertiliser_quote1.png)
 
 These "disasters," "expensive corrective measures," and "deterioration of good golfing conditions" are completely avoidable. In fact, another of the books on those shelves has this quote:
 

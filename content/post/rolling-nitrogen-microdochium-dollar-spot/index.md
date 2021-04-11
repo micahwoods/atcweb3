@@ -1,6 +1,6 @@
 ---
 date: "2020-03-23T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/mtt_roller.jpg
+share-media: https://www.asianturfgrass.commtt_roller.jpg
 tags:
 - fertilizer
 - roll
@@ -26,6 +26,6 @@ And while we are on the subject of rolling, how about circle rolling this green,
 
 Here's a similar type of roller on a football pitch near Bangkok.
 
-![roller at SCG Stadium smoothing the pitch](/media/mtt_roller.jpg)
+![roller at SCG Stadium smoothing the pitch](mtt_roller.jpg)
 
 If you are really into rolling, this post shows [a heavy roller on fairways](https://www.asianturfgrass.com/2019-08-17-rolling-fairways-with-a-road-roller/).

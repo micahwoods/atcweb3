@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/library_banner.jpg: ""
+- library_banner.jpg: ""
 date: "2019-04-09T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/library_banner.jpg
+share-media: https://www.asianturfgrass.comlibrary_banner.jpg
 tags:
 - article
 - turf info

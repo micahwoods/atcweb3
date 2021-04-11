@@ -1,6 +1,6 @@
 ---
 date: "2018-06-01T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/2_grass_n_only.jpg
+share-media: https://www.asianturfgrass.com2_grass_n_only.jpg
 tags:
 - soil
 - fertilizer

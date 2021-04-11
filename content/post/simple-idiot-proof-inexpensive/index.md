@@ -1,6 +1,6 @@
 ---
 date: "2020-03-17T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/grass_so_fair.jpg
+share-media: https://www.asianturfgrass.comgrass_so_fair.jpg
 tags:
 - fertilizer
 - turfhacks
@@ -53,7 +53,7 @@ I've noticed similar things over the past 8 years or so. I used to recommend a l
 
 What I recommend now is careful observation of turf conditions, annual measurement of total OM at the surface (I prefer the method described at <https://www.asianturfgrass.com/2019-06-25-one-simple-trick-better-greens/>), and adjustment of topdressing amounts based on turf conditions and OM change over time, compared to the amount of work (topdressing and OM management) that has been done."
 
-![grass sign](/media/grass_so_fair.jpg)
+![grass sign](grass_so_fair.jpg)
 
 
 

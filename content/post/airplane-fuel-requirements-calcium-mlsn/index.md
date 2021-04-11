@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/dmk_plane.jpg: Kantarat Golf Course, Thailand
+- dmk_plane.jpg: Kantarat Golf Course, Thailand
 date: "2018-09-07T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/dmk_plane.jpg
+share-media: https://www.asianturfgrass.comdmk_plane.jpg
 tags:
 - mlsn
 - soil test
@@ -86,11 +86,11 @@ With turfgrass, it makes sense to me to have a minimum amount in the soil that n
 
 Here are Ca data by the Mehlich 3 extractant for turfgrass soils tested by ATC clients in the past 8 months. Most of the density---that is, most of the samples---is less than 1000.
 
-![media of density all Ca samples](/media/y2018_atc_ca.png)
+![media of density all Ca samples](y2018_atc_ca.png)
 
 After removing the calcareous samples with higher Ca, it's apparent that most of the samples are about 200 to 700. 
 
-![media of density of Ca samples with calcareous removed](/media/atc_ca_clean.png)
+![media of density of Ca samples with calcareous removed](atc_ca_clean.png)
 
 The point I try to show with these plots is that although the grass may use only about 8 ppm or similarly low amounts of Ca in a year, soils naturally have a lot more Ca than that. 
 

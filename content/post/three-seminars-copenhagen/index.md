@@ -1,6 +1,6 @@
 ---
 date: "2019-12-06T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/kawana_15_16.jpg
+share-media: https://www.asianturfgrass.comkawana_15_16.jpg
 tags:
 - seminar
 - denmark
@@ -16,7 +16,7 @@ One of my presentations was about green speed---I called it *Stimp Stats*. This 
 
 > "Variations in speed, whether from one green to the next or on different parts of the same green, can do more to negate a player's skill than can ragged fairways or unkempt bunkers."
 
-[![](/media/kawana_15_16.jpg)](https://speakerdeck.com/micahwoods/stimp-stats?slide=17)
+[![](kawana_15_16.jpg)](https://speakerdeck.com/micahwoods/stimp-stats?slide=17)
 <small><strong>When going from green to green on the same golf course, what's the normal (or expected) difference in green speed? What would be an abnormally large difference in green speed?</strong></small>
 
 I didn't know what a normal variation in speed from green to green would be. Since 2011, I've been measuring that. On average under non-tournament conditions, the standard deviation among greens on the same course is about 0.3 feet (about 4 inches, or 10 cm).
@@ -25,12 +25,12 @@ Another presentation was about [*A Short Grammar of Greenkeeping*](https://leanp
 
 I showed how one can predict nitrogen use based on the environmental productivity index (EPI) and the temperature-based turfgrass growth potential (GP).
 
-[![](/media/copenhagen_daily_n.jpg)](https://speakerdeck.com/micahwoods/applying-the-grammar-of-greenkeeping?slide=39)
+[![](copenhagen_daily_n.jpg)](https://speakerdeck.com/micahwoods/applying-the-grammar-of-greenkeeping?slide=39)
 <small><strong>One can use the temperature-based turfgrass growth potential to go from daily temperature data all the way to estimated daily N use.</strong></small>
 
 In the context of optimum growth rates, I think it is useful to measure how much the grass is actually growing. I told a story in my presentation *Getting Buckets* (read more about this topic in [this free book](https://www.asianturfgrass.com/buckets/)) about the clipping volume from putting greens over four years after a new superintendent started at a golf course near Tokyo.
 
-[![](/media/clipvol_4yr_40percent.jpg)](https://speakerdeck.com/micahwoods/getting-buckets?slide=56)
+[![](clipvol_4yr_40percent.jpg)](https://speakerdeck.com/micahwoods/getting-buckets?slide=56)
 <small><strong>After a new superintendent started working at this course, the clipping yield from putting greens went down by more than 40% over four years as he became familiar with the property.</strong></small>
 
 I pointed out that what often happens when one measures clipping volume is that one finds turf conditions can be optimized with less growth. I asked the audience if they thought that turf growing 40% less would require more or less core aeration, and more or less topdressing sand. 

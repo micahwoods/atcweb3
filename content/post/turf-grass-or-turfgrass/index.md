@@ -1,6 +1,6 @@
 ---
 date: "2018-09-28T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/turfgrass_1953.png
+share-media: https://www.asianturfgrass.comturfgrass_1953.png
 tags:
 - science
 - research
@@ -18,16 +18,16 @@ PACE Turf (Larry Stowell, I presume) [asked a related question](https://twitter.
 
 [Madison wrote about this](http://tic.msu.edu/tgif/flink?recno=255 ) in his introduction to *Practical Turfgrass Management*:
 
-![excerpt from Madison textbook 1971 on turfgrass word usage](/media/madison_turf_turfgrass_1971.png)
+![excerpt from Madison textbook 1971 on turfgrass word usage](madison_turf_turfgrass_1971.png)
 
 Then I looked up the 1952 and 1953 committee reports, just to be sure. 
 
 In 1952, here's the start of the report from the **TURF** committee.
 
-![1952 turf committee report](/media/turf_1952.png)
+![1952 turf committee report](turf_1952.png)
 
 In 1953, the report is now from the **TURFGRASS** committee, and it ends with the explanation quoted by Madison.
 
-![1953 turfgrass committee report](/media/turfgrass_1953.png)
+![1953 turfgrass committee report](turfgrass_1953.png)
 
 

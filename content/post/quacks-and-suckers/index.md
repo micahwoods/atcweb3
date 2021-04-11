@@ -1,6 +1,6 @@
 ---
 date: "2020-02-24T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/quacks.jpg
+share-media: https://www.asianturfgrass.comquacks.jpg
 tags:
 - fertilizer
 - article
@@ -13,7 +13,7 @@ A couple weeks ago I was preparing for a seminar in which I discussed [Charles V
 
 Today I looked through the early issues of the *Green Section Record*, or more specifically the *Bulletin of the Green Section of the United States Golf Association*, as it was called in those days, looking for something about nostrums. I didn't find that, but I did find an editorial in the June 1923 issue with the title ["Quacks and Suckers"](https://gsr.lib.msu.edu/1920s/1923/2306158.pdf).
 
-[![table of contents of june 1923 gsr](/media/quacks.jpg)](https://gsr.lib.msu.edu/1920s/1923/index.htm#June)
+[![table of contents of june 1923 gsr](quacks.jpg)](https://gsr.lib.msu.edu/1920s/1923/index.htm#June)
 
 The USGA Green Committee at that time was filled with familar names. Piper of course was the Chairman, his colleague Dr. R.A. Oakley was Vice-Chairman, and storied names such as Hugh I. Wilson from Merion Cricket Club, Dr. Walter S. Harban from Columbia Country Club, William C. Fownes, Jr. from Oakmont Country Club, William F. Brooks from Minikahda Club, Alan D. Wilson from Pine Valley Golf Club, and Norman Macbeth from Wilshire Country Club, were also on the committee.
 

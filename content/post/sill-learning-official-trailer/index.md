@@ -1,6 +1,6 @@
 ---
 date: "2020-11-29T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/stars.jpg
+share-media: https://www.asianturfgrass.comstars.jpg
 tags:
 - Seminar
 - Video

@@ -1,6 +1,6 @@
 ---
 date: "2018-09-13T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/pebble8910.jpg
+share-media: https://www.asianturfgrass.compebble8910.jpg
 subtitle: Topdressing, more about topdressing, all kinds of videos, growth rates,
   wetting agents, tournament golf & superintendent recognition, history, one wish,
   and a lot more

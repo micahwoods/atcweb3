@@ -1,6 +1,6 @@
 ---
 date: "2018-09-15T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/icpp2018_slide_tray.png
+share-media: https://www.asianturfgrass.comicpp2018_slide_tray.png
 subtitle: From the International Congress of Plant Pathology in Boston, in the session
   about Precision Turf and Ornamental Disease Management in the 21st Century
 tags:

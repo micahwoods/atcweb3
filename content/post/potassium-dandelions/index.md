@@ -1,6 +1,6 @@
 ---
 date: "2019-12-25T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/taraxacum.jpg
+share-media: https://www.asianturfgrass.comtaraxacum.jpg
 tags:
 - potassium
 - mlsn
@@ -12,7 +12,7 @@ title: Dandelions and potassium
 
 A friend gave me a beautiful card yesterday and wrote "perhaps you can use this *Taraxacum officinale* [dandelion] in some capacity."
 
-![taraxacum officinale card](/media/taraxacum.jpg)
+![taraxacum officinale card](taraxacum.jpg)
 
 I certainly can. 
 
@@ -30,9 +30,9 @@ Here's some more from the Discussion section of Tilman et al.:
 
 > Such adjustments might be best achieved by not adding the resource for which the weedy species is an inferior competitor but by adding one or more other limiting resources. Interestingly, fertilization with just [ammonium sulfate] at Park Grass (Plot 1, unlimed) led to an amazingly lawn-like vegetation that was 62% **Agrostis tenuis** (bent grass), 29% **Festuca rubra** (red fescue), 5% other perennial grasses, and that had no **Taraxacum** and only 5% of biomass from other forbs.
 
-![park grass plot 1d](/media/park_grass_1d_june2015.jpg)
+![park grass plot 1d](park_grass_1d_june2015.jpg)
 <small><strong>Plot 1d is the "Plot 1, unlimed ... amazingly lawn-like vegetation;" this photo was taken in June 2015.</strong></small> 
 
 This reminds me of MacKenzie's fundamental principle of greenkeeping.
 
-![mackenzie's fundamental principle of greenkeeping](/media/mackenzie_fundamental_principle.png)
+![mackenzie's fundamental principle of greenkeeping](mackenzie_fundamental_principle.png)

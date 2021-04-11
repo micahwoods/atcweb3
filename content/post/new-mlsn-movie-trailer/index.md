@@ -1,10 +1,10 @@
 ---
 bigmedia:
-- /media/yongling1.jpg: MLSN movie set at Yongling Beach, Thailand
-- /media/yongling2.jpg: MLSN movie set at Yongling Beach, Thailand
-- /media/yongling0.png: on the MLSN movie set in Thailand
+- yongling1.jpg: MLSN movie set at Yongling Beach, Thailand
+- yongling2.jpg: MLSN movie set at Yongling Beach, Thailand
+- yongling0.png: on the MLSN movie set in Thailand
 date: "2018-11-17T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/yongling0.png
+share-media: https://www.asianturfgrass.comyongling0.png
 tags:
 - mlsn
 - video

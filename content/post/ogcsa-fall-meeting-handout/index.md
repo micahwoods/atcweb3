@@ -1,6 +1,6 @@
 ---
 date: "2019-11-05T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/ogcsa_handout.jpg
+share-media: https://www.asianturfgrass.comogcsa_handout.jpg
 tags:
 - seminar
 title: Handout for the OGCSA fall meeting

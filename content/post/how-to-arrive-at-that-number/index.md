@@ -31,6 +31,6 @@ Now we multiply the total clipping yield by the percentage of each element in th
 * 0.12 pounds of S
 * less that 0.006 lbs of each of the micronutrients (this is why [I don't worry about micronutrients](http://www.blog.asianturfgrass.com/2017/01/why-i-dont-worry-about-micronutrients.html))
 
-![mlsn cheat sheet image](/media/mlsn_cheat_sheet1.png)
+![mlsn cheat sheet image](mlsn_cheat_sheet1.png)
 
 

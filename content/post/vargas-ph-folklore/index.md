@@ -1,6 +1,6 @@
 ---
 date: "2020-04-10T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/tractor.jpg
+share-media: https://www.asianturfgrass.comtractor.jpg
 tags:
 - soil testing
 - ph

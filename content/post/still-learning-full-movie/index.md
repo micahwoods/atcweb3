@@ -1,6 +1,6 @@
 ---
 date: "2020-12-08T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/still_learning_video.jpg
+share-media: https://www.asianturfgrass.comstill_learning_video.jpg
 tags:
 - Video
 - Seminar

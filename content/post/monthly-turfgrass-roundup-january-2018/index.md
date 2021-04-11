@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/paspalum_kradan.jpg: seashore paspalum at Ko Kradan, Thailand
+- paspalum_kradan.jpg: seashore paspalum at Ko Kradan, Thailand
 date: "2018-02-08T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/paspalum_kradan.jpg
+share-media: http://www.asianturfgrass.compaspalum_kradan.jpg
 subtitle: Frost, turf Twitter analysis, fairway stripes, MLSN, why fertilize?, golf
   adaptation, traditions of golf course design, dollar spot models, turfgrass diseases,
   and much more

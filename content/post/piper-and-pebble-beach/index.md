@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/pebble8910.jpg: Pebble Beach Golf Links, California
+- pebble8910.jpg: Pebble Beach Golf Links, California
 date: "2018-08-20T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/pebble8910.jpg
+share-media: https://www.asianturfgrass.compebble8910.jpg
 tags:
 - turf tourism
 title: Piper and Pebble Beach
@@ -10,11 +10,11 @@ title: Piper and Pebble Beach
 
 Last week I was in California for the U.S. Amateur Championship at Pebble Beach. I was running on a trail in the [Del Monte Forest](https://en.wikipedia.org/wiki/Del_Monte_Forest,_California) on Saturday when I came to an open area called *The Meadow*.
 
-![trail in Del Monte Forest](/media/trail_del_monte.jpg)
+![trail in Del Monte Forest](trail_del_monte.jpg)
 
 Beside the trail there you can see this marker, noting that the trail is dedicated to Vern Yadon. 
 
-![yadon piperia marker](/media/yadon.jpg)
+![yadon piperia marker](yadon.jpg)
 
 As I was reading the plaque, I saw that Yadon has a species of *Piperia* named after him---[*Piperia yadonii*](https://en.wikipedia.org/wiki/Piperia_yadonii). The genus *Piperia* is named for Charles Vancouver Piper, the first chairman of the USGA Green Section.
 

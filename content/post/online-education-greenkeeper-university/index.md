@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/greenkeeper_uni.jpg: some GreenKeeper University instructors
+- greenkeeper_uni.jpg: some GreenKeeper University instructors
 date: "2019-11-08T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/greenkeeper_uni.jpg
+share-media: https://www.asianturfgrass.comgreenkeeper_uni.jpg
 tags:
 - seminar
 - education

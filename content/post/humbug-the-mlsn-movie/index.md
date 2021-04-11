@@ -1,6 +1,6 @@
 ---
 date: "2018-11-29T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/humbug_shoot.jpg
+share-media: https://www.asianturfgrass.comhumbug_shoot.jpg
 tags:
 - mlsn
 - video

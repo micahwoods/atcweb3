@@ -1,6 +1,6 @@
 ---
 date: "2018-12-03T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/golforce.jpg
+share-media: https://www.asianturfgrass.comgolforce.jpg
 subtitle: 'Seminars, slides, podcasts, #ClipVol, #MLSN, bent vs. Poa, robot mowers,
   open access articles, and more'
 tags:

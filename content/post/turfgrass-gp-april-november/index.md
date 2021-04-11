@@ -1,6 +1,6 @@
 ---
 date: "2020-04-30T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/angc_9_1.jpg
+share-media: https://www.asianturfgrass.comangc_9_1.jpg
 tags:
 - greenkeeping
 - growth potential
@@ -10,19 +10,19 @@ title: Temperature-based growth potential (GP) in April and November
 
 I've sometimes explained the [temperature-based turfgrass growth potential (GP)](https://www.blog.asianturfgrass.com/2014/07/number-between-1-0-using-the-turfgrass-growth-potential.html) of [PACE Turf](https://www.paceturf.org/) in relation to the grass conditions at the Masters Tournament.
 
-![view from behind 9 green at Augusta National GC during the Masters Tournament](/media/angc_9_1.jpg)
+![view from behind 9 green at Augusta National GC during the Masters Tournament](angc_9_1.jpg)
 
 The playing conditions at the Masters are superb, and the cool-season grass in that season is growing at near optimum temperatures. When the right work is done to prepare the surfaces, the weather is such in April that the cool-season grass can grow well.
 
 I looked up the weather data for Bush Field Airport in Augusta for the past 30 years. Then I calculated the cool-season grass (C<sub>3</sub>) GP for each day of the past 30 Masters Tournaments.
 
-![30 years of GP in April in Augusta](/media/bush_field_gp.png)
+![30 years of GP in April in Augusta](bush_field_gp.png)
 
 That's pretty pleasant grass-growing (and golf-playing) weather. Some years stand out---I recall 2007 as an especially chilly year.
 
 Taking average temperatures for each week, and then calculating the GP, one can see how the weekly GP has tended to be in the second week of April.
 
-![30 years of weekly GP in April in Augusta](/media/bush_field_gp_weekly.png)
+![30 years of weekly GP in April in Augusta](bush_field_gp_weekly.png)
 
 For the week of the Masters Tournament from 1990 to 2019, the average temperature at Bush Field has been 16.9 °C (62 °F). That temperature corresponds to a cool-season GP of 0.85 (85%). 
 

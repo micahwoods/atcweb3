@@ -1,6 +1,6 @@
 ---
 date: "2018-07-24T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/mtt_nov.jpg
+share-media: https://www.asianturfgrass.commtt_nov.jpg
 tags:
 - thailand
 - football

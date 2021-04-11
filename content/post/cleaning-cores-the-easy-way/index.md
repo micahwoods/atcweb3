@@ -1,9 +1,9 @@
 ---
 bigmedia:
-- /media/sweeper_keya_10.jpg: sweeper collecting cores immediately after coring
-- /media/sweeper_sugar_cane.jpg: recording the core sweeper video at ATC南店
+- sweeper_keya_10.jpg: sweeper collecting cores immediately after coring
+- sweeper_sugar_cane.jpg: recording the core sweeper video at ATC南店
 date: "2019-09-16T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/sweeper_keya_10.jpg
+share-media: https://www.asianturfgrass.comsweeper_keya_10.jpg
 tags:
 - japan
 - equipment

@@ -1,6 +1,6 @@
 ---
 date: "2020-04-19T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/clegg_density.png
+share-media: https://www.asianturfgrass.comclegg_density.png
 tags:
 - greenkeeping
 - playability
@@ -13,7 +13,7 @@ Yesterday I wrote about [tools](https://www.asianturfgrass.com/2020-04-18-surfac
 
 This is a summary of Clegg measurements I've made since 2011, excluding measurements from professional tournaments.
 
-![summary of clegg measurements on putting greens since 2011](/media/clegg_density.png)
+![summary of clegg measurements on putting greens since 2011](clegg_density.png)
 
 Serangoon is *Digitaria didactyla*, also called blue couch. Korai is manilagrass, *Zoysia matrella*. 
 

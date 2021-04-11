@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/btme_snow.jpg: Harrogate, January
+- btme_snow.jpg: Harrogate, January
 date: "2018-01-24T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/btme_snow.jpg
+share-media: http://www.asianturfgrass.combtme_snow.jpg
 tags:
 - seminar
 - bigga

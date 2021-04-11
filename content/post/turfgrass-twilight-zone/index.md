@@ -19,4 +19,4 @@ I came across other remarks in the 1952 report that are interesting and perhaps 
 * research programs will do well to determine "MINIMUM REQUIREMENTS" in everything. Those were *their* capital letters too, not mine.
 * and the wonderful "Twilight Zone" comments, for what we today call the "transition zone"
 
-![quotes from 1952 turf committee report in Agronomy Journal](/media/twilight1952.png)
+![quotes from 1952 turf committee report in Agronomy Journal](twilight1952.png)

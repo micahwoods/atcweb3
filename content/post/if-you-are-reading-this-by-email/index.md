@@ -1,6 +1,6 @@
 ---
 date: "2018-02-13T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/blog_email_page.png
+share-media: http://www.asianturfgrass.comblog_email_page.png
 tags:
 - turf info
 - web/tech
@@ -13,7 +13,7 @@ This blog e-mail update is the most frequent of the e-mails from ATC. I checked 
 
 If you would like to sign up to that, you can [do so here](http://www.subscribepage.com/atc_blog_email).
 
-[<media src="http://www.asianturfgrass.com/media/blog_email_page.png">](http://www.subscribepage.com/atc_blog_email)
+[<media src="http://www.asianturfgrass.comblog_email_page.png">](http://www.subscribepage.com/atc_blog_email)
 
 ATC has less frequent newsletters as well.
 

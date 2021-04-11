@@ -1,6 +1,6 @@
 ---
 date: "2020-04-15T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/riopelle_turf_rec.jpg
+share-media: https://www.asianturfgrass.comriopelle_turf_rec.jpg
 tags:
 - turfreads
 - mlsn
@@ -11,7 +11,7 @@ title: No magic bullets in plant nutrition
 
 Jim Riopelle wrote an excellent article in the January/February issue of [Turf & Rec](https://mydigitalpublication.com/publication/?i=649547&ver=html5&p=21) magazine.
 
-[![title of Riopelle article on the state of golf: a super's outlook](/media/riopelle_turf_rec.jpg)](https://mydigitalpublication.com/display_article.php?id=3599146&view=649547)
+[![title of Riopelle article on the state of golf: a super's outlook](riopelle_turf_rec.jpg)](https://mydigitalpublication.com/display_article.php?id=3599146&view=649547)
 
 You'll want to read the full article. Here are a few quotes:
 

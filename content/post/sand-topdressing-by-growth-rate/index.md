@@ -1,6 +1,6 @@
 ---
 date: "2020-05-01T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/topdress_3locs.jpg
+share-media: https://www.asianturfgrass.comtopdress_3locs.jpg
 tags:
 - topdress
 - sand
@@ -17,7 +17,7 @@ Does this sound about right?
 
 That works out to be 1 mm of sand applied---you know I think depth is the [most convenient unit for expression of sand topdressing amount](https://www.asianturfgrass.com/2019-08-08-three-reasons-sand-depth/)---for every 1 L of [ClipVol](https://www.asianturfgrass.com/tags/#clipvol). I'm using the square meter as the area. One liter in volume spread over 1 square meter is 1 mm in depth.
 
-![three sand topdressing applications](/media/topdress_3locs.jpg)
+![three sand topdressing applications](topdress_3locs.jpg)
 
 You might be familiar with the growth potential predictions of sand topdressing amount. These were developed by [PACE Turf](https://www.paceturf.org/).
 

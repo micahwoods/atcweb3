@@ -1,6 +1,6 @@
 ---
 date: "2017-07-27T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/indica_bangkok_lawn.jpg
+share-media: http://www.asianturfgrass.comindica_bangkok_lawn.jpg
 subtitle: I'll be speaking about Turf Around the World, and Leaves of Grass, in Idaho
 tags:
 - Seminar
@@ -41,4 +41,4 @@ This now starts to be more common in [other places too](https://twitter.com/alts
 
 I'll explain in this presentation how the clippings are collected, what the point of the extra work is, and how the data collected can be put to use. And I'll share some summary data about what is typical in terms of clipping volume and clipping volume variation.
 
-![clipping volume from 9 sites](/media/clipping_volume.svg)
+![clipping volume from 9 sites](clipping_volume.svg)

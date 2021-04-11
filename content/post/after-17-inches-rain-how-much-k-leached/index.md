@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/rain_12_keya.jpg: rainy day in Fukuoka, Japan
+- rain_12_keya.jpg: rainy day in Fukuoka, Japan
 date: "2018-08-03T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/rain_pg.jpg
+share-media: https://www.asianturfgrass.comrain_pg.jpg
 subtitle: Or, cation exchange capacity really works
 tags:
 - soil test
@@ -17,7 +17,7 @@ When I was at Keya GC last month for the Japan Amateur Championship, it rained a
 
 [Andrew McDaniel](https://twitter.com/drumcturf) suggested that it would be interesting to see how much potassium (K) remained in the soil after that much rain.
 
-![micah and king on 11 green in rain](/media/king_11.jpg)
+![micah and king on 11 green in rain](king_11.jpg)
 
 We've been interested in this for a while: see [I'd be applying potassium all the time](http://www.blog.asianturfgrass.com/2015/10/applying-potassium-all-the-time-part1.html) for some background. 
 
@@ -36,7 +36,7 @@ And I don't include in my calculations the K removed by verticutting (twice, I t
 
 Not bad. It seems that cation exchange capacity is really a thing. 
 
-![rain on pg at keya](/media/rain_pg.jpg)
+![rain on pg at keya](rain_pg.jpg)
 
 
 

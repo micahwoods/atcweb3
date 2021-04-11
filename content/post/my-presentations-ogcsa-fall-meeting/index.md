@@ -1,6 +1,6 @@
 ---
 date: "2019-11-07T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/micah_akoni.jpg
+share-media: https://www.asianturfgrass.commicah_akoni.jpg
 tags:
 - seminar
 title: My presentations at the Oregon GCSA fall meeting

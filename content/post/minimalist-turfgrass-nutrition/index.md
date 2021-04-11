@@ -1,6 +1,6 @@
 ---
 date: "2017-11-27T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/saitama_topdress.jpg
+share-media: https://www.asianturfgrass.comsaitama_topdress.jpg
 tags:
 - seminar
 - fertilizer

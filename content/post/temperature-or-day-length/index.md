@@ -1,10 +1,10 @@
 ---
 bigmedia:
-- /media/temperature_4locs.png: ""
-- /media/4loc_day_length.png: ""
-- /media/keya_18_2gatsu.jpg: Keya GC in mid-February
+- temperature_4locs.png: ""
+- 4loc_day_length.png: ""
+- keya_18_2gatsu.jpg: Keya GC in mid-February
 date: "2019-03-17T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/fukuoka_annotated3.png
+share-media: https://www.asianturfgrass.comfukuoka_annotated3.png
 tags:
 - climate
 - temperature
@@ -17,19 +17,19 @@ Andrew McDaniel asked me if day length or temperature has a bigger effect on zoy
 
 I geocoded the locations of Keya GC in Fukuoka Japan; Blessings GC in Fayetteville, Arkansas; Vestavia CC in Birmingham, Alabama; and Augusta CC in Augusta, Georgia. One can calculate day length from latitude and day of the year. Keya and Vestavia and Augusta are at almost identical latitudes.
 
-![day length](/media/4loc_day_length.png)
+![day length](4loc_day_length.png)
 
 I told Andrew to please check the chart and see if the grass going dormant or waking from dormancy seems to coincide with certain day lengths.
 
 Then I looked up the temperature data for those locations using [Dark Sky](https://darksky.net). To check that the Dark Sky temperature data are accurate, I compared temperatures from the JMA (Japan Meteorological Agency) station at Maebaru, which is the closest JMA station to Keya GC, with the Dark Sky data for the latitude and longitude coordinates of the Keya clubhouse. 
 
-![keya dark sky vs maebaru jma temperature data](/media/fukuoka_annotated3.png)
+![keya dark sky vs maebaru jma temperature data](fukuoka_annotated3.png)
 
 That looks pretty good.
 
 I then got the temperature data from January 1 of 2018, up until yesterday, for each of the geolocated golf courses. 
 
-![temperatures 4 locations](/media/temperature_4locs.png)
+![temperatures 4 locations](temperature_4locs.png)
 
 Temperature seems to match the dormancy period pretty well, and as far as I can tell this is sufficient to explain when the zoysia will go dormant or will break dormancy. If anyone knows otherwise, please correct me. 
 

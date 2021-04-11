@@ -1,6 +1,6 @@
 ---
 date: "2019-11-25T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/micah2.jpg
+share-media: https://www.asianturfgrass.commicah2.jpg
 tags:
 - philippines
 - mlsn
@@ -19,13 +19,13 @@ I spoke about a [continuous improvement system for turfgrass](https://vimeo.com/
 
 In the presentation, I mentioned the article [A Year of Measuring Putting Green Performance](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/article/hartwiger-year-11-1-19.pdf) by Chris Hartwiger.
 
-![nutranta seminar outdoors](/media/outdoor.jpg)
+![nutranta seminar outdoors](outdoor.jpg)
 <small><strong>Speaking with delegates while checking the demonstration green at the Aoki Course at Eagle Ridge GC.</strong></small>
 
-![micah woods at nutranta 2019 seminar](/media/micah2.jpg)
+![micah woods at nutranta 2019 seminar](micah2.jpg)
 <small><strong>Talking about a surprisingly simple system to optimize turf performance.</strong></small>
 
-![nutranta seminar 2019 group](/media/group.jpg)
+![nutranta seminar 2019 group](group.jpg)
 <small><strong>Most of the Nutranta Best Practices seminar delegates on the front steps of the Eagle Ridge Aoki course clubhouse steps.</strong></small>
 
 In the video I put together today I rushed through these topics. During the seminar I spoke for a more leisurely 45 minutes about these same things, and then [Andrew McDaniel](https://twitter.com/asianturfgrass/status/1198772920258113537?s=20), the greenkeeper and assistant general manager of Keya GC in Japan, spoke about his work.

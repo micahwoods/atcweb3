@@ -1,6 +1,6 @@
 ---
 bigmedia:
-- /media/hakone.jpg: noshiba fairways and bentgrass greens, Kanagawa, Japan
+- hakone.jpg: noshiba fairways and bentgrass greens, Kanagawa, Japan
 date: "2018-01-10T00:00:00Z"
 share-media: https://c1.staticflickr.com/5/4635/39361562101_9463a7da53_b_d.jpg
 subtitle: Drought, potassium, seaweed extracts, year-end lists and reviews, unique

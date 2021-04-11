@@ -1,6 +1,6 @@
 ---
 date: "2019-09-29T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/micah_iceland_seminar.jpg
+share-media: https://www.asianturfgrass.commicah_iceland_seminar.jpg
 tags:
 - mlsn
 - soil test

@@ -1,6 +1,6 @@
 ---
 date: "2020-01-29T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/micah_11_green_keya.jpg
+share-media: https://www.asianturfgrass.commicah_11_green_keya.jpg
 tags:
 - soil testing
 title: The amount of potassium leached after rain on 10 of 11 days
@@ -12,7 +12,7 @@ Samples were taken on 21 August, just before the start of the [KBC Augusta Tourn
 
 Then it rained a lot---a total of 374 mm (14.7 inches) fell between 21 August and the time another soil sample was collected on 1 September. There was rain on 10 of those 11 days between samplings, averaging 34 mm per day (1.33 inches per day).
 
-![11 green at Keya](/media/micah_11_green_keya.jpg)
+![11 green at Keya](micah_11_green_keya.jpg)
 <small><strong>The 11<sup>th</sup> green at Keya GC on 27 August 2019.</strong></small>
 
 So what happened with the soil K? Did a lot of it leach? 

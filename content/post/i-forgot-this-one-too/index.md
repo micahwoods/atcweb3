@@ -1,6 +1,6 @@
 ---
 date: "2019-11-13T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/drew_barley.png
+share-media: https://www.asianturfgrass.comdrew_barley.png
 tags:
 - science
 - article

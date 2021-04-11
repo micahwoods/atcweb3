@@ -20,6 +20,6 @@ It's interesting that LinkedIn is not even on the poll, but that is supposed to 
 
 I prefer Twitter. By a landslide. Of all the visits to [www.blog.asianturfgrass.com](http://www.blog.asianturfgrass.com/), 65% come from social media. And of those coming from some type of social media, 87% are from Twitter. And about 80% of the visits to [www.asianturfgrass.com](http://www.asianturfgrass.com/) are through some type of social media, and 71% of those are from Twitter. 
 
-![visits to ATC by social media source](/media/site_visits.svg)
+![visits to ATC by social media source](site_visits.svg)
 
 I share ATC posts on a range of social media platforms, but it is really only from Twitter that vistors click to visit the ATC sites.

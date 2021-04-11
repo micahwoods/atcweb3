@@ -1,6 +1,6 @@
 ---
 date: "2020-12-12T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/flying_blind_trailer.jpg
+share-media: https://www.asianturfgrass.comflying_blind_trailer.jpg
 tags:
 - Video
 - Seminar

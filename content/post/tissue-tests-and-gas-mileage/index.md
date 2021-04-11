@@ -1,6 +1,6 @@
 ---
 bigmedia:
-- /media/white_leaf.jpg: bermudagrass white leaf, Vietnam
+- white_leaf.jpg: bermudagrass white leaf, Vietnam
 date: "2018-04-30T00:00:00Z"
 share-media: https://c1.staticflickr.com/7/6164/6149841783_d0779392fb_b_d.jpg
 tags:

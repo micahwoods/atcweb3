@@ -1,9 +1,9 @@
 ---
 bigmedia:
-- /media/topdress_atc.jpg: application of sand topdressing to a research green
-- /media/tdress2.jpg: sand topdressing in Japan reported as depth of sand
+- topdress_atc.jpg: application of sand topdressing to a research green
+- tdress2.jpg: sand topdressing in Japan reported as depth of sand
 date: "2019-08-08T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/topdress_atc.jpg
+share-media: https://www.asianturfgrass.comtopdress_atc.jpg
 tags:
 - organic matter
 - sand
@@ -42,10 +42,10 @@ I prefer depth for the three reasons listed above. Depth is directly related to 
 
 Like the surprisingly useful [#clipvol](https://twitter.com/search?q=%23Clipvol), sand topdressing by depth is another thing I've learned from greenkeepers in Japan.
 
-![sand topdressing reported as depth](/media/tdress1.jpg)
+![sand topdressing reported as depth](tdress1.jpg)
 <small><strong>This golf course reported topdressing of 0.4 mm in March, 0.3 mm in April, 2 mm in May, through to 0.3 mm in December. There was a total of 8.7 mm applied in 21 applications.</strong></small>
 
-![sand topdressing as depth 2](/media/tdress2.jpg)
+![sand topdressing as depth 2](tdress2.jpg)
 <small><strong>This golf course reported 7.1 mm sand added in 12 applications during the year.</strong></small>
 
 For more see:

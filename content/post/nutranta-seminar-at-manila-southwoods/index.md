@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/nutranta_nov.jpg: Nutranta seminar in November 2018 at Manila Southwoods
+- nutranta_nov.jpg: Nutranta seminar in November 2018 at Manila Southwoods
 date: "2018-11-21T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/nutranta_room.jpg
+share-media: https://www.asianturfgrass.comnutranta_room.jpg
 tags:
 - seminar
 - philippines
@@ -14,7 +14,7 @@ title: Nutranta seminar at Manila Southwoods
 
 Yesterday I spoke with a group of turfgrass managers in the Philippines at the Nutranta Turf Science in Action seminar.
 
-![seminar room](https://www.asianturfgrass.com/media/nutranta_room.jpg)
+![seminar room](https://www.asianturfgrass.comnutranta_room.jpg)
 
 I talked about plant growth regulator (PGR) use in a tropical environment and what to expect when using PGRs---especially trinexapac-ethyl---in the Philippines.
 
@@ -28,4 +28,4 @@ I also spoke about putting surface performance and how a measurement of *all* th
 
 I expect to have videos of these presentations and will share those when they are available.
 
-![with golforce staff](https://www.asianturfgrass.com/media/golforce.jpg)
+![with golforce staff](https://www.asianturfgrass.comgolforce.jpg)

@@ -23,7 +23,7 @@ Sure, there's one case where zoysia may use less water than bermuda. The reason 
 
 Here is a photo of green bermudagrass (*Cynodon dactylon*) in a turf of dormant manilagrass (*Zoysia matrella*) during the dry season in Thailand. With the same amount of soil moisture, the bermudagrass remains green and the manilagrass is dormant.
 
-![dormant manilagrass with green bermudagrass in dry soil](/media/green_bermuda_dormant_zoysia.jpg)
+![dormant manilagrass with green bermudagrass in dry soil](green_bermuda_dormant_zoysia.jpg)
 
 For more information, see these posts. They have photos of the difference between berudagrass and zoysiagrass when irrigation is restricted or rainfall is limited. The posts also link to research articles that make direct comparisons between zoysiagrass and bermudagrass. Bermudagrass outperforms zoysiagrass in drought conditions every time.
 

@@ -1,12 +1,12 @@
 ---
 bigmedia:
-- /media/soil_health_lab.jpg: sign at Brookside Labs, Ohio
-- /media/aug_bentgrass.jpg: bentgrass on a lawn in Washington
-- /media/vermi_th_small.jpg: vermicompost in Thailand
-- /media/too_much_om.jpg: too much organic matter near the soil surface caused by an
+- soil_health_lab.jpg: sign at Brookside Labs, Ohio
+- aug_bentgrass.jpg: bentgrass on a lawn in Washington
+- vermi_th_small.jpg: vermicompost in Thailand
+- too_much_om.jpg: too much organic matter near the soil surface caused by an
     uncontrolled growth rate
 date: "2019-02-18T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/atc_soil.jpg
+share-media: https://www.asianturfgrass.comatc_soil.jpg
 tags:
 - soil
 - soil test
@@ -53,12 +53,12 @@ Three more things come to mind on this topic.
  
 One is what I've observed in my career; I've grown, and seen grown, a lot of fine turfgrasses using "well-established agronomic principles." Off the top of my head, I can't think of a case where those principles didn't work.
  
-![composite media of grass at ATC](/media/atc_soil.jpg)
+![composite media of grass at ATC](atc_soil.jpg)
 <small><strong>Warm-season grasses were grown at the ATC research facility in central Thailand on a variety of soil types from 2006 to 2009. The grasses thrived in all soil types by applying well-established agronomic principles. No fungicides, insecticides, or herbicides were required.</strong></small>
  
 Second, I think the growth rate of the grass is important. And when one makes adjustments to the growth rate, a lot of good things happen. I've written about that in [data to support an anecdote](https://www.blog.asianturfgrass.com/2016/05/data-to-support-an-anecdote.html), and the results described there are a combination of what Zuberer has advised, and careful attention to the growth rate. 
  
-![sign at entrance to brookside soil health lab](/media/soil_health_lab.jpg)
+![sign at entrance to brookside soil health lab](soil_health_lab.jpg)
 <small><strong>Sign at the entrance to the soil health lab at Brookside Labs in Ohio.</strong></small>
  
 Third, if you are interested in this and want to measure biological and chemical characteristics of your soil, you might want to order a [soil health test](https://www.blinc.com/services/soil-analysis/soil-health). With this test, you will be able to check the effect of modifications to the turf and soil management practices. 

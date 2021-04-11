@@ -70,7 +70,7 @@ Take home message: understand threshold salinity levels that might cause problem
 
 That's kind of the problem, although I like to think of it more in terms of salinity reduces the availability of water to the grass, and because of that it reduces the growth rate of the grass. Here are two technical descriptions of this from textbooks:
 
-![salinity textbook quote definitions](/media/salinity.png)
+![salinity textbook quote definitions](salinity.png)
 
 Take home message: understand what salinity does, and (going back to the point I made above), be sure to know the difference between salinity and sodicity.
 

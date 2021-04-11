@@ -1,6 +1,6 @@
 ---
 date: "2017-12-02T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/fifty_si.png
+share-media: http://www.asianturfgrass.comfifty_si.png
 tags:
 - seminar
 - soil test
@@ -21,11 +21,11 @@ When we developed the MLSN guidelines -- [see all the details and the data here]
 
 If we had chosen the average value to set as the minimum, these would be the numbers. With an SI of 0.5, the MLSN guidelines would be, for K, P, Ca, Mg, and S respectively, 73, 55, 550, 83, and 19 ppm.
 
-![the average value for MLSN data](/media/fifty_si.png)
+![the average value for MLSN data](fifty_si.png)
 
 If we look at the conventional guidelines for those same elements, at the bottom of the high range the SI is 0.82, 0.5, 0.82, 0.81, and 0.85. 
 
-![the slan value compared to MLSN data](/media/slan.png)
+![the slan value compared to MLSN data](slan.png)
 
 The MLSN guideline is set at the 0.1 level. That is, 10% of soils producing good turf are expected to have that element at a level below MLSN.
 

@@ -1,6 +1,6 @@
 ---
 date: "2017-08-16T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/minchinhampton_cow.jpg
+share-media: http://www.asianturfgrass.comminchinhampton_cow.jpg
 tags:
 - Seminar
 - BIGGA

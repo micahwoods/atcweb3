@@ -36,7 +36,7 @@ Martin Nilsson showed ["the maximum in funny looking golf course"](https://twitt
 
 [The Sodfathers](https://soundcloud.com/user-376549797) started podcasting too. This is from "a couple of turf students with a new podcast coming with a comedic take on the green industry." 
 
-[The GCSAA](https://www.gcsaa.org/media/listen-to-the-gcsaa-podcast) started a podcast too.
+[The GCSAA](https://www.gcsaa.orglisten-to-the-gcsaa-podcast) started a podcast too.
 
 Dave Wilber and Kevin Ross had a [Turfhead Jam Session](https://www.turfnet.com/blogs/entry/1797-turfhead-jam-session-with-kevin-ross-session-number-1/).
 

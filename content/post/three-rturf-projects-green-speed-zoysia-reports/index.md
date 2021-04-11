@@ -1,6 +1,6 @@
 ---
 date: "2020-08-26T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/wana_178_days.jpg
+share-media: http://www.asianturfgrass.comwana_178_days.jpg
 tags:
 - rturf
 - clipvol
@@ -36,16 +36,16 @@ My interest in [clipping volume](https://www.asianturfgrass.com/buckets/) starte
 
 It's not clear what the magnitude of this effect is, or how consistent it is, or if it is meaningful, and Bill Kreuser has pointed out a few times that there are situations where one finds no effect. 
 
-![](/media/stimp_album.jpg)
+![](stimp_album.jpg)
 <small><strong>Contemplating green speed and clipping volume during the 2019 KPMG Women's PGA Championship</strong></small>
 
 I've been thinking about this for a while, and I made some notes about it in 2019. 
 
-![](/media/notebook_clipvol.jpg)
+![](notebook_clipvol.jpg)
 
 I also made a simple model last year, looking at the slopes of lines that varied by date during the second half of June 2019, with the slope of the line showing whether the green speed was going up or going down on greens that had the same treatments of mowing and rolling but varied in clipping volume.
 
-![](/media/volSpeed.jpg)
+![](volSpeed.jpg)
 
 I hadn't looked at this project for 13 months, and I've gotten started with it again in the first rturf posts. I've looked at:
 
@@ -82,11 +82,11 @@ I've shown that zoysia [responds to fertilizer](https://www.asianturfgrass.com/2
 
 I've continued that project with manilagrass (*Zoysia matrella*) planted as two node rhizomes at the end of February in a river sand. After a week, the pot receiving N, P, and K looked like this. Each pot started as basically nothing---just two nodes on a rhizome.
 
-![](/media/wana_1week.jpg)
+![](wana_1week.jpg)
 
 After 178 days, this is what the pots look like. The one that hasn't received any fertilizer isn't dead, but it hasn't established nearly as much as the pot that got N, and that one didn't establish as well as the ones that got N and P, or N, P, and K.
 
-![](/media/wana_178_days.jpg)
+![](wana_178_days.jpg)
 
 It seems obvious that nutrient demand, and consequently grass response to supplied (or to withheld) nutrients, will be related to the grasses' potential to grow in that particular growing environment. Mike Richardson has shown that zoysia *doesn't* have much response to nutrient additions at planting in Arkansas. 
 

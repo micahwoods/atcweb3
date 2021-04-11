@@ -1,6 +1,6 @@
 ---
 date: "2019-03-08T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/salt_flocculate.jpg
+share-media: https://www.asianturfgrass.comsalt_flocculate.jpg
 tags:
 - soil test
 title: Regarding how soil tests work
@@ -32,7 +32,7 @@ So we are going to have a soil, or a range of different soils from all over a co
 
 By soil test I actually mean "extracting solution", although other things may vary also such as shaking time and ratio of soil sample to extracting solution.
 
-![soil mixed with two salt solutions](/media/salt_flocculate.jpg)
+![soil mixed with two salt solutions](salt_flocculate.jpg)
 <small><strong>Soil samples (at left) mixed with a calcium chloride solution and (at right) with a sodium chloride solution, showing the difference in clay flocculation depending on the salt in solution.</strong></small>
 
 Water as an extractant is only going to return the potassium that is in soil solution or would easily be in soil solution. It gets none of the K on exchange sites in the soil and none of the insoluble K.
@@ -57,7 +57,7 @@ The typical test results you see are going to represent 100% of what is in soil 
 
 When you get to micronutrients, which have a different chemistry and are not on cation exchange sites, or P, which is not on cation exchange sites, then it isn't as clear to explain just what the number means.
 
-![media of a Fe chart](/media/fe_chart_example.png)
+![media of a Fe chart](fe_chart_example.png)
 
 If I have a soil test for iron from the Mehlich 3 extractant, for example, how do I go about interpreting it? I've attached a chart of data with Mehlich 3 iron results for one of ATC's soil testing clients. It's in Japanese, but if you understand it to be iron from putting greens in ppm over a multi-year period I don't think the language difference will throw you too much.
 

@@ -1,6 +1,6 @@
 ---
 date: "2020-06-24T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/kreuser_2x_growth.jpg
+share-media: https://www.asianturfgrass.comkreuser_2x_growth.jpg
 tags:
 - fertilizer
 - mowing
@@ -11,7 +11,7 @@ title: Twice the growth at a different mowing height
 
 Bill Kreuser shared a [fascinating update](https://twitter.com/UNLturf/status/1273627290191069185?s=20) from one of the experiments he is conducting this summer.
 
-[![media of tweet by Bill Kreuser about 2x growth rate](/media/kreuser_2x_growth.jpg)](https://twitter.com/UNLturf/status/1273627290191069185?s=20)
+[![media of tweet by Bill Kreuser about 2x growth rate](kreuser_2x_growth.jpg)](https://twitter.com/UNLturf/status/1273627290191069185?s=20)
 
 I wouldn't have expected to see such a big difference in growth rate with a mowing height difference of 0.04 inches (1 mm). 
 

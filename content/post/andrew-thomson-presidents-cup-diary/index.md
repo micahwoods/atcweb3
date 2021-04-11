@@ -1,6 +1,6 @@
 ---
 date: "2019-12-11T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/rmgc_bunker_splash.jpg
+share-media: https://www.asianturfgrass.comrmgc_bunker_splash.jpg
 tags:
 - australia
 - tournament

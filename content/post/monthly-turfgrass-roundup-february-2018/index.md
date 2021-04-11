@@ -1,6 +1,6 @@
 ---
 bigmedia:
-- /media/mnl_pano.jpg: seashore paspalum at Manila Golf Club
+- mnl_pano.jpg: seashore paspalum at Manila Golf Club
 date: "2018-03-05T00:00:00Z"
 share-media: https://c1.staticflickr.com/5/4401/36934699905_ee7f73082a_b_d.jpg
 subtitle: Microdochium, snow and melting it, naps, sandwiches, taking fun out of golf,

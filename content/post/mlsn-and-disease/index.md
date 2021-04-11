@@ -1,6 +1,6 @@
 ---
 date: "2020-04-21T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/photo2_large_patch.jpg
+share-media: https://www.asianturfgrass.comphoto2_large_patch.jpg
 tags:
 - mlsn
 - disease
@@ -13,7 +13,7 @@ This post was first published at the [TurfDiseases](http://turfdiseases.org/dise
 
 If you want to have a good sward, then you'll need to make sure the grass is supplied with enough nutrients. I suggest that the most effective, logical, and efficient way to do that is by using [MLSN](https://www.asianturfgrass.com/2018-02-03-new-mlsn-cheat-sheet/).
 
-![photo 1 leaf and sheath blight](/media/photo1_leaf_sheath_blight.jpg)
+![photo 1 leaf and sheath blight](photo1_leaf_sheath_blight.jpg)
 <small><strong>Leaf and sheath blight (<i>Rhizoctonia zeae</i>) on ultradwarf bermudagrass</strong></small>
 
 In a soil with low nutrient content, MLSN recommendations will simplify to 100% of grass use—identical to the precision fertilisation method (also known as demand-driven fertilisation) recommended by [STERF](http://www.sterf.org/sv/library/handbooks/fertilisation). In soils with higher nutrient levels, or with varying nutrient content, the MLSN recommendations will account for both the plant demand of nutrients and the soil's ability to supply those nutrients.
@@ -22,7 +22,7 @@ Sounds pretty good, doesn't it? But what about diseases? When I teach seminars a
 
 "What about diseases and MLSN, is there any relation?"
 
-![photo 2 large patch](/media/photo2_large_patch.jpg)
+![photo 2 large patch](photo2_large_patch.jpg)
 <small><strong>Large patch (<i>Rhizoctonia solani</i>) on Japanese lawngrass</strong></small>
 
 The short answer is no. Don't just take my word for it, though. We can hear from others with expertise in this area.

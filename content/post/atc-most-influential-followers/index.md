@@ -22,12 +22,12 @@ This morning, based on [her code from GitHub](https://github.com/ShirinG/blog_po
 
 First I looked at all the accounts that follow asianturfgrass. I added labels to show the 25 accounts with the most followers themselves (2<sup>nd</sup> degree followers) and the 25 accounts with the highest tweet rate (tweets per day, calculated as total number of tweets divided by the number of days since account opening).
 
-![log2 chart of 2nd degree followers vs tweetRate](/media/atc_followers.svg)
+![log2 chart of 2nd degree followers vs tweetRate](atc_followers.svg)
 
 It's apparent that some of these accounts are not related to turfgrass. I thought of ways to extract only those accounts that were probably really interested in golf course management, and chose to filter all my followers down to those accounts that follow me and also follow the [GCSAA](https://twitter.com/GCSAA), [BIGGA](https://twitter.com/BIGGALtd), and the [AGCSA](https://twitter.com/AGCSA2).
 
 When I do the same analysis on that subset of followers that also follow those three industry associations, I get this.
 
-![log2 chart of 2nd degree followers vs tweetRate also follow 3 associations](/media/atc_followers_assoc.svg)
+![log2 chart of 2nd degree followers vs tweetRate also follow 3 associations](atc_followers_assoc.svg)
 
 And where would the asianturfgrass account be if it were plotted on this chart also? I checked that and it is keeping good company somewhere between [MikeFidanza](https://twitter.com/MikeFidanza) and [BarenbrugGroup](https://twitter.com/BarenbrugGroup).

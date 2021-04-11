@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/topdress_shimane.jpg: sand topdressing, Shimane, Japan
+- topdress_shimane.jpg: sand topdressing, Shimane, Japan
 date: "2017-12-20T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/gk_2018_map.png
+share-media: http://www.asianturfgrass.comgk_2018_map.png
 tags:
 - sand
 - topdress
@@ -14,7 +14,7 @@ A recent conversation about [putting surfaces in Japan](https://twitter.com/GCIM
 
 *[The Greenkeeper 2018](https://twitter.com/asianturfgrass/status/942405511076462594)* has course maintenance summaries for 17 courses in Japan. I mapped the locations of those courses by zip code.
 
-![map of Greenkeeper 2018](/media/gk_2018_map.png)
+![map of Greenkeeper 2018](gk_2018_map.png)
 
 <sup>Map tiles by [Stamen Design](http://stamen.com), under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0). Data by [OpenStreetMap](http://openstreetmap.org), under [ODbL](http://www.openstreetmap.org/copyright).</sup>
 

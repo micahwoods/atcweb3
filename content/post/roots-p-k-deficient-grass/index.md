@@ -1,6 +1,6 @@
 ---
 date: "2020-04-03T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/manilagrass_roots_n_only.jpg
+share-media: https://www.asianturfgrass.commanilagrass_roots_n_only.jpg
 tags:
 - research
 - fertilizer
@@ -18,11 +18,11 @@ Grasses were planted in coconut coir as 3 cm diameter plugs, and then were ferti
 
 Yesterday, 184 days after planting, I took a look at the roots.
 
-![sequence of photos showing greens-type manilagrass fertilized with N](/media/manilagrass_n_8_sequence.jpg)
+![sequence of photos showing greens-type manilagrass fertilized with N](manilagrass_n_8_sequence.jpg)
 
 This greens-type manilagrass, fertilized only with N for 6 months, still managed to almost completely cover the pot surface area. And underground, there is an extensive rhizome and root system. 
 
-![greens-type manilagrass](/media/manilagrass_roots_n_only.jpg)
+![greens-type manilagrass](manilagrass_roots_n_only.jpg)
 <small><strong>Greens-type manilagrass grown from a 3 cm diameter plug and fertilized with N only for 6 months.</strong></small>
 
 This grass looks pretty healthy for being deficient in P and K. And of course, no calcium was added to this pot either.

@@ -1,10 +1,10 @@
 ---
 bigmedia:
-- /media/red.jpg: Kumamoto City Tram
-- /media/yellow.jpg: Kumamoto City Tram
-- /media/old_new.jpg: Kumamoto City Tram
+- red.jpg: Kumamoto City Tram
+- yellow.jpg: Kumamoto City Tram
+- old_new.jpg: Kumamoto City Tram
 date: "2019-09-07T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/green_yellow.jpg
+share-media: https://www.asianturfgrass.comgreen_yellow.jpg
 tags:
 - japan
 - equipment
@@ -15,15 +15,15 @@ I went for a walk in Kumamoto yesterday morning to take a few photos of the gras
 
 Here are a few photos. The grass was looking the best I have ever seen it. I expect that's because of frequent rains over the past few months.
 
-![](/media/castle.jpg)
+![](castle.jpg)
 
-![](/media/old_new.jpg)
+![](old_new.jpg)
 
-![](/media/red.jpg)
+![](red.jpg)
 
-![](/media/green_yellow.jpg)
+![](green_yellow.jpg)
 
-![](/media/yellow.jpg)
+![](yellow.jpg)
 
 After I shared [a few of these photos on Twitter](https://twitter.com/asianturfgrass/status/1169756438635237376), I was asked how the grass was mowed. And a couple people sent videos that showed the impressive mowing machine used in Kagoshima.
 

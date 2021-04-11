@@ -1,10 +1,13 @@
 ---
 date: "2019-08-20T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/ec_tester_atc.jpg
+
 tags:
 - podcast
 - turfgrass management
 title: It's a zero-based program
+
+image:
+  preview_only: true
 ---
 
 This conversation keeps happening more and more, about which products are really required to produce the desired surfaces.

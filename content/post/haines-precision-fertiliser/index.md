@@ -16,4 +16,4 @@ Those are the results Jason Haines described in his post about [the evolution of
 
 It's a good read, and it has this animated chart that shows how N rates have decreased over the past few years.
 
-![animated gif of Pender N rates](/media/penderN_v3.gif)
+![animated gif of Pender N rates](penderN_v3.gif)

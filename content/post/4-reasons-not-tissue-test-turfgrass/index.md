@@ -23,7 +23,7 @@ Second, **what level of nutrients does one want in the leaves anyway?** I'm look
 
 So do you want to take my word for it, or trust the textbook? I've got an idea, let me find another set of leaf nutrient guidelines. I've now opened the [*Turf Analysis*](http://tic.msu.edu/tgif/flink?recno=97607) article by Dr. J. Benton Jones Jr., from the January 1980 issue of *Golf Course Management*. Look up just about any article on this subject, and you'll find a ton of references to Dr. Jones. 
 
-![J.B. Jones Jr. book](/media/jones_book.jpg)
+![J.B. Jones Jr. book](jones_book.jpg)
 
 As an example, I can pull a book from my shelf about soil tests and plant analysis, and it's by Dr. Jones. So these guidelines should be good. The table is not specific to bentgrass, but is for all turfgrasses. Let's see, N is 2.75 to 3.5%. Not even any overlap with the Carrow et al. book. And K? 1 to 2.5%. Wow, all the way down to 1%! 
 

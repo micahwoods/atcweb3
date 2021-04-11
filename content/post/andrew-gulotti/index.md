@@ -1,12 +1,12 @@
 ---
 bigmedia:
-- /media/dru_tv.jpg: Andrew McDaniel on the KBC Augusta television broadcast
-- /media/keya_18_sunrise.jpg: The 18th at Keya GC in August
-- /media/keya_tower.jpg: The 9th and clubhouse at Keya GC from a TV tower in August
-- /media/korai_stimpmeter.jpg: korai greens at Keya GC in August
-- /media/habu10.jpg: the 10th at Habu CC in Chiba, Japan
+- dru_tv.jpg: Andrew McDaniel on the KBC Augusta television broadcast
+- keya_18_sunrise.jpg: The 18th at Keya GC in August
+- keya_tower.jpg: The 9th and clubhouse at Keya GC from a TV tower in August
+- korai_stimpmeter.jpg: korai greens at Keya GC in August
+- habu10.jpg: the 10th at Habu CC in Chiba, Japan
 date: "2019-02-21T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/dru_tv.jpg
+share-media: https://www.asianturfgrass.comdru_tv.jpg
 tags:
 - podcast
 - japan
@@ -34,7 +34,7 @@ I hope you enjoy this episode of [The Talking Greenkeeper](http://thetalkinggree
 
 Andrew has been featured in a [manga](https://en.wikipedia.org/wiki/Manga) series, and there was some discussion of that. I've never been in a manga, but Joe was wondering about that type of image; there are apps that can make a manga. This one says something like, translated, "My life is a double bogey." 
 
-![micah double bogey manga](/media/double_bogey.jpg)
+![micah double bogey manga](double_bogey.jpg)
 
 
 

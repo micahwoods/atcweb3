@@ -1,6 +1,6 @@
 ---
 date: "2018-12-08T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/6fwyball.jpg
+share-media: https://www.asianturfgrass.com6fwyball.jpg
 tags:
 - mowing
 - research

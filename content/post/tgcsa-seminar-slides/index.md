@@ -14,7 +14,7 @@ image:
 
 Today I gave a seminar at the Thai GCSA meeting. 
 
-![Micah Woods speaking at the December 2020 Thai GCSA meeting](/media/woods_tgcsa_dec2020.jpg)
+![Micah Woods speaking at the December 2020 Thai GCSA meeting](woods_tgcsa_dec2020.jpg)
 <small><strong>Photo by Boy Yothin</strong></small>
 
 These are the [slides in Thai](http://www.files.asianturfgrass.com/2020-12-14_woods_th.pdf).

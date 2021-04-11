@@ -1,6 +1,6 @@
 ---
 date: "2020-08-20T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/rossi_montage.jpg
+share-media: http://www.asianturfgrass.comrossi_montage.jpg
 tags:
 - video
 - podcast

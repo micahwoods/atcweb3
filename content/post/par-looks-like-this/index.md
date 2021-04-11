@@ -1,6 +1,6 @@
 ---
 date: "2020-03-05T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/corvallis_par.jpg
+share-media: https://www.asianturfgrass.comcorvallis_par.jpg
 tags:
 - light
 title: PAR looks like this
@@ -10,7 +10,7 @@ title: PAR looks like this
 
 This is PAR at Corvallis, Oregon, on a day with light cloud cover in June, on a sunny day in August, then for a week, a month, and an entire year.
 
-![5 charts of PAR at Corvallis in 2014, from one day up to one year](/media/corvallis_par.jpg)
+![5 charts of PAR at Corvallis in 2014, from one day up to one year](corvallis_par.jpg)
 
 This is showing instantaneous PAR every 5 minutes. Instantaneous PAR is the amount of photosynthetic light every second, which is called the *photosynthetic photon flux density* (**PPFD**). Add up the PPFD for every second from sunrise until sunset, and that makes the daily total of PAR, which is called the *daily light integral* (**DLI**).
 

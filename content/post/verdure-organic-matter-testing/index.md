@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/verdure_off.jpg: top of a soil core from a Tifeagle green with verdure removed
+- verdure_off.jpg: top of a soil core from a Tifeagle green with verdure removed
 date: "2019-06-19T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/verdure_off.jpg
+share-media: https://www.asianturfgrass.comverdure_off.jpg
 tags:
 - organic matter
 - sand
@@ -16,20 +16,20 @@ It is customary to remove verdure from soil samples before measuring the organic
 
 First, one of the main reasons for measuring organic matter is to evaluate and adjust sand topdressing. And the purpose of all of that is to adjust the way a ball reacts when it lands on a putting green. The ball reacts with the verdure and with the underlying soil. The amount of verdure probably affects the ball reaction. Why would one remove the very part of the sample that the ball reacts with? 
 
-![verdure on Tifeagle](/media/verdure_on.jpg)
+![verdure on Tifeagle](verdure_on.jpg)
 <small><strong>Verdure on the top of a soil profile collected from a Tifeagle putting green.</strong></small>
 
-![verdure from the side](/media/verdure_side.jpg)
+![verdure from the side](verdure_side.jpg)
 <small><strong>Side view of verdure on the top of a soil profile from a Tifeagle green.</strong></small>
 
 Second, there is subjectivity in how much verdure gets removed. I removed the verdure from this Tifeagle profile. Someone else doing the verdure removal might remove a little more material. Or that person might remove a little less. Leaving verdure on the sample ensures that the unmodified sample can be measured. And that changes in verdure over time at the site can also be captured in this total organic matter measurement. Remember, the turf canopy is the verdure, basically. And sand topdressing is applied and worked into the canopy (the verdure). Does it make sense to remove the canopy and the sand in it before testing?
 
-![](/media/verdure_off.jpg)
+![](verdure_off.jpg)
 <small><strong>Sample from a Tifeagle green with verdure removed.</strong></small>
 
 Third, one invariably loses sand material that is interspersed with the verdure. Most putting greens are topdressed with sand. That sand sits on top of the soil and in the verdure. I've been making a number of paired sample tests, with one sample tested with verdure on, and another sample having verdure removed before testing. I've not been able to remove verdure without having sand from recent topdressing events lost too.
 
-![](/media/verdure_sand.jpg)
+![](verdure_sand.jpg)
 <small><strong>Verdure and recent topdressing sand after cutting the verdure from a Tifeagle green sample.</strong></small>
 
 

@@ -21,7 +21,7 @@ You can use the spreadsheets to input the monthly average air temperatures at yo
 
 With the new default, you'll get numbers like this. I've calculated these for warm-season grass at Bangkok and Miami and for cool-season grass at all the other locations.
 
-![chart of monthly sand amounts at 8 cities](/media/sand_topdressing_gp_updated.png)
+![chart of monthly sand amounts at 8 cities](sand_topdressing_gp_updated.png)
 
 The spreadsheets previously had a default starting value that produced results matching the low rate of [Hempfling et al.'s sand topdressing amounts]( https://doi.org/10.2135/cropsci2016.06.0492). That starting value has always been adjustable within the spreadsheet. After some recent conversations with Dr. Stowell, he's decided to update the default starting value to match the high rate of Hempfling et al.
 

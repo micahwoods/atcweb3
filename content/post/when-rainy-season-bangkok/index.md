@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/bkk_cloud.jpg: view of approaching clouds and rain in September, Bang Na, Thailand
+- bkk_cloud.jpg: view of approaching clouds and rain in September, Bang Na, Thailand
 date: "2018-02-09T00:00:00Z"
-share-media: http://www.asianturfgrass.com/media/precip_smooth.png
+share-media: http://www.asianturfgrass.comprecip_smooth.png
 tags:
 - thailand
 - climate
@@ -17,11 +17,11 @@ The [`rnoaa` R package](https://CRAN.R-project.org/package=rnoaa) from [rOpenSci
 
 Then I calculated the monthly totals. These are three representations of the results.
 
-![monthly totals of precipitation at Bang Na Agrometeorological Station from 2008 to 2017](/media/precip_facet.png)
+![monthly totals of precipitation at Bang Na Agrometeorological Station from 2008 to 2017](precip_facet.png)
 
-![smoothed monthly totals of precipitation at Bang Na Agrometeorological Station from 2008 to 2017 and Bangkok 30 year climatological normals](/media/precip_smooth.png)
+![smoothed monthly totals of precipitation at Bang Na Agrometeorological Station from 2008 to 2017 and Bangkok 30 year climatological normals](precip_smooth.png)
 
-![ridgeline plot of monthly totals of precipitation at Bang Na Agrometeorological Station from 2008 to 2017](/media/precip_ridgeline.png)
+![ridgeline plot of monthly totals of precipitation at Bang Na Agrometeorological Station from 2008 to 2017](precip_ridgeline.png)
 
 This isn't a forecast, but it is how much and when the rain typically falls at this location.
 

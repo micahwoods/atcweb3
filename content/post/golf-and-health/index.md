@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/minchinhampton_cow.jpg: Minchinhampton Old Course, England
+- minchinhampton_cow.jpg: Minchinhampton Old Course, England
 date: "2018-10-11T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/minchinhampton_cow.jpg
+share-media: https://www.asianturfgrass.comminchinhampton_cow.jpg
 tags:
 - golf
 - health

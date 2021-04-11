@@ -1,9 +1,9 @@
 ---
 bigmedia:
-- /media/fuji_elephant.jpg: elephant's footprint (Rhizoctonia cerealis) on noshiba near
+- fuji_elephant.jpg: elephant's footprint (Rhizoctonia cerealis) on noshiba near
     Mt. Fuji, October
 date: "2018-11-06T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/fuji_elephant.jpg
+share-media: https://www.asianturfgrass.comfuji_elephant.jpg
 tags:
 - mlsn
 - clipvol

@@ -1,7 +1,7 @@
 ---
 date: "2017-07-03T00:00:00Z"
-image: /media/roots_echo.jpg
-share-media: http://www.asianturfgrass.com/media/roots_echo.jpg
+image: roots_echo.jpg
+share-media: http://www.asianturfgrass.comroots_echo.jpg
 subtitle: Here's a roundup of articles and links from the past month
 tags:
 - Roundup

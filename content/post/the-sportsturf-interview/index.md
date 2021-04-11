@@ -1,8 +1,8 @@
 ---
 bigmedia:
-- /media/sportsturf.jpg: ""
+- sportsturf.jpg: ""
 date: "2019-06-06T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/sportsturf.jpg
+share-media: https://www.asianturfgrass.comsportsturf.jpg
 tags:
 - article
 - sports

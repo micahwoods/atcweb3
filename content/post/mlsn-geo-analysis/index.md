@@ -21,27 +21,27 @@ There is a "Country" field in the [MLSN newsletter](http://www.subscribepage.com
 
 There were 38 countries with at least 1 subscriber.
 
-![countries with at least 1 subscriber to the mlsn newsletter](/media/mlsn_update_all.svg)
+![countries with at least 1 subscriber to the mlsn newsletter](mlsn_update_all.svg)
 
 It's a bit easier to see the differences between countries by looking only at those 19 countries with more than 1 subscriber.
 
-![countries with more than 1 subscriber to the mlsn newsletter](/media/mlsn_update_1.svg)
+![countries with more than 1 subscriber to the mlsn newsletter](mlsn_update_1.svg)
 
 That is probably a good geographic approximation of the active use of the MLSN guidelines in turfgrass management. Not that this would be the exact number of facilities using MSLN, because I'm sure many are using MLSN but are not signed up to the newsletter, and vice versa. 
 
 MLSN is not specific to golf turf, but I expect most who use MLSN are managing golf turf. We can now adjust the number of subscribers per country by the number of golf holes in that country, to give some idea of where the interest in MLSN (based on the [MLSN newsletter](http://www.subscribepage.com/mlsn) subscribers) is the highest. This chart shows the number of subscribers per 18 holes. Now, the United States goes into the middle of the pack, and the top 5 countries would be Hong Kong, Iceland, Ireland, the Philippines, and Thailand.
 
-![mlsn newsletter subscribers per 18 holes](/media/mlsn_update_per_18.svg)
+![mlsn newsletter subscribers per 18 holes](mlsn_update_per_18.svg)
 
 Those numbers are hard to understand, however. For example, what does 0.038 newsletter subscribers per 18 holes in Ireland mean? I think it is easier to imagine this in terms of 18 holes of golf per subscriber.
 
-![18 hole equivalents per subscriber to the mlsn newsletter](/media/18_per_mlsn_update.svg)
+![18 hole equivalents per subscriber to the mlsn newsletter](18_per_mlsn_update.svg)
 
 Now we can understand what the absolute numbers mean, to get some idea of the reach and interest in MLSN. Again, this is based only on golf courses. In Ireland, we could expect to visit 27 golf courses to find one person signed up to the MLSN newsletter. In the UK we would have to go to 57, and in the USA, 59. From that, one can expect that there is about twice as much interest in MLSN in Ireland as there is in the UK or in the USA.
 
 I'll omit Japan from the chart, and now it is even easier to see the differences between the countries shown on the chart.
 
-![18 hole equivalents per subscriber to the mlsn newsletter, japan omitted](/media/18_per_mlsn_no_jp.svg)
+![18 hole equivalents per subscriber to the mlsn newsletter, japan omitted](18_per_mlsn_no_jp.svg)
 
 For a couple analyses with similar geographical looks at this, see:
 

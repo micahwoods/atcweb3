@@ -1,6 +1,6 @@
 ---
 date: "2019-10-28T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/utk_poa_2018.jpg
+share-media: https://www.asianturfgrass.comutk_poa_2018.jpg
 tags:
 - weeds
 - podcast

@@ -1,6 +1,6 @@
 ---
 date: "2018-09-16T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/woods_kyoto.jpg
+share-media: https://www.asianturfgrass.comwoods_kyoto.jpg
 tags:
 - turf info
 - web/tech

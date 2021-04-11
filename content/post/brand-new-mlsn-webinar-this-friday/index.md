@@ -1,6 +1,6 @@
 ---
 date: "2020-05-18T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/mlsn_title_slide.jpg
+share-media: https://www.asianturfgrass.commlsn_title_slide.jpg
 tags:
 - mlsn
 - fertilizer
@@ -12,7 +12,7 @@ I'll be teaching a webinar on Friday, May 22, at 10 a.m. New York time, about **
 
 Contact Chris Eidson (ceidson [at] blinc [dot] com), the Education Specialist at Brookside Labs, to register.
 
-![title slide](/media/mlsn_title_slide.jpg)
+![title slide](mlsn_title_slide.jpg)
 
 I put the title slide together, and that's it for the slides so far. I have made some notes about what I'd like to discuss:
 

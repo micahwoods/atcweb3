@@ -1,7 +1,7 @@
 ---
 bigmedia:
-- /media/seminar_201809.jpg: ゴルフ場セミナー2018年9月
-- /media/seminar_page3.jpg: ゴルフ場セミナー2018年9月
+- seminar_201809.jpg: ゴルフ場セミナー2018年9月
+- seminar_page3.jpg: ゴルフ場セミナー2018年9月
 date: "2018-09-23T00:00:00Z"
 share-media: https://c2.staticflickr.com/2/1886/30989803058_e451a04597_b_d.jpg
 tags:
@@ -32,7 +32,7 @@ What level of heat stress was I writing about? I usually look at something like 
 
 I looked up some data for this summer from three locations: Kumagaya in Saitama prefecture, near Tokyo, where the new record high temperature for Japan of 41.1 °C (106 °F) was set on July 23; Avondale, Pennsylvania; and Blackville, South Carolina. 
 
-![average air temperature in summer of 2018 at Kumagaya, Avondale, and Blackville](/media/heat_stress2018.png)
+![average air temperature in summer of 2018 at Kumagaya, Avondale, and Blackville](heat_stress2018.png)
 
 That's the type of heat stress I was writing about.
 

@@ -1,9 +1,9 @@
 ---
 bigmedia:
-- /media/bermuda_dormant_korai.jpg: green bermudagrass in a dormant manilagrass fairway,
+- bermuda_dormant_korai.jpg: green bermudagrass in a dormant manilagrass fairway,
     Japan
 date: "2018-10-15T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/bermuda_dormant_korai.jpg
+share-media: https://www.asianturfgrass.combermuda_dormant_korai.jpg
 tags:
 - bermudagrass
 - zoysia

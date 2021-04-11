@@ -1,6 +1,6 @@
 ---
 bigmedia:
-- /media/habu_9_irr.jpg: irrigation of creeping bentgrass, Chiba, Japan
+- habu_9_irr.jpg: irrigation of creeping bentgrass, Chiba, Japan
 date: "2017-12-04T00:00:00Z"
 share-media: https://farm4.staticflickr.com/3700/9173213174_3af51ef778_b_d.jpg
 subtitle: '"Do you find that these nutrients contribute anything to the soil? Is this

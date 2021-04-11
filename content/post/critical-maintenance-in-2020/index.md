@@ -1,6 +1,6 @@
 ---
 date: "2020-05-08T00:00:00Z"
-share-media: https://www.asianturfgrass.com/media/nutrient_cost.jpg
+share-media: https://www.asianturfgrass.comnutrient_cost.jpg
 tags:
 - clipvol
 - greenkeeping
@@ -18,6 +18,6 @@ I talked about how I would manage grass in 2020. It turns out to be a lot of the
 
 Pro tip: you'll have amazing turf conditions for less than €250/ha/year---that's about $120/acre/year---with urea and DAP and KCl. 
 
-![nutrient cost for one year for 1 ha using urea, diammonium phosphate, and potassium chloride](/media/nutrient_cost.jpg)
+![nutrient cost for one year for 1 ha using urea, diammonium phosphate, and potassium chloride](nutrient_cost.jpg)
 
 If you'd like to download the slides, they are also available in [English](https://speakerdeck.com/micahwoods/critical-turfgrass-maintenance-in-2020) and [Spanish](https://speakerdeck.com/micahwoods/mantenimiento-critico-del-cesped-en-2020).
