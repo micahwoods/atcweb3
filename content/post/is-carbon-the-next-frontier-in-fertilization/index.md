@@ -1,14 +1,21 @@
 ---
 date: "2018-05-31T00:00:00Z"
-share-media: https://c2.staticflickr.com/2/1738/42469324081_d135708c20_b_d.jpg
+title: 'Is carbon "the next frontier in fertilization?" '
 subtitle: 'A new article in Crops & Soils discusses soil health, carbon fertilizer,
   and managing carbon. The conclusion is: "forget about fertilizing with carbon." '
 tags:
 - fertilizer
 - soil
 - science
-title: 'Is carbon "the next frontier in fertilization?" '
+- carbon
+
 featured: true
+
+authors: [admin]
+
+image: 
+  preview_only: false
+
 ---
 
 There is an interesting article about carbon by Bryan G. and Tyler J. Hopkins in the latest issue of [*Crops & Soils*](https://dl.sciencesocieties.org/publications/crops-and-soils) magazine. Here's a quick summary, put together with a series of quotes from the article.

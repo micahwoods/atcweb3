@@ -4,6 +4,10 @@ share-media: https://farm3.staticflickr.com/2594/3756331061_2d64c60315_o_d.jpg
 tags:
 - roundup
 title: 'Monthly Turfgrass Roundup: April 2018'
+authors: [admin]
+image:
+  preview_only: false
+  caption: "View from the 9<sup>th</sup> tee at Banyan GC in Thailand"
 ---
 
 Is reactive greenkeeping [better than proactive?](http://www.asianturfgrass.com/2018-04-01-is-reactive-better-than-proactive/)

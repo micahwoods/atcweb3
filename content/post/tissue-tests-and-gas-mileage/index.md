@@ -1,21 +1,20 @@
 ---
-bigmedia:
-- white_leaf.jpg: bermudagrass white leaf, Vietnam
 date: "2018-04-30T00:00:00Z"
-share-media: https://c1.staticflickr.com/7/6164/6149841783_d0779392fb_b_d.jpg
 tags:
-- tissue testing
+- tissue test
 - leaf nutrient analysis
 - fertilizer
 title: Tissue testing and gas mileage
+authors: [admin]
+image:
+  preview_only: false
 ---
 
 I had an interesting conversation a few weeks ago about turfgrass nutrition. The conversation was wide-ranging, from fertilizer, to soil testing, and then the question came up, "what do you think about tissue testing?"
 
 Well, if you've had this conversation with me before (and [I'm sure many of you have](https://twitter.com/Reyes_golf/status/781105631424118784)), you'll know that I think tissue testing is [a great tool for research](http://www.asianturfgrass.com/2017-08-07-tissue-testing-wrong-target/), but there are [four big reasons I don't like tissue testing](http://www.asianturfgrass.com/2017-08-09-not-tissue-test-3-reasons/) as a way to decide which fertilizers to apply.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The topic of the morning: tissue analysis discussion <a href="https://twitter.com/hashtag/mlsn?src=hash&amp;ref_src=twsrc%5Etfw">#mlsn</a> OMG <a href="https://twitter.com/fsr3?ref_src=twsrc%5Etfw">@fsr3</a> <a href="https://twitter.com/asianturfgrass?ref_src=twsrc%5Etfw">@asianturfgrass</a> <a href="https://twitter.com/rydercup?ref_src=twsrc%5Etfw">@rydercup</a> <a href="https://twitter.com/legolfnational?ref_src=twsrc%5Etfw">@legolfnational</a> <a href="https://twitter.com/Hazeltine?ref_src=twsrc%5Etfw">@Hazeltine</a> <a href="https://twitter.com/ct_turf?ref_src=twsrc%5Etfw">@ct_turf</a> <a href="https://t.co/XcxtZgcUv8">pic.twitter.com/XcxtZgcUv8</a></p>&mdash; Alejandro Reyes (@Reyes_golf) <a href="https://twitter.com/Reyes_golf/status/781105631424118784?ref_src=twsrc%5Etfw">September 28, 2016</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "781105631424118784" >}}
 
 And in the conversation a few weeks ago, it suddenly occurred to me that tissue testing is a lot like checking gas mileage (or *fuel economy*, or *miles per gallon*, or *L/100 km*, or whatever one likes to call it). 
 

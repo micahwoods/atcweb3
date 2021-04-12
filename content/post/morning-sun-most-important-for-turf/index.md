@@ -1,9 +1,12 @@
 ---
 date: "2018-04-28T00:00:00Z"
-share-media: https://c1.staticflickr.com/5/4737/39361562611_13aacef4c9_b_d.jpg
+
 tags:
 - light
 title: Is morning sun the most important for turf? It depends.
+authors: [admin]
+image:
+  preview_only: false
 ---
 
 I used Storify to string together some related tweets and images over the past few years. That service is shutting down. I've moved a "story" about light, shade, and time of day to this [Twitter moment](https://twitter.com/i/moments/990067045747212288).

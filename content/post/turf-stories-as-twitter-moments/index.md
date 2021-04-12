@@ -1,6 +1,5 @@
 ---
 date: "2018-05-22T00:00:00Z"
-share-media: https://c1.staticflickr.com/9/8244/8558084123_2b7afc247d_b_d.jpg
 tags:
 - light
 - shade
@@ -8,6 +7,9 @@ tags:
 - tournament
 - soil
 title: Turf stories as Twitter Moments
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I've gathered some collections of tweets into *moments* for easy viewing in sequence. I previously arranged these on Storify, but that service has shut down. Here's a quick description of these moments. 
