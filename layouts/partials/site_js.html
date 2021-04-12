@@ -80,7 +80,7 @@
               {{ printf "<a href=\"%s\">{{{_highlightResult.title.value}}}</a>" "{{url}}" | safeHTML }}
             </div>
             <div class="article-metadata search-hit-type">{{"{{type}}"}}</div>
-            <p class="search-hit-description">{{ safeHTML "{{{_highlightResult.summary.value}}}" }}</p>
+            <p class="search-hit-description">{{ safeHTML "{{{description}}}" }}</p>
           </div>
         </div>
       </script>
