@@ -5,19 +5,18 @@ tags:
 - Research
 - Fertilizer
 title: Fun on my front steps
-author: Micah Woods
+authors: [admin]
 image:
   caption: ''
   focal_point: ''
   preview_only: yes
 ---
 
-![](4grasses_coverage.png)
+{{< figure src="4grasses_coverage.png" >}}
 
 On February 28, I took Wana---a fine-bladed putting green type manilagrass---rhizomes and cut to a two node length. Then I planted these cut rhizomes, each with two tiny plants on them, in the center of sand-filled pots. 
 
-![](wana_npk_7march.jpg)
-<small><strong>The pot fertilized with N, P, and K on 7 March 2020, eight days after planting.</strong></small>
+{{< figure src="wana_npk_7march.jpg" caption="The pot fertilized with N, P, and K on 7 March 2020, eight days after planting." >}}
 
 The sand had a starting pH of 6.4 and Mehlich 3 extractable P and K of 17 and 20 mg/kg, respectively.
 
@@ -31,27 +30,28 @@ I used [ImageJ](https://imagej.net/ImageJ) to identify the green leaf coverage s
 
 This is the pot fertilized with N + P + K on August 24, 178 days after planting.
 
-![](imagej_original.jpg)
+{{< figure src="imagej_original.jpg" >}}
+![]()
 
 The pots I used were 13.5 cm in diameter. ImageJ starts with the images measured in pixels, and I drew a line and specified that the length was 13.5 cm, so the measurements of green leaf area could be reported in cm<sup>2</sup>.
 
-![](imagej_bar.jpg)
+{{< figure src="imagej_bar.jpg" >}}
 
 Then I used the color threshold settings to selectively identify the green leaf tissue, which is highlighted in red in the image below. For this set of images, I selected portions of the image with hue from 40 to 100, saturation from 80 to 255, and brightness from 45 to 255.
 
-![](imagej_red.jpg)
+{{< figure src="imagej_red.jpg" >}}
 
 After identifying the portions of the image meeting those criteria, I selected those pixels, and got a nice image of the green parts of the grass with yellow borders.
 
-![](imagej_selected.jpg)
+{{< figure src="imagej_selected.jpg" >}}
 
 Then I made a few more clicks to get the simple image of a white background with any of the selected pixels in black. 
 
-![](imagej_bw.jpg)
+{{< figure src="imagej_bw.jpg" >}}
 
 This timeline sequence shows a set of [nine images](n_panels.jpg) from the pot receiving N.
 
-![](n_panels.jpg)
+{{< figure src="n_panels.jpg" >}}
 
 For more about this, see:
 

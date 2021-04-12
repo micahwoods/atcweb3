@@ -1,6 +1,6 @@
 ---
 date: "2020-08-26T00:00:00Z"
-share-media: http://www.asianturfgrass.comwana_178_days.jpg
+authors: [admin]
 tags:
 - rturf
 - clipvol
@@ -12,6 +12,8 @@ tags:
 - fertilizer
 title: 'Three #rturf projects: green speed & clipvol, zoysia response to fertilizer
   during grow-in, and report automation'
+image:
+  preview_only: true
 ---
 
 You may have seen a few posts about [#rturf](https://www.micahwoods.com/category/rturf/) on my personal site. I'm writing about that topic over there so I don't clutter up the ATC site with too much data analysis and computer code. However, a few readers may be interested in that series, so I'll introduce it here as well. And then continue it at [micahwoods.com](https://www.micahwoods.com/).
@@ -36,16 +38,15 @@ My interest in [clipping volume](https://www.asianturfgrass.com/buckets/) starte
 
 It's not clear what the magnitude of this effect is, or how consistent it is, or if it is meaningful, and Bill Kreuser has pointed out a few times that there are situations where one finds no effect. 
 
-![](stimp_album.jpg)
-<small><strong>Contemplating green speed and clipping volume during the 2019 KPMG Women's PGA Championship</strong></small>
+{{< figure src="stimp_album.jpg" caption="Contemplating green speed and clipping volume during the 2019 KPMG Women's PGA Championship." >}}
 
 I've been thinking about this for a while, and I made some notes about it in 2019. 
 
-![](notebook_clipvol.jpg)
+{{< figure src="notebook_clipvol.jpg" >}}
 
 I also made a simple model last year, looking at the slopes of lines that varied by date during the second half of June 2019, with the slope of the line showing whether the green speed was going up or going down on greens that had the same treatments of mowing and rolling but varied in clipping volume.
 
-![](volSpeed.jpg)
+{{< figure src="volSpeed.jpg" >}}
 
 I hadn't looked at this project for 13 months, and I've gotten started with it again in the first rturf posts. I've looked at:
 
@@ -82,11 +83,11 @@ I've shown that zoysia [responds to fertilizer](https://www.asianturfgrass.com/2
 
 I've continued that project with manilagrass (*Zoysia matrella*) planted as two node rhizomes at the end of February in a river sand. After a week, the pot receiving N, P, and K looked like this. Each pot started as basically nothing---just two nodes on a rhizome.
 
-![](wana_1week.jpg)
+{{< figure src="wana_1week.jpg" >}}
 
 After 178 days, this is what the pots look like. The one that hasn't received any fertilizer isn't dead, but it hasn't established nearly as much as the pot that got N, and that one didn't establish as well as the ones that got N and P, or N, P, and K.
 
-![](wana_178_days.jpg)
+{{< figure src="wana_178_days.jpg" >}}
 
 It seems obvious that nutrient demand, and consequently grass response to supplied (or to withheld) nutrients, will be related to the grasses' potential to grow in that particular growing environment. Mike Richardson has shown that zoysia *doesn't* have much response to nutrient additions at planting in Arkansas. 
 

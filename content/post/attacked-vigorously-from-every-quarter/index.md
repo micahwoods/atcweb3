@@ -1,13 +1,15 @@
 ---
 date: "2018-10-23T00:00:00Z"
-share-media: https://c1.staticflickr.com/5/4504/36925429414_79ac997e80_b_d.jpg
 subtitle: This intriguing Twitter account is ranking items as BS on a 1 to 9 scale
 tags:
 - turfgrass management
 title: Attacked vigorously from every quarter
+authors: [admin]
+image:
+  preview_only: true
 ---
 
-"The flagrant merchandising of nostrums and unapproved seeds and materials must be attacked vigorously from every quarter." 
+> "The flagrant merchandising of nostrums and unapproved seeds and materials must be attacked vigorously from every quarter." 
 
 That exhortation was given by the Turf Committee in [their report](https://www.asianturfgrass.com/2018-10-01-turfgrass-twilight-zone/) at the 1952 Annual Meeting of the American Society of Agronomy.
 

@@ -1,13 +1,14 @@
 ---
 date: "2020-02-26T00:00:00Z"
-share-media: https://live.staticflickr.com/790/40831344112_07191f09ea_b_d.jpg
 tags:
-- article
 - greenkeeping
-- turfreads
+- turf reads
 - carbon
 - organic matter
 title: Asking the right questions
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Here's another interesting article I came across recently. Dr. Carrow wrote an article in the October 1993 issue of *GCM* with the title [Eight questions to ask: evaluating soil and turf conditioners](http://tic.msu.edu/tgif/flink?recno=29197). The article is about products, and deciding if they are required. It includes plenty of examples.

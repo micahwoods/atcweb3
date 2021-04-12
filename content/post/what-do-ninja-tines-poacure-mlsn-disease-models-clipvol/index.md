@@ -1,15 +1,17 @@
 ---
 date: "2020-08-20T00:00:00Z"
-share-media: http://www.asianturfgrass.comrossi_montage.jpg
+authors: [admin]
 tags:
 - video
 - podcast
 - clipvol
 - aerify
-- om246
-- mlsn
+- OM246
+- MLSN
 title: What do Ninja tines, PoaCure, ClipVol, the Smith-Kerns disease model, ball
   roll, and MLSN have in common?
+image:
+  preview_only: true
 ---
 
 What's the common theme? You'll hear all these topics discussed in recent episodes of Frank Rossi's  [Frankly Speaking](https://www.turfnet.com/podcasts/rossi/) show on TurfNet, or in his [presentation for the ASTMA](https://youtu.be/iMtn6_Uxm3o).

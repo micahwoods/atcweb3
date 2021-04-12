@@ -9,7 +9,6 @@ tags:
 - Turf Twitter
 - Web/Tech
 - rturf
-categories: []
 date: 2021-01-11T21:17:41+07:00
 lastmod: 2021-01-11T21:17:41+07:00
 featured: false
@@ -33,7 +32,7 @@ projects: ["turf-twitter"]
 
 I've repeated an analysis of tweets and accounts from another year in the turf industry. Last week I [shared some overall results](https://twitter.com/asianturfgrass/status/1345366768156459009) and category-specific rankings.
 
-{{< tweet 1345366768156459009 >}}
+{{< tweet "1345366768156459009" >}}
 
 The searchable [Turfgrass Twitter 2020](https://asianturfgrass.shinyapps.io/turf_twitter_2020/) Shiny app has all the results.
 
@@ -51,7 +50,7 @@ Here are 5 more things I want to share about this.
 
 Some big names here! I looked at the accounts that were created in 2020 and that tweeted enough to make the list.
 
-{{< figure library=true src="rookies_2020.png" >}}
+{{< figure src="rookies_2020.png" >}}
 
 ## An alternative ranking; one of many
 
@@ -59,7 +58,7 @@ Of course the way these rankings come out depends on what is included. I try to 
 
 Here's one I did just now. It's an overall ranking with 5 categories instead of 6. This one omits the tweet creation rate. 
 
-{{< figure library=true src="noTCR_2020.png" >}}
+{{< figure src="noTCR_2020.png" >}}
 
 Well, hello there, [UTTurfWeeds](https://twitter.com/UTTurfWeeds)! And I see [Jon Merchant](https://twitter.com/J_Merchant1) is still in the top 50 without considering the number of tweets sent. You see how the rankings change based on how they are constructed.
 

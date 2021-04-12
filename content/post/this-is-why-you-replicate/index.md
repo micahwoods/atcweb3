@@ -1,6 +1,5 @@
 ---
 date: "2020-09-14T00:00:00Z"
-share-media: https://www.asianturfgrass.comnp_wana_npk.jpg
 tags:
 - Zoysia
 - Research
@@ -9,7 +8,7 @@ tags:
 - Potassium
 - Phosphorus
 title: This is why you replicate
-author: Micah Woods
+authors: [admin]
 image:
   caption: ''
   focal_point: ''
@@ -20,11 +19,9 @@ On February 28, 2020, I cut some Wana manilagrass rhizomes to a two node length 
 
 After 25 days, plants were developing from those nodes and the pots looked like this.
 
-![wana manilagrass fertilized with N and P 25 days after planting](wana_np_25d.jpg)
-<small><strong>Wana manilagrass planted as a two node rhizome and fertilized with N and P, 25 days after planting.</strong></small>
+{{< figure src="wana_np_25d.jpg" caption="Wana manilagrass planted as a two node rhizome and fertilized with N and P, 25 days after planting." >}}
 
-![wana manilagrass fertilized with N and P and K 25 days after planting](wana_npk_25d.jpg)
-<small><strong>Wana manilagrass planted as a two node rhizome and fertilized with N, P, and K, 25 days after planting.</strong></small>
+{{< figure src="wana_npk_25d.jpg" caption="Wana manilagrass planted as a two node rhizome and fertilized with N, P, and K, 25 days after planting." >}}
 
 The grasses continued to spread until they reached the edge of the pots, and the same fertilizer treatments were applied. Nitrogen and P to the one pot, with no K; the other pot received treatments of  N and P and K. 
 
@@ -34,12 +31,12 @@ For the first few months, the N and P pot, and the NPK pot, both looked about th
 
 The grass that didn't get any K fertilizer had established just as quickly and intitally had the same color as the grass that got all three macronutrients. The grass that didn't get K was either seeing widespread leaf senescence, or is getting destroyed by a disease. My guess is disease---the splendidly named *inu no ashiato* (dog's footprint)---Curvularia blight.
 
-![](np_wana_npk.jpg)
+{{< figure src="np_wana_npk.jpg" >}}
 
 Of course without having replicated these treatments, I can't be sure about this. It could be that the disease just happened to infect one of the pots at random and somehow hasn't been able to spread beyond that. It sure looks like something is going on with K.
 
 Here are the same pots during a sunny afternoon in August.
 
-![](wana_sun_august.jpg)
+{{< figure src="wana_sun_august.jpg" >}}
 
 Of course I did this on purpose, and am happy to see the induced K deficiency, whether it is disease as I suspect, or whether a direct sensecence of the leaves. I can get some idea about which it is during the upcoming dry season, when drought stress can be induced and the *inu* pressure will be negligible. I might even replicate it this time.

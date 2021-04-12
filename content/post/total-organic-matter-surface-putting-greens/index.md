@@ -1,12 +1,11 @@
 ---
 date: "2020-10-06T00:00:00Z"
-share-media: https://www.asianturfgrass.comc3.jpg
 tags:
 - OM246
 - Organic matter
 - Soil test
 title: Total organic matter at the surface of cool-season grass putting greens
-author: Micah Woods
+authors: [admin]
 image:
   caption: ''
   focal_point: ''
@@ -19,13 +18,13 @@ One time measurements of total organic matter are interesting because one can se
 
 This chart shows a summary of predicted test results at the 0 to 2 cm depth---that's the top 0.8 inches of the profile---for four common cool-season putting green species.
 
-![plot of expected total organic matter distribution of 4 cool-season grass putting green species](c3.jpg)
+{{< figure src="c3.jpg" >}}
 
 These results shown here are based on the ATC database of [OM246](https://www.asianturfgrass.com/tags/#om246) test results.
 
 If I were to sample any green, and didn't know the species, this chart shows the predicted distribution of total organic matter right at the surface.
 
-![plot of expected total organic matter distribution of an unknown species](unknown_species.png)
+{{< figure src="unknown_species.png" >}}
 
 For more about this, you might like to:
 

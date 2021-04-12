@@ -1,10 +1,9 @@
 ---
 date: "2020-10-24T00:00:00Z"
-share-media: https://www.asianturfgrass.comclipvol_2recs.jpg
 tags:
 - clipvol
 title: Two suggestions about clipping volume data recording
-author: Micah Woods
+authors: [admin]
 image:
   caption: ''
   focal_point: ''
@@ -13,7 +12,7 @@ image:
 
 I've recommended these before, and having found myself repeatedly suggesting the [Wisconsin clipping tracker template](https://turf.wisc.edu/2020/03/wisconsin-clipping-tracker/) and the [Data organization in spreadsheets](https://doi.org/10.1080/00031305.2017.1375989) article, this post is a bookmark for that topic.
 
-![shows 2 images the blog post of Wisconsin clipping tracker template and the Broman and Woo superb article on data in spreadsheets](clipvol_2recs.jpg)
+{{< figure src="clipvol_2recs.jpg" >}}
 
 After having looked at a *lot* of different clipping volume recording layouts, I think it makes the most sense to put dates in the first column, and different areas measured as columns, and notes about the measurement on a particular date added in columns on the right side of the data.
 
