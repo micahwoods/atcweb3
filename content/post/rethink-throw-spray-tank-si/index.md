@@ -1,20 +1,21 @@
 ---
 date: "2017-07-06T00:00:00Z"
+title: This will make you rethink what you throw in the spray tank
 subtitle: In 11 attempts, Si failed to increase green speed every single time
 tags:
 - Green speed
 - Mowing
 - Fertilizer
-title: This will make you rethink what you throw in the spray tank
-author: Micah Woods
+- stimpmeter
+authors: [admin]
 featured: true
 image:
-  preview_only: yes
+  preview_only: true
 ---
 
 Beth Guertal wrote to me a couple weeks ago:
 
-> "I liked your [Si blog post](http://www.blog.asianturfgrass.com/2017/06/i-dont-really-need-to-show-any-data-for-this-to-be-certain.html) of recent date.  It made me go back and find [some data I collected once upon a while](http://www.files.asianturfgrass.com/FinalResultsSiTest2012.pdf)."
+> "I liked your [Si blog post](http://www.blog.asianturfgrass.com/2017/06/i-dont-really-need-to-show-any-data-for-this-to-be-certain.html) of recent date. It made me go back and find [some data I collected once upon a while](http://www.files.asianturfgrass.com/FinalResultsSiTest2012.pdf)."
 
 As you probably know, I think it is ridiculous that more silica in leaves would somehow make greens faster, or that it would make for a cleaner cut of the leaf. More about that later. 
 
@@ -24,7 +25,7 @@ There were three treatments applied to a Tifeagle green. Control of nothing appl
 
 The N rate was 0.1 lbs N/1000 ft<sup>2</sup>/week (0.5 g N/m<sup>2</sup>). Treatments were applied weekly for seven weeks. Green speed was measured 11 times. Here's the results.
 
-![si speed chart 11 dates](guertal_si_plot.svg)
+{{< figure src="guertal_si_plot.svg" >}}
 
 On 11 times the green speed was measured, the Si treatment had the fastest speed on 0 of them. 
 
@@ -38,15 +39,16 @@ And I expect I may hear some responses like this:
 
 Ok, fine. High silica content of zoysia leaves still leaves the grass susceptible to decimation from insects and diseases. Here's some armyworm activity on *Zoysia japonica* in Chiba.
 
-![noshiba armyworm damage](habu_armyworm.jpg)
+{{< figure src="habu_armyworm.jpg" >}}
 
 Here is the wonderfully-named *dog's footprint* on *Zoysia matrella* in Hilo.
 
-![inu no ashiato in Hilo](korai_curvularia.jpg)
+{{< figure src="korai_curvularia.jpg" >}}
 
 Maybe Si helps with something. But I'd prefer to manage turf without adding any extra.
 
-For more about this, see:
+See also: 
 
-* [Silica and green speed](http://www.blog.asianturfgrass.com/2015/02/silica-and-green-speed.html), in which I ask, "So if silica does make greens faster, shouldn't zoysia greens be lightning fast?"
-* The first half of [this post on N & MLSN](http://www.blog.asianturfgrass.com/2015/03/n-mlsn-whats-the-connection.html), in which I wrote "We'll get to the N below. But wow! I didn't know silica was such a hot topic!"
+* [Silica and green speed]({{< relref "/post/silica-and-green-speed" >}}), in which I ask, "So if silica does make greens faster, shouldn't zoysia greens be lightning fast?"
+
+* The first half of [this post on N & MLSN]({{< relref "/post/n-mlsn-whats-the-connection" >}}), in which I wrote "We'll get to the N below. But wow! I didn't know silica was such a hot topic!"

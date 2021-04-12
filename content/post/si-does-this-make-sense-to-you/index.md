@@ -1,12 +1,12 @@
 ---
 date: "2017-07-14T00:00:00Z"
-share-media: http://www.asianturfgrass.comminiverde_stimpmeter.jpg
 tags:
 - Green speed
 - Playability
 - Fertilizer
+- stimpmeter
 title: "My frustration in not being able to increase our green speed"
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: yes
 ---

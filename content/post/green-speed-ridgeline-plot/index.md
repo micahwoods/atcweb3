@@ -1,41 +1,43 @@
 ---
 date: "2017-07-17T00:00:00Z"
+lastmod: 2021-04-11
+title: "Green speed ridgeline plot and the work to produce these conditions"
 subtitle: "More about the ease of producing green speeds by species"
 tags:
 - Green speed
 - Mowing
 - Fertilizer
-title: "Green speed ridgeline plot and the work to produce these conditions"
-author: Micah Woods
+- stimpmeter
+
+authors: [admin]
 image:
   preview_only: yes
-
 ---
 
-First, here are data from 867 measurements I've made from 2011 to 2016 excluding all tournament measurements. 
+Here are data from 903 measurements I've made from 2011 to early 2021 excluding all tournament measurements. 
 
 Table 1: Number of measurements and median green speed in feet, by species. Data from 867 stimpmeter readings by Micah Woods excluding tournament measurements.
 
-| species   |    n|  median|
-|:----------|----:|-------:|
-| bent      |  270|     9.0|
-| bent-poa  |   18|    11.0|
-| bermuda   |  308|     8.9|
-| fescue    |   15|     8.8|
-| korai     |   72|     7.7|
-| paspalum  |  141|     8.3|
-| poa       |   19|    10.1|
-| serangoon |   24|     7.1|
+|species   |   n| median|
+|:---------|---:|------:|
+|bent-poa  |  18|   11.0|
+|poa       |  19|   10.1|
+|bermuda   | 344|    9.0|
+|bent      | 270|    9.0|
+|fescue    |  15|    8.8|
+|paspalum  | 141|    8.3|
+|korai     |  72|    7.7|
+|serangoon |  24|    7.1|
 
 This shows those green speed data summarized in the form of a [ridgeline plot](https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html).
 
-![ridgeline plot of green speed measurements by grass species](joy_speed.svg)
+{{< figure src="joy_speed.svg" >}}
 
-[I suggested yesterday](http://www.asianturfgrass.com/2017-07-16-species-ease-speed/) that I expect the amount of work required to produce the same speed for all the grasses (given mid-growing season conditions in a location where the grass is well-adapted) will be the greatest for zoysiagrass and the lowest for fine fescue.
+[I expect the amount of work](http://www.asianturfgrass.com/2017-07-16-species-ease-speed/) required to produce the same speed for all the grasses (given mid-growing season conditions in a location where the grass is well-adapted) will be the greatest for zoysiagrass and the lowest for fine fescue.
 
-I adapted the chart from yesterday with data I've collected on green speed of these grasses.
+I adapted a previous chart with data I've collected on green speed of these grasses.
 
-![green speed medians by grass species](ease_with_speed.svg)
+{{< figure src="ease_with_speed.svg" >}}
 
 One could draw a line on the chart from bent-poa to *Poa annua*, bermudagrass, seashore paspalum, and ending at zoysiagrass, and it would match my prediction exactly, if the amount of work done to those surfaces on average was the same. 
 
@@ -43,7 +45,7 @@ You'll notice of course that fine fescue, bentgrass, and serangoongrass are *not
 
 For example, [this video](https://youtu.be/tqWjV3qvoQ0) is one of the courses with serangoongrass. They call it bluegrass in the video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tqWjV3qvoQ0" frameborder="0" allowfullscreen></iframe>
+{{< youtube tqWjV3qvoQ0 >}}
 
 And for the bentgrass, a lot of the measurements were made in Japan in summer. The temperatures there in summer are something in-between Jacksonville and Atlanta -- see [this post](http://www.blog.asianturfgrass.com/2015/01/when-is-it-too-hot-to-grow-bentgrass-a-look-at-nighttime-lows-above-x-y-and-z.html) on when it's too hot to grow bentgrass -- so the median value for the bentgrass is a bit low because this is not a location where the grass is well-adapted.
 
