@@ -19,7 +19,7 @@ In that same comparison of pre- and post-rain samples, the soil calcium (Ca) wen
 
 Why did Ca go down with rain, but K didn't? I reckon it's because irrigation was supplying about 26 times more Ca than the grass was using. And all that extra Ca has to go somewhere.
 
-{{< figure library="true" src="keya_15_irrigation.jpg" title="Irrigation water at Keya GC supplies 26 times more Ca than the grass uses." >}}
+{{< figure library="true" src="keya_15_irrigation.jpg" caption="Irrigation water at Keya GC supplies 26 times more Ca than the grass uses." >}}
 
 If you are interested in the math, it goes like this. And it's just a coincidence that it is 26 times more Ca in irrigation water than grass use, and 26 ppm decrease. Those 26's aren't connected in any way.
 
