@@ -1,14 +1,13 @@
 ---
-header:
-  image:  "lamlukka_nursery.jpg"
-  caption: "Planting a manilagrass sod field in Lam Luk Ka, Thailand"
 date: "2017-09-23T00:00:00Z"
-share-media: https://c1.staticflickr.com/5/4427/37018765580_726579286c_b_d.jpg
 tags:
 - zoysia
 - sod
 title: Converting grass stolon planting rates from bushels to mass per area
 featured: true
+image:
+  preview_only: true
+authors: [admin]
 ---
 
 Planting rates for grass stolons are usually described as bushels per acre in the USA, I think. In Thailand, the rates are often described as mass of stolons, i.e. kg/m<sup>2</sup>.
@@ -29,11 +28,11 @@ I was at a seminar in Thailand a couple months ago, and a speaker mentioned a pl
 
 This conversion is something that Mike Richardson and I have discussed a few times. We [recently did again](https://twitter.com/ArkansasTurf/status/911776131216486400), concerning the planting rate of manilagrass (*Zoysia matrella* 'nuan noi') nurseries near Bangkok. These fields are planted by taking 1 m<sup>2</sup> of sod and planting it to 4 m<sup>2</sup>. What's that planting rate in bushels?
 
-![planting sod in Bangkok](https://c1.staticflickr.com/5/4427/37018765580_726579286c_b_d.jpg)
+{{< figure src="planting_zoysia1.jpg" >}}
 
 To answer his question, I'm going to estimate that the manilagrass sod cut from the nurseries in Bangkok is 1/3 the thickness of sod cut from nurseries in the USA. I can easily pick up a large piece of sod -- this is a piece of seashore paspalum -- cut from the nurseries near Bangkok because it is mostly a mat of stolons and contains very little soil.
 
-![paspalum sod BKK](https://c1.staticflickr.com/5/4398/37247442532_c1fd847fd0_c_d.jpg)
+{{< figure src="planting_zoysia2.jpg" >}}
 
 I'll further estimate that the quantity of stolons and rhizomes (or perhaps the number of nodes) in 1 m<sup>2</sup> of sod in Bangkok is half the amount of 1 m<sup>2</sup> of sod in the USA. If that's approximately correct, then I'll extend that estimation to predict that 1 m<sup>2</sup> of the thin 5 or 6 week old sod in Bangkok would produce half the bushels of an equivalently sized (in area) piece of sod in the USA. I expect that 1 m<sup>2</sup> of sod in the USA will produce by definition 1.2 bushels. So I'll estimate that 1 m<sup>2</sup> in Bangkok will produce 0.6 bushels. 
 

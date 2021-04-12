@@ -8,6 +8,7 @@ title: New MLSN cheat sheet
 featured: true
 image: 
   preview_only: true
+authors: [admin]
 ---
 
 I thought it might be useful to summarize the key details of MLSN in a cheat sheet. For people using MLSN, or wanting to use it, this 2 page cheat sheet is intended to be a handy reference. 
@@ -17,6 +18,6 @@ I thought it might be useful to summarize the key details of MLSN in a cheat she
 
 Anything missing? Please let me know, and I'll put it on a list for future updates of the cheat sheet.
 
-![mlsn cheat sheet page 1](mlsn_cheat_sheet1.png)
+{{< figure src="mlsn_cheat_sheet1.png" >}}
 
-![mlsn cheat sheet page 2](mlsn_cheat_sheet2.png)
+{{< figure src="mlsn_cheat_sheet2.png" >}}

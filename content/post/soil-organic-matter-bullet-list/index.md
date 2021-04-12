@@ -1,13 +1,12 @@
 ---
 date: "2020-02-17T00:00:00Z"
-share-media: https://www.asianturfgrass.comom_bullet.jpg
 tags:
 - OM246
 - Organic matter
 - Soil test
 title: 'Soil organic matter: a bullet list'
 featured: true
-author: Micah Woods
+authors: [admin]
 image:
   caption: ''
   focal_point: ''
@@ -36,7 +35,7 @@ These are some key things I've learned after studying organic matter (OM) for a 
 
 I'm sure that by looking at total OM over time, you'll find this to be incredibly useful.
 
-![bullet list media](om_bullet.jpg)
+{{< figure src="om_bullet.jpg" >}}
 
 For more information about this important topic, please have a look at:
 
