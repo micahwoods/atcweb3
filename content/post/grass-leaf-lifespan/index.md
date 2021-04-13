@@ -1,16 +1,18 @@
 ---
 date: "2020-03-25T00:00:00Z"
-share-media: https://www.asianturfgrass.comleaf_lifespan.jpg
 tags:
 - zoysia
 - bermuda
 - ecology
 title: Turf performance and the lifespan of individual grass leaves
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 This photo was taken 174 days after the 'Tifeagle' bermudagrass and 'Wana' manilagrass were planted as 3 cm diameter plugs on 1 October 2019.
 
-![Tifeagle bermudagrass and Wana manilagrass looking completely different 174 days after planting, the Wana with many green leaves and the Tifeagle with few leaves](leaf_lifespan.jpg)
+{{< figure src="leaf_lifespan.jpg" >}}
 
 These particular pots have been fertilized with nitrogen only since then, with no P or K. So one might expect that the bermudagrass wouldn't look so good, and that the manilagrass might look a little better. 
 

@@ -1,12 +1,14 @@
 ---
 date: "2020-04-10T00:00:00Z"
-share-media: https://www.asianturfgrass.comtractor.jpg
 tags:
 - soil testing
-- ph
+- pH
 - phosphorus
 title: It is difficult to run a fertilizer down the field when the corn is six feet
   high
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I was reading the "Cultural Aspects of Disease Management" chapter in *Management of Turfgrass Diseases* by Dr. Vargas and came across this gem about soil pH:

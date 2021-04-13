@@ -1,12 +1,13 @@
 ---
 date: "2020-03-19T00:00:00Z"
-share-media: https://www.asianturfgrass.comwat_phuket.jpg
 tags:
 - fertilizer
-- turfhacks
-- turfreads
-title: None of the expensive fertilizer programs were superior to that of urea and
-  iron
+- Turf hacks
+- Turf reads
+title: None of the expensive fertilizer programs were superior to that of urea and iron
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 A few years ago Blake Meentemeyer and Brian Whitlark wrote about fertilizer in the *Green Section Record*. I've recommended this article before, in [a post on the Viridescent blog](https://www.blog.asianturfgrass.com/2016/05/how-to-save-82-on-fertilizer-cost.html). I highlighted in that post a case study from the article---a "facility in the Las Vegas area" reduced putting green fertilizer cost by a staggering 82%. How? By changing from "an expensive fertility program" to "a simpler product line." Meentemeyer and Whitlark wrote that this confirms research findings "that none of the expensive fertilizer programs were superior to that of urea and iron."

@@ -1,19 +1,22 @@
 ---
 date: "2020-04-19T00:00:00Z"
-share-media: https://www.asianturfgrass.comclegg_density.png
+
 tags:
 - greenkeeping
 - playability
 - hardness
 - firmness
 title: Surface hardness of eight grass species on putting greens
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Yesterday I wrote about [tools](https://www.asianturfgrass.com/2020-04-18-surface-hardness-correlations/) used to measure surface hardness. I've used all of those tools, and I prefer the golf course firmness tester from SDI (a 500 g Clegg impact tester with a domed head) for its ease of use and reliability.
 
 This is a summary of Clegg measurements I've made since 2011, excluding measurements from professional tournaments.
 
-![summary of clegg measurements on putting greens since 2011](clegg_density.png)
+{{< figure src="clegg_density.png" >}}
 
 Serangoon is *Digitaria didactyla*, also called blue couch. Korai is manilagrass, *Zoysia matrella*. 
 

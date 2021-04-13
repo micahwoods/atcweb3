@@ -1,12 +1,14 @@
 ---
 date: "2020-04-17T00:00:00Z"
-share-media: https://www.asianturfgrass.com10apr.jpg
 tags:
 - zoysia
 - fertilizer
 - roots
-- mlsn
+- MLSN
 title: When grass grows more, it makes more roots
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 When I saw how these grasses were growing at [#ATC南店](https://twitter.com/hashtag/ATC%E5%8D%97%E5%BA%97?src=hashtag_click), I jotted down a couple notes for a future blog post---this one. 
@@ -17,17 +19,17 @@ When I saw how these grasses were growing at [#ATC南店](https://twitter.com/ha
 
 I planted grass as 3 cm diameter plugs, planted in pots filled with coconut coir on 1 October 2019, and then fertilized the pots with different materials. After 100 days, the zoysia fertilized with N and P and K had almost completely covered the pot surface area. The pot of zoysia that got only N had not.
 
-![zoysia 100 days after planting](jan9.jpg)
+{{< figure src="jan9.jpg" >}}
 
 The grass fertilized with P and K in amounts matching the plant requirements was growing more. Naturally, this grass created a **larger** plant---more aboveground and belowground biomass within the same size pot.
 
-![zoysia roots after six months](10apr.jpg)
+{{< figure src="10apr.jpg" >}}
 
 When there is more photosynthesis, one can expect the grass to create a more extensive root system.
 
 These pots are no more. I sliced them open last week, took a couple more photos, then planted them at another location. Looking at the cross-section shows another view of how much more aboveground growth there was in the pot fertilized with enough nutrients, compared with the grass deficient in P and K.
 
-![cross section of zoysia fertilized with N and with NPK](sliced.jpg)
+{{< figure src="sliced.jpg" >}}
 
 As I pointed out in [a previous post](https://www.asianturfgrass.com/2020-04-03-roots-p-k-deficient-grass/), the N-only pot is deficient in P and K. The pot fertilized with P and K in an amount proportional to grass demand grew a lot bigger, because that grass is supplied with all the P and K that the grass can use.
 

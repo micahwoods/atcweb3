@@ -1,12 +1,14 @@
 ---
 date: "2020-03-17T00:00:00Z"
-share-media: https://www.asianturfgrass.comgrass_so_fair.jpg
 tags:
 - fertilizer
-- turfhacks
-- om246
+- Turf hacks
+- OM246
 - organic matter
 title: Simple, idiot proof, and inexpensive
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I had a great email exchange last December. It gets at what is *really* required, in a couple key areas, to produce high quality surfaces. And that might be less than you think. It involves hollow core aerification and fertilizer.
@@ -53,7 +55,7 @@ I've noticed similar things over the past 8 years or so. I used to recommend a l
 
 What I recommend now is careful observation of turf conditions, annual measurement of total OM at the surface (I prefer the method described at <https://www.asianturfgrass.com/2019-06-25-one-simple-trick-better-greens/>), and adjustment of topdressing amounts based on turf conditions and OM change over time, compared to the amount of work (topdressing and OM management) that has been done."
 
-![grass sign](grass_so_fair.jpg)
+{{< figure src="grass_so_fair.jpg" >}}
 
 
 
