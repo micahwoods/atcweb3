@@ -1,19 +1,21 @@
 ---
 date: "2020-02-24T00:00:00Z"
-share-media: https://www.asianturfgrass.comquacks.jpg
 tags:
 - fertilizer
 - article
 - greenkeeping
-- turfreads
+- Turf reads
 title: Quacks and Suckers
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 A couple weeks ago I was preparing for a seminar in which I discussed [Charles Vancouver Piper](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/2000s/2006/060317.pdf) and the early days of turfgrass science in the United States. I recalled---or quite possibly I misremembered, as I haven't been able to find it yet---having read some years ago something by Piper about nostrums. A **nostrum**, the [OED](https://www.oed.com/) says, is "a quack remedy or patent medicine, *esp.* one prepared by the person recommending it."
 
 Today I looked through the early issues of the *Green Section Record*, or more specifically the *Bulletin of the Green Section of the United States Golf Association*, as it was called in those days, looking for something about nostrums. I didn't find that, but I did find an editorial in the June 1923 issue with the title ["Quacks and Suckers"](https://gsr.lib.msu.edu/1920s/1923/2306158.pdf).
 
-[![table of contents of june 1923 gsr](quacks.jpg)](https://gsr.lib.msu.edu/1920s/1923/index.htm#June)
+{{< figure src="quacks.jpg" >}}
 
 The USGA Green Committee at that time was filled with familar names. Piper of course was the Chairman, his colleague Dr. R.A. Oakley was Vice-Chairman, and storied names such as Hugh I. Wilson from Merion Cricket Club, Dr. Walter S. Harban from Columbia Country Club, William C. Fownes, Jr. from Oakmont Country Club, William F. Brooks from Minikahda Club, Alan D. Wilson from Pine Valley Golf Club, and Norman Macbeth from Wilshire Country Club, were also on the committee.
 

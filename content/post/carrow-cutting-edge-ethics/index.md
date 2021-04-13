@@ -1,16 +1,18 @@
 ---
 date: "2020-02-28T00:00:00Z"
-share-media: https://www.asianturfgrass.comcarrow_ethics.jpg
 tags:
 - article
 - greenkeeping
-- turfreads
+- Turf reads
 title: New technologies, ethics, and money
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Dr. Carrow gets right to the point in the very first sentence of his [classic article](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/2000s/2000/000517.pdf) about new technologies and ethical purchasing, writing that "staying on the cutting edge ... requires integrating new products and technologies."
 
-[![media ethical purchasing](carrow_ethics.jpg)](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/2000s/2000/000517.pdf)
+{{< figure src="carrow_ethics.jpg" >}}
 
 He explains that "expending large amounts of club funds for testing a new technology is an ethical issue," and he points out that "golf course maintenance budgets can often be made more efficient while not sacrificing quality." 
 

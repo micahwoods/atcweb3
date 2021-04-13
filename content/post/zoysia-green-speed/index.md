@@ -19,7 +19,7 @@ image:
 
 I get to see a lot of bermudagrass and zoysiagrass putting greens. In fact, most of my golf is played on one of those two surfaces. Sometimes people ask me about the ball roll on zoysia compared with roll on bermudagrass. 
 
-The [NTEP 2013 National Warm-Season Greens Test](https://ntep.org/ws.htm) has data on grass performance, with ball roll distance reported for multiple locations.[^1] This NTEP test includes some varieties that are commercially-available, and it also has data on experimental varieties. I summarized in this first chart the average speed for three common bermudagrass (*Cynodon*) varieties and three zoysia varieties for the final three years of the test: 2015, 2016, and 2017.
+The [NTEP 2013 National Warm-Season Greens Test](https://ntep.org/ws.htm) has data on grass performance, with ball roll distance reported for multiple locations.[^1] This NTEP test includes some varieties that are commercially available, and it also has data on experimental varieties. I summarized in this first chart the average speed for three common bermudagrass (*Cynodon*) varieties and three zoysia varieties for the final three years of the test: 2015, 2016, and 2017.
 
 [^1]: The locations with ball roll measurements are: Jay, Florida; Lexington, Kentucky; Rancho Mirage, California; Richmond, Virginia; Starkville, Mississippi; and Tucson, Arizona.
 
