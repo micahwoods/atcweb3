@@ -12,20 +12,17 @@ image:
 
 On February 28, I planted 'Wana' manilagrass as two node rhizomes in sand-filled pots. All pots have had irrigation and rainfall. One pot has not been fertilized. One has received only N from urea. Another pot has gotten N and P, from urea and from diammonium phosphate (DAP). The fourth pot has gotten all the macronutrients---N, P, and K---from urea and DAP and potassium chloride (KCl).
 
-![4 pots of manilagrass 72 days after planting](algae_4pots.jpg)
-<small><strong>Algae covers the sand surface in pots supplied with P, 72 days after planting.</strong></small>
+{{< figure src="algae_4pots.jpg" caption="Algae covers the sand surface in pots supplied with P, 72 days after planting." >}}
 
 It seems there is plenty of K in the sand and in the irrigation water, because the grasses haven't had much growth response to added K. They definitely respond to P.
 
 And so does the algae.
 
-![manilagrass pots with algae where P has been supplied](algae_p.jpg)
-<small><strong>The manilagrass grows rapidly when P is supplied, but P addition has caused algae to grow too.</strong></small>
+{{< figure src="algae_p.jpg" caption="The manilagrass grows rapidly when P is supplied, but P addition has caused algae to grow too." >}}
 
 There was a hint that this would happen less than two weeks after planting.
 
-![algae starting to grow in P fertilized pots 11 days after planting](no_algae_11_days.jpg)
-<small><strong>Pots supplied with P started to show hints of algae growth 11 days after planting.</strong></small>
+{{< figure src="no_algae_11_days.jpg" caption="Pots supplied with P started to show hints of algae growth 11 days after planting." >}}
 
 It's obvious, by looking at how much the grass has grown in 72 days, that P supplied to this grass in this sand speeds establishment. Once grass is established, however, there are all kinds of reasons not to apply P, such as:
 

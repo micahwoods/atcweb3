@@ -1,14 +1,14 @@
 ---
 date: "2020-05-22T00:00:00Z"
-share-media: https://www.asianturfgrass.commlsn_4_suggestion.jpg
 tags:
-- mlsn
+- MLSN
 - fertilizer
 - soil testing
 title: Four more sources for MLSN information
+authors: [admin]
+image: 
+  preview_only: false
 ---
-
-![image of 3 video and 1 cheat sheet recommended here](mlsn_4_suggestion.jpg)
 
 In my recent "How MLSN Works" seminar---[slides here](https://speakerdeck.com/micahwoods/how-mlsn-works)---I mentioned some other ways to learn more about MLSN. The four items I recommended are:
 

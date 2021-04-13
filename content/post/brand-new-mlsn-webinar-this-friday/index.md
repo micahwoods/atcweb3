@@ -1,18 +1,20 @@
 ---
 date: "2020-05-18T00:00:00Z"
-share-media: https://www.asianturfgrass.commlsn_title_slide.jpg
 tags:
-- mlsn
+- MLSN
 - fertilizer
-- soil testing
+- soil test
+authors: [admin]
 title: Brand new MLSN webinar this Friday
+image:
+  preview_only: true
 ---
 
 I'll be teaching a webinar on Friday, May 22, at 10 a.m. New York time, about **How MLSN Works**. The webinar is for the [Amplify](https://www.amplifytogether.com/) network and is free and open to everyone. 
 
 Contact Chris Eidson (ceidson [at] blinc [dot] com), the Education Specialist at Brookside Labs, to register.
 
-![title slide](mlsn_title_slide.jpg)
+{{< figure src="mlsn_title_slide.jpg" >}}
 
 I put the title slide together, and that's it for the slides so far. I have made some notes about what I'd like to discuss:
 
