@@ -1,11 +1,14 @@
 ---
 date: "2020-07-06T00:00:00Z"
-share-media: https://www.asianturfgrass.comsand_profile_om.jpg
+authors: [admin]
 tags:
-- om246
+- OM246
 - organic matter
-- soil testing
+- soil test
 title: How much does total organic matter vary within the same green?
+image: 
+  preview_only: true
+math: true
 ---
 
 There's a ton of work done to modify the soil organic matter of turfgrass surfaces. Fertilizer, water, and increased light will allow the grass to grow and naturally increase the organic matter in the soil. Sand topdressing will increase the mass of the soil without adding organic matter, so that causes a decrease in soil organic matter by weight. And verticutting and scarifying and more intensive cultivation remove some organic matter and make space for sand.
@@ -14,7 +17,7 @@ There's a ton of work done to modify the soil organic matter of turfgrass surfac
 
 First, to put this in context, I recommend having a review of [this organic matter bullet list](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/).
 
-![om bullet list image](om_bullet.jpg)
+{{< figure src="om_bullet.jpg" >}}
 
 Next, why is this important? 
 
@@ -24,7 +27,7 @@ Another reason is to understand what is happening on different areas of the same
 
 There will be some variation from subsample to subsample, but how much is normal? 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What is the spatial variation of organic matter in a golf green? <a href="https://twitter.com/hashtag/CommonQuestion?src=hash&amp;ref_src=twsrc%5Etfw">#CommonQuestion</a> This is Loss on ignition of nine samples from one green. <a href="https://twitter.com/hashtag/turf?src=hash&amp;ref_src=twsrc%5Etfw">#turf</a> <a href="https://t.co/p4p221Fq8u">pic.twitter.com/p4p221Fq8u</a></p>&mdash; Bert Sandell (@BertSandell) <a href="https://twitter.com/BertSandell/status/1279330051180441601?ref_src=twsrc%5Etfw">July 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+{{< tweet "1279330051180441601" >}}
 
 Bert shared that in this set of samples, at the 0 to 25 mm depth (1 inch---I prefer cutting to 20 mm for even more precision, but 20 and 25 mm are practically the same), the mean was 58 g/kg (5.8%) and the standard deviation was 6.5 g/kg (0.65%). 
 

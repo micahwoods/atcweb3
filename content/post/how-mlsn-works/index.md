@@ -1,17 +1,19 @@
 ---
 date: "2020-05-27T00:00:00Z"
-share-media: https://www.asianturfgrass.commlsn_what_happens.jpg
+authors: [admin]
 tags:
-- mlsn
+- MLSN
 - fertilizer
 - video
 - potassium
 title: How MLSN works
+image:
+  preview_only: true
 ---
 
 The recording of my seminar about "How MLSN Works" is [now available](https://youtu.be/6SWT2GyUO7k) on YouTube.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6SWT2GyUO7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "6SWT2GyUO7k" >}}
 
 I want to correct something. At the very end, I misstated that irrigation water normally has 20 to 60 ppm (mg/L) potassium. That's incorrect. Potassium is normally 5 to 20 ppm, [according to Penn State's irrigation water quality guidelines](https://extension.psu.edu/irrigation-water-quality-guidelines-for-turfgrass-sites). It is calcium that normally has a concentration of 20 to 60 ppm.
 
