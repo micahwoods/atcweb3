@@ -1,11 +1,12 @@
 ---
 date: "2019-12-31T00:00:00Z"
-share-media: https://www.asianturfgrass.comawesome_2019.jpg
 tags:
 - roundup
 - awesome
-title: A non-comprehensive list of awesome turfgrass things other people did this
-  year
+title: A non-comprehensive list of awesome turfgrass things other people did this year
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Here's a non-comprehensive list for this year. I've certainly missed lots of awesome things. If you'd like to add them, please do so in the comments.
@@ -13,13 +14,14 @@ Here's a non-comprehensive list for this year. I've certainly missed lots of awe
 * Ross Braun and Dale Bremer wrote [a fascinating article](https://dx.doi.org/10.2134/age2018.12.0060) about carbon sequestration of zoysiagrass turf.
 
 * Maggie Reiter showed [this striking aerial image](https://twitter.com/maggie_reiter/status/1199730314009907200?s=20) of herbicide effect over time.
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Working on a <a href="https://twitter.com/CAPCA3?ref_src=twsrc%5Etfw">@CAPCA3</a> Adviser article about our recent research on organic herbicides vs glyphosate standards. Figure shows example images of herbicide efficacy over time <a href="https://t.co/MVwNCUNeGC">pic.twitter.com/MVwNCUNeGC</a></p>&mdash; Maggie Reiter (@maggie_reiter) <a href="https://twitter.com/maggie_reiter/status/1199730314009907200?ref_src=twsrc%5Etfw">November 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+{{< tweet "1199730314009907200" >}}
 
 * John Dempsey has shared a lot of his slides from [presentations all over the world this year](https://www.slideshare.net/JohnDempsey8). Thank you! 
 
 * Miranda Robinson shared awesome photos, videos, insight, and humour all year. If I had a vote, [this would be tweet of the year](https://twitter.com/turfmow/status/1140961675773956096?s=20).
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So this just happened... <a href="https://twitter.com/hashtag/clipporn?src=hash&amp;ref_src=twsrc%5Etfw">#clipporn</a> <a href="https://twitter.com/hashtag/clipvol?src=hash&amp;ref_src=twsrc%5Etfw">#clipvol</a> <a href="https://twitter.com/asianturfgrass?ref_src=twsrc%5Etfw">@asianturfgrass</a> <a href="https://t.co/hcZXjhPNKm">pic.twitter.com/hcZXjhPNKm</a></p>&mdash; Mow R. (@turfmow) <a href="https://twitter.com/turfmow/status/1140961675773956096?ref_src=twsrc%5Etfw">June 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+{{< tweet "1140961675773956096" >}}
 
 * Bruce Clarke, Paul Vincelli, Paul Koch, and Gregg Munshaw updated the [Chemical Control of Turfgrass Diseases 2020](https://twitter.com/turfmow/status/1140961675773956096?s=20) reference. There's an amazing amount of useful information in those 34 pages.
 

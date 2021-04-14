@@ -1,10 +1,13 @@
 ---
 date: "2019-11-13T00:00:00Z"
-share-media: https://www.asianturfgrass.comdrew_barley.png
 tags:
 - science
 - article
 title: I forgot this one too
+authors: [admin]
+image:
+  preview_only: false
+  caption: "Figure 4 from Drew's classic article on localized nutrient supply to roots."
 ---
 
 When I put together a list of articles that are *not about greenkeeping*, I forgot a couple that I really should have put on that [initial list](https://www.asianturfgrass.com/2019-10-11-so-much-to-learn-about-in-this-world/). One of those is [Grime's article](https://www.asianturfgrass.com/2019-10-31-competition-stress-disturbance/) about three primary strategies in plants.

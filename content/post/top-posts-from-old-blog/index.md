@@ -1,12 +1,15 @@
 ---
 date: "2019-12-11T00:00:00Z"
-share-media: https://www.asianturfgrass.comjan_andaman.jpg
 tags:
 - fertilizer
 - roots
 - irrigation
 - soil test
 title: The top 10 posts from the old blog
+authors: [admin]
+image:
+  preview_only: false
+  caption: "Seashore paspalum on an island in the Andaman Sea."
 ---
 
 Remember the [Viridescent blog](https://www.blog.asianturfgrass.com/), with its 841 posts made from 1 January 2009 until I switched to this new site in 2017? I've summarized the top posts on that site [by year, here,](https://www.blog.asianturfgrass.com/2016/12/top-10-posts-of-2016.html) and today I checked the most viewed posts of all time. 

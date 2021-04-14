@@ -1,11 +1,14 @@
 ---
 date: "2020-02-09T00:00:00Z"
-share-media: https://www.asianturfgrass.comdouble_green.jpg
 tags:
-- soil testing
+- soil test
 - research
 - science
 title: Turfgrass soil sampling, part 7 of 7
+subtitle: Checking the variability on a golf course putting green
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 The summary so far is this:
@@ -17,8 +20,7 @@ The summary so far is this:
 
 I've been wondering if my usual practice of 5 subsamples per green were enough (or too many). Last year I took 30 cores from a 1,092 m<sup>2</sup> double green in Bangkok and tested them individually. That works out to 1 sample every 36 m<sup>2</sup>. 
 
-![double green](double_green.jpg)
-<small><strong>30 cores were collected from this double green in Bangkok and the cores were tested individually at Brookside Laboratories.</strong></small>
+{{< figure src="double_green.jpg" caption="30 cores were collected from this double green in Bangkok and the cores were tested individually at Brookside Laboratories." >}}
 
 I made some calculations about the number of samples required. I'll use the Mehlich 3 phosphorus results as an example. These are the soil test phosphorus data for those 30 cores in units of mg/kg.
 
@@ -26,13 +28,11 @@ I made some calculations about the number of samples required. I'll use the Mehl
 
 I took random draws from those results, selecting 1 core, or 2, or 3, all the way up to 30 cores. And from those cores that were randomly drawn, I calculated the geometric mean, as recommended by Lawrence et al. I did that 200 times, and then plotted the means that were obtained from taking 1 up to 30 cores. This is simulating composite sampling from 1 core up to 30 cores on the same green. 
 
-![chart of sim means](sim_means_p.png)
-<small><strong>200 simulated means for 1 to 30 cores calculated from the soil test results from a 1,092 m<sup>2</sup> green. The lines show a 10% margin above the known mean (calculated from all 30 cores) and a 10% margin below the mean.</strong></small>
+{{< figure src="sim_means_p.png" caption="200 simulated means for 1 to 30 cores calculated from the soil test results from a 1,092 m<sup>2</sup> green. The lines show a 10% margin above the known mean (calculated from all 30 cores) and a 10% margin below the mean." >}}
 
 Looking at the fraction of the simulations that returned a mean within 10% of the known mean, the fraction goes above 90% (marked with a horizontal dashed line in the chart below) once there were 6 or more subsamples.
 
-![chart of fraction within 10%](fraction_within_10_p.png)
-<small><strong>The fraction of simulated means that were within 10% of the known mean, calculated from 200 random draws from the test data.</strong></small>
+{{< figure src="fraction_within_10_p.png" caption="The fraction of simulated means that were within 10% of the known mean, calculated from 200 random draws from the test data." >}}
 
 For phosphorus, once 6 cores were composited from this area, the mean soil test P was within 10% of the known mean more than 90% of the time.
 

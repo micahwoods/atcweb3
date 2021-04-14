@@ -1,14 +1,16 @@
 ---
-bigmedia:
-- greenkeeper_uni.jpg: some GreenKeeper University instructors
+
 date: "2019-11-08T00:00:00Z"
-share-media: https://www.asianturfgrass.comgreenkeeper_uni.jpg
 tags:
 - seminar
 - education
 - turfgrass management
 - web/tech
 title: Online education through GreenKeeper University
+authors: [admin]
+image:
+  preview_only: false
+  caption: "some GreenKeeper University instructors"
 ---
 
 Most of you will be familiar with the [GreenKeeper App](https://www.greenkeeperapp.com/marketing/). It is a decision support tool for turfgrass professionals that includes pest outbreak models, product (and growing degree day) tracking, weather reporting and much more.

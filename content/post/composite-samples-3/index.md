@@ -1,17 +1,19 @@
 ---
 date: "2020-02-04T00:00:00Z"
-share-media: https://www.asianturfgrass.comdonohue_2002_fig3.png
 tags:
-- soil testing
+- soil test
 - research
 - science
 title: Turfgrass soil sampling, part 3 of 7
+subtitle: One research project suggests 20 subsamples be composited to get a representative sample
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 There's an article by Donohue, [Evaluation of soil nutrient variability for development of turfgrass soil test sampling methods](https://doi.org/10.1081/CSS-120014527), that describes results from sampling a 2,000 m<sup>2</sup> (21,520 ft<sup>2</sup>) lawn at the Virginia Tech Turfgrass Center Laboratory.
 
-![figure 3 from Donohue (2002) on turfgrass soil test sampling](donohue_2002_fig3.png)
-<small><strong>Figure 3 from [Donohue (2002)](https://doi.org/10.1081/CSS-120014527) showing Mehlich 1 phosphorus (P) test results; the units are mg P/dm<sup>3</sup> (mg/L).</strong></small>
+{{< figure src="donohue_2002_fig3.png" caption="Figure 3 from [Donohue (2002)](https://doi.org/10.1081/CSS-120014527) showing Mehlich 1 phosphorus (P) test results; the units are mg P/dm<sup>3</sup> (mg/L)." >}}
 
 221 possible sampling locations were identified, on a 3 m (9.8 foot) grid pattern across this area. I'll now give some quotes directly from the article:
 

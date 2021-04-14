@@ -1,17 +1,20 @@
 ---
 date: "2020-02-06T00:00:00Z"
-share-media: https://www.asianturfgrass.comsouthern_links_green.jpg
+
 tags:
-- soil testing
+- soil test
 - research
 - science
 title: Turfgrass soil sampling, part 5 of 7
+subtitle: An informal survey about the number of subsamples collected to make a single composite sample
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I'd read the soil sampling instructions from Penn State and Rutgers, suggesting a minimum of 12 subsamples be combined as a composite sample for each area. When I give instructions for sampling, I suggest a minimum of 5 subsamples be collected per green (or per area). And the [Donohue article I've written about](https://www.asianturfgrass.com/2020-02-04-composite-samples-3/) suggests 20 samples be collected from an area about the size of 4 typical putting greens.
 
-![Tifdwarf green at Southern Links, Okinawa](southern_links_green.jpg)
-<small><strong>The standard recommendation for turfgrass seems to be a minimum of 12 samples for an area the size of a golf course putting green.</strong></small>
+{{< figure src="southern_links_green.jpg" caption="The standard recommendation for turfgrass seems to be a minimum of 12 samples for an area the size of a golf course putting green." >}}
 
 I wondered what other people do, so I sent out [this poll on Twitter](https://twitter.com/asianturfgrass/status/1220536864701992961), asking "When collecting samples for soil nutrient analysis on golf course putting greens, how many subsamples do you collect to make a single composite sample for one putting green?"
 

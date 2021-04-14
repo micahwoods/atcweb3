@@ -1,11 +1,15 @@
 ---
 date: "2020-02-07T00:00:00Z"
-share-media: https://www.asianturfgrass.comsampling_tublamu.jpg
 tags:
-- soil testing
+- soil test
 - research
 - science
 title: Turfgrass soil sampling, part 6 of 7
+subtitle: 'An article by Lawrence et al. suggests that soil cores be individually analyzed'
+authors: [admin]
+image:
+  preview_only: false
+  caption: "Collecting soil samples at Tublamu GC, Thailand"
 ---
 
 Now this series gets interesting. I've reviewed [what I do](https://www.asianturfgrass.com/2020-02-05-composite-samples-4/), what a Twitter survey says [people are doing](https://www.asianturfgrass.com/2020-02-06-composite-samples-5/), what [Rutgers](https://www.asianturfgrass.com/2020-02-02-composite-samples-1/) and [Penn State](https://www.asianturfgrass.com/2020-02-03-composite-samples-2/) recommend, and what an intensively sampled [lawn in Virginia](https://www.asianturfgrass.com/2020-02-04-composite-samples-3/) suggests would be an appropriate number of subsamples to combine in composite samples for turfgrass.

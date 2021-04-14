@@ -1,10 +1,12 @@
 ---
 date: "2019-12-26T00:00:00Z"
-share-media: https://www.asianturfgrass.comgolden_weaver.jpg
 tags:
 - web/tech
 - turf info
 title: The top 10 posts of 2019
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 These posts had the most views in 2019. Here they are, counting down from ten to one.

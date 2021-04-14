@@ -1,10 +1,13 @@
 ---
 date: "2019-12-11T00:00:00Z"
-share-media: https://www.asianturfgrass.comrmgc_bunker_splash.jpg
 tags:
-- australia
+- Australia
 - tournament
+- Turf reads
 title: Insight from Andrew Thomson's Presidents Cup Diary
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Andrew Thomson is the author of [Bridge to the Gods: Tales from Kyushu](http://www.ryanpub.com.au/bridgetothegods.htm). That very book happens to be sitting beside my computer as I write this. I'm bringing it to read this weekend when I'll be on a small island in the Andaman Sea. 
