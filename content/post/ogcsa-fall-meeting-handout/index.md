@@ -1,9 +1,12 @@
 ---
 date: "2019-11-05T00:00:00Z"
-share-media: https://www.asianturfgrass.comogcsa_handout.jpg
 tags:
 - seminar
+- Oregon
 title: Handout for the OGCSA fall meeting
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I've prepared [this 3 page handout](http://www.seminar.asianturfgrass.com/201911_ogcsa_handout.pdf) for the November 6 meeting of the [Oregon GCSA](http://www.ogcsa.org/). 

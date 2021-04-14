@@ -1,11 +1,13 @@
 ---
 date: "2019-09-29T00:00:00Z"
-share-media: https://www.asianturfgrass.commicah_iceland_seminar.jpg
 tags:
-- mlsn
+- MLSN
 - soil test
 - fertilizer
 title: Time for a new excuse
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I really enjoyed listening to [John Kaminski on season 2 episode 3](http://thetalkinggreenkeeper.libsyn.com/website/3-john-kaminski) of the Talking Greenkeeper. It was fascinating to hear how the new edition of [*Turfgrass Management*](https://turfpath.com/book) by Turgeon and Kaminski came together.
@@ -14,7 +16,7 @@ When they were discussing the book, host Joe Gulotti asked about MLSN, and John 
 
 You can listen (starting around minute 42:00) for the full discussion of *why* MLSN is not in the book. It revolves around the same trope I've heard many times over the years---research behind soil test interpretations for turfgrass, and peer-review of fertilizer recommendations based on soil tests.
 
-Existing soil test interpretation and fertilizer recommendations for turfgrass are poorly researched and are not peer reviewed. If someone doesn't like the MLSN approach, I'd love to hear a new objection, because this one doesn't hold water.  
+Existing soil test interpretation and fertilizer recommendations for turfgrass are poorly researched and are not peer reviewed. If someone doesn't like the MLSN approach, I'd love to hear a new objection, because this one doesn't hold water.
 
 ---
 

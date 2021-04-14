@@ -1,12 +1,14 @@
 ---
 date: "2019-10-28T00:00:00Z"
-share-media: https://www.asianturfgrass.comutk_poa_2018.jpg
 tags:
 - weeds
 - podcast
 - science
 - research
 title: When this goes off the rails, it goes way off the rails
+authors: [admin]
+image:
+  preview_only: false
 ---
 
 I really enjoyed listening to Frank Rossi and Jim Brosnan discuss weed control, *Poa annua*, herbicide resistance, and glyphosate in their [recent discussion on TurfNet's Frankly Speaking](https://www.turfnet.com/podcasts/rossi/brosnan/).

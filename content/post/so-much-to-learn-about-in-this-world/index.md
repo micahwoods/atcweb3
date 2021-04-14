@@ -1,17 +1,16 @@
 ---
-bigmedia:
-- park_grass_2015a.jpg: read more about the Park Grass Experiment in Silvertown
-    et al. (2006)
-- park_grass_2015b.jpg: read more about the Park Grass Experiment in Silvertown
-    et al. (2006)
 date: "2019-10-11T00:00:00Z"
-share-media: https://www.asianturfgrass.compark_grass_2015b.jpg
 tags:
 - science
+- Turf reads
 title: So many things to learn about in this world
+authors: [admin]
+image:
+  preview_only: false
+  caption: "read more about the Park Grass Experiment in Silvertown et al. (2006)"
 ---
 
-Yesterday I saw that Erwan Le Cocq was interested in [reading scientific articles](https://twitter.com/GkErwan/status/1182220713626877952?s=20) and was welcoming recommendations. I remembered that I had put together [this eclectic reference list](https://www.blog.asianturfgrass.com/2016/12/an-eclectic-list-of-references.html) to include in my [*Turfgrass Science and Greenkeeping*](https://www.amazon.co.jp/dp/4772841725/ref=cm_sw_r_cp_ep_dp_U-eyAbHH25ZNN) book. Articles and reports I've written are available at the [ATC Library](https://www.asianturfgrass.com/library/).
+Yesterday I saw that Erwan Le Cocq was interested in [reading scientific articles](https://twitter.com/GkErwan/status/1182220713626877952?s=20) and was welcoming recommendations. I remembered that I had put together [this eclectic reference list](https://www.blog.asianturfgrass.com/2016/12/an-eclectic-list-of-references.html) to include in my [*Turfgrass Science and Greenkeeping*](https://www.amazon.co.jp/dp/4772841725/ref=cm_sw_r_cp_ep_dp_U-eyAbHH25ZNN) book. Articles and reports I've written are available at the [ATC Library]({{< relref "/publication" >}}).
 
 Erwan wrote back that the articles he'd like to read don't need to be related to greenkeeping, because there is so much to learn about in the world. That got me thinking about some of the articles I've enjoyed that are not directly about grass and greenkeeping.
 

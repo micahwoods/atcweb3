@@ -1,14 +1,15 @@
 ---
-bigmedia:
-- bent_poa.jpg: creeping bentgrass overgrowing annual bluegrass on a putting
-    green in Girona
 date: "2019-10-31T00:00:00Z"
-share-media: https://www.asianturfgrass.combent_poa.jpg
 tags:
 - science
 - bentgrass
-- poa annua
+- Poa annua
+- Turf reads
 title: Competition, stress, and disturbance
+authors: [admin]
+image:
+  preview_only: true
+  caption: "creeping bentgrass overgrowing annual bluegrass on a putting green in Girona"
 ---
 
 I completely forgot a few great articles when I put together [this list](https://www.asianturfgrass.com/2019-10-11-so-much-to-learn-about-in-this-world/) of articles that are specifically *not about turfgrass*.
@@ -27,7 +28,6 @@ You'll be familiar with the CSR theory if you followed the series of *Disturbanc
 
 Grime defines competition as "the tendency of neighboring plants to utilize the same quantum of light, ion of a mineral nutrient, molecule of water, or volume of space." Because *Poa annua* is an archetypical Ruderal, and creeping bentgrass could be classified as having a C (competitive) or C-R (competitive-ruderal) strategy, I think it is interesting to consider how the environment of a turfgrass sward might be managed to favor the competitor over the ruderal. 
 
-![bentgrass growing over Poa in Girona](bent_poa.jpg)
-<small><strong>Creeping bentgrass growing over and through annual bluegrass on a putting green at PGA Catalunya in Girona. This green was managed to favor the competitive strategy plants rather than the ruderal strategy plants.</strong></small>
+{{< figure src="bent_poa.jpg" caption="Creeping bentgrass growing over and through annual bluegrass on a putting green at PGA Catalunya in Girona. This green was managed to favor the competitive strategy plants rather than the ruderal strategy plants." >}}
 
 This is something I've talked about a lot with turfgrass managers around the world and look forward to discussing further. If you are at all insterested in this, I think the article by Grime will be fascinating. And I also think it is fascinating that in conditions of high intensity of disturbance, and in conditions of high intensity of stress, there is no viable strategy for plants. That combination just happens to describe golf course putting greens or a lot of other intensively maintained turfgrass areas, and it shows just how on the edge turfgrass swards can be.

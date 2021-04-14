@@ -1,11 +1,11 @@
 ---
 date: "2019-09-29T00:00:00Z"
-share-media: https://www.asianturfgrass.compgm_ibaraki_4mm.jpg
 tags:
 - aerify
 - coring
 title: Core aerating putting greens, or not
 featured: true
+authors: [admin]
 ---
 
 There was an [article on the *Golf Course Industry* website](https://www.golfcourseindustry.com/article/red-ledges-maintenance-practices/) about a course that hasn't core aerified putting greens since the course opened 12 years ago. It's a short article---466 words. That's shorter than a lot of posts on this blog. There's not much information in the article, but I thought it interesting enough to share.

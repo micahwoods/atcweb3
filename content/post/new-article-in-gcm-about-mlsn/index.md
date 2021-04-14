@@ -1,10 +1,12 @@
 ---
 date: "2019-10-12T00:00:00Z"
-share-media: https://www.asianturfgrass.comfry_mlsn.png
 tags:
-- mlsn
+- MLSN
 - article
 title: New article in GCM about MLSN
+authors: [admin]
+image:
+  preview_only: false 
 ---
 
 Jack Fry has written about MLSN in his [**what's the big idea?**](https://lscpagepro.mydigitalpublication.com/publication/?i=620112&ver=html5&p=68) column. You can find this in the October 2019 issue of *Golf Course Management* magazine. 

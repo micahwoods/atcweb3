@@ -1,12 +1,14 @@
 ---
 date: "2019-09-08T00:00:00Z"
-share-media: https://www.asianturfgrass.comnutranta_nov2019.jpg
 tags:
 - seminar
 - philippines
 - soil testing
 - om246
 title: A continuous improvement system for turfgrass
+authors: [admin]
+image:
+  preview_only: false
 ---
 
 I'll be at [Nutranta's Best Practices seminar](https://www.facebook.com/nutrantainc/photos/a.746817742334999/953726631644108/?type=3&theater) on 20 November to talk about soil nutrient and soil organic matter testing. 
