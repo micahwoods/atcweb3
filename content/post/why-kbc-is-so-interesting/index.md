@@ -6,16 +6,16 @@ tags:
 - Tournament
 - Zoysia
 title: A lot more than your average tournament
-author: Micah Woods
+authors: [admin]
 image:
-  preview_only: yes
+  preview_only: true
 ---
 
 The KBC Augusta tournament is next week (August 24 to 27) on the Japan Golf Tour. There are a lot of reasons why it is a lot more than an average tournament. 
 
 I'm especially interested in it because of the grass; it is korai (*Zoysia matrella*) on tees, fairways, and greens, and noshiba (*Zoysia japonica*) in the rough. 
 
-![18 maintenance and caddies](https://c2.staticflickr.com/4/3872/15144738745_67c1f11d4f_b_d.jpg)
+{{< figure src="keya18_caddies.jpg" >}}
 
 It is the only event on the [Japan Golf Tour](http://www.jgto.org/pc/TopPage.do) contested on korai greens. The grass gets a lot of media attention during the week because of this.
 
@@ -33,16 +33,16 @@ Here's some of the other things that make KBC Augusta more than the average tour
 * there's free food too
 * can I mention the grass again? This is greenside noshiba rough at 90 mm
 
-![noshiba rough](https://c2.staticflickr.com/4/3864/15141767031_b858565306_b_d.jpg)
+{{< figure src="noshiba_rough.jpg" >}}
 
 * if the free beer and free food isn't loud enough, there is going to be "walk up" music for each player, and continuous background music in the centrally-located beer garden
 * some of the best surfing in Kyushu is just to the right of the first hole
 * the weather during the tournament, as at all tournaments, rarely cooperates. What's going to happen this year?
 
-![weather 11 green](https://c2.staticflickr.com/6/5562/14958184507_3ba55bb049_b_d.jpg)
+{{< figure src="keya_11_flood.jpg" >}}
 
 * Are you a fan of Japanese girl idol groups? Then you are in luck. [HKT48](https://en.wikipedia.org/wiki/HKT48) are playing a concert on the 18<sup>th</sup> fairway on Saturday night!
 * Lots of fine food and drinks at the maintenance shop, with a daily bento lunch
 * Rhodesian ridgebacks. They run the course to keep the hogs away and I imagine there may be one or two out at the course during tournament week.
 
-![rhodesian ridgebacks](fukuoka_dog.jpg)
+{{< figure src="fukuoka_dog.jpg" >}}
