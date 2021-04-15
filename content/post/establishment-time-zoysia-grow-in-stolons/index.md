@@ -1,29 +1,32 @@
 ---
-bigmedia:
-- canopeo_plot1_12may.jpg: processed image taken 20 days after planting
-- sena_6days.jpg: Sena manilagrass at 6 days after planting
-- soil_temp_apr_th.jpg: ""
 date: "2019-07-22T00:00:00Z"
-share-media: https://www.asianturfgrass.comvideo_shoot_ytk.jpg
 tags:
-- thailand
+- Thailand
 - zoysia
 - research
 - video
 title: 'Establishment time: zoysia grow-in from stolons'
+authors: [admin]
+image:
+  preview_only: false
 ---
 
 On April 22 I planted some 'Sena' manilagrass with the help of staff from the GolfEast company. We were careful to plant at an exact rate, and we documented the grow-in through digital image analysis. The objective of this project was to measure the grow-in time---that is, how many days would it take after planting at this rate to get full grass coverage.
 
 I made [this video](https://vimeo.com/micahwoods/sena) to show the results.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/349280102?title=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+{{< vimeo "349280102" >}} 
+
+<br>
 
 I expect four things will influence the establishment time for manilagrass, assuming it is planted in full sun.
 
 * the grass variety
+
 * the planting rate
+
 * how the grass is managed after planting (topdressing, irrigation, fertilizer, etc.)
+
 * the temperature
 
 For more about this topic, you can see:

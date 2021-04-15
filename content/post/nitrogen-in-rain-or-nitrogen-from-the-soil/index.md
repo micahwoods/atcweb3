@@ -1,10 +1,5 @@
 ---
-bigmedia:
-- putting_rain.jpg: a lone golfer on the practice putting green
-- rainy_season_golf_japan.jpg: finishing a round during the rainy season in Japan
-- rain_cloud_bangna.jpg: an approaching rain storm in Bangkok
 date: "2019-07-09T00:00:00Z"
-share-media: https://www.asianturfgrass.comnew_forest_pony.jpg
 subtitle: Or is the growth from the water itself? I show a partitioning of the probable
   effects from N in rain, N mineralization, and increased soil water content.
 tags:
@@ -13,12 +8,14 @@ tags:
 - water
 - growth
 title: Post-rain growth flush from nitrogen in the rain or nitrogen from the soil
+authors: [admin]
+image: 
+  preview_only: true
 ---
 
 The other day it rained at [ATC南店](https://twitter.com/search?src=typd&q=%23ATC%E5%8D%97%E5%BA%97). I knew that the grasses would grow at a faster rate after the rain than they had been growing prior to the rain.
 
-![rain on pots at ATC南店](atc_minami_rain.jpg)
-<small><strong>Some grass at ATC南店 after a tropical thunderstorm. I wondered about the subsequent grass growth, and how to partition the cause of that growth between N from the rain, increased N mineralization, or increased soil moisture content.</strong></small>
+{{< figure src="atc_minami_rain.jpg" caption="Some grass at ATC南店 after a tropical thunderstorm. I wondered about the subsequent grass growth, and how to partition the cause of that growth between N from the rain, increased N mineralization, or increased soil moisture content." >}}
 
 But I also wondered about the cause of that future growth. Would there be a substantial amount of nitrogen (N) supplied because of lightning in that storm? Almost certainly not. Would there have been a lot of N in the rain itself? Maybe. That's something I could check. Would there be a flush of N mineralization from soil organic matter? I could calculate that. Would the growth be from the water itself? Perhaps. I wondered if I could make some calculations to express the probable growth effects on the same scale.
 
@@ -34,12 +31,13 @@ I'll express all of these, eventually, in the same units---as the clipping volum
 
 I've [written about this before](https://www.blog.asianturfgrass.com/2017/06/how-much-n-is-in-rain-and-snow.html) and that post has links to actual data on N deposition. Check that out if you want to find out how much N you may receive from the sky where you are. In general, the N deposition will be less than 2 g N/m<sup>2</sup>/year (less than 0.4 lbs N/1000 ft<sup>2</sup>/year).
 
+{{< figure src="cloud_bangna.jpg" >}}
+
 A brief aside here about lightning and N: the amount of N produced by lightning might be less than you think. The N oxidized by lightning comes to about 0.002 g N/m<sup>2</sup>/year (0.0004 lbs N/1000 ft<sup>2</sup>/year). [Simpson et al.](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/98JD02747) have a recent discussion of this.
 
 I want to work through a semi-realistic example. Let's take our location for this example as [New Forest Golf Club](https://newforestgolfclub.co.uk/) in England, and consider what might happen on putting green turf.
 
-![teeing off at New Forest](new_forest_pony.jpg)
-<small><strong>Teeing off at the New Forest Golf Club. </strong></small>
+{{< figure src="new_forest_pony.jpg" caption="Teeing off at the New Forest Golf Club." >}}
 
 The [UK Air Pollution Information System (APIS)](http://www.apis.ac.uk/) says that total deposition of N at this site is 1.29 g N/m<sup>2</sup>/year. Normal annual precipitation at nearby Southampton is 780 mm. 
 
@@ -69,8 +67,7 @@ After looking at N supplied from rain, and N supplied from organic matter, and t
 
 I'm going to assume that there is a linear relationship between soil water content and growth. That is, the growth will be 0 when the soil water content is at the wilting point, and the growth will be at a maximum when the soil water content is at field capacity, and I'll make a straight line between those two points. This assumption probably isn't exactly correct---there does seem to be a linear relationship between leaf water potential and leaf growth---but I'm not sure the shape of the relationship between soil water content and leaf water potential. 
 
-![conceptual model of growth and vwc](conceptual_vwc_grass_growth.png)
-<small><strong>I'm confident the relative growth rate will be 0 at the wilting point and 100 at field capacity, but the line between those two points may not be straight. For the estimate in this post, I've assumed a wilting point of 5% VWC, field capacity of 35% VWC, and a straight line between those points.</strong></small>
+{{< figure src="conceptual_vwc_grass_growth.png" caption="I'm confident the relative growth rate will be 0 at the wilting point and 100 at field capacity, but the line between those two points may not be straight. For the estimate in this post, I've assumed a wilting point of 5% VWC, field capacity of 35% VWC, and a straight line between those points." >}} 
 
 As I described in the previous section, I'm assuming the soil was being maintained at 15% VWC prior to the rain. If there is a linear relationship between VWC and growth rate, then in a soil with a wilting point of 5% and a field capacity of 35%, the VWC of 15% should produce a relative growth rate of 33%. That is, the grass is growing at 33% the rate that it would be at field capacity because of lower water availability.
 

@@ -5,7 +5,7 @@ tags:
 - podcast
 - turfgrass management
 title: It's a zero-based program
-
+authors: [admin]
 image:
   preview_only: true
 ---
@@ -30,7 +30,7 @@ You will hear statements like these:
 
 > "What does my climate and my season, and this season versus that season, require me to put into this golf course to get it the way that I want it."
 
-It is interesting to consider this zero-based and inherently site-specific approach. I've written about my ideas on this in [Three distinct ways I've thought about turfgrass management](https://www.asianturfgrass.com/2017-09-13-three-ways-think-of-turfgrass-management/). 
+It is interesting to consider this zero-based and inherently site-specific approach. I've written about my ideas on this in [Three distinct ways I've thought about turfgrass management]({{< relref "/post/three-ways-think-of-turfgrass-management" >}}). 
 
 
 

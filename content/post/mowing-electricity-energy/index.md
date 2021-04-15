@@ -1,12 +1,14 @@
 ---
 date: "2019-05-02T00:00:00Z"
-share-media: https://live.staticflickr.com/5567/15144360552_41f44e77b7_b_d.jpg
 tags:
 - mowing
 - environment
 - sustainability
 - data analysis
 title: Of conventional mowers, electric mowers, and electricity generation
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Yesterday I responded to two questions related to carbon emissions associated with electricity generation. This was part of a broader discussion started by [Jason Haines](https://twitter.com/PenderSuper) about small electric autonomous mowers.

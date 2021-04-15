@@ -1,9 +1,11 @@
 ---
 date: "2019-05-01T00:00:00Z"
-share-media: https://www.asianturfgrass.comkorai_shizuoka.jpg
 tags:
 - clipvol
 title: '"Positive comments from the players which is really what counts"'
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I received this email from Zachary LaPorte, and I share it here for two reasons. 

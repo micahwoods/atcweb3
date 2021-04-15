@@ -1,15 +1,14 @@
 ---
-bigmedia:
-- topdress_atc.jpg: application of sand topdressing to a research green
-- tdress2.jpg: sand topdressing in Japan reported as depth of sand
 date: "2019-08-08T00:00:00Z"
-share-media: https://www.asianturfgrass.comtopdress_atc.jpg
 tags:
 - organic matter
 - sand
 - verdure
-- om246
+- OM246
 title: Three reasons why sand topdressing is best expressed as a depth
+authors: [admin]
+image:
+  preview_only: false
 ---
 
 Here are three reasons I think it is best to express sand topdressing applied to turfgrass as a depth.
@@ -42,11 +41,9 @@ I prefer depth for the three reasons listed above. Depth is directly related to 
 
 Like the surprisingly useful [#clipvol](https://twitter.com/search?q=%23Clipvol), sand topdressing by depth is another thing I've learned from greenkeepers in Japan.
 
-![sand topdressing reported as depth](tdress1.jpg)
-<small><strong>This golf course reported topdressing of 0.4 mm in March, 0.3 mm in April, 2 mm in May, through to 0.3 mm in December. There was a total of 8.7 mm applied in 21 applications.</strong></small>
+{{< figure src="tdress1.jpg" caption="This golf course reported topdressing of 0.4 mm in March, 0.3 mm in April, 2 mm in May, through to 0.3 mm in December. There was a total of 8.7 mm applied in 21 applications." >}}
 
-![sand topdressing as depth 2](tdress2.jpg)
-<small><strong>This golf course reported 7.1 mm sand added in 12 applications during the year.</strong></small>
+{{< figure src="tdress2.jpg" caption="This golf course reported 7.1 mm sand added in 12 applications during the year." >}}
 
 For more see:
 

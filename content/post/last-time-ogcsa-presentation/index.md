@@ -1,9 +1,12 @@
 ---
 date: "2019-08-20T00:00:00Z"
-share-media: https://www.asianturfgrass.compl97.jpg
+authors: [admin]
 tags:
 - seminar
 title: Three seminars with the Oregon GCSA
+image:
+  preview_only: false
+  caption: "A slide from 1997"
 ---
 
 The last time the [Oregon GCSA](http://www.ogcsa.org/) asked me to speak, the year was 1997, my topic was "An internship at Augusta National Golf Club," and I showed a carousel full of slides using a *real* slide projector. You can imagine how excited I am to be invited again, 22 years later, to their [fall meeting on November 6](http://www.ogcsa.org/event/2019-fall-meeting/) at Illahe Hills Country Club in Salem. 
