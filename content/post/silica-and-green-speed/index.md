@@ -1,12 +1,10 @@
 ---
 title: Silica and Green Speed
-
-type: post
+authors: [admin]
 date: 2015-02-28T18:54:44+00:00
-
 tags:
   - Bentgrass
-  - Bermuda
+  - Bermudagrass
   - Paspalum
   - Research
   - Zoysia

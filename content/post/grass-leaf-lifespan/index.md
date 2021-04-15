@@ -2,7 +2,7 @@
 date: "2020-03-25T00:00:00Z"
 tags:
 - zoysia
-- bermuda
+- bermudagrass
 - ecology
 title: Turf performance and the lifespan of individual grass leaves
 authors: [admin]

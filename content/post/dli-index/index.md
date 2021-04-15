@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: [admin]
 tags:
-- Bermuda
+- bermudagrass
 - Climate
 - Japan
 - Light

@@ -2,7 +2,7 @@
 date: "2020-01-31T00:00:00Z"
 tags:
 - zoysia
-- bermuda
+- bermudagrass
 - water
 - irrigation
 - manilagrass

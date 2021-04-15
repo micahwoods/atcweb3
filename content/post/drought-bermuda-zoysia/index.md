@@ -4,7 +4,7 @@ title: Bermudagrass, zoysiagrass, and water use
 authors: [admin]
 tags:
 - Zoysia
-- Bermuda
+- bermudagrass
 - Water
 - Drought
 - Irrigation

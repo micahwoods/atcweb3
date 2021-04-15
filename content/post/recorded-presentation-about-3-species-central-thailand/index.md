@@ -1,15 +1,17 @@
 ---
 date: "2017-10-21T00:00:00Z"
-share-media: https://c1.staticflickr.com/5/4429/37062639090_f08ee322d1_b_d.jpg
 subtitle: My presentation was about three grasses in central Thailand
 tags:
 - seminar
 - research
-- bermuda
+- bermudagrass
 - zoysia
 - paspalum
 - fertilizer
 title: Presentation videos from the 2017 ASHS conference
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I received this note from the ASHS last week:

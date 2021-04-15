@@ -1,14 +1,16 @@
 ---
 date: "2017-09-25T00:00:00Z"
-share-media: https://c1.staticflickr.com/5/4429/37062639090_f08ee322d1_b_d.jpg
 subtitle: How did nuan noi zoysia, Tifway 419 bermuda, and salam paspalum grow in
   this experiment?
+authors: [admin]
 tags:
 - zoysia
-- thailand
+- Thailand
 - paspalum
-- bermuda
+- bermudagrass
 title: The growth, nutrient use, and water use of 3 grasses in central Thailand
+image:
+  preview_only: true
 ---
 
 There are a variety of grasses used for lawns and sports turf in central Thailand. I gave a presentation last week at the American Society for Horticultural Science annual meeting about the growth of three of those grasses:
@@ -21,7 +23,7 @@ There are a variety of grasses used for lawns and sports turf in central Thailan
 
 The manilagrass grew the most in this experiment, which we ran for 48 days. All the grasses were supplied with a weekly rate of 1 g N m<sup>-2</sup>, and K was added to supply half, the same, and twice the amount of N. This plot shows the relationship between tissue K content and the daily growth rate.
 
-![growth and tissue K 3 grasses](leafK_and_growth.svg)
+{{< figure src="leafK_and_growth.svg" >}}
 
 Although the treatments to the grasses were different N:K ratios, the larger differences were the amount of growth between the grasses themselves.
 
