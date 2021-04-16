@@ -3,9 +3,9 @@ date: "2017-09-07T00:00:00Z"
 tags:
 - Roundup
 title: 'Monthly Turfgrass Roundup: August 2017'
-author: Micah Woods
+authors: [admin]
 image:
-  preview_only: no
+  preview_only: false
   caption: "Hand-watering a practice green at Keya GC prior to the KBC Augusta pro-am tournament."
 ---
 
@@ -15,8 +15,7 @@ Is tissue testing [aiming at the wrong target?](http://www.asianturfgrass.com/20
 
 Edwin Roald with [this photo](https://twitter.com/EdwinRoald/status/894899676486488064) of the golf course at Geysir.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The Geysir hot springs include Iceland&#39;s most famous holes. <a href="https://twitter.com/hashtag/geysir?src=hash">#geysir</a> <a href="https://twitter.com/hashtag/geysirhotsprings?src=hash">#geysirhotsprings</a> <a href="https://twitter.com/hashtag/geysirstrokkur?src=hash">#geysirstrokkur</a> <a href="https://twitter.com/hashtag/geysirgolf?src=hash">#geysirgolf</a> <a href="https://twitter.com/hashtag/golficeland?src=hash">#golficeland</a> <a href="https://twitter.com/hashtag/hotspots?src=hash">#hotspots</a> <a href="https://t.co/eoitJOCq9c">pic.twitter.com/eoitJOCq9c</a></p>&mdash; Edwin Roald (@EdwinRoald) <a href="https://twitter.com/EdwinRoald/status/894899676486488064">August 8, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "894899676486488064" >}}
 
 I didn't always think [this way about tissue testing](http://www.asianturfgrass.com/2017-08-08-my-words-come-back-haunt-me/).
 
@@ -30,7 +29,7 @@ Morning clipping volume [during tournament week](http://www.asianturfgrass.com/2
 
 Dan Dinelli [showed how balls bounce on fairway turf](https://youtu.be/r1LV77z_Ziw).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r1LV77z_Ziw?rel=0" frameborder="0" allowfullscreen></iframe>
+{{< youtube "r1LV77z_Ziw" >}}
 
 A geographical analysis of those [using (or at least interested in) MLSN](http://www.asianturfgrass.com/2017-08-15-mlsn-geo-analysis/).
 
@@ -42,8 +41,7 @@ Why the KBC Augusta tournament [is a lot more than your average tournament](http
 
 Andrew McDaniel shared [this remarkable video](https://twitter.com/drumcturf/status/900329371856023556) of handwatering a green while [HKT48](http://www.hkt48.jp/) rehearse their performance at KBC Augusta.
 
-<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Final prep before tomorrow&#39;s 1st Round! It&#39;s hot out there. <a href="https://twitter.com/hashtag/KBC%E3%82%AA%E3%83%BC%E3%82%AC%E3%82%B9%E3%82%BF?src=hash">#KBCオーガスタ</a> <a href="https://t.co/VkcRdWqMjV">pic.twitter.com/VkcRdWqMjV</a></p>&mdash; Andrew McDaniel (@drumcturf) <a href="https://twitter.com/drumcturf/status/900329371856023556">August 23, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "900329371856023556" >}}
 
 The NY Times wrote about Sweetens Cove in [*The Little Golf Course That Could*](https://www.nytimes.com/2017/08/15/sports/golf/sweetens-cove-golf-club-rob-collins.html?smid=pl-share&_r=0).
 
@@ -51,9 +49,7 @@ The NY Times wrote about Sweetens Cove in [*The Little Golf Course That Could*](
 
 The ASGCA shared an [expected life cycle](https://twitter.com/ASGCA/status/893458425224585217) for golf course items:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Life Cycle Chart - realistic guidelines on life of greens/tees/irrigation, etc. <a href="https://t.co/dGjlx47IaE">https://t.co/dGjlx47IaE</a> <a href="https://twitter.com/ASGCA">@ASGCA</a> <a href="https://twitter.com/GCSAA">@GCSAA</a> <a href="https://twitter.com/GCBAA">@GCBAA</a> <a href="https://twitter.com/USGA">@USGA</a> <a href="https://twitter.com/PGA">@PGA</a> <a href="https://t.co/wyavU14OQi">pic.twitter.com/wyavU14OQi</a></p>&mdash; ASGCA Home Offices (@ASGCA) <a href="https://twitter.com/ASGCA/status/893458425224585217">August 4, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+{{< tweet "893458425224585217" >}}
 
 It doesn't have to cost a lot of money (on fertilizer) to [get great greens](http://www.asianturfgrass.com/2017-08-23-how-to-spend-5000-tournament-green-fertilizer/).
 

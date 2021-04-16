@@ -4,6 +4,9 @@ share-media: https://c1.staticflickr.com/5/4427/37018765580_726579286c_b_d.jpg
 tags:
 - Roundup
 title: 'Monthly Turfgrass Roundup: September 2017'
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Bill Kreuser wrote about the nuance of [growing degree day calculations](https://turf.unl.edu/turfinfo/9-28_GDD_Calcs.pdf).
@@ -12,8 +15,7 @@ Chris Tritabaugh explained [three ways they've worked to optimize](http://www.ha
 
 Andrew McDaniel shared a video of [sod harvesting in Japan](https://twitter.com/drumcturf/status/910046241387507712):
 
-<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">1/2 Visited 1 of the top turf producers in Japan. How does your supplier do it? <a href="https://twitter.com/hashtag/local?src=hash&amp;ref_src=twsrc%5Etfw">#local</a> <a href="https://twitter.com/hashtag/zoysia?src=hash&amp;ref_src=twsrc%5Etfw">#zoysia</a> <a href="https://twitter.com/hashtag/tottori?src=hash&amp;ref_src=twsrc%5Etfw">#tottori</a> <a href="https://t.co/Ph83W3XsnH">pic.twitter.com/Ph83W3XsnH</a></p>&mdash; Andrew McDaniel (@drumcturf) <a href="https://twitter.com/drumcturf/status/910046241387507712?ref_src=twsrc%5Etfw">September 19, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "910046241387507712" >}}
 
 [GP explained](http://www.asianturfgrass.com/2017-09-01-gp-explained-photos/) without numbers.
 
@@ -23,8 +25,7 @@ Bier, Koch, and Soldat on [potassium fertilizer and microdochium patch](https://
 
 Grant Saunders asked about [thatch and soil moisture](https://twitter.com/gslefty/status/907497047372161025):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Chicken or egg? The green is thatchy so it holds more moisture or the green accumulates more thatch because it holds moisture</p>&mdash; Grant Saunders (@gslefty) <a href="https://twitter.com/gslefty/status/907497047372161025?ref_src=twsrc%5Etfw">September 12, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "907497047372161025" >}}
 
 Three ways [I've thought of turf management](http://www.asianturfgrass.com/2017-09-13-three-ways-think-of-turfgrass-management/): modifying the growing environment, adjusting the growth rate, and maximizing the playing condition:work ratio.
 
@@ -32,15 +33,13 @@ Flipping things around: [how much growth](http://www.asianturfgrass.com/2017-09-
 
 Matee Suntisawasdi showed [manilagrass invading seashore paspalum](https://twitter.com/mateepto/status/907857775836852224):
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Paspalum putting greens invaded by Zoysia matrella ( Manila grass ) <a href="https://t.co/x6l1n2TcuX">pic.twitter.com/x6l1n2TcuX</a></p>&mdash; SUNTISAWASDI (@mateepto) <a href="https://twitter.com/mateepto/status/907857775836852224?ref_src=twsrc%5Etfw">September 13, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "907857775836852224" >}}
 
 [Percent base saturation](http://www.asianturfgrass.com/2017-09-16-percent-base-saturation/) seems not to be a particularly useful concept.
 
 Andrew McDaniel with [zoysia greens in the fall](https://twitter.com/drumcturf/status/912908000221855744):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Always enjoy the fall with korai greens. While the bent is recovering or being aerated we just mow and glide into winter. <a href="https://twitter.com/hashtag/zoysia?src=hash&amp;ref_src=twsrc%5Etfw">#zoysia</a> <a href="https://twitter.com/hashtag/korai?src=hash&amp;ref_src=twsrc%5Etfw">#korai</a> <a href="https://t.co/ASXnzDc7xQ">pic.twitter.com/ASXnzDc7xQ</a></p>&mdash; Andrew McDaniel (@drumcturf) <a href="https://twitter.com/drumcturf/status/912908000221855744?ref_src=twsrc%5Etfw">September 27, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "912908000221855744" >}}
 
 Paul Jansen wrote an article about [unconventional golf](http://www.jansengolfdesign.com/blog/5606-2/).
 

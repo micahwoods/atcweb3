@@ -1,11 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A non-comprehensive list of awesome turfgrass things other people did this year"
+title: "A non-comprehensive list of awesome turfgrass things other people did in 2020"
 subtitle: ""
 summary: ""
-authors: 
-- Micah Woods
+authors: [admin]
 tags: 
 - Roundup
 - Awesome

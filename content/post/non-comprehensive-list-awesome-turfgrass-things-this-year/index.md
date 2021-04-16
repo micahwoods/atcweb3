@@ -1,11 +1,12 @@
 ---
 date: "2018-12-30T00:00:00Z"
-share-media: https://c1.staticflickr.com/1/496/19546567474_eb653ee081_b_d.jpg
 tags:
 - roundup
 - awesome
-title: A non-comprehensive list of awesome turfgrass things other people did this
-  year
+title: A non-comprehensive list of awesome turfgrass things other people did in 2018
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Last year I made one of these lists [for the first time](https://www.asianturfgrass.com/2017-12-24-a-non-comprehensive-list-of-awesome-things-other-people-did-in-turfgrass-this-year/). I'm sure I've missed lots of awesome things. If you'd like to add them, please do so in the comments.

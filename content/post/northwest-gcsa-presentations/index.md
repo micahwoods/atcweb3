@@ -1,13 +1,14 @@
 ---
-bigmedia:
-- ayutthaya.jpg: tropical carpetgrass and manilagrass, Ayutthaya
 date: "2017-10-19T00:00:00Z"
-share-media: https://c1.staticflickr.com/3/2518/3753911765_5ee768b424_o_d.jpg
-subtitle: The slides for "Turf Around the World" and "Leaves of Grass"
+subtitle: 'The slides for "Turf Around the World" and "Leaves of Grass"'
 tags:
 - seminar
-- clipping volume
+- clipvol
 title: My presentations in Coeur d'Alene
+authors: [admin]
+image:
+  preview_only: false
+  caption: "Irrigation of bermudagrass rough in Hanoi, Vietnam."
 ---
 
 I was in northern Idaho this week to participate in the Northwest GCSA Expo. I gave two presentations.

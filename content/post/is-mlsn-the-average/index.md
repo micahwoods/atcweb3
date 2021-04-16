@@ -1,10 +1,13 @@
 ---
 date: "2017-12-02T00:00:00Z"
-share-media: http://www.asianturfgrass.comfifty_si.png
 tags:
 - seminar
 - soil test
+- mlsn
 title: Is the MLSN value the average?
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Matt Nelson asked about this in a recent seminar. I was explaining that conventional nutrient guidelines, as described in [this article by Carrow et al.](http://tic.msu.edu/tgif/flink?recno=93213), classify soils as low, medium or high. From the article, these are the definitions.
@@ -17,15 +20,15 @@ Matt Nelson asked about this in a recent seminar. I was explaining that conventi
 
 Reading those definitions, it seems to me that no turf manager would want to grow turf with soil in the low or medium range. If there is a 50% or 80-100% chance of getting a plant growth response from adding that element, then I would want to add it. I want to manage turf in soils that are at least at the bottom end of the high range, where there is little or no crop response expected. 
 
-When we developed the MLSN guidelines -- [see all the details and the data here](http://www.asianturfgrass.com/2016_mlsn_paper/) -- we looked at a large set of soils that were producing good turf at the time the sample was collected. This would suggest that there were enough nutrients in the soil to produce good turf. Matt was asking if we chose the average value from these data as the MLSN guideline. I mentioned [this Shiny app](https://asianturfgrass.shinyapps.io/turfsi/) that one can use to explore the MLSN data.
+When we developed the MLSN guidelines -- [see all the details and the data here](https://micahwoods.github.io/2016_mlsn_paper/) -- we looked at a large set of soils that were producing good turf at the time the sample was collected. This would suggest that there were enough nutrients in the soil to produce good turf. Matt was asking if we chose the average value from these data as the MLSN guideline. I mentioned [this Shiny app](https://asianturfgrass.shinyapps.io/turfsi/) that one can use to explore the MLSN data.
 
 If we had chosen the average value to set as the minimum, these would be the numbers. With an SI of 0.5, the MLSN guidelines would be, for K, P, Ca, Mg, and S respectively, 73, 55, 550, 83, and 19 ppm.
 
-![the average value for MLSN data](fifty_si.png)
+{{< figure src="fifty_si.png" >}}
 
 If we look at the conventional guidelines for those same elements, at the bottom of the high range the SI is 0.82, 0.5, 0.82, 0.81, and 0.85. 
 
-![the slan value compared to MLSN data](slan.png)
+{{< figure src="slan.png" >}}
 
 The MLSN guideline is set at the 0.1 level. That is, 10% of soils producing good turf are expected to have that element at a level below MLSN.
 

@@ -1,12 +1,12 @@
 ---
-bigmedia:
-- hokkaido_fall.jpg: creeping bentgrass and kentucky bluegrass in Hokkaido, October
 date: "2017-10-10T00:00:00Z"
-share-media: https://c1.staticflickr.com/5/4506/37360171080_2f55cc85c4_b_d.jpg
 subtitle: the most important fertilizer application of the year. Or is it?
 tags:
 - fertilizer
 title: This is the time of year for ...
+authors: [admin]
+image:
+  preview_only: false
 ---
 
 There are lots of articles and blog posts at this time of year about fall fertilization and dormant fertilizer applications and keeping turf supplied with plenty of potassium too.

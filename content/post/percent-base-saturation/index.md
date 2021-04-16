@@ -1,10 +1,12 @@
 ---
 date: "2017-09-16T00:00:00Z"
-share-media: https://c1.staticflickr.com/3/2433/3754707028_15a61554bf_o_d.jpg
 tags:
 - soil
 - pH
 title: '"Percent base saturation seems not to be a particularly useful concept"'
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I saw a list of proposed topics for an upcoming turfgrass conference, and under the heading of soil fertility was included *base saturation*. I immediately thought of this paragraph from Murray McBride's *Environmental Chemistry of Soils*:

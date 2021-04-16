@@ -1,15 +1,13 @@
 ---
-bigmedia:
-- habu_9_irr.jpg: putting green irrigation, Chiba
-- krabi.jpg: tropical carpetgrass and manilagrass, Krabi
-- topdress_eagle.jpg: topdressing a Tifeagle green, Prachuap Khiri Khan
 date: "2018-04-01T00:00:00Z"
-share-media: http://www.asianturfgrass.comstenotaphrum_hi.jpg
 tags:
-- clipvol
+- ClipVol
 - fertilizer
 - topdress
 title: The case for reactive greenkeeping
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I've been sitting on this idea for a long time, and I decided today would be a great day to write about it. You can decide if I'm serious.
@@ -22,15 +20,13 @@ Here's the problem. When we make things happen with the grass, we invariably ove
 
 First there was [this one about fertilizer](https://twitter.com/gslefty/status/573364242662883329):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Stupid question time: Do you apply N to stimulate growth or is N applied in response to growth?</p>&mdash; Grant Saunders (@gslefty) <a href="https://twitter.com/gslefty/status/573364242662883329?ref_src=twsrc%5Etfw">March 5, 2015</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "573364242662883329" >}}
 
 One can think of this in two ways. Either apply N to cause growth, or think of the plant using N, and after some point it will require more, and then reapply when it does. The first approach is proactive, and the second is reactive.
 
 Then there was [this one about sand](https://twitter.com/gslefty/status/908912111098634240):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/PenderSuper?ref_src=twsrc%5Etfw">@PenderSuper</a> have we become too precious about compaction? Firmness is good for the game. Producing surfaces vs growing grasd</p>&mdash; Grant Saunders (@gslefty) <a href="https://twitter.com/gslefty/status/908912111098634240?ref_src=twsrc%5Etfw">September 16, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "908912111098634240" >}}
 
 When one can get better playing surfaces with less sand, why is the industry so proactive about applying sand? 
 

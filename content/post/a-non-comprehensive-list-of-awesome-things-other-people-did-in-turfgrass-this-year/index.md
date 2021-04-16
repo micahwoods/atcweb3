@@ -3,8 +3,7 @@ date: "2017-12-24T00:00:00Z"
 tags:
 - roundup
 - awesome
-title: "A non-comprehensive list of awesome turfgrass things other people did this
-  year (2017)"
+title: "A non-comprehensive list of awesome turfgrass things other people did in 2017"
   
 authors: [admin]
 image:
