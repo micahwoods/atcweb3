@@ -1,13 +1,14 @@
 ---
-bigmedia:
-- dmk_plane.jpg: Kantarat Golf Course, Thailand
 date: "2018-09-07T00:00:00Z"
-share-media: https://www.asianturfgrass.comdmk_plane.jpg
 tags:
-- mlsn
+- MLSN
+- calcium
 - soil test
 - fertilizer
 title: Airplane fuel requirements, soil test calcium, and MLSN
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Grant Saunders asked a series of questions about the quantity of nutrients required in the soil, using calcium as an example. One can see that [full discussion here](https://twitter.com/gslefty/status/1037566830330564609). 
@@ -38,9 +39,9 @@ Normal soils, even low cation exchange capacity (CEC) sands commonly used for tu
 
 What is normal varies by element. And the relation to grass use obviously depends on climate, grass type, and growth rate. To look at what is normal in turfgrass soils, I suggest the [SI (sustainability index) app](https://asianturfgrass.shinyapps.io/turfsi/).
 
-Setting 12 kg/ha of Ca into mg/kg (ppm), assuming a rootzone depth of 10 cm and a soil bulk density of 1.5 g/cm<sup>3</sup>, and I get 8 ppm. If you then set the soil test calcium to 8 ppm in the [SI app](https://asianturfgrass.shinyapps.io/turfsi/), the SI goes to 0.00. In the thousands of soil samples from good-performing turf used to calculate the [MLSN guidelines](http://www.asianturfgrass.com/2016_mlsn_paper/), none have Ca that low. It is exceedingly abnormal to have Ca that low and to have good-performing turf.
+Setting 12 kg/ha of Ca into mg/kg (ppm), assuming a rootzone depth of 10 cm and a soil bulk density of 1.5 g/cm<sup>3</sup>, and I get 8 ppm. If you then set the soil test calcium to 8 ppm in the [SI app](https://asianturfgrass.shinyapps.io/turfsi/), the SI goes to 0.00. In the thousands of soil samples from good-performing turf used to calculate the [MLSN guidelines](https://micahwoods.github.io/2016_mlsn_paper/), none have Ca that low. It is exceedingly abnormal to have Ca that low and to have good-performing turf.
 
-There is some amount of nutrients that are normal to have in the soil. This is what the MLSN and [Global Soil Survey](http://www.asianturfgrass.com/2014_gss_report/) projects have been about---finding what is normal in good-performing turf.
+There is some amount of nutrients that are normal to have in the soil. This is what the [MLSN]({{< relref "/mlsn" >}}) and [Global Soil Survey](https://doi.org/10.17605/OSF.IO/RG49P) projects have been about---finding what is normal in good-performing turf.
 
 Then if one finds a minimum level---we used 0.1, but there is nothing magic about that particular number---that one is comfortable with, from within that "normal" range, one can make fertilizer calculations to ensure the soil never drops below that minimum.
 
@@ -86,11 +87,11 @@ With turfgrass, it makes sense to me to have a minimum amount in the soil that n
 
 Here are Ca data by the Mehlich 3 extractant for turfgrass soils tested by ATC clients in the past 8 months. Most of the density---that is, most of the samples---is less than 1000.
 
-![media of density all Ca samples](y2018_atc_ca.png)
+{{< figure src="y2018_atc_ca.png" >}}
 
 After removing the calcareous samples with higher Ca, it's apparent that most of the samples are about 200 to 700. 
 
-![media of density of Ca samples with calcareous removed](atc_ca_clean.png)
+{{< figure src="atc_ca_clean.png" >}}
 
 The point I try to show with these plots is that although the grass may use only about 8 ppm or similarly low amounts of Ca in a year, soils naturally have a lot more Ca than that. 
 

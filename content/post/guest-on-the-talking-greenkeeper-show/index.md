@@ -1,15 +1,15 @@
 ---
-bigmedia:
-- fuji_elephant.jpg: elephant's footprint (Rhizoctonia cerealis) on noshiba near
-    Mt. Fuji, October
 date: "2018-11-06T00:00:00Z"
-share-media: https://www.asianturfgrass.comfuji_elephant.jpg
 tags:
-- mlsn
+- MLSN
 - clipvol
 - podcast
 - greenkeeping
 title: Guest on the Talking Greenkeeper show
+authors: [admin]
+image:
+  preview_only: false
+  caption: "The splendidly-named 'elephant footprint' disease on *Zoysia japonica* in autumn near Mt. Fuji."
 ---
 
 [Joe Gulotti](https://twitter.com/hardg43) had me as a guest on his [The Talking Greenkeeper](http://thetalkinggreenkeeper.libsyn.com/website/episode-6-micah-woods) show this week. 

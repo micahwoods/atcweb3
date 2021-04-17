@@ -1,11 +1,13 @@
 ---
 date: "2018-10-21T00:00:00Z"
-share-media: https://c2.staticflickr.com/6/5595/15144737355_f7ed18ba99_b_d.jpg
 tags:
 - clipvol
 - greenkeeping
 - turfgrass management
 title: '"Nothing to do with whether or not it works"'
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 [Danny Vandecoevering](https://twitter.com/DVturf) wrote with this interesting email. I thought it was worth sharing here:

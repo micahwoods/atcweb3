@@ -1,20 +1,20 @@
 ---
-bigmedia:
-- nutranta_nov.jpg: Nutranta seminar in November 2018 at Manila Southwoods
 date: "2018-11-21T00:00:00Z"
-share-media: https://www.asianturfgrass.comnutranta_room.jpg
 tags:
 - seminar
-- philippines
+- Philippines
 - organic matter
 - playability
 - plant growth regulator
 title: Nutranta seminar at Manila Southwoods
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Yesterday I spoke with a group of turfgrass managers in the Philippines at the Nutranta Turf Science in Action seminar.
 
-![seminar room](https://www.asianturfgrass.comnutranta_room.jpg)
+{{< figure src="nutranta_room.jpg" >}}
 
 I talked about plant growth regulator (PGR) use in a tropical environment and what to expect when using PGRs---especially trinexapac-ethyl---in the Philippines.
 
@@ -26,6 +26,4 @@ I also spoke about putting surface performance and how a measurement of *all* th
 
 <script async class="speakerdeck-embed" data-id="468ad80fd9ae47769221c1f1eb202ce7" data-ratio="1.77966101694915" src="//speakerdeck.com/assets/embed.js"></script>
 
-I expect to have videos of these presentations and will share those when they are available.
-
-![with golforce staff](https://www.asianturfgrass.comgolforce.jpg)
+{{< figure src="golforce.jpg" >}}

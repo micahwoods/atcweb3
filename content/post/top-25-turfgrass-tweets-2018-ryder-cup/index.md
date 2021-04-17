@@ -6,6 +6,9 @@ tags:
 - web/tech
 - data analysis
 title: Top 25 turfgrass tweets of the 2018 Ryder Cup
+authors: [ admin]
+image:
+  preview_only: true
 ---
 
 I did [this analysis in 2016](http://www.blog.asianturfgrass.com/2016/10/top-25-tweets-of-the-ryder-cup.html) and repeated it in 2018. 
@@ -14,11 +17,11 @@ I figure that tweets by the golf course superintendent, Alejandro Reyes ([@Reyes
 
 Leading up to, during, and then immediately after the Ryder Cup, there were a lot of mentions of [@Reyes_golf](https://twitter.com/Reyes_golf).
 
-![animated gif of mentions of Reyes_golf during ryder cup](https://c2.staticflickr.com/2/1966/43581452920_78be93c17d_o_d.gif)
+![animated gif of mentions of Reyes_golf during ryder cup](reyes_mentions_2018.gif)
 
 Using the excellent [`rtweet`](https://cran.r-project.org/web/packages/rtweet/index.html) package, I found the favorite counts for each of those tweets that were returned in a search for *Reyes_golf*. The 25 tweets with the most favorites at the time of the search in October 2018 are what I am calling the top 25 turfgrass tweets.
 
-![chart of top 25 tweets](https://c2.staticflickr.com/2/1939/31522931218_6a6aeaa7a5_o_d.png).
+{{< figure src="featured.png" >}}
 
 If I've missed any, please let me know. Further notes about that at the bottom of this post.
 

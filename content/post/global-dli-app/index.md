@@ -6,8 +6,9 @@ subtitle: "This app produces a summary chart of photosynthetically active radiat
 summary: ""
 authors: [admin]
 tags: 
-- Light
-- Web/Tech
+- light
+- climate
+- web/tech
 - rturf
 categories: []
 date: 2021-01-28T15:39:14+07:00

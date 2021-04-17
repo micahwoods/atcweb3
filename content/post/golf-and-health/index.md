@@ -1,12 +1,12 @@
 ---
-bigmedia:
-- minchinhampton_cow.jpg: Minchinhampton Old Course, England
 date: "2018-10-11T00:00:00Z"
-share-media: https://www.asianturfgrass.comminchinhampton_cow.jpg
 tags:
 - golf
 - health
 title: Golf and Health
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Some people are interested in golf; even more are interested in health. [This new article](https://dx.doi.org/10.1136/bjsports-2018-099509) in the *British Journal of Sports Medicine* is a consensus statment "to guide action by people, policymakers and the golf industry." It is also quite readable. 
