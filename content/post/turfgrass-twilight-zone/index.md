@@ -4,6 +4,7 @@ tags:
 - turfgrass history
 - weeds
 title: The turfgrass twilight zone
+authors: [admin]
 image:
   preview_only: false
   caption: "An empty kei-truck in a Japanese golf course maintenance yard."
@@ -19,4 +20,4 @@ I came across other remarks in the 1952 report that are interesting and perhaps 
 * research programs will do well to determine "MINIMUM REQUIREMENTS" in everything. Those were *their* capital letters too, not mine.
 * and the wonderful "Twilight Zone" comments, for what we today call the "transition zone"
 
-![quotes from 1952 turf committee report in Agronomy Journal](twilight1952.png)
+{{< figure src="twilight1952.png" >}}
