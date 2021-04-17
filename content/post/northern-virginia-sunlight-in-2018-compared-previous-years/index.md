@@ -1,10 +1,13 @@
 ---
 date: "2019-02-02T00:00:00Z"
-share-media: https://www.asianturfgrass.comcrn_north_va.png
 tags:
 - light
 - data analysis
+- rturf
 title: Northern Virginia sunlight in 2018 compared to previous years
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Sean Heath wrote with [this question](https://twitter.com/MvccTurf/status/1082364517093441536):
@@ -25,11 +28,11 @@ I had a decade of data, and to smooth it out I calculated the DLI---that's the e
 
 This shows lines for the previous 9 years, and then 2018 highlighted in red.
 
-![northern virginia dli and lines for past decade](crn_north_va_lines.png)
+{{< figure src="crn_north_va_lines.png" >}}
 
 Then I looked specifically at 2018 monthly averages, and compared those to the average from the previous 9 years.
 
-![northern virginia daily light integral in 2018](crn_north_va.png)
+{{< figure src="crn_north_va.png" >}}
 
 During the growing season---I'll call that April through October---the average decrease in photosynthetically active radiation (PAR) seen in 2018 works out to about half an hour of full sunshine per day, compared to the normal amounts seen in previous years.
 

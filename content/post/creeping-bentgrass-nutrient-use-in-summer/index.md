@@ -1,12 +1,12 @@
 ---
-bigmedia:
-- pg_bentgrass.jpg: creeping bentgrass practice green, PGA Catalunya
 date: "2019-04-18T00:00:00Z"
-share-media: https://live.staticflickr.com/6176/6190240197_694e7da164_b_d.jpg
 tags:
 - fertilizer
-- clipvol
+- ClipVol
 title: Creeping bentgrass nutrient use in summer
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 In the ATC update sent earlier this week---[subscribe here](https://www.asianturfgrass.com/lists/) if you'd like to get on this list---I mentioned that one of the highlights of my year so far was the Royal Turf Family Seminar at the Park Hyatt Tokyo.

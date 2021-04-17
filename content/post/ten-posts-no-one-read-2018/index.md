@@ -1,14 +1,16 @@
 ---
 date: "2019-01-27T00:00:00Z"
-share-media: https://c1.staticflickr.com/9/8643/15291024964_c60525b7cc_b_d.jpg
 tags:
 - web/tech
 title: Ten posts that no one read in 2018
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 The median blog post on this site in 2018 got 217 views. A couple had more than 1,500. 
 
-![histogram of ATC blog pageviews in 2018](views_2018.png)
+{{< figure src="views_2018.png" >}}
 
 [These were the 10](https://www.asianturfgrass.com/2019-01-02-top-10-posts-2018/) that *everyone* read. And then there are *these ones* that almost no one read. 
 

@@ -1,9 +1,11 @@
 ---
 date: "2018-12-26T00:00:00Z"
-share-media: https://www.asianturfgrass.comrain_12_keya.jpg
 tags:
 - climate
 title: 'Four amazing charts: number 3 will shock you!'
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I've written [before](https://www.asianturfgrass.com/2017-09-01-gp-explained-photos/) about the environmental productivity index (EPI), the growth potential, and [nutrients](https://www.asianturfgrass.com/tags/#fertilizer). Park Nobel's EPI "incorporates simultaneous effects of water, temperature, PAR [photosynthetically active radiation], and even nutrients" to predict the productivity, or the rate of generation of biomass.

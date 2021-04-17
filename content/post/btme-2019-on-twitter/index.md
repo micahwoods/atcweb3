@@ -1,11 +1,13 @@
 ---
 date: "2019-01-27T00:00:00Z"
-share-media: https://www.asianturfgrass.combtme_cloud.png
 tags:
 - web/tech
 - bigga
 - btme
 title: BTME 2019 on Twitter
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 With so many delegates to [BTME](http://btme.org.uk/)---the BIGGA Turf Management Exhibition---using Twitter to communicate about the event, I thought it would be interesting to look at some statistics related to the [#BTME2019](https://twitter.com/hashtag/BTME2019?src=hash) hashtag. 
@@ -16,23 +18,23 @@ Please note that I looked just at tweets sent (London time) from January 18 to J
 
 There were 1,202 tweets (including retweets) with that "official" [#BTME2019](https://twitter.com/hashtag/BTME2019?src=hash) hashtag on those dates.
 
-![dates of BTME2019 tweets](btme_per_day.png)
+{{< figure src="btme_per_day.png" >}}
 
 During the Continue to Learn days and then at BTME itself, these were the number of tweets per hour.
 
-![btme per hour](btme_per_hour.png)
+{{< figure src="btme_per_hour.png" >}}
 
 Of those accounts using the #BTME2019 hashtag, these are the top tweeters, those sending 5 or more tweets with that tag from January 18 to 26.
 
-![btme top tweeters](btme_top_tweeters.png)
+{{< figure src="btme_top_tweeters.png" >}}
 
 There were some conversations about #BTME2019 too. This network graph shows the accounts that were replying to each other about #BTME2019.
 
-![replies btme2019](convos.png)
+{{< figure src="convos.png" >}}
 
 Lots of people were tweeting from iPhones.
 
-![device or source](btme_source.png)
+{{< figure src="btme_source.png" >}}
 
 These were the top 10 tweets as ranked by their favorite count as of this morning.
 
@@ -174,14 +176,13 @@ These were the top 10 tweets ranked by number of retweets as of this morning.
 
 There were a lot of tweets with "media"---photos or videos---shared during BTME. [This was the media tweet](https://twitter.com/SeanPower747/status/1086336859347783681) with the most favorites:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great weather to end the week. Now looking forward to harrogate next week <a href="https://twitter.com/hashtag/BTME2019?src=hash&amp;ref_src=twsrc%5Etfw">#BTME2019</a>  <a href="https://twitter.com/hashtag/greenkeeping?src=hash&amp;ref_src=twsrc%5Etfw">#greenkeeping</a> <a href="https://t.co/Gr69GmWkG6">pic.twitter.com/Gr69GmWkG6</a></p>&mdash; Sean Power (@SeanPower747) <a href="https://twitter.com/SeanPower747/status/1086336859347783681?ref_src=twsrc%5Etfw">January 18, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "1086336859347783681" >}}
 
 What were people tweeting about? I looked at all the words used in the 1,202 tweets, excluding some common [stop words](https://en.wikipedia.org/wiki/Stop_words) and excluding BTME and excluding Harrogate.
 
 Here's a word cloud of the words that remained.
 
-![word cloud btme](btme_cloud.png)
+{{< figure src="btme_cloud.png" >}}
 
 
 

@@ -1,8 +1,5 @@
 ---
-bigmedia:
-- speedo_pamphlet.png: ""
 date: "2019-04-07T00:00:00Z"
-share-media: https://www.asianturfgrass.comspeedo_pamphlet.png
 tags:
 - genki level
 - nitrogen
@@ -10,6 +7,9 @@ tags:
 - growth potential
 - temperature
 title: Genki level pamphlet
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I put the series of genki level (GL) [blog posts](https://www.asianturfgrass.com/tags/#genki+level) together into [this 17 page pamphlet](http://files.asianturfgrass.com/201904_genki_level.pdf).

@@ -3,10 +3,11 @@ date: "2019-04-27T00:00:00Z"
 subtitle: Also zoysia planting and some beautiful tropical birds
 tags:
 - Thailand
-- Temperature
-- Turfhacks
+- temperature
+- turf hacks
 - Zoysia
 title: 'The soil temperature #TurfHack works again'
+authors: [admin]
 image:
   preview_only: false
   caption: "Asian Golden Weaver at Bangsai Country Club in central Thailand."
@@ -20,16 +21,16 @@ I was at Bangsai Country Club last week to plant some manilagrass (*Zoysia matre
 
 {{< figure library="true" src="th_2019_4mo.png" title="Temperatures at Bangsai CC year-to-date in 2019. Daily high and low air temperature data from [Dark Sky](https://darksky.net/poweredby); soil temperature at a 5 cm depth at 11:00 a.m. on 22 April measured with a thermometer." >}}
 
-
-
 With these tropical temperatures, I expect this manilagrass to grow in about as fast as it possibly can---the growth certainly won't be limited by temperatures. I'll be monitoring the coverage with some type of digital image analysis. For now I've been using [Canopeo](https://www.canopeoapp.com).
 
-![grass stolons after planting](canopeo_plot4.png)
+{{< figure src="canopeo_plot4.png" >}}
 
 By the way, if you are ever out at Bangsai, it's a great place to see birds. This is the [Asian golden weaver](https://en.wikipedia.org/wiki/Asian_golden_weaver).
 
 {{< video library="true" src="bangsai_asian_golden_weaver.mp4" controls="yes" >}}
 
-{{< tweet 1113232486815768576 >}}
+<br>
+
+{{< tweet "1113232486815768576" >}}
 
 

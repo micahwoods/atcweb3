@@ -1,14 +1,16 @@
 ---
-bigmedia:
-- jp_thermometer.jpg: surface & soil temperatures from a creeping bentgrass putting
-    green, Japan
 date: "2019-03-10T00:00:00Z"
-share-media: https://www.asianturfgrass.comjp_thermometer.jpg
 tags:
 - climate
 - temperature
-- japan
+- Japan
+- rturf
 title: Tokyo temperatures and growth potential, animated
+authors: [admin]
+image:
+  preview_only: true
+categories: 
+- rturf
 ---
 
 I made a note a couple months ago to make animated charts showing the cool-season (C<sub>3</sub>) and warm-season (C<sub>4</sub>) turfgrass growth potential over a 100+ year period for Tokyo. I was interested to see what those charts would look like. Here's my note:
@@ -22,7 +24,7 @@ implies getting better for C3 or better for C4
 
 First I got the average monthly temperatures from Tokyo since 1875.
 
-![monthly temperature Tokyo](tokyo_temperature.gif)
+![tokyo temps](tokyo_temperature.gif)
 
 Then, from those temperature data, I calculated the [temperature-based growth potential (GP)](https://www.asianturfgrass.com/2017-09-01-gp-explained-photos/) for cool-season grass and plotted that with a shadow.
 

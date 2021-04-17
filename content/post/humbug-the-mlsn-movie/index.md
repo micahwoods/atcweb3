@@ -1,17 +1,19 @@
 ---
 date: "2018-11-29T00:00:00Z"
-share-media: https://www.asianturfgrass.comhumbug_shoot.jpg
 tags:
-- mlsn
+- MLSN
 - video
 - fertilizer
 - soil test
 title: Humbug, the MLSN movie
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 [This is a movie](https://vimeo.com/micahwoods/humbug) about making fertilizer recommendations from soil tests using MLSN. 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/300790946" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+{{< vimeo "300790946" >}}
 
 I hope you enjoy watching this, and that this video provides a few new bits of information about what MLSN is and how it works.
 

@@ -1,17 +1,19 @@
 ---
 date: "2019-03-05T00:00:00Z"
-share-media: https://www.asianturfgrass.comorson_leaf_analysis.png
 tags:
-- tissue testing
+- tissue test
 - leaf nutrient analysis
 - micronutrients
 - fertilizer
 title: Pretty hopeless in predicting deficiency
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 There's an interesting blog post by Jim Orson titled ["Read this before leaf tissue testing for micronutrients."](https://www.niab.com/blog/post/232)
 
-![quotes from micronutrients blog](orson_leaf_analysis.png)
+{{< figure src="orson_leaf_analysis.png" >}}
 
 The entire post is worth reading. It describes his conclusions after studying the result of 15 trials with winter wheat. 
 

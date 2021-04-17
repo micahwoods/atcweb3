@@ -8,6 +8,7 @@ tags:
 - turfgrass speedo
 - video
 title: "The turfgrass genki level, part 5: what's real, what's not, & the simplicity of this"
+authors: [admin]
 image:
   preview_only: true
 ---
@@ -66,19 +67,19 @@ I have temperature and N application and clipping volume from Hazeltine National
 
 Many turf managers will have data from an onsite weather station or will get temperatures from another local source. I've used [Dark Sky](https://darksky.net/poweredby/) to get temperature data for the latitude and longitude coordinates of Hazeltine National Golf Club in 2018.
 
-![temperature daily at Chaska in 2018](hn18_temperature.png)
+{{< figure src="hn18_temperature.png" >}}
 
 Those temperatures are something real. I then transform them to something that isn't real, but is useful. That is the temperature-based growth potential (GP) of [PACE Turf](https://www.paceturf.org/). The GP is useful in a lot of ways; here it is shown as a visual representation of the growing season for cool-season turf at that location in 2018.
 
-![gp at chaska in 2018](hn18_gp.png)
+{{< figure src="hn18_gp.png" >}}
 
 I then make a further calculation to show, on a monthly basis, what I call the standard N. That is based on GP and a maximum monthly N for bentgrass of 3 g N m<sup>-2</sup>.
 
-![standard n chart](hn18_standard_n.png)
+{{< figure src="hn18_standard_n.png" >}}
 
 The nitrogen applied each month is something real; I'm representing it in the next chart as the genki level---that is the actual N supplied divided by the standard N.
 
-![genki level chart](hn18_gl.png)
+{{< figure src="hn18_gl.png" >}}
 
 The genki level corrects for the expected or potential growth that can occur at any location because of temperature. When the grass grows more, it uses more nutrients. When the grass grows less, it uses less nutrients. By using the genki level to look at N applied, one gets an idea of how much the grass was being pushed or starved of fertilizer N at any particular time. 
 
@@ -86,17 +87,17 @@ A note here: I made the calculations here monthly. One can set it up to look at 
 
 The grass growth response can be monitored by the clipping volume. Now we are looking at something real again. Temperature is real. The actual N applied is real. And clipping volume is real.
 
-![clip vol 2018 chart](hn18_clipvol.png)
+{{< figure src="hn18_clipvol.png" >}}
 
 I'm going to make another correction to the clipping volume data, however, by converting it to a turfgrass speedo. For this chart, I'm using a maximum volume of 600 ml m<sup>-2</sup> month<sup>-1</sup>, and then calculating the speedo as the actual clipping volume divided by the product of the GP and 600 mL.
 
 What good does that do? Just like the genki level adjusts the N fertilizer to the potential for the grass to grow, so the speedo adjusts the actual growth to the temperature-adjusted expected growth.
 
-![speedo 2018 chart](hn18_speedo.png)
+{{< figure src="hn18_speedo.png" >}}
 
 Finally, I compare the genki level to the speedo. These are two real things---the N applied and the clippings collected---adjusted by another real thing, the temperature at that location. 
 
-![speedo to genki level in 2018](hn18_speedo_gl.png)
+{{< figure src="hn18_speedo_gl.png" >}}
 
 Turfgrass perfect and want to do exactly the same as last year? Then do the same, adjusting for this year's forecast temperatures. See some areas that can be improved? Consider how adjusting the growth and the timing of the growth might move the turf closer to the desired conditions. Talked with a friend from a neighboring state or from another part of the world, and learned how their management is producing great results at a certain growth rate or timing or fertilizer rate? Easily apply the same processes at your facility, adjusted for the growing conditions at your site.
 

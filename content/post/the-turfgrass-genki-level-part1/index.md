@@ -1,12 +1,14 @@
 ---
 date: "2019-02-03T00:00:00Z"
-share-media: https://www.asianturfgrass.comstandard_n.png
 tags:
 - growth potential
 - nitrogen
 - fertilizer
 - genki level
 title: 'The turfgrass genki level, part 1: from temperature to standard N'
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 This is one I've been thinking about for a long time, and have discussed with many turf managers, but I don't think I've explained it on the blog yet. So here goes. This is what I call the turfgrass **genki level**.
@@ -35,17 +37,17 @@ Here's an excerpt from an email I sent last year, explaining this:
 
 I used the [Dark Sky](https://darksky.net/poweredby/) API to get daily temperature data from each day in 2018 from three locations. That is, I took the latitude and longitude of Hazeltine National GC in Chaska, Minnesota (creeping bentgrass); Keya GC in Itoshima, Japan (manilagrass); and Van Tri GC in Hanoi, Vietnam (seashore paspalum); I then obtained the observed weather conditions from those locations.
 
-![temperature 3 locs 2018](genki_level_temps.png)
+{{< figure src="genki_level_temps.png" >}}
 
 Those are the daily high and low temperature data. From those I calculated the daily average temperature, and from that one can calculate the temperature-based turfgrass growth potential (GP) of PACE Turf.
 
 Temperatures are useful. So is the GP, to quickly express on a scale of 0 to 1 the relative distance between the actual temperature and the optimum temperature for shoot growth.
 
-![genki level gp](genki_level_gp.png)
+{{< figure src="genki_level_gp.png" >}}
 
 The GP makes it easy to compare locations. And it is also straightforward to make an estimate of growth and N use. By multiplying a maximum amount of N by the GP, one gets an expected N use. Based on the way creeping bentgrass, manilagrass, and seashore paspalum are managed as fine turfgrass today, I like to use a standard maximum of 3 g N m<sup>-2</sup> month<sup>-1</sup>.
 
-![standard N](standard_n.png)
+{{< figure src="standard_n.png" >}}
 
 I think it is useful to use the same *standard* N for the calculations, and then to express differences in the way turf is managed as the **genki level**. That makes it easy to compare the relative amount of pushing the grass, or pulling on the grass, between different seasons at the same location, or between different locations.
 

@@ -1,17 +1,17 @@
 ---
 date: "2018-12-03T00:00:00Z"
-share-media: https://www.asianturfgrass.comgolforce.jpg
-subtitle: 'Seminars, slides, podcasts, #ClipVol, #MLSN, bent vs. Poa, robot mowers,
-  open access articles, and more'
+subtitle: 'Seminars, slides, podcasts, #ClipVol, #MLSN, bent vs. Poa, robot mowers, open access articles, and more'
 tags:
 - roundup
 title: 'Monthly Turfgrass Roundup: November 2018'
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Matt Elmore started [a really interesting experiment](https://twitter.com/RUturfweeds/status/1061235647174860801):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Earlier this fall we vegetatively planted strips of 8 different bentgrass (incl. 1 colonial) cultivars into this 100% Poa annua fairway. We will evaluate how they compete for the next couple years. <a href="https://t.co/zoa8eGlDxE">pic.twitter.com/zoa8eGlDxE</a></p>&mdash; Matt Elmore (@RUturfweeds) <a href="https://twitter.com/RUturfweeds/status/1061235647174860801?ref_src=twsrc%5Etfw">November 10, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "1061235647174860801" >}}
 
 I was a guest on [Joe Gulotti's Talking Greenkeeper show](http://thetalkinggreenkeeper.libsyn.com/website/episode-6-micah-woods):
 
@@ -29,22 +29,19 @@ Articles from the European Turfgrass Society Conference, many of them open acces
 
 Tyler Otero took [a dramatic autumn photo](https://twitter.com/TylerO_Harrells/status/1063536951930863616):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hey turf professors...here is one to add to your lecture on proper turf species selection!!  <a href="https://twitter.com/hashtag/turf?src=hash&amp;ref_src=twsrc%5Etfw">#turf</a> <a href="https://twitter.com/hashtag/sod?src=hash&amp;ref_src=twsrc%5Etfw">#sod</a> <a href="https://twitter.com/hashtag/landscaping?src=hash&amp;ref_src=twsrc%5Etfw">#landscaping</a> <a href="https://twitter.com/hashtag/oops?src=hash&amp;ref_src=twsrc%5Etfw">#oops</a> <a href="https://twitter.com/hashtag/willlookgreatinJuly?src=hash&amp;ref_src=twsrc%5Etfw">#willlookgreatinJuly</a> (location: Manasquan, NJ) <a href="https://t.co/NkswDghSQz">pic.twitter.com/NkswDghSQz</a></p>&mdash; Tyler Otero (@TylerO_Harrells) <a href="https://twitter.com/TylerO_Harrells/status/1063536951930863616?ref_src=twsrc%5Etfw">November 16, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "1063536951930863616" >}}
 
 I spoke about plant growth regulators and about putting green organic matter in [this Nutranta seminar](https://www.asianturfgrass.com/2018-11-21-nutranta-seminar-at-manila-southwoods/).
 
 David Bataller says ["the future is here"](https://twitter.com/DAVIDBATALLER/status/1068254583837859840):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Electric-Robot Fairway Mower Trial <a href="https://twitter.com/PGA_Catalunya?ref_src=twsrc%5Etfw">@PGA_Catalunya</a> today. The future is here <a href="https://twitter.com/hashtag/sustainable?src=hash&amp;ref_src=twsrc%5Etfw">#sustainable</a> <a href="https://twitter.com/hashtag/ecofriendly?src=hash&amp;ref_src=twsrc%5Etfw">#ecofriendly</a> <a href="https://t.co/817qF2CGEG">pic.twitter.com/817qF2CGEG</a></p>&mdash; David Bataller (@DAVIDBATALLER) <a href="https://twitter.com/DAVIDBATALLER/status/1068254583837859840?ref_src=twsrc%5Etfw">November 29, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "1068254583837859840" >}}
 
 Jason Haines put a lot of detail [in these slides about Precision Fertilisation](https://docs.google.com/presentation/d/1WnDRgcrE_yWYmajMYTvg1zleX7wiBvj8jb23EO60BD4/edit?usp=sharing).
 
 I made a movie about MLSN. It's called [Humbug](https://vimeo.com/micahwoods/humbug).
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/300790946" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p><a href="https://vimeo.com/300790946">&quot;Humbug&quot; | Grammar of Greenkeeping | Season 1 | Episode 1</a> from <a href="https://vimeo.com/micahwoods">Micah Woods</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+{{< vimeo "300790946" >}}
 
 ---
 

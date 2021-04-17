@@ -1,13 +1,14 @@
 ---
 date: "2018-12-08T00:00:00Z"
-share-media: https://www.asianturfgrass.com6fwyball.jpg
 tags:
 - mowing
 - research
 - environment
 - sustainability
-title: Autonomous mower at 12 mm produced higher quality turf, increased shoot density,
-  and reduced energy use compared to a conventional reel mower
+title: Autonomous mower at 12 mm produced higher quality turf, increased shoot density, and reduced energy use compared to a conventional reel mower
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Jason Haines has written recently about [The future of robot mowers today](http://www.turfhacker.com/2018/12/the-future-of-robot-mowers-today.html) and I recommend having a read of that post for more insight, and some videos of these types of machines.

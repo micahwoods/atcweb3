@@ -1,15 +1,19 @@
 ---
-bigmedia:
-- plaza_espanya.jpg: Plaza de España in Seville
-- sevilla_congress.jpg: banner at the 40th Congress of the AEdG
 date: "2018-12-01T00:00:00Z"
-share-media: https://www.asianturfgrass.comsevilla_congress.jpg
 tags:
-- spain
+- Spain
 - seminar
 - organic matter
+- OM246
 - green speed
+- stimpmeter
 title: Organic matter and green speed at the 40th Spanish Greenkeepers Congress
+authors: [admin]
+header: 
+  image: "header_plaza_espanya.jpg"
+  caption: "Plaza de España in Seville"
+image:
+  preview_only: true
 ---
 
 I was honored to speak at the 40<sup>th</sup> Congress of the Asociación Española de Greenkeepers in Seville. 
