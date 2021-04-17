@@ -36,6 +36,11 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+
+## added this for the Tweet shortcode not working on deleted old tweets
+ignoreErrors: ["error-remote-getjson"]
+####
+
 permalinks:
   event: '/talk/:slug/'
   tags: '/tag/:slug/'

@@ -1,11 +1,14 @@
 ---
 date: "2018-08-09T00:00:00Z"
-share-media: https://c1.staticflickr.com/1/847/43518984262_733953933d_b_d.jpg
+share-media: 
 subtitle: Time capsules, danger, self doubt, fertilizer, soil tests, zoysia, temperature,
   soccer, Poa, and much more
 tags:
 - roundup
 title: 'Monthly Turfgrass Roundup: July 2018'
+authors: [admin]
+image:
+  preview-only: true
 ---
 
 Two ways to make [fertilizer recommendations](https://www.asianturfgrass.com/2018-07-07-turfgrass-fertiliser-recommendations/).
@@ -14,8 +17,7 @@ Turfgrass fertiliser recommendations with or without soil tests: [screencast vid
 
 Allan Dewald, danger, mid-July sales pitches, [and self doubt](https://twitter.com/allan_dewald/status/1021127391509450753):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Sometimes we have just enough knowledge to be dangerous. I offer a friendly counter balance 2 mid July sales pitches and self doubt. <a href="https://twitter.com/hashtag/mlsn?src=hash&amp;ref_src=twsrc%5Etfw">#mlsn</a> <a href="https://t.co/fz6uSjZMNY">https://t.co/fz6uSjZMNY</a></p>&mdash; Allan Dewald (@allan_dewald) <a href="https://twitter.com/allan_dewald/status/1021127391509450753?ref_src=twsrc%5Etfw">July 22, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "1021127391509450753" >}}
 
 Mike Besa wrote about Canlubang GC, says golf there is ["like entering a time capsule."](https://golflifeatbp.wordpress.com/2018/07/19/canlubang-golf-and-country-clubs-south-course-a-flamboyant-dazzling-layout/)
 
@@ -25,8 +27,7 @@ Sodium, salt, and salinity [don't need to be complicated](https://www.asianturfg
 
 Maggie Reiter shared [this grid map](https://twitter.com/maggie_reiter/status/1024344933090484225):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Cool <a href="https://twitter.com/hashtag/dataviz?src=hash&amp;ref_src=twsrc%5Etfw">#dataviz</a> showing US land use, including 2 million acres devoted to golf courses <a href="https://t.co/Y0JCoBovU9">https://t.co/Y0JCoBovU9</a> <a href="https://t.co/h1o935eZKR">pic.twitter.com/h1o935eZKR</a></p>&mdash; Maggie Reiter (@maggie_reiter) <a href="https://twitter.com/maggie_reiter/status/1024344933090484225?ref_src=twsrc%5Etfw">July 31, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "1024344933090484225" >}}
 
 There was [less brown patch](http://newprairiepress.org/cgi/viewcontent.cgi?article=7596&context=kaesrr) in a fescue-zoysia polystand than in a fescue monostand.
 
@@ -34,13 +35,11 @@ Zoysia and temperature: [where is it most likely to fail, or more likely to work
 
 "The Greenkeepers" short from [The Open](https://twitter.com/TheOpen/status/1020611298353188865):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Have you ever wondered what goes into making a golf course fit for The Open? We caught up with <a href="https://twitter.com/carnoustiegolf?ref_src=twsrc%5Etfw">@carnoustiegolf</a> head greenkeeper <a href="https://twitter.com/CraigBoath?ref_src=twsrc%5Etfw">@CraigBoath</a> 🚜 <a href="https://twitter.com/hashtag/TheOpen?src=hash&amp;ref_src=twsrc%5Etfw">#TheOpen</a> <a href="https://t.co/SAdVY3LOes">pic.twitter.com/SAdVY3LOes</a></p>&mdash; The Open (@TheOpen) <a href="https://twitter.com/TheOpen/status/1020611298353188865?ref_src=twsrc%5Etfw">July 21, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "1020611298353188865" >}} 
 
 Grant Moir showed [fairway mowing details](https://twitter.com/GrantMMMoir/status/1019481674797797376):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Attention to detail in unusual weather conditions <a href="https://twitter.com/carnoustiegolf?ref_src=twsrc%5Etfw">@carnoustiegolf</a> Fairways not needing cut other than in lower lying areas so fairway cutters are out with brushes to stand the grassier bits up and get a decent cut. <a href="https://t.co/IHQiSvZupY">pic.twitter.com/IHQiSvZupY</a></p>&mdash; Grant Moir (@GrantMMMoir) <a href="https://twitter.com/GrantMMMoir/status/1019481674797797376?ref_src=twsrc%5Etfw">July 18, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "1019481674797797376" >}}
 
 Golf Australia released their [Golf Club Participation Report](http://www.golf.org.au/site/_content/document/00041674-source.pdf?platform=hootsuite).
 
