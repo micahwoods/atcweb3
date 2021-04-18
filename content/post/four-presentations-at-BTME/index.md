@@ -1,17 +1,19 @@
 ---
-bigmedia:
-- btme_snow.jpg: Harrogate, January
 date: "2018-01-24T00:00:00Z"
-share-media: http://www.asianturfgrass.combtme_snow.jpg
 tags:
 - seminar
-- bigga
-- england
+- BIGGA
+- England
 - btme
 title: My four presentations at BTME
+authors: [admin]
+image:
+  preview_only: true
 ---
 
-These are the slides from my workshops and presentations at BTME this week. You can view the slides here, or go to [SpeakerDeck](https://speakerdeck.com/micahwoods) to download any of these slide decks.
+These are the slides from my workshops and presentations at BTME 2018. You can view the slides here, or go to [SpeakerDeck](https://speakerdeck.com/micahwoods) to download any of these slide decks.
+
+{{< figure src="btme_snow.jpg" >}}
 
 ## Turf Conditions & Optimal Efficiency with the *Grammar of Greenkeeping*
 

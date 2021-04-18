@@ -1,11 +1,13 @@
 ---
 date: "2018-01-13T00:00:00Z"
-share-media: https://c2.staticflickr.com/6/5482/11377990553_d2d8f281f3_b_d.jpg
 tags:
-- Fertilizer
-- Soil
+- fertilizer
+- soil
 - MLSN
 title: I've been asked to give a seminar on MLSN guidelines
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 This inquiry came to my inbox:

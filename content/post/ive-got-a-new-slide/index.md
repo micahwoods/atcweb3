@@ -1,16 +1,18 @@
 ---
 date: "2018-02-11T00:00:00Z"
-share-media: http://www.asianturfgrass.comfertilizer_madison.png
 tags:
 - fertilizer
 - soil
 - seminar
 title: I've got a new slide
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 After a long trip -- this one to start the year was a particularly long one for me -- I usually have some passages or topics to look up in my library when I get home.
 
-![flight map Jan 10 to Feb 8](flights.png)
+{{< figure src="flights.png" >}}
 
 This time was no exception. I was checking Carrow et al. (*Turfgrass Soil Fertility and Chemical Problems*) on page 166 to refresh my memory with their advice on fertilizer recommendations. 
 
@@ -22,7 +24,7 @@ They continue, and this is the paragraph I wanted to read:
 
 I wondered what Madison had to say on this topic -- his *Principles of Turfgrass Culture* (1971) has two chapters about nutrition. I made a new slide with this quote:
 
-![John Madison quote from 1971 in Principles of Turfgrass Nutrition: Fertilizer is the number one management tool. It is worth all the attention you can give it](fertilizer_madison.png)
+{{< figure src="fertilizer_madison.png" >}}
 
 He wrote that "with clippings returned, and if soil tests indicate adequate levels, there may be no need for added phosphorus." And "when clippings are returned, little potassium fertilizer should be needed on most soils." 
 
@@ -32,9 +34,13 @@ I've often explained that [this is not the way](https://speakerdeck.com/micahwoo
 
 <script async class="speakerdeck-embed" data-slide="20" data-id="20461819bb73475f9d56c4cec498e166" data-ratio="1.78086956521739" src="//speakerdeck.com/assets/embed.js"></script>
 
+<br>
+
 That's because N controls the growth and consequently [the demand for all other nutrients](https://speakerdeck.com/micahwoods/using-and-understanding-the-mlsn-guidelines-for-nutrient-recommendations?slide=21):
 
 <script async class="speakerdeck-embed" data-slide="21" data-id="20461819bb73475f9d56c4cec498e166" data-ratio="1.78086956521739" src="//speakerdeck.com/assets/embed.js"></script>
+
+<br>
 
 As I continued reading, I came across this on page 206 of Madison:
 

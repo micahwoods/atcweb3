@@ -3,7 +3,13 @@ date: "2018-01-09T00:00:00Z"
 share-media: https://farm3.staticflickr.com/2495/3810887415_53768f0494_b_d.jpg
 tags:
 - web/tech
+- rturf
+categories:
+- rturf
 title: Turfgrass Twitter Analysis
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 I used the [rtweet](https://cran.r-project.org/web/packages/rtweet/index.html) package to collect turfgrass community tweets from 2017. I had learned of this package from [Bob Rudis' blog post about rtweet](https://rud.is/b/2017/10/22/a-call-to-tweets-blog-posts/).
@@ -19,7 +25,7 @@ At the end of the year, I had a bit of time, and a lot of curiosity, so I finall
 
 The results of the calculations are in this searchable and sortable [Turfgrass Twitter 2017](https://asianturfgrass.shinyapps.io/turf_twitter/) Shiny app.
 
-The code I used is in the [turf_twitter_2017](http://www.asianturfgrass.com/turf_twitter_2017/) repository on GitHub, so you can see exactly what I did.
+The code I used is in the [turf_twitter_2017](https://micahwoods.github.io/turf_twitter_2017/) repository on GitHub, so you can see exactly what I did.
 
 The 6,271 accounts I studied as "turf twitter" in this analysis were selected using these criteria.
 

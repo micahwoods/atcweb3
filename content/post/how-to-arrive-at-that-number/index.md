@@ -3,8 +3,11 @@ date: "2018-02-06T00:00:00Z"
 share-media: https://c2.staticflickr.com/4/3863/15227265181_6b058b127d_b_d.jpg
 tags:
 - fertilizer
-- mlsn
+- MLSN
 title: How to get a quick estimate of grass nutrient use
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 This is an excellent question:
@@ -15,7 +18,7 @@ I should mention that this is not the first time I've been asked this same quest
 
 Now to answer the question. 
 
-First, please have a look at the [MLSN cheat sheet](http://www.asianturfgrass.com/2018-02-03-new-mlsn-cheat-sheet/). I wrote it just for this type of question.
+First, please have a look at the [MLSN cheat sheet]({{< relref "/post/new-mlsn-cheat-sheet" >}}). I wrote it just for this type of question.
 
 Assuming you don't measure the nutrient use, an easy way to get a maximum estimate of use is by looking at N supply. Grass can't grow more than the quantity of N supplied. Also, the N uptake is not 100% efficient. So looking at N supply will be a maximum use. 
 
@@ -31,6 +34,6 @@ Now we multiply the total clipping yield by the percentage of each element in th
 * 0.12 pounds of S
 * less that 0.006 lbs of each of the micronutrients (this is why [I don't worry about micronutrients](http://www.blog.asianturfgrass.com/2017/01/why-i-dont-worry-about-micronutrients.html))
 
-![mlsn cheat sheet image](mlsn_cheat_sheet1.png)
+{{< figure src="mlsn_cheat_sheet1.png" >}}
 
 

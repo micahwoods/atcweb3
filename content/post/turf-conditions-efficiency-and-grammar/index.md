@@ -1,10 +1,12 @@
 ---
 date: "2018-02-14T00:00:00Z"
-share-media: https://c2.staticflickr.com/4/3596/3768176490_f67b781c25_o_d.jpg
 tags:
 - seminar
 - turf info
 title: Turf conditions, efficiency, and the 'Grammar of Greenkeeping'
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Topdressing. Mowing. Irrigation. Fertilizing. Fungicides. All these maintenance practices should produce good turf, right? They usually do. But have you ever seen a situation where the most intensively maintained turf on a property ends up with substandard conditions? In that case, something has gone wrong with the application of those maintenance practices.

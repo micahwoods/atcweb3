@@ -1,15 +1,17 @@
 ---
-bigmedia:
-- bkk_cloud.jpg: view of approaching clouds and rain in September, Bang Na, Thailand
 date: "2018-02-09T00:00:00Z"
-share-media: http://www.asianturfgrass.comprecip_smooth.png
+lastmod: 2021-04-18
 tags:
-- thailand
+- Thailand
 - climate
+- rturf
 title: When does it usually rain in Bangkok?
+authors: [admin]
+image:
+  preview_only: true
 ---
 
-I was wondering when it usually rains in Bangkok. My usual quick source for temperature, precipitation, and sunshine data is the extraordinarily useful ["Climatological Information of World Cities for Travellers"](http://www.hko.gov.hk/wxinfo/climat/world/eng/world_climat_e.htm) from the Hong Kong Observatory. This is a clickable map-based interface to the World Meteorological Organization's climatological normals dataset.
+I was wondering when it usually rains in Bangkok. 
 
 The climatological normals for Bangkok show that there is a six month dry season from November to April, in which the average precipitation in each month is less than 100 mm (4 inches). In fact, the average is less than 50 mm (2 inches) from November to March, and April -- which coincides with the [Songkran "water" Festival](https://en.wikipedia.org/wiki/Songkran_(Thailand)) -- is the only month in the dry season with more than 50 mm on average. Then from May to October, there are more than 100 mm of precipitation on average each month. May and October both have more than 200 mm (8 inches) on average, and September is the wettest month, with an average of 344 mm of rain (13.5 inches).
 
@@ -17,11 +19,11 @@ The [`rnoaa` R package](https://CRAN.R-project.org/package=rnoaa) from [rOpenSci
 
 Then I calculated the monthly totals. These are three representations of the results.
 
-![monthly totals of precipitation at Bang Na Agrometeorological Station from 2008 to 2017](precip_facet.png)
+{{< figure src="precip_facet.png" >}}
 
-![smoothed monthly totals of precipitation at Bang Na Agrometeorological Station from 2008 to 2017 and Bangkok 30 year climatological normals](precip_smooth.png)
+{{< figure src="precip_smooth.png" >}}
 
-![ridgeline plot of monthly totals of precipitation at Bang Na Agrometeorological Station from 2008 to 2017](precip_ridgeline.png)
+{{< figure src="precip_ridgeline.png" >}}
 
 This isn't a forecast, but it is how much and when the rain typically falls at this location.
 
