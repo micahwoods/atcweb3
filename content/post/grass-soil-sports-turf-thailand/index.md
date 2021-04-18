@@ -1,13 +1,16 @@
 ---
 date: "2018-07-24T00:00:00Z"
-share-media: https://www.asianturfgrass.commtt_nov.jpg
 tags:
-- thailand
+- Thailand
 - football
 - soccer
 - sports
 - seminar
 title: Grass and soil for sports turf in Thailand
+authors: [admin]
+image:
+  preview_only: false
+  caption: "The seashore paspalum pitch at SCG Stadium in Muang Thong Thani, Thailand."
 ---
 
 These are the slides and handout for my seminar tomorrow in Bangkok. I don't expect to record a screencast video of this presentation; the handout is 5 pages and covers most of what I expect to discuss.

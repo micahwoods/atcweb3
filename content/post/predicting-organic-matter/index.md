@@ -7,13 +7,17 @@ tags:
 - clipvol
 - topdress
 title: Predicting organic matter in turfgrass soils
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Jason Haines has been sharing some ideas on his [Turf Hacker](https://www.turfhacker.com/) blog, and one that I think is especially interesting is the idea that one can precisely [match the topdressing sand quantity](https://www.turfhacker.com/2018/06/sand-o-meter.html) to the growth of the grass.
 
 I think this equation, or one similar to it, might predict what the soil organic matter content in turfgrass soils will be.
 
-![does this equation predict organic matter in turfgrass soils?](om_prediction_equation.png)
+
+{{< figure src="om_prediction_equation.png" >}}
 
 If that equation can predict soil organic matter, then it is relatively straightforward to adjust the variables on the right side of the equation in order to achieve the desired result on the left side.
 

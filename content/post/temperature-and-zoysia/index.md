@@ -7,6 +7,9 @@ tags:
 - climate
 - temperature
 title: Temperature and zoysia
+authors: [admin]
+image: 
+  preview_only: true
 ---
 
 A few years ago, someone contacted me about the use of zoysia in the Napa Valley. After describing places where he had seen zoysia---Austin, Tokyo---and been impressed with it, he asked what I thought about it in Napa. "I am hoping to learn your point of view. Please forgive the long treatise," he wrote, "but I wanted to give you proper context." 
@@ -15,17 +18,17 @@ The ensuing email conversation clarified that we were discussing manilagrass (*Z
 
 I downloaded the daily temperature data for calendar year 2017 from these 11 locations. 
 
-![map of 11 locations](loc11.png)
+{{< figure src="loc11.png" >}}
 
 Some of these places, like Singapore, and Tokyo, and Hilo, have lots of thriving manilagrass. Here's a lawn in central Tokyo.
 
-![tokyo korai](https://c2.staticflickr.com/2/1809/43518984762_c21976855c_b_d.jpg)
+{{< figure src="tokyo_korai.jpg" >}}
 
 Other places, like Ithaca (New York), don't have manilagrass, because it is too cold. And places like Avondale, Pennsylvania, may have a bit of *Zoysia japonica*, and some *Cynodon*, but are generally cool-season areas. If we consider Singapore as optimum for manilagrass, and Ithaca as unsuitable, we can then see how some other places (like Napa) compare. Are they closer to Singapore, which is optimum, and Tokyo, where manilagrass works well, or are they closer to Ithaca?
 
 Manilagrass thrives in a tropical climate; this species really grows well when it is hot, but it doesn't grow much in moderate temperatures. To look at when it is hot, I calculated the GDD<sub>20</sub> for each day in 2017 at each of these locations, and summed them across the year. This is the sum of temperatures at 20 °C and above in 2017.
 
-![gdd20](gdd20_2017.png)
+{{< figure src="gdd20_2017.png" >}}
 
 Of course, there are various ways to look at when it is "hot." This table shows the sum for various measures related to temperature. Each of these is based on the daily mean temperature calculated as (daily high + daily low)/2.
 
@@ -47,19 +50,19 @@ I included Vilobí d'Onyar because it is slightly warmer than Napa, and I've had
 
 Here's a mixed fairway of bermudagrass and bentgrass in Vilobí d'Onyar in May.
 
-![cynodon and agrostis catalonia](https://c1.staticflickr.com/1/847/43518984262_733953933d_b_d.jpg)
+{{< figure src="catalonia_fwy_may.jpg" >}}
 
 Here's a driving range tee of manilagrass there in May.
 
-![manilagrass tee](https://c2.staticflickr.com/2/1789/41757665690_afa782c4f5_b_d.jpg)
+{{< figure src="catalonia_dr_tee_large_patch.jpg" >}}
 
 This is a bunker slope of manilagrass in May.
 
-![manilagrass bunker](https://c1.staticflickr.com/1/855/42660128305_6dc8a74773_b_d.jpg)
+{{< figure src="catalonia_zeon_bunker.jpg" >}}
 
 Here it is at the back of the same driving range tee in January, 2.5 years after it was sodded.
 
-![manilagrass weeds](https://c1.staticflickr.com/1/925/43518983962_758ecaa2ae_b_d.jpg)
+{{< figure src="catalonia_weeds.jpg" >}}
 
 Can it survive in those temperatures? Yes, although it isn't doing well on north-facing bunker slopes. The driving range tee was especially well-drained, but large patch was thriving. Manilagrass is renowned for density, and it is difficult for weeds to invade manilagrass where it is actively growing. That, however, is not the case at Vilobí d'Onyar.
 

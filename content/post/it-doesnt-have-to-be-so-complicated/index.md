@@ -7,14 +7,18 @@ tags:
 - soil
 - sand
 - irrigation
+- water
 title: It doesn't have to be so complicated
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Irrigation water quality, salinity, gypsum, and sodium---I'm not even going to mention the problems that bicarbonate doesn't cause---are topics that are sure to stir up some discussion. I shared a couple old blog posts last week, related to sodium, sodicity, and gypsum, and sure enough, there were all kinds of responses, with much of it taking a tangent from what the blog posts were about. 
 
 I'm writing this post to put links to those old posts into one place, and to share excerpts from three recent conversations that might clarify some solutions, and the simplicity of the solutions, *especially* when dealing with turf growing in a sand rootzone.
 
-### 3 old articles about salinity and sodicity
+## 3 old articles about salinity and sodicity
 
 * [Is sodium an imaginary problem?](http://www.blog.asianturfgrass.com/2015/02/is-sodium-an-imaginary-problem.html)
 * [Soil and water management: 3 problems, 3 solutions](http://www.seminar.asianturfgrass.com/water_and_soil_handout.html)
@@ -30,9 +34,11 @@ From that last one, I wrote about how to classify the problems, and how to find 
 
 > Saline-Sodic -- in this case, the sodicity occurs and is combined with high total salts. Also irrelevant in sand rootzones because of reason mentioned above. The solution to this problem is to add gypsum, to restore soil structure, and then to add extra water to leach the salts.
 
-### Three recent conversations
+## Three recent conversations
 
-1) I've written that "No matter how much sodium one puts into a sand rootzone, the soil structure cannot be affected, so gypsum won't be required." 
+### 1. Sodium, sand, and gypsum
+
+I've written that "No matter how much sodium one puts into a sand rootzone, the soil structure cannot be affected, so gypsum won't be required." 
 
 A correspondent asked, "Is it because the salt water passes thru rather than staying in the sand, i.e. no salt water no salt?
 
@@ -44,7 +50,9 @@ Sands don't have any of these problems because the soil structure does not chang
 
 Take home message: understand the difference between salinity and sodicity, and apply that to water movement in sand rootzones.
 
-2) A correspondent wrote, about Mehlich 3 soil test results, and how to apply the [MLSN](http://www.asianturfgrass.com/2016_mlsn_paper/) approach in this situation.
+### 2. Salinity confusion
+
+A correspondent wrote, about Mehlich 3 soil test results, and how to apply the MLSN approach in this situation.
 
 "Our sodium levels are on the high end at 30 ppm on average. Our irrigation water is extremely high in bi-carbs as well. K average [in the soil] is 64, Mg 160, Ca 1,627. So to combat the growing sodium levels do I just disregard our Ca numbers and push gypsum to flush Na out?"
 
@@ -66,11 +74,13 @@ See Harivandi's [Interpreting Turfgrass Irrigation Water Test Results](http://an
 
 Take home message: understand threshold salinity levels that might cause problems, and stay safely away from them.
 
-3) Tom Calder [asked](https://twitter.com/tomosocanoso/status/1017892794751336448), "if we do have salts in our soils, is the concern/problem more about the salts almost stealing the water from the plant like a sponge?" 
+### 3. Salt and *physiological drought*
+
+Tom Calder [asked](https://twitter.com/tomosocanoso/status/1017892794751336448), "if we do have salts in our soils, is the concern/problem more about the salts almost stealing the water from the plant like a sponge?" 
 
 That's kind of the problem, although I like to think of it more in terms of salinity reduces the availability of water to the grass, and because of that it reduces the growth rate of the grass. Here are two technical descriptions of this from textbooks:
 
-![salinity textbook quote definitions](salinity.png)
+{{< figure src="salinity.png" >}}
 
 Take home message: understand what salinity does, and (going back to the point I made above), be sure to know the difference between salinity and sodicity.
 

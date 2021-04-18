@@ -1,13 +1,15 @@
 ---
 date: "2018-07-07T00:00:00Z"
-share-media: https://c2.staticflickr.com/2/1748/28916534208_ee9b82d410_b_d.jpg
 tags:
 - fertilizer
 - soil test
-- england
-- mlsn
+- England
+- MLSN
 - video
 title: Two solutions for the problems of turfgrass fertilizer recommendations
+authors: [admin]
+image: 
+  preview_only: true
 ---
 
 In the autumn of 2017, Stewart Brown wrote to me. 
@@ -22,8 +24,10 @@ He was inviting me to give a keynote presentation at the 2018 conference in Manc
 
 That's how I came to be speaking to a diverse audience of turfgrass scientists and industry professionals in Manchester last Monday. The slides can be [downloaded here](https://speakerdeck.com/micahwoods/turfgrass-fertiliser-recommendations-with-or-without-soil-tests). I've just recorded a screencast of the slides with my commentary, and you [can watch that here](https://vimeo.com/micahwoods/ets18) or embedded below.
 
-<iframe src="https://player.vimeo.com/video/278777740" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{{< vimeo "278777740" >}}
 
-I described the problem of making turfgrass fertiliser recommendations from soil tests, and I gave two solutions. One is the [Precision Fertilisation](http://www.sterf.org/sv/library/handbooks/fertilisation) approach from STERF. A second is the [MLSN](https://www.paceturf.org/journal/minimum_level_for_sustainable_nutrition) approach.
+<br>
+
+I described the problem of making turfgrass fertiliser recommendations from soil tests, and I gave two solutions. One is the [Precision Fertilisation](http://www.sterf.org/sv/library/handbooks/fertilisation) approach from STERF. A second is the [MLSN]({{< relref "/mlsn" >}}) approach.
 
 
