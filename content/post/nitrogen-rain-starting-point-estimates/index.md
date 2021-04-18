@@ -1,20 +1,16 @@
 ---
-bigmedia:
-- baguio.jpg: Camp John Hay Golf Club, Baguio, Philippines
-- rain_road.jpg: Rainy day in southern Thailand
-- cloud_bangna.jpg: Rain clouds in Bangkok, May
-- seminar_201611_cover.jpg: ゴルフ場セミナー, 2016年11月
-- sritrang_fwy_march.jpg: Unirrigated golf course fairway in southern Thailand,
-    March
 date: "2018-09-12T00:00:00Z"
-share-media: https://www.asianturfgrass.comsritrang_fwy_march.jpg
 subtitle: Estimating the N mineralization from soil organic matter based on temperature
   and soil water content
 tags:
 - nitrogen
 - weather
 - soil
+- rain
 title: Nitrogen, rain, and starting point estimates
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 Regular readers of this blog will be familar with some previous attempts to estimate the N mineralization in turfgrass soils. There was [this from 2010](http://www.blog.asianturfgrass.com/2015/01/i-wouldnt-explain-it-this-way-again.html), which I wrote about in 2015 saying "I wouldn't explain it this way again." 
@@ -23,7 +19,7 @@ What I'd done then was estimate a maximum of 4 g N m<sup>-2</sup> could be miner
 
 For the past few years I've been making a more general estimate, still crude, but expressed as an annual amount, based on organic matter being 5% N, and expecting that from 1 to 4% of that N would be mineralized each year. This is straight out of the *Soil Fertility and Fertilizers* textbook by Havlin et al. I've written about that extensively in my monthly ゴルフ場セミナー column, more so than I have on this blog.
 
-![gc seminar article nov 2016](seminar_201611.jpg)
+{{< figure src="seminar_201611.jpg" >}}
 
 In May, I was excited to come across an article that gave a way to make estimates on a shorter time interval. The article is [*Nitrogen mineralization from soil organic matter: a sequential model*](https://dx.doi.org/10.2136/sssaj2010.0123) by Gilmour and Mauromoustakos. I'd missed this when it was published in 2011. Now, I dropped everything for a few hours and read the paper and worked through the calculations. 
 
@@ -35,14 +31,13 @@ This is really useful for turfgrass management, as a starting point estimate for
 
 Jason Haines wrote a few days ago that ["the rains have brought an increased growth rate despite applying almost no fertilizer in the last month."](https://twitter.com/PenderSuper/status/1038544627505057792)
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">As expected the rains have brought an increased growth rate despite applying almost no fertilizer in the last month. <a href="https://t.co/9JABpIb0P9">pic.twitter.com/9JABpIb0P9</a></p>&mdash; Jason Haines (@PenderSuper) <a href="https://twitter.com/PenderSuper/status/1038544627505057792?ref_src=twsrc%5Etfw">September 8, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "1038544627505057792" >}}
 
 I wondered how this model might make some estimates related to changes in soil moisture content. I got temperature data from the Pender Harbour GC location using the [Dark Sky API](https://darksky.net/dev/docs). Then I estimated N mineralization using equations based on the Gilmour and Mauromoustakos model.
 
 With temperature data through yesterday, assuming the top 10 cm of soil has 1.6% organic matter and the soil water was maintained at 50% of field capacity, this is the expected mineralization: a total of 1.5 g N m<sup>-2</sup>.
 
-![madeira park BC expected mineralization](madeira_mineralization.png)
+{{< figure src="madeira_mineralization.png" >}}
 
 What about the effect of rain? If the soil goes from 50% of field capacity up to 80% of field capacity, expected mineralization using these model equations **goes up by 73%**. Plus there is the expected increased growth from having more water available to the grass. And there is also flush of mineralization [when dried soils are rewetted](https://dx.doi.org/10.2136/sssaj1993.03615995005700010012x).
 

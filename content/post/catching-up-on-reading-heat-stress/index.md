@@ -1,17 +1,22 @@
 ---
-bigmedia:
-- seminar_201809.jpg: ゴルフ場セミナー2018年9月
-- seminar_page3.jpg: ゴルフ場セミナー2018年9月
 date: "2018-09-23T00:00:00Z"
-share-media: https://c2.staticflickr.com/2/1886/30989803058_e451a04597_b_d.jpg
 tags:
 - bentgrass
 - temperature
-- japan
+- Japan
 title: Catching up on my reading, heat stress edition
+authors: [admin]
+image:
+  preview_only: true
 ---
 
-I've been writing a monthly column for *[Golf Course Seminar](http://www.blog.asianturfgrass.com/2016/06/99-article-titles.html)* (ゴルフ場セミナー) since May of 2008. The articles are usually 2 pages. I wrote a couple 4 page articles when [マイカの時間 The BOOK](https://www.amazon.co.jp/dp/4772841725/ref=cm_sw_r_cp_ep_dp_U-eyAbHH25ZNN) was published last year. But the first time I've written a 3 page article was for the September 2018 issue. 
+I've been writing a monthly column for *[Golf Course Seminar](http://www.blog.asianturfgrass.com/2016/06/99-article-titles.html)* (ゴルフ場セミナー) since May of 2008. The articles are usually 2 pages. 
+
+{{< figure src="seminar_201809.jpg" >}}
+
+I wrote a couple 4 page articles when [マイカの時間 The BOOK](https://www.amazon.co.jp/dp/4772841725/ref=cm_sw_r_cp_ep_dp_U-eyAbHH25ZNN) was published last year. But the first time I've written a 3 page article was for the September 2018 issue. 
+
+{{< figure src="seminar_page3.jpg" >}}
 
 The topic was a 12 point checklist for creeping bentgrass heat stress. Most golf courses in Japan have creeping bentgrass greens, and the summer of 2018 had record-setting high temperatures. I wrote about these things:
 
@@ -32,7 +37,7 @@ What level of heat stress was I writing about? I usually look at something like 
 
 I looked up some data for this summer from three locations: Kumagaya in Saitama prefecture, near Tokyo, where the new record high temperature for Japan of 41.1 °C (106 °F) was set on July 23; Avondale, Pennsylvania; and Blackville, South Carolina. 
 
-![average air temperature in summer of 2018 at Kumagaya, Avondale, and Blackville](heat_stress2018.png)
+{{< figure src="heat_stress2018.png" >}}
 
 That's the type of heat stress I was writing about.
 

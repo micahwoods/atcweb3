@@ -1,13 +1,16 @@
 ---
 date: "2018-09-16T00:00:00Z"
-share-media: https://www.asianturfgrass.comcomposite_ritual.jpg
 subtitle: When a measure serves as a surrogate for the desired outcome, then achieving
   that measure or endpoint isn't the real goal
 tags:
 - data analysis
 - playability
 - science
+- greenkeeping
 title: Rituals, surrogate markers, and turf performance outcomes
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 A couple months ago I was struck by [this post---"Problems with surrogate markers"---](https://andrewgelman.com/2018/06/30/problems-surrogate-markers/)on Andrew Gelman's blog. "Wow", I thought, "this seems related to turfgrass management in a lot of ways."
@@ -23,6 +26,8 @@ In the Gelman blog, the problem is described in a quote from [this article](http
 > At first glance, this sounds like great news. But there’s a problem: We have no idea if this means the drug **also** cuts the risk of bone fractures, which is the outcome that we really care about.
 
 The objective of turfgrass maintenance is to produce the desired surface for a particular site. The outcome that we really care about is producing those surfaces. For things to measure, then, it makes sense to either measure those surface conditions, or to measure surrogate markers that are closely and consistently correlated with the surface conditions.
+
+{{< figure src="composite_ritual.jpg" >}}
 
 Here are some examples of surrogate markers that are used pretty often in turfgrass management but that are not consistently correlated with the outcome that we really care about:
 

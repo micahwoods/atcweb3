@@ -1,9 +1,11 @@
 ---
 date: "2018-12-15"
+lastmod: 2021-04-18
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
+  preview_only: true
 links: 
 - icon: twitter
   icon_pack: fab
@@ -19,7 +21,7 @@ url_video: ""
 tags:
   - Books
   - ClipVol
-  - TurfReads
+  - Turf reads
 weight: 70
 ---
 
@@ -39,7 +41,7 @@ What's the *Short Grammar* about? Micah describes it like this:
 
 ### *マイカの時間 The BOOK*
 
-[![Micah no jikan THE BOOK cover image](https://www.asianturfgrass.com/img/cover.jpg)](https://www.amazon.co.jp/%E8%8A%9D%E8%8D%89%E7%A7%91%E5%AD%A6%E3%81%A8%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0-%E3%83%9E%E3%82%A4%E3%82%AB%E3%81%AE%E6%99%82%E9%96%93-BOOK-%E3%83%9E%E3%82%A4%E3%82%AB-%E3%82%A6%E3%83%83%E3%82%BA/dp/4772841725/ref=sr_1_1?ie=UTF8&qid=1499055117&sr=8-1&keywords=%E3%83%9E%E3%82%A4%E3%82%AB%E3%81%AE%E6%99%82%E9%96%93+The+BOOK)
+[{{< figure src="cover.jpg">}}](https://www.amazon.co.jp/%E8%8A%9D%E8%8D%89%E7%A7%91%E5%AD%A6%E3%81%A8%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0-%E3%83%9E%E3%82%A4%E3%82%AB%E3%81%AE%E6%99%82%E9%96%93-BOOK-%E3%83%9E%E3%82%A4%E3%82%AB-%E3%82%A6%E3%83%83%E3%82%BA/dp/4772841725/ref=sr_1_1?ie=UTF8&qid=1499055117&sr=8-1&keywords=%E3%83%9E%E3%82%A4%E3%82%AB%E3%81%AE%E6%99%82%E9%96%93+The+BOOK)
 
 And [マイカの時間 The BOOK](https://www.amazon.co.jp/%E8%8A%9D%E8%8D%89%E7%A7%91%E5%AD%A6%E3%81%A8%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%94%E3%83%B3%E3%82%B0-%E3%83%9E%E3%82%A4%E3%82%AB%E3%81%AE%E6%99%82%E9%96%93-BOOK-%E3%83%9E%E3%82%A4%E3%82%AB-%E3%82%A6%E3%83%83%E3%82%BA/dp/4772841725/ref=sr_1_1?ie=UTF8&qid=1499055117&sr=8-1&keywords=%E3%83%9E%E3%82%A4%E3%82%AB%E3%81%AE%E6%99%82%E9%96%93+The+BOOK), what is it about? From the preface, Micah wrote:
 
@@ -47,7 +49,7 @@ And [マイカの時間 The BOOK](https://www.amazon.co.jp/%E8%8A%9D%E8%8D%89%E7
 
 ### *One Bucket at a Time*
 
-[![one bucket at a time cover image](https://www.asianturfgrass.com/img/buckets_cover.jpg)](https://www.asianturfgrass.com/buckets/)
+[{{< figure src="buckets_cover.jpg" >}}](https://micahwoods.github.io/buckets/)
 
 From the preface:
 

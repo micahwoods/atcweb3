@@ -4,11 +4,11 @@
 title: "Flights and favorite turf photos of 2020"
 subtitle: ""
 summary: ""
-authors: []
+authors: [admin]
 tags: 
 - Thailand
 - Japan
-- Zoysia
+- zoysia
 - carpetgrass
 - bermudagrass
 - manilagrass
