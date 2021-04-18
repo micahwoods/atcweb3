@@ -1,15 +1,17 @@
 ---
 date: "2017-12-30T00:00:00Z"
-share-media: https://farm3.staticflickr.com/2594/3753912403_480a10acbd_o_d.jpg
 tags:
 - web/tech
 - turf info
 title: The top 10 posts of 2017
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 These posts from 2017 had the most pageviews this year. Here they are, counting down from ten to one.
 
-[10] June, [How much N is in rain and snow?](http://www.blog.asianturfgrass.com/2017/06/how-much-n-is-in-rain-and-snow.html) One hears all kinds of numbers. I was surprised to learn these data are regularly measured. There is no need to guess.
+[10] June, [How much N is in rain and snow?](https://www.asianturfgrass.com/post/how-much-n-is-in-rain-and-snow/) One hears all kinds of numbers. I was surprised to learn these data are regularly measured. There is no need to guess.
 
 [9] August, [How to spend less than $5,000 on tournament green fertilizer](http://www.asianturfgrass.com/2017-08-23-how-to-spend-5000-tournament-green-fertilizer/). This was $982 for a granular application, $131 for more N, $176 for K, and $2,600 for kelp and micronutrients. 
 

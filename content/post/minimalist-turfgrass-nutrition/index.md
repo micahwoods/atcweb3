@@ -1,11 +1,14 @@
 ---
 date: "2017-11-27T00:00:00Z"
-share-media: https://www.asianturfgrass.comsaitama_topdress.jpg
 tags:
 - seminar
 - fertilizer
-- mlsn
+- MLSN
+- Canada
 title: Minimalist turfgrass nutrition
+authors: [admin]
+image:
+  preview_only: true
 ---
 
 That's the title of my seminar today at the Alberta Property Manager's Conference. *Minimalist* is not a word I would often use, but when I looked at the conference program, that was the title I saw. Rather than requesting a change, I decided to talk about it, and explain why *minimalist* isn't the way I would describe this. [These are the slides](https://speakerdeck.com/micahwoods/minimalist-turfgrass-nutrition) -- also embedded below -- and this is what I'm going to discuss.

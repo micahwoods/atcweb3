@@ -7,7 +7,7 @@ tags:
 - Growth potential
 - Sand
 title: Sand topdressing and growth potential
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: yes
 ---

@@ -8,7 +8,7 @@ tags:
 - Light
 - Nitrogen
 title: GP is a number. It's explained here in photos and words.
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: no
   caption: "Dormant korai (*Zoysia matrella*) in Tokyo during winter."
@@ -30,7 +30,7 @@ The GP is essentially isolating the temperature effect from the environmental pr
 
 When the GP is low, then temperature is limiting the potential of the grass to grow, even if there are optimum light, water, and nutrients. For example, this turf in Iceland wasn't growing at all because the temperatures in May were close to freezing, even though there was plenty of water, nutrients, and light.
 
-![iceland](https://c1.staticflickr.com/5/4391/36100633674_430ae06d34_b_d.jpg)
+{{< figure src="iceland_dormant_spring.jpg" >}}
 
 The GP deliberately looks only at temperature. And for turfgrass, it can be useful to do that. Managed turfgrass is generally supplied with water and nutrients to maintain growth, and at least in temperate climates, the light changes through the year in a similar way with temperature. Looking only at temperature makes it easy to define what one is considering -- the effect of temperature only, in isolation from water, nutrients, and light.
 
@@ -38,19 +38,19 @@ What about relative humidity? To the extent that the relative humidity has some 
 
 The plant water status of course does have a big effect on whether grass will grow or not. This unirrigated rough at the end of summer in Corvallis isn't growing at all. The GP is high, light is ample, nutrients are fine, but the grass isn't growing because it doesn't have water.
 
-![micah trysting tree hole 9](https://c1.staticflickr.com/5/4345/36934702645_077302bed9_b_d.jpg)
+{{< figure src="trysting_tree.jpg" >}}
 
 I tend to think of plant water status more in terms of how much plant available water is in the rootzone, or whether the grass is wilting or not, or whether the grass is dormant or not. I'm not aware that relative humidity would have a big influence on the growth, but I can imagine that it may have some influence. However, because the GP is specifically isolating the temperature effect, relative humidity is not considered.
 
 Nutrients, and specifically the leaf nitrogen (N) content, also influence how much the grass will grow. These adjacent plots at the Park Grass experiment in England have the same GP, and the same light, and the same precipitation, but the actual growth (and the species that grow) are determined by the nutrients applied.
 
-![park grass](https://c1.staticflickr.com/5/4401/36934699905_ee7f73082a_b_d.jpg)
+{{< figure src="park_grass_14-2.jpg" >}}
 
 The nutrients and the water aren't included in GP, because those are things that a turfgrass manager can, at least in the ideal situation, control. The temperature can't be controlled, and that is what the GP predicts -- the broad scale effect of temperature on the potential to grow.
 
 Light isn't included in GP either, although the amount of light reaching the turf will influence how it grows.
 
-![tifeagle in cavite](https://c1.staticflickr.com/5/4432/36934700285_d7e0e41f57_b_d.jpg)
+{{< figure src="orchard_palmer_shade.jpg" >}}
 
 I've found the GP quite useful as a way of thinking about turfgrass growth and timing of maintenance work. After studying it and using GP for a number of years, I'm comfortable looking at only temperature. Actual growth is one thing, and will be influenced by the factors that are included in the EPI. The temperature-based GP is just that, and I like the simplicity of it.
 
