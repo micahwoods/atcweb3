@@ -3,7 +3,7 @@ date: "2017-08-07T00:00:00Z"
 tags:
 - Roundup
 title: 'Monthly Turfgrass Roundup: July 2017'
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: yes
 ---
@@ -14,8 +14,7 @@ TurfNet's *Living Legends* series with [this article](http://www.turfnet.com/blo
 
 Herbicide vs. nothing vs. N fertilizer, [shared by Aaron Hathaway](https://twitter.com/Turficidal/status/885163342150721536):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Left: herbicide app; Middle: no inputs; Right: 3 lbs N/M/year and nothing else. <a href="https://t.co/lE7cRJUyDy">pic.twitter.com/lE7cRJUyDy</a></p>&mdash; Aaron Hathaway (@Turficidal) <a href="https://twitter.com/Turficidal/status/885163342150721536">July 12, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "885163342150721536" >}}
 
 For routine clipping measurement, [clipping volume or clipping weight?](http://www.asianturfgrass.com/2017-07-04-volume-or-weight/)
 
@@ -23,8 +22,7 @@ This is an [exceptional economic case study](http://www.asianturfgrass.com/2017-
 
 Allan Dewald found a couple cool tricks to get [better surfaces with less effort](https://twitter.com/allan_dewald/status/890323223186857984):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I find the less I do surfaces keep getting better with less effort.using <a href="https://twitter.com/hashtag/Mlsn?src=hash">#Mlsn</a> with <a href="https://twitter.com/hashtag/gp?src=hash">#gp</a> + measuring clipping yield has been a game changer. <a href="https://t.co/XXTDtfGZcp">pic.twitter.com/XXTDtfGZcp</a></p>&mdash; Allan Dewald (@allan_dewald) <a href="https://twitter.com/allan_dewald/status/890323223186857984">July 26, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "890323223186857984" >}}
 
 I came across this article, about the [world running out of sand](http://www.newyorker.com/magazine/2017/05/29/the-world-is-running-out-of-sand).
 
@@ -36,8 +34,7 @@ Brad Revill asked, "is it possible to [reduce fertiliser expenses by 69%?](https
 
 Jonathan Wood shared more [spectacular photos](https://twitter.com/jonwood1978/status/891307869018181632) of the Castle Course:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/CastleCourse?src=hash">#CastleCourse</a> starting to look <a href="https://twitter.com/hashtag/polished?src=hash">#polished</a> for the <a href="https://twitter.com/RICOHWomensBrit">@RICOHWomensBrit</a> <a href="https://twitter.com/hashtag/Qualifier?src=hash">#Qualifier</a> on Monday <a href="https://twitter.com/hashtag/teamwork?src=hash">#teamwork</a> <a href="https://twitter.com/TheToroCompany">@TheToroCompany</a> <a href="https://twitter.com/BIGGALtd">@BIGGALtd</a> <a href="https://twitter.com/TheHomeofGolf">@TheHomeofGolf</a> <a href="https://t.co/AaklKevIgA">pic.twitter.com/AaklKevIgA</a></p>&mdash; Jonathan Wood (@jonwood1978) <a href="https://twitter.com/jonwood1978/status/891307869018181632">July 29, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "891307869018181632" >}}
 
 Chris Tritabaugh wrote [about **Poa!**](https://www.hazeltinenational.com/turf-blog/poa) on the Hazeltine Turf Blog. In summary, "the careful exploitation of these differences between bentgrass and *Poa* are what leads to limited *Poa* in a bentgrass surface."
 
@@ -53,8 +50,7 @@ And [here's what the differences are, for green speed of different species](http
 
 Eric Reasor asked about [visual identification](https://twitter.com/TurfBlade/status/891639881503518722) of ultradwarf bermudagrasses:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Can you identify the &quot;big 3&quot; ultradwarf bermudagrasses based on morphology of a single stolon? <a href="https://t.co/qG2wmGTTJG">pic.twitter.com/qG2wmGTTJG</a></p>&mdash; Eric Reasor, Ph.D. (@TurfBlade) <a href="https://twitter.com/TurfBlade/status/891639881503518722">July 30, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "891639881503518722" >}}
 
 I spoke about turfgrass at a tourism convention. [Here are 5 ways to get the best playing conditions with the fewest inputs](http://www.asianturfgrass.com/2017-07-21-thailand-golf-paradise-seminar/).
 
@@ -64,8 +60,7 @@ I spoke about turfgrass at a tourism convention. [Here are 5 ways to get the bes
 
 Fun new golf in Iceland. Formerly a gravel mine, [now this](https://twitter.com/KeilirGolf/status/886168517262938112):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="is" dir="ltr">Fyrsta mótið á nýju holunum í dag. Eftir alla vinnuna síðustu þrjú sumrin er ólýsanlega gaman að hleypa fólki inn á dansgólfin. Njótið! <a href="https://t.co/DzuXLbPB49">pic.twitter.com/DzuXLbPB49</a></p>&mdash; Keilir Vallarstarfsm (@KeilirGolf) <a href="https://twitter.com/KeilirGolf/status/886168517262938112">July 15, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "886168517262938112" >}}
 
 After reducing expenses by $150,000, what happened? [Checking in 8 months later](http://www.asianturfgrass.com/2017-07-27-remember-this-checking-in-after-implementing-gp-mlsn/), and you might be shocked at the results.
 

@@ -3,10 +3,9 @@ date: "2020-12-24T00:00:00Z"
 tags:
 - sand
 - topdressing
-- turfhacks
+- turf hacks
 title: 'Sand topdressing by exact depth: how to work it out'
-author: 
-- Micah Woods
+authors: [admin]
 image:
   preview_only: yes
 math: true

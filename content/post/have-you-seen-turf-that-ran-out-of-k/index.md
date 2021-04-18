@@ -1,12 +1,12 @@
 ---
 date: "2017-08-06T00:00:00Z"
 tags:
-- Fertilizer
+- fertilizer
 - MLSN
-- Soil test
-- Potassium
+- foil test
+- potassium
 title: Have you seen turf that ran out of potassium?
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: no
   caption: "Penn A1 creeping bentgrass grown from seed in soils with decreasing amounts of K."
@@ -18,8 +18,7 @@ The MLSN guidelines are an excellent way to do this, because they make a fertili
 
 I'll explain how this works to answer an [interesting question](https://twitter.com/planterraturf/status/893137371595669504) that I received a few days ago. This is in reference to K.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Shouldn&#39;t it have moved more? How do I effectively get that number up without over applying?</p>&mdash; Planterra Ridge Turf (@planterraturf) <a href="https://twitter.com/planterraturf/status/893137371595669504">August 3, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "893137371595669504" >}}
 
 The usual conversion from pounds per acre to parts per million (ppm) is to divide by 2, so I'll guess that the soil test was about 24 ppm (below the MLSN guideline of 37 ppm) and after application of 175 lbs K (I'll assume this is elemental K rather than K<sub>2</sub>O for the purposes of the calculation) the soil is now at 26 ppm. Addition of 175 lbs K/acre is about 20 g K m<sup>-2</sup>.
 

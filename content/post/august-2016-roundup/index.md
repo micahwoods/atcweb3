@@ -4,7 +4,7 @@ subtitle: This is a roundup of turfgrass articles and links from the past month
 tags:
 - Roundup
 title: 'Monthly Turfgrass Roundup: August 2016'
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: no
   caption: "Varying establishment rates of different warm-season grass species in Thailand."

@@ -2,10 +2,10 @@
 date: "2017-08-07T00:00:00Z"
 subtitle: A superintendent wrote to ask if there is value in tissue testing
 tags:
-- Tissue test
-- Fertilizer
+- tissue test
+- fertilizer
 title: 'Tissue testing: aiming at the wrong target'
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: no
   caption: "Collecting clippings for nutrient analysis, Chiba, Japan"

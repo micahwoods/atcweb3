@@ -7,7 +7,7 @@ tags:
 - Irrigation
 - Greenkeeping
 title: A greenkeeping discussion
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: yes
 ---

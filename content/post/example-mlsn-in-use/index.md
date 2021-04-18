@@ -7,23 +7,22 @@ tags:
 - Soil
 - Fertilizer
 title: 'MLSN in use: soil tests, fertilizer, and the results'
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: yes
 ---
 
 When Andrew McDaniel wrote about [#MLSN greens](https://twitter.com/drumcturf/status/897392993186873344), I thought it may be interesting to show a few details of what this is about:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">These <a href="https://twitter.com/hashtag/MLSN?src=hash">#MLSN</a> greens are about to take 34 mows/21 rolls in 2 weeks. With 20,000 rounds remaining of our annual 45,000. <a href="https://twitter.com/hashtag/zoysia?src=hash">#zoysia</a> <a href="https://twitter.com/hashtag/KBC%E3%82%AA%E3%83%BC%E3%82%AC%E3%82%B9%E3%82%BF?src=hash">#KBCオーガスタ</a> <a href="https://t.co/dhES6xd4nB">pic.twitter.com/dhES6xd4nB</a></p>&mdash; Andrew McDaniel (@drumcturf) <a href="https://twitter.com/drumcturf/status/897392993186873344">August 15, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "897392993186873344" >}}
 
-Keya GC hosts a golf tournament each year at the end of August. Andrew wants to make sure the turf is supplied with enough nutrients throughout the year, and he uses the [MLSN nutrient guidelines](https://www.paceturf.org/journal/minimum_level_for_sustainable_nutrition) to accomplish this.
+Keya GC hosts a golf tournament each year at the end of August. Andrew wants to make sure the turf is supplied with enough nutrients throughout the year, and he uses the [MLSN nutrient guidelines]({{< relref "/mlsn" >}}) to accomplish this.
 
-![irrigation on hole 15 keya gc](https://c1.staticflickr.com/5/4438/36605267392_88096ab46c_b_d.jpg)
+{{< figure src="keya_irrigate_15.jpg" >}}
 
 Soil samples from Keya GC have been sent to Brookside Laboratories for the past five years. The soils are tested for nutrients, and ATC then prepares a report and recommendations. This chart extracted from ATC's most recent soil test report for Keya GC, showing potassium (K) from putting green (G) samples, illustrates how the MLSN guidelines work.
 
-![ATC soil test report legend and K chart](k_soil_chart_vert.png)
+{{< figure src="k_soil_chart_vert.png" >}}
 
 In 2013, the soil K was 67 ppm, and I recommended applying an N:K ratio of 2:1 for the next year. That's a little bit less K than the korai will use. As expected, the soil K dropped, but was still at 50 ppm in 2014, well above the MLSN minimum of 37. I again recommended a 2:1 ratio for the next year.
 
@@ -33,6 +32,7 @@ It isn't much K; only 7.2 g K m<sup>-2</sup> were supplied in 2016, but that was
 
 That's a site specific amount that is enough to keep the soil above the MLSN guideline and produce high quality turf.
 
-![3 balls on 17 green at Keya GC](https://c1.staticflickr.com/5/4417/35967022173_77885b3d0b_b_d.jpg)
+
+{{< figure src="3balls_11.jpg" >}}
 
 

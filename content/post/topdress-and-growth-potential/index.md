@@ -7,7 +7,7 @@ tags:
 - Growth potential
 - Sand
 title: Sand topdressing to match grass growth
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: no
   caption: "Tifeagle at Banyan Golf Club in Hua Hin, Thailand"

@@ -1,12 +1,11 @@
 ---
 date: "2017-08-16T00:00:00Z"
-share-media: http://www.asianturfgrass.comminchinhampton_cow.jpg
 tags:
-- Seminar
+- seminar
 - BIGGA
 - England
 title: I just bought a plane ticket to Manchester
-author: Micah
+authors: [admin]
 image:
   preview_only: no
   caption: "Minchinhampton Old Course"

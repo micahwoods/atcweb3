@@ -3,10 +3,10 @@ date: "2017-07-27T00:00:00Z"
 subtitle: How things are going in the second year of using MLSN and GP
 tags:
 - MLSN
-- Paspalum
-- GP
+- paspalum
+- growth potential
 title: "Remember this? Saving $150,000 in a year? I checked the results 8 months later"
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: yes
 ---

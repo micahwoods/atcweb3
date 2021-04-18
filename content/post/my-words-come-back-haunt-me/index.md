@@ -2,10 +2,10 @@
 date: "2017-08-08T00:00:00Z"
 subtitle: I wasn't completely wrong, but I would never express it this way today
 tags:
-- Tissue test
-- Fertilizer
+- tissue test
+- fertilizer
 title: 'Tissue testing: sometimes my own words come back to haunt me'
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: no
   caption: "L-93 creeping bentgrass, New York"

@@ -1,12 +1,10 @@
 ---
 date: "2017-07-03T00:00:00Z"
-image: roots_echo.jpg
-share-media: http://www.asianturfgrass.comroots_echo.jpg
 subtitle: Here's a roundup of articles and links from the past month
 tags:
 - Roundup
 title: 'Monthly Turfgrass Roundup: June 2017'
-author: Micah Woods
+authors: [admin]
 image:
   caption: ''
   focal_point: ''
@@ -23,8 +21,7 @@ Zoysia growing into bermuda at [6.8 cm per month](http://www.blog.asianturfgrass
 
 Matee Suntisawasdi with photos of [zoysia greens in Thailand](https://twitter.com/mateepto/status/877403839028051968):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Zoysia grass on putting greens at Bang Pra GC. Chonburi Thailand. Mowing height 3.0 mm. speed 9 ft. 6 inch. <a href="https://t.co/dGPQV709xx">pic.twitter.com/dGPQV709xx</a></p>&mdash; SUNTISAWASDI (@mateepto) <a href="https://twitter.com/mateepto/status/877403839028051968">June 21, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "877403839028051968" >}}
 
 Predictions about turfgrass and climate change in [a new paper by Jerry Hatfield](https://dl.sciencesocieties.org/publications/aj/articles/0/0/agronj2016.10.0626).
 
@@ -32,8 +29,7 @@ How much nitrogen [is in rain and snow?](http://www.blog.asianturfgrass.com/2017
 
 The Asian Tour was in Samui for the [Queen's Cup](https://twitter.com/SlindSports/status/874474429396295680):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">No complaints about the workplace this week <a href="https://twitter.com/hashtag/Koh?src=hash">#Koh</a> Samui <a href="https://twitter.com/hashtag/QueensCup?src=hash">#QueensCup</a> <a href="https://twitter.com/asiantourgolf">@asiantourgolf</a> <a href="https://t.co/sYeRt8fS4S">pic.twitter.com/sYeRt8fS4S</a></p>&mdash; Fraser Slind (@SlindSports) <a href="https://twitter.com/SlindSports/status/874474429396295680">June 13, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "874474429396295680" >}}
 
 A correspondent asked, about fertilizing based on soil salinity, "is there a particular reason [you think it's a poor way to fertilize?"](http://www.blog.asianturfgrass.com/2017/06/is-there-a-particular-reason-why-you-think-its-a-poor-way-to-fertilise.html)
 
@@ -43,8 +39,7 @@ About soil salinity, fertilizer, and [not jumping on bandwagons](http://www.blog
 
 Reinders with a summary and lots of photos in a [U.S. Open volunteer recap](https://twitter.com/Reindersinc/status/880842140649222144):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In the end, <a href="https://twitter.com/ErinHillsGolf">@ErinHillsGolf</a> was home to an unforgettable experience.<br><br>Volunteer Recap: <a href="https://t.co/8jMptQhPub">https://t.co/8jMptQhPub</a> <a href="https://t.co/4jZq9ZSIqR">pic.twitter.com/4jZq9ZSIqR</a></p>&mdash; Reinders, Inc. (@Reindersinc) <a href="https://twitter.com/Reindersinc/status/880842140649222144">June 30, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "880842140649222144" >}}
 
 Jason Haines says measurement of clipping volume is ["already proving to be more valuable that I originally expected"](http://www.blog.asianturfgrass.com/2017/06/already-proving-to-be-more-valuable-than-i-originally-expected.html).
 

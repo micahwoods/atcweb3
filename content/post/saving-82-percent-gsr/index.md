@@ -2,11 +2,11 @@
 date: "2017-07-05T00:00:00Z"
 subtitle: The article about turfgrass fertilization includes an incredible case study
 tags:
-- Fertilizer
+- fertilizer
 - MLSN
-- Soil
+- soil
 title: An economic case study
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: yes
 ---

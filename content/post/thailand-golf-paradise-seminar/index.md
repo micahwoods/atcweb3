@@ -2,12 +2,12 @@
 date: "2017-07-21T00:00:00Z"
 subtitle: My presentation is about playing conditions on Thailand's golf courses
 tags:
-- Seminar
+- seminar
 - Thailand
-- Sustainability
-- Golf
+- sustainability
+- golf
 title: Turfgrass at a Tourism Convention
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: yes
 ---

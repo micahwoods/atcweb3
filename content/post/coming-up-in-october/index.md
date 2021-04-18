@@ -5,7 +5,7 @@ subtitle: I'll be speaking about Turf Around the World, and Leaves of Grass, in 
 tags:
 - Seminar
 title: Coming up in October
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: yes
 ---
@@ -18,11 +18,7 @@ Here's a preview of what I'll be talking about. And it isn't MLSN!
 
 Some of this will be fun stuff, like *I bet you haven't seen this before!* But it will be tied together with a cohesive message about the variety of turfgrass surfaces around the world, how they are managed, and the fundamentals of turfgrass growth and management that are applicable everywhere.
 
-![gang mower with sled at Fort William GC in Kolkata](https://c1.staticflickr.com/7/6050/6339231042_6d2af7e6aa_b_d.jpg)
-
 As I've studied turfgrass around the world, I've found it useful to make comparisions between locations so that a topdressing rate, mowing frequency, or fertilizer application rate from good-performing turf at one location can be tried as a starting point at another location on the other side of the world. This approach, and the adjustments that one makes, are the foundation for the [*Grammar of Greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping).
-
-![18th green at Grindavik](https://c2.staticflickr.com/8/7371/9998083404_77c710cb99_b_d.jpg)
 
 ### Leaves of Grass
 
@@ -36,9 +32,8 @@ This talk is all about the quantity of grass clippings mown from golf course put
 
 This now starts to be more common in [other places too](https://twitter.com/altshot2/status/883359012191744000).
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Nice day for harvest. <a href="https://twitter.com/hashtag/MLSN?src=hash">#MLSN</a> <a href="https://t.co/aKtgox5Unv">pic.twitter.com/aKtgox5Unv</a></p>&mdash; Eric Johnson (@altshot2) <a href="https://twitter.com/altshot2/status/883359012191744000">July 7, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet "883359012191744000" >}}
 
 I'll explain in this presentation how the clippings are collected, what the point of the extra work is, and how the data collected can be put to use. And I'll share some summary data about what is typical in terms of clipping volume and clipping volume variation.
 
-![clipping volume from 9 sites](clipping_volume.svg)
+{{< figure src="clipping_volume.svg" >}}

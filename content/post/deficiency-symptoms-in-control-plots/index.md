@@ -2,13 +2,13 @@
 date: "2017-07-31T00:00:00Z"
 subtitle: Paul Johnson reminded me of another experiment about P deficiency, soil test P, and fertilizer
 tags:
-- Fertilizer
-- Soil test
-- Bentgrass
-- Phosphorus
+- fertilizer
+- soil test
+- bentgrass
+- phosphorus
 - MLSN
 title: Phosphorus deficiency symptoms in the control plots
-author: Micah Woods
+authors: [admin]
 image:
   preview_only: yes
 ---
@@ -31,7 +31,7 @@ From the results section of the article:
 
 This is Figure 3 from the article showing the relationship between the soil test P (Olsen method) and the turf quality.
 
-![figure 3 from Johnson et al. 2003](johnson_et_al_fig3.png)
+{{< figure src="johnson_et_al_fig3.png" >}}
 
 How is this related to MLSN? It is another example of the MLSN guidelines, and the associated fertilizer recommendations, being generous. This is something I explained in a full seminar (slides, handouts, and videos in both English and Spanish at the link) for [Campus del Césped](http://www.campusdelcesped.com/) that I called [How to prevent nutrient deficiences AND use less fertilizer](http://www.blog.asianturfgrass.com/2017/01/preventing-nutrient-deficiencies.html). 
 

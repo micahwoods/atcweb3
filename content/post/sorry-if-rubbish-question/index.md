@@ -2,9 +2,9 @@
 date: "2017-06-28T00:00:00Z"
 tags:
 - MLSN
-- Fertilizer
+- fertilizer
 title: 'Sorry if this is a rubbish question'
-author: Micah Woods
+authors: [admin]
 image:
   caption: ''
   focal_point: ''

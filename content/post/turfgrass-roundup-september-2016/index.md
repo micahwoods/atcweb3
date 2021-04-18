@@ -4,7 +4,7 @@ subtitle: Here's a roundup of articles and links from the past month
 tags:
 - Roundup
 title: 'Monthly Turfgrass Roundup: September 2016'
-author: Micah Woods
+authors: [admin]
 image:
  preview_only: no
  caption: "Roots of manilagrass after application of fast-release fertilizer."
