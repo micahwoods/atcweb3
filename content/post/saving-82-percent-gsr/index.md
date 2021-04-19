@@ -5,6 +5,7 @@ tags:
 - fertilizer
 - MLSN
 - soil
+- cost
 title: An economic case study
 authors: [admin]
 image:
