@@ -32,7 +32,7 @@ For more about this, you might like to:
 
 * Watch Frank Rossi's [ASTMA webinar](https://youtu.be/iMtn6_Uxm3o?t=3835) in which he delivered this quote: "I don't know anyone on sand-based greens that routinely pulls hollow tine cores---on a regular basis---and has a good reason for doing it." You can watch the entire video for context.
 
-* Watch Roch Gaussoin's recent AGIF webinar on [Organic Matter Management on the Putting Surface](https://youtu.be/Nzgl6-vQOtw)for a comprehensive overview of this topic.
+* Watch Roch Gaussoin's recent AGIF webinar on [Organic Matter Management on the Putting Surface](https://youtu.be/Nzgl6-vQOtw) for a comprehensive overview of this topic.
 
 
 

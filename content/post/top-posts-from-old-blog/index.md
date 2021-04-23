@@ -32,7 +32,7 @@ Here they are, counting down from 10 to 1. As you'll see, some topics seem peren
 
 [3] [Summertime syringing to cool bentgrass greens: I wouldn't do it today](https://www.blog.asianturfgrass.com/2013/06/summertime-syringing-to-cool-bentgrass-greens-i-wouldnt-do-it-today.html)
 
-[2] [How much phosphorus does grass require?](https://www.blog.asianturfgrass.com/2009/07/core-aeration-of-putting-greens-how-much-is-enough.html)
+[2] [How much phosphorus does grass require?](https://www.blog.asianturfgrass.com/2009/07/how-much-phosphorus-does-grass-require.html)
 
 [1] [Core aeration of putting greens ... how much is enough?](https://www.blog.asianturfgrass.com/2009/07/core-aeration-of-putting-greens-how-much-is-enough.html)
 
