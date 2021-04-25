@@ -21,13 +21,15 @@ This article explains that "there are many agronomic programs that influence the
 
 Moeller and Lowe conclude that "traditional programs," and by that they mean programs that include core aeration, still provide the most consistent results for managing organic matter and improving putting green conditions.
 
-This is a really good article for referencing what is standard in 2016, but I';m not in full agreement with their conclusion. I used to think that coring was essential, but over the past few years I've changed my thinking. More about that at the end.
+This is a really good article for referencing what is standard in 2016, but I'm not in full agreement with their conclusion. I used to think that coring was essential, but over the past few years I've changed my thinking. More about that at the end.
 
 The second item is the [recent TurfNet Radio podcast](http://www.turfnet.com/blog/4/entry-1328-frankly-speaking-chris-tritabaugh-on-managing-for-the-ryder-cup/) with Frank Rossi and Chris Tritabaugh about managing for the Ryder Cup. If you listen to this, you will find that they discuss organic matter on putting greens (and a lot of other interesting things), but if you haven't heard, there has been [no core aeration on the greens at Hazeltine since 2013](https://twitter.com/ct_turf/status/782189319616364544).
 
 {{< tweet "782189319616364544" >}}
 
 The article says coring provides the most consistent results, and the podcast explains how greens are managed to a high standard without coring. It's good to be informed about this topic, so that you can be sure to make the right choices for any turf that you manage.
+
+## And now some commentary
 
 I used to recommend the removal of 20% of the putting green surface area by coring each year and the annual addition of at least 12 mm of sand topdressing. I don't make that recommendation anymore.
 
