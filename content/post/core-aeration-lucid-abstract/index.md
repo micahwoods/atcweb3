@@ -22,7 +22,7 @@ image:
 
 Please forgive me for mentioning hollow-tine cultivation (or core aeration, or coring) again, and how it might be overdone. There's an article I want to share with you, about what happened after coring of sand-based putting greens. These greens were 10 years old, on a golf course in Surrey, British Columbia, and they had traffic of about 1,100 golf rounds each week from April to October.
 
-In the experiment described in the article, the coring treatment was spring and fall, at 5% surface area removed each time, and holes were filled with sand. That's 10% of the surface area removed and replaced with sand each year. These treatments were applied for two consecutive years. Over those two years, they measured soil characteristics in the two different treatments, which were:
+In the experiment described in the article, the coring treatment was spring and fall, at 5% surface area removed each time, and holes were filled with sand. That's 10% of the surface area removed and replaced with sand each year. These treatments were applied for two consecutive years. Over those two years, soil characteristics were measured in the two different treatments of:
 
 1. "regular management practices, including core aeration"
 
