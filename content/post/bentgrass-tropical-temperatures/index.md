@@ -37,7 +37,7 @@ This is a year of temperatures at Hiroshima in western Japan.
 
 {{< figure src="hiroshima_temperature.svg" >}}
 
-When those temperatures are converted to a cool-season grass (C<sub>3</sub>) growth potential (GP), there are peaks in GP during spring and autumn. In winter the temperatures are too cold for growth, and the hottest days of summer are too hot for growth.
+When those temperatures are converted to a cool-season grass (C<sub>3</sub>) growth potential (GP), there are peaks in GP during spring and autumn. In winter the temperatures are too cold, and the hottest days of summer are too hot.
 
 {{< figure src="hiroshima_gp.svg" >}}
 
