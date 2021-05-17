@@ -21,9 +21,11 @@ image:
 math: true
 ---
 
-The Brede equation (see footnote[^1]) is essential to my work. I often use the stimpmeter to measure the ball roll distance (green speed) of putting greens. But there's a problem. It can take a long time to find an area flat enough to make the measurement. On some greens, there is so much slope that one cannot make an official measurement. By *official* I mean the difference between the distances rolled in two directions must be less than 18 inches (45 cm). 
+The Brede equation (see footnote[^1]) is essential to my work. I often use the stimpmeter to measure the ball roll distance (green speed) of putting greens. But there's a problem. It can take a long time to find an area flat enough to make the measurement. On some greens, there is so much slope that one cannot make an official measurement. By *official* I mean the difference between the distances rolled in two directions must be less than 18 inches (45 cm).[^2]
 
 [^1]: The equation is $S = \frac{2ab}{a + b}$  where $S$ is the ball roll distance, or we could also call this the corrected green speed, and $a$ is the ball roll distance in the uphill direction (the shorter roll) and $b$ is the ball roll distance in the downhill direction (the longer roll). Note the differences from the standard equation for calculating ball roll distance which is the arithmetic mean of the uphill and downhill direction, limited to a maximum difference between the two directions of 18 inches: $S = \frac{a + b}{2}$.
+
+[^2]: Or in the case of using the 2x notch (a "half-roll"), the difference in roll in the 2 different directions must be 9 inches or less.
 
 Enter the [Brede equation](http://gsr.lib.msu.edu/1990s/1990/901110.pdf). I wrote this in a [report about putting green performance characteristics](http://www.files.asianturfgrass.com/20120802_data_report.pdf):
 
@@ -37,9 +39,9 @@ On a flat surface, defined here as one in which the difference between the longe
 
 "Error" in these charts is the difference between the standard equation, which takes the arithmetic mean of the two distances, and the Brede equation, which accounts for the slope. And that is some error! 
 
-The data shown above are from 1,148 stimpmeter measurements, and the maximum distance I've measured between uphill and downhill rolls is 796 cm---more than 26 feet![^2] Do crazy rolls like that and you get a ton of error. The stimpmeter measurement in that particular case would have been overestimated by 8.9 feet.
+The data shown above are from 1,148 stimpmeter measurements, and the maximum distance I've measured between uphill and downhill rolls is 796 cm---more than 26 feet![^3] Do crazy rolls like that and you get a ton of error. The stimpmeter measurement in that particular case would have been overestimated by 8.9 feet.
 
-[^2]: This particular measurement was at Bangpra GC in Thailand, which has rather sloped korai (manilagrass) greens. The roll in the downhill direction was 981 cm and the roll in the uphill direction was 185 cm. With the standard equation this is 19.1 feet, an error of 8.9 feet. Using the Brede equation the measurement was 10.2 feet.
+[^3]: This particular measurement was at Bangpra GC in Thailand, which has rather sloped korai (manilagrass) greens. The roll in the downhill direction was 981 cm and the roll in the uphill direction was 185 cm. With the standard equation this is 19.1 feet, an error of 8.9 feet. Using the Brede equation the measurement was 10.2 feet.
 
 This next chart zooms in to the zone that includes valid measurements. Those are where the difference between uphill and downhill distances is 18 inches or less. 
 
