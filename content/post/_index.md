@@ -11,4 +11,7 @@ view: 2
 header:
   caption: ""
   image: ""
+  
+image: 
+  preview_only: true
 ---
