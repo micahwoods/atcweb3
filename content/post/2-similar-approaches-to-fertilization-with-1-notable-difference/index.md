@@ -41,7 +41,7 @@ First, the similarities. These quotations will sound familiar, but they are not 
 
 > "Adding extra potassium in late summer/autumn to turf which already contains a surplus of this compound therefore has no additional effect on the ability of the grass to survive low temperatures. Addition of extra phosphorus in the spring when the soil temperature is low is also superfluous when a well-balanced fertiliser is supplied in small, frequent doses. As discussed, a moderate lack of nitrogen poses no serious problems for the health of turfgrass and in fact actually increases the quality of the turf."
 
-So what is the difference between demand-driven fertilization of STERF and the [MLSN approach](#mlsn) I use? It is accounting for nutrient supply from the soil.
+So what is the difference between demand-driven fertilization of STERF and the [MLSN approach]({{< relref "/mlsn" >}}) I use? It is accounting for nutrient supply from the soil.
 
 I say, follow the approach exactly as described by Ericsson et al. in their Precision Fertilisation, but if the soil is above the MLSN guideline for a particular element, then that element does not need to be applied as fertilizer, because the soil can supply enough to meet the grass requirements.
 

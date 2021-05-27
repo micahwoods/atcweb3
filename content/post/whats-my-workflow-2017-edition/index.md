@@ -55,17 +55,3 @@ What's different now? I use Tweetdeck on my computer, and Buffer on both my comp
 * * *
 
 That's my workflow at present. And when I am working on my computer, I'm generally using [RStudio](https://www.rstudio.com/). I wrote the [MLSN paper](https://peerj.com/preprints/2144/) in RStudio, make [most of my presentation slides](https://speakerdeck.com/micahwoods) in RStudio, and do all data analyses in RStudio. I wrote this post in [Emacs Markdown Mode](http://jblevins.org/projects/markdown-mode/). I write reports in Emacs LaTeX mode.
-
- [1]:
- [2]:
- [3]: https://www.omnigroup.com/omnifocus
- [4]: 
- [5]: 
- [6]:
- [7]: 
- [8]: 
- [9]: 
- [10]: 
- [11]: 
- [12]: 
- [13]: 
