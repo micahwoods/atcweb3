@@ -10,6 +10,8 @@ tags:
   - soil
   - growth potential
   - roots
+image:
+  preview_only: true
 ---
 
 Bhupendra Singh posted a photo on Instagram with this caption:
