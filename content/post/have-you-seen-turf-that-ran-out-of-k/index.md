@@ -3,7 +3,7 @@ date: "2017-08-06T00:00:00Z"
 tags:
 - fertilizer
 - MLSN
-- foil test
+- soil test
 - potassium
 title: Have you seen turf that ran out of potassium?
 authors: [admin]

@@ -5,7 +5,7 @@ date: 2016-05-01T17:03:46+00:00
 lastmod: 2021-05-27
 tags:
   - bermudagrass
-  - rertilizer
+  - fertilizer
   - India
   - soil
   - growth potential
