@@ -13,7 +13,7 @@ image:
   preview_only: true
 ---
 
-This is no secret among turfgrass scientists---there isn't a lot of good justification to support what we call conventional guidelines for soil nutrients in turfgrass. And by that, I mean the conventional guidelines are broken.&#0160;
+This is no secret among turfgrass scientists---there isn't a lot of good justification to support what we call conventional guidelines for soil nutrients in turfgrass. And by that, I mean the conventional guidelines are broken.
 
 I'll explain it by taking a quick look at [data](https://github.com/micahwoods/2014_gss_report/tree/master/data) from the first year[^1] of the Global Soil Survey. But first, you might like to have a look at these for some background.
 
