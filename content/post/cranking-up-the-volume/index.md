@@ -18,7 +18,7 @@ image:
 
 {{< figure src="featured.jpg" >}}
 
-There is a comprehensive explanation [of clipping volume](https://lsc-pagepro.mydigitalpublication.com/publication/?i=707966&ver=html5&p=50) in *Golf Course Management*. I knew this would be good, because Chris Tritabaugh is an accomplished writer. His years of experience using and thinking about ClipVol show in the article. He explains how he uses it, what he learns from it, and in a creative twist, answers a number of questions from turf managers. 
+There is a comprehensive explanation of clipping volume in *Golf Course Management*. I knew this would be good, because Chris Tritabaugh is an accomplished writer. His years of experience using and thinking about ClipVol show [in the article](https://lsc-pagepro.mydigitalpublication.com/publication/?i=707966&ver=html5&p=50). He explains how he uses it, what he learns from it, and in a creative twist, answers a number of questions from turf managers. 
 
 Collecting data only makes sense if those data can be used as a decision making tool. His answer to a question about what he does with the ClipVol numbers is an example of how many decisions can be influenced by ClipVol.
 
