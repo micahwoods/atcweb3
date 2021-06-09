@@ -1,7 +1,7 @@
 ---
 title: "Organic matter change over time"
 subtitle: ""
-summary: ""
+summary: "I've been working on an explanation of what OM246 testing is. The main point I wanted to make in part 1 is that the change in total organic matter between two measuring dates shows the result of topdressing, and growth, and weather, and microbial activity, and coring, and scarification, between those two dates. "
 authors: [admin]
 tags: 
 - OM246
