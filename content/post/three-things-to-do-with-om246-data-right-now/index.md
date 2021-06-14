@@ -21,11 +21,11 @@ image:
 
 ---
 
-You can use OM246 test results to learn how total organic matter compares to general recommendations; better yet, you can evaluate how maintenance practices, growth, weather, and decomposition are changing total organic matter at a location; and you can make a precise and site-specific calculation of organic matter accumulation rate and sand topdressing requirement.
+You can use OM246 test results to learn how total organic matter compares to general recommendations; better yet, you can evaluate how maintenance practices, growth, weather, and decomposition are changing total organic matter at a single site; and then there is what I call the killer feature of this testing: you can make a precise and site-specific calculation of organic matter accumulation rate and sand topdressing requirement.
 
-Frank Rossi and Roch Gaussoin talked about this on the [Cornell Turfgrass Show](https://youtu.be/DkydFXvoZD8?t=1015) and suggested that these tests are going to be really useful. They are underselling the utility of these data **right now**, however, when Rossi says "I'm not presuming [the test results] can tell us anything yet" and Gaussoin says "I don't think the data is clear on that yet."
+Frank Rossi and Roch Gaussoin talked about this on the [Cornell Turfgrass Show](https://youtu.be/DkydFXvoZD8?t=1015) and suggested that these tests are going to be really useful, presumably at some time in the future. When Rossi says "I'm not presuming [the test results] can tell us anything yet" and Gaussoin says "I don't think the data is clear on that yet," they are underselling the utility of these data **right now**. 
 
-If you have this information---total organic material, or total organic matter, from a known depth below the soil surface---here are three effective things you can do right now.
+If you have this information---total organic material, or total organic matter, from a known depth below the soil surface---here are three incredibly effective things you can do right now.
 
 ### Adjust maintenance work to move OM closer to generalized target ranges
 
@@ -37,17 +37,17 @@ If you have this information---total organic material, or total organic matter, 
 
 These same maximum levels have been used with success in the UK as well. 
 
-{{< figure src="isaac_om2_slide.jpg" caption="The target range for OM2 (total organic material from the surface to 2 cm below the surface) at links courses in 4 to 6%." >}}
+{{< figure src="isaac_om2_slide.jpg" caption="The target range for OM2 (total organic material from the surface to 2 cm below the surface) at links courses is 4 to 6%." >}}
 
 Steve Isaac, in a series of seminars I saw in 2016 and 2017, shared composite data from Open Championship venues where the OM2 data were moved into the target range. And desired playing conditions followed.
 
 That's one thing you can do, trying to manage the total organic material in these recommended ranges.
 
-Bob Carrow did extensive research on organic matter in sand-based rootzones and recommended an upper limit of [4% OM in the top 2 inches](https://usgatero.msu.edu/v02/n17.pdf) of the rootzone. One can also use the OM246 data to check the value at that depth; I do this by making the exact calculation down to 4 cm and then doing a linear estimate for OM from 4 to 5.08 cm (the 2 inch depth) based on the OM4 and OM6 measurements.
+Bob Carrow did extensive research on organic matter in sand-based rootzones and recommended an upper limit of [4% OM in the top 2 inches](https://usgatero.msu.edu/v02/n17.pdf) of the rootzone. One can also use the OM246 data to check the value at that depth too; I do this by making the exact calculation down to 4 cm and then doing a linear estimate for OM from 4 to 5.08 cm (the 2 inch depth) based on the slope between OM4 and OM6 measurements.
 
 ### Evaluate the effect of maintenance work (and everything else that affects OM dynamics) at your site
 
-I think one can consider those recommended maximum levels as a guide, and then evaluate how the grass is performing at a site before trying to adjust the OM. If the surface firmness and the water holding characteristics of a rootzone are fine, then it makes sense to keep the OM constant at approximately that level, rather than trying to change it to a general target range.
+One can consider those recommended maximum levels as a guide, and then evaluate how the grass is performing at a site before trying to adjust the OM. If the surface firmness and the water holding characteristics of a rootzone are fine, then it makes sense to keep the OM constant at approximately that level, rather than trying to change it to a general target range.
 
 {{< figure src="keya_11_om246.jpg" caption="Example data from a golf green showing an increase in OM2 and OM4 over three growing seasons. It's clear from these data that the organic material is accumulating faster at these depths than it is being removed, diluted, or decomposed." >}}
 
