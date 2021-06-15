@@ -36,5 +36,4 @@ But what if this same result were measured at two different locations? At the fi
 
 That's what these calculations do going back in time, and then going forward they make a prediction of the topdressing requirement to achieve a user-selected value for total organic material in the soil.
 
-I'm working on a Shiny App that will make these calculations.
-
+The [OM246 Shiny app](https://asianturfgrass.shinyapps.io/om246/) makes these calculations.
