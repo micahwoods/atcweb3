@@ -28,11 +28,11 @@ I was thrilled to see [the calculations](https://twitter.com/PGRBill/status/1405
 
 {{< tweet "1405549770651938817" >}}
 
-Take the depth of water added (or lost) and divide by the depth of the rootzone and you are now in units of VWC. It's that simple, and being aware of this makes it simple to flip between soil VWC and ET and irrigation amounts.
+Take the depth of water added (or lost) and divide by the depth of the rootzone and you are now in units of VWC. It's that simple, and doing this provides a straightforward way to convert between units of soil VWC and ET and irrigation amounts.
 
 ---
 
-I've been using a different hack for this, and I find it even simpler. I use a rootzone of fixed depth---a slice of soil to a depth of 10 cm (4 inches). When working with a portion of the soil fixed at this depth, 1 liter of water added or lost to each square meter is 1 mm and changes the VWC by 1%. Water added (or lost) by a volume of 1 can also be expressed as a depth of 1 and changes the soil water content by 1 unit. One to one to one.
+I've been using a different hack for this, and I find it even easier. I use a rootzone of fixed depth---a slice of soil to a depth of 10 cm (4 inches). When working with a portion of the soil fixed at this depth, 1 liter of water added or lost to each square meter is 1 mm and changes the VWC by 1%. Water added (or lost) by a volume of 1 can also be expressed as a depth of 1 and changes the soil water content by 1 unit. One to one to one.
 
 I find the fixed rootzone depth useful because we never really know two important things when making these calculations and estimations:
 
