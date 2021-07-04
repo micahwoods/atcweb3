@@ -30,7 +30,7 @@ title = "Sunshine & temperature in Japan"
   
   # Background image.
    image = "sunshine_temperature_jp.jpg"  # Name of image in `static/media/`.
-   image_darken = 0.6   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_darken = 0.5   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
    image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -50,7 +50,7 @@ title = "Sunshine & temperature in Japan"
  css_class = ""
 +++
 
-{{< cta cta_text="Sunshine & temperature in Japan" cta_link="https://asianturfgrass.shinyapps.io/jp_sun_temperature_chart/" cta_new_tab="true" >}}
+### [Open Sunshine & temperature in Japan](https://asianturfgrass.shinyapps.io/jp_sun_temperature_chart/)
 
 
 Plots the combination of climatological normal sunshine and temperature for 11 cities in Japan. This combination of sun and temperature gives an indication of the growing environment for turfgrass at different locations.

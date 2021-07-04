@@ -30,7 +30,7 @@ title = "Sustainability index"
   
   # Background image.
    image = "si_index.jpg"  # Name of image in `static/media/`.
-   image_darken = 0.7   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_darken = 0.5   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
    image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -50,7 +50,7 @@ title = "Sustainability index"
  css_class = ""
 +++
 
-{{< cta cta_text="Open TurfSI app" cta_link="https://asianturfgrass.shinyapps.io/turfsi/" cta_new_tab="true" >}}
+### [Open TurfSI app](https://asianturfgrass.shinyapps.io/turfsi/)
 
 This app returns the sustainability index (SI) based on soil test inputs. This is a direct comparison of input soil test results to the MLSN data.
 

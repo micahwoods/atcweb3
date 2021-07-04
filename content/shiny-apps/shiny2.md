@@ -29,7 +29,7 @@ title = "Global DLI app"
   
   # Background image.
    image = "dli_header.jpg"  # Name of image in `static/media/`.
-   image_darken = 0.7   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_darken = 0.5   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
    image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -49,7 +49,7 @@ title = "Global DLI app"
  css_class = ""
 +++
 
-{{< cta cta_text="Open DLI anywhere app" cta_link="https://asianturfgrass.shinyapps.io/global_dli/" cta_new_tab="true" >}}
+### [Open DLI anywhere app](https://asianturfgrass.shinyapps.io/global_dli/)
 
 Daily light integral (DLI) is the photosynthetically active radiation. This app allows the user to select a location on a world map, then queries the NASA POWER Agroclimatology dataset to obtain the past year of global solar radiation at that location. It then checks the monthly normal solar radiation at that site, and gives the user an option to download a formatted chart with daily, weekly, and monthly DLI for the past 52 weeks.
 

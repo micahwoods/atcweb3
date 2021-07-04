@@ -29,7 +29,7 @@ title = "GP avatar"
   
   # Background image.
    image = "gp_avatar.jpg"  # Name of image in `static/media/`.
-   image_darken = 0.6   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_darken = 0.5   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
    image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
    image_position = "center"  # Options include `left`, `center` (default), or `right`.
    image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -49,7 +49,7 @@ title = "GP avatar"
  css_class = ""
 +++
 
-{{< cta cta_text="Open GP avatar app" cta_link="https://paceturf.shinyapps.io/GPAvatar/" cta_new_tab="true" >}}
+### [Open GP avatar app](https://paceturf.shinyapps.io/GPAvatar/)
 
 This app developed with [PACE Turf](https://www.paceturf.org/) generates a downloadable avatar that shows two lines -- blue and red. Blue is the cool-season growth potential through the year, and red is the warm season growth potential. We put this together in a hackathon when I visited PACE Turf headquarters a few years ago.
 
