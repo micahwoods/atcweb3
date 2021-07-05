@@ -1,6 +1,6 @@
 ---
 title: 'Simulating irrigation frequency at the world famous "snake" course'
-authora: [admin]
+authors: [admin]
 date: 2017-03-09T21:53:09+00:00
 lastmod: 2021-07-05
 tags:
