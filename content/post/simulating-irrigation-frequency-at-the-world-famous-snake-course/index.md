@@ -10,7 +10,7 @@ image:
   preview_only: true
 ---
 
-Many of you will have seen the Kantarat Golf Course when flying into Bangkok. Maybe you've played it. It sit between the two runways at Don Mueang International Airport in Bangkok.
+Many of you will have seen the Kantarat Golf Course when flying into Bangkok. Maybe you've played it. It sits between the two runways at Don Mueang International Airport in Bangkok.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8643.256527325497!2d100.5998513!3d13.9094423!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcbce5ec116cefd14!2sKantarat%20Golf%20Course!5e1!3m2!1sen!2sth!4v1625467161717!5m2!1sen!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
