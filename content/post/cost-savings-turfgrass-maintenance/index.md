@@ -20,4 +20,4 @@ I encourage anyone interested in getting the most efficient use of their turf ma
 * eliminate all nutrients except nitrogen for a season (I'd recommend soil nutrient analysis too)
 * more frequent rolling of the greens
 
-The article includes scores of ways in which you may be able to save money. I counted bullet points in the article, under categories such as Greens, Tees, Fairways, Trees, Equipment, Labor, and so on.
+The article includes scores of ways in which you may be able to save money. I counted 84 bullet pointed ideas in the article, under categories such as Greens, Tees, Fairways, Trees, Equipment, Labor, and so on.

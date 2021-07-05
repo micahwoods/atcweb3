@@ -6,15 +6,15 @@ subtitle: ""
 summary: ""
 authors: [admin]
 tags: 
-- Bentgrass
-- Frost
-- Potassium
-- Research
-- Fertilizer
+- bentgrass
+- frost
+- potassium
+- research
+- fertilizer
 - MLSN
 categories: []
 date: 2016-11-16T21:11:28+07:00
-lastmod: 2021-01-21T21:11:28+07:00
+lastmod: 2021-07-05
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 
 {{< figure library="true" src="suimei_6_frost.jpg" title="Play on frosted bentgrass greens in Japan is not uncommon." >}}
 
-I just finished reading Winston Mirmow's thesis on [Fall potassium fertilization and winter traffic effects on a creeping bentgrass putting green](http://tigerprints.clemson.edu/all_theses/2452/). I downloaded this in September and read the abstract then, but only read the full thesis now. 
+Winston Mirmow's thesis on [Fall potassium fertilization and winter traffic effects on a creeping bentgrass putting green](http://tigerprints.clemson.edu/all_theses/2452/) has some surprising results.
 
 As I've mentioned previously, I like reading theses, because they are the most recent research results presented in a detailed format. I can learn new things and correct my thinking if I've been in error about something. I really enjoyed this one. It was about two of my favorite topics: potassium (K) and winter traffic.
 
