@@ -8,6 +8,7 @@ tags:
   - bentgrass
   - Japan
   - turf tourism
+  - 2 green system
 
 image:
   preview_only: true

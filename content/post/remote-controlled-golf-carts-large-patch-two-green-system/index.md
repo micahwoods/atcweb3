@@ -9,6 +9,7 @@ tags:
   - disease
   - Japan
   - Zoysia
+  - 2 green system
 image:
   preview_only: true
 ---
