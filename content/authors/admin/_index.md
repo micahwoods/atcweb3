@@ -50,6 +50,12 @@ social:
   label: Follow ATC on Twitter
   display:
     header: true
+- icon: discord
+  icon_pack: fab
+  link: https://discord.gg/K8tWApB5ME
+  label: Join the Discord server
+  display:
+    header: true
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=JAlxOXEAAAAJ
@@ -65,6 +71,9 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/user/AsianTurfgrassCenter
+  label: See our YouTube channel
+  display:
+    header: true
 - icon: github
   icon_pack: fab
   link: https://github.com/micahwoods
