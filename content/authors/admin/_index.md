@@ -82,7 +82,7 @@ social:
   link: https://www.linkedin.com/in/micah-woods-57a94522/
 - icon: facebook
   icon_pack: fab
-  link: https://www.facebook.com/micah.turfgrass
+  link: https://www.facebook.com/asianturfgrass
   label: Find on Facebook
   display:
     header: true
