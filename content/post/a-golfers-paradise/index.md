@@ -53,11 +53,11 @@ Grew had previously been the United States Ambassador to Turkey from 1927 until 
 
 {{< figure src="tokyo_sepia.jpg" caption="Tokyo Golf Club in recent years." >}}
 
-> But the real kick of the day for me was to listen to the Babe and Lefty discussing a hundred subjects in the baseball world while we motored out and in. Wish I had a stenographer present. After the game we had to sit on the steps of the Club, with our caddies behind us, and talk for the newsreels. Suddenly and unexpectedly told to say something, I observed, so far as I can remember, "Well Babe, it's fine to see you in Tokyo. I don't know if you realize what distinguished company you are in to-day. Mr. Akaboshi, champion of the Tokyo Golf Club, and---the worst golfer in the world---myself."
+> But the real kick of the day for me was to listen to the Babe and Lefty discussing a hundred subjects in the baseball world while we motored out and in. Wish I had a stenographer present. After the game we had to sit on the steps of the Club, with our caddies behind us, and talk for the newsreels [see video clip from this day [on YouTube](https://youtu.be/MwoA6ocoQdM)]. Suddenly and unexpectedly told to say something, I observed, so far as I can remember, "Well Babe, it's fine to see you in Tokyo. I don't know if you realize what distinguished company you are in to-day. Mr. Akaboshi, champion of the Tokyo Golf Club, and---the worst golfer in the world---myself."
 
 > The Babe responded nobly that he must dispute that title with me as he had been in every blankety-blank trap on the course. He had. But he always got out with his first explosion shot, while I didn't. Of course the personnel and caddies at the Club were thrilled to the core, and I presented the Babe to such players as we met on the course; "Pleased to know you," said the Bambino. Of course all Japan has gone wild over him. He is a great deal more effective Ambassador than I could ever be.
 
-{{< figure src="hawks.jpg" caption="Baseball remains a popular sport in Japan. This is at a Softbank Hawks game in Fukuoka; the Hawks have won the Japan Series 5 times in the past 8 years, including in 2017 and 2018." >}}
+{{< figure src="hawks.jpg" caption="Baseball remains a popular sport in Japan. This is at a Softbank Hawks game in Fukuoka." >}}
 
 > February 1, 1937
 
