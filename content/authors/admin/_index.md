@@ -70,7 +70,7 @@ social:
     header: true
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/user/AsianTurfgrassCenter
+  link: https://www.youtube.com/asianturfgrasscenter
   label: See our YouTube channel
   display:
     header: true
