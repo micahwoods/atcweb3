@@ -2,10 +2,10 @@
 date: "2020-02-23T00:00:00Z"
 subtitle: "On average, irrigation water contains 7 times more Ca than grass uses"
 tags:
-- Calcium
-- Irrigation
+- calcium
+- irrigation
 - ClipVol
-- Fertilizer
+- fertilizer
 title: "Before your next calcium app, read this"
 authors: [admin]
 image:
@@ -54,7 +54,7 @@ You might like to make this calculation for your site, based on the concentratio
 
 * [Calcium leaches?](https://www.asianturfgrass.com/2020-02-14-calcium-leaches/) in which I make this calculation on a *daily* basis for an irrigation water low in Ca
 
-* Frank Rossi and the [imaginary problem](https://www.blog.asianturfgrass.com/2012/06/calcium-deficiency-in-turfgrass-an-imaginary-problem.html) of calcium deficiency
+* Frank Rossi and the [imaginary problem]({{< relref "/post/calcium-deficiency-in-turfgrass-an-imaginary-problem" >}}) of calcium deficiency
 
 
 
