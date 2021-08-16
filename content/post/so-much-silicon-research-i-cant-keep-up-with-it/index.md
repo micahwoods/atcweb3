@@ -1,8 +1,9 @@
 ---
 date: "2018-05-20T00:00:00Z"
 tags:
-- Fertilizer
-- Disease
+- fertilizer
+- disease
+- silica
 title: So much silicon research I can't keep up with it all
 authors: [admin]
 image:

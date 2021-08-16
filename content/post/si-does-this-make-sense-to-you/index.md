@@ -1,10 +1,11 @@
 ---
 date: "2017-07-14T00:00:00Z"
 tags:
-- Green speed
-- Playability
-- Fertilizer
+- green speed
+- playability
+- fertilizer
 - stimpmeter
+- silica
 title: "My frustration in not being able to increase our green speed"
 authors: [admin]
 image:

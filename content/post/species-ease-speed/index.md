@@ -9,6 +9,7 @@ tags:
 - Mowing
 - Fertilizer
 - stimpmeter
+- silica
 
 image:
   preview_only: yes

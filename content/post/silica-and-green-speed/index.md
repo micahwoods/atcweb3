@@ -3,12 +3,12 @@ title: Silica and Green Speed
 authors: [admin]
 date: 2015-02-28T18:54:44+00:00
 tags:
-  - Bentgrass
-  - Bermudagrass
-  - Paspalum
-  - Research
-  - Zoysia
+  - bentgrass
+  - bermudagrass
+  - paspalum
+  - zoysia
   - stimpmeter
+  - silica
   
 image:
   preview_only: true

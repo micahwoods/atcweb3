@@ -3,10 +3,11 @@ date: "2017-07-06T00:00:00Z"
 title: This will make you rethink what you throw in the spray tank
 subtitle: In 11 attempts, Si failed to increase green speed every single time
 tags:
-- Green speed
-- Mowing
-- Fertilizer
+- green speed
+- mowing
+- fertilizer
 - stimpmeter
+- silica
 authors: [admin]
 featured: true
 image:
