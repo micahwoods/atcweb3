@@ -41,7 +41,7 @@ I've been astounded at the firmness that has been maintained over multiple years
 
 Will it finally be a tournament week with good weather? The course is saturated right now, after 688 mm (27 inches) of rain so far in August. Almost all of that (620 mm) fell in the past 12 days. 
 
-{{< figure src="precip_2021.png" >}}
+{{< figure src="featured.png" >}}
 
 As an aside, the weather in a climate like this is why Keya is zoysia from tee to green. The low temperature hasn't dropped below 20 °C (68 °F) since June 24. And the average temperature since June 24 has been 27.1 °C. The precipitation since June 24 has been 744 mm (29 inches). On 13 days during this period of temperatures above 20 °C, there has been less than 1 hour of sunshine. In fact, seven out of the past nine days had **0 hours of sunshine**. These are the conditions in which zoysia performs well. High temperatures---especially high soil temperatures---and plenty of water.
 
