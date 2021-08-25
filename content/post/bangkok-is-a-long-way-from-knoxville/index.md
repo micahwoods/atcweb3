@@ -47,7 +47,7 @@ Seashore paspalum must be maintained with a relatively rapid growth rate in this
 
 There are lots of birds on Thailand golf courses. These are Asian openbill and a little egret.
 
-{{< figure src=asian_openbill.jpg" >}}
+{{< figure src="asian_openbill.jpg" >}}
 
 I haven't identified this bird yet.
 
@@ -67,7 +67,7 @@ This is bermuda on greens with the _nuwan noi_ variety of manilagrass on fairway
 
 In parks, palace lawns, and temples, one tends to find tropical carpetgrass (_Axonopus compressus_) under the trees and _nuwan noi_ manilagrass in full sun. 
 
-{{< figure src="ayuttaya.jpg" >}}
+{{< figure src="ayutthaya.jpg" >}}
 
 We were lucky with the weather for that time of year. With 22 golf courses visited, we got rained out zero times. Normal weather in July at Bangkok will have 155 mm of rain and 13 rainy days.
 
