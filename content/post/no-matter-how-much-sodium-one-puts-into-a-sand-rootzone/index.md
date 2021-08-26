@@ -22,7 +22,7 @@ I wrote back:
 
 > I don't recall that I've written anything specifically about that. I have written about Ca not being required in sand rootzones for the purposes of dealing with sodicity issues, because no matter how much sodium one puts into a sand rootzone, the soil structure cannot be affected, so gypsum won't be required. Relevant blog post:
 > 
-> [Is sodium an imaginary problem?](https://www.blog.asianturfgrass.com/2015/02/is-sodium-an-imaginary-problem.html)
+> [Is sodium an imaginary problem?]({{< relref "/post/is-sodium-an-imaginary-problem" >}})
 > 
 > Also, this: [water and soil handout](http://www.seminar.asianturfgrass.com/water_and_soil_handout.html).
 > 

@@ -37,10 +37,3 @@ These are some key results:
 > The application of soil amendments for remediation of sodic soils (e.g., gypsum) would only be warranted for sodic soils with higher clay contents and may not provide significant infiltration benefits to sand-based golf course putting greens.
 > 
 > This study also provides evidence that increasing exchangeable Mg<sup>2+</sup> [magnesium] does not affect K<sub>sat</sub> of sand root zones.
-
-For more about imaginary problems in turf maintenance, see:
-
-  * <a href="http://www.blog.asianturfgrass.com/2012/06/calcium-deficiency-in-turfgrass-an-imaginary-problem.html" target="_self" rel="noopener">Calcium deficiency in turfgrass, an imaginary problem?</a>
-  * <a href="http://www.blog.asianturfgrass.com/2014/05/why-apply-nutrients-the-plant-wont-need.html" target="_self" rel="noopener">Why apply nutrients the plant won't need?</a>
-  * <a href="http://www.blog.asianturfgrass.com/2013/04/how-much-potassium-does-grass-require.html" target="_self" rel="noopener">How much potassium does grass require?</a>
-  * <a href="http://www.blog.asianturfgrass.com/2014/12/even-at-extremely-high-concentrations-the-bicarbonate-did-not-seal-off-the-soil.html" target="_self" rel="noopener">Can water with high bicarbonate seal off a soil?</a>
