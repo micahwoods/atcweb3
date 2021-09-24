@@ -32,13 +32,13 @@ The worst turf growth is going to happen in soils with low OM. Think of growing 
 
 {{< figure src="featured.jpg" >}}
 
-It takes a lot of water, and a lot of nutrients, to produce a good turf surface in a coarse sand with no OM. There are all kinds of difficulties involved with managing nutrients and water to produce a good turf surface when there the soil doesn't have much OM. Obviously, more OM in a sand rootzone is going to be better than too little OM, up to a point. And the OM246 testing can be used to identify that point.
+It takes a lot of water, and a lot of nutrients, to produce a good turf surface in a coarse sand with no OM. There are all kinds of difficulties involved with managing nutrients and water to produce a good turf surface when the soil doesn't have much OM. Obviously, more OM in a sand rootzone is going to be better than too little OM, up to a point. And the OM246 testing can be used to identify that point.
 
 {{< figure src="nikanti_morning.jpg" caption="The healthiest green at Thailand's Nikanti Golf Club also has the highest OM content." >}}
 
 I'm confident that an immediate reaction to want the total OM to be lower is a mistake because I can predict that for most golf courses, when you do OM246 tests on a set of putting greens, the *best* greens, the healthiest ones, come back with the highest OM. And the weakest greens have the lowest OM.
 
-I suggest that this testing be used to find the level at which the best conditions are achieved. This can be thought of as a site-specific maximum OM, that you'd like to get close to but not exceed---as a ceiling rather than as a floor that you keep trying to get to.
+I suggest that this testing be used to find the level at which the best conditions are achieved. This can be thought of as a site-specific maximum OM, that you'd like to get close to but not exceed---as a ceiling rather than as a floor that you keep trying to get to. This will maximize the benefits that come from OM, achieve the desired playability, and minimize disruptive OM dilution and removal work.
 
 One more thing: the text below is a screenshot from [another post]({{< relref "/post/one-simple-trick-better-greens" >}}) about OM246 testing, explaining the three possible things one will do after seeing the data. Within the context of the playability issues mentioned below, the highest level of soil organic matter that allows for those conditions, that's what I'd be aiming for.
 
