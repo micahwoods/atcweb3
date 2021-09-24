@@ -62,3 +62,5 @@ Read our *Golf Course Management* article [Just what the grass requires](http://
 
 See the data, code, and preprint on [Github](https://github.com/micahwoods/2016_mlsn_paper).
 
+Read [*The Secret MLSN Operations Manual*](https://micahwoods.github.io/mlsn_manual/)
+
