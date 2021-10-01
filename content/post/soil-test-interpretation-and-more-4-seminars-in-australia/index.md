@@ -12,13 +12,13 @@ image:
 
 ---
 
-I was in Sydney, Adelaide, and Brisbane this week to discuss the MLSN approach to soil test interpretation in four seminars organized by [Living Turf](https://livingturf.com.au/).
+I went to Sydney, Adelaide, and Brisbane to discuss the MLSN approach to soil test interpretation in four seminars organized by [Living Turf](https://livingturf.com.au/).
 
-In these seminars, I explained that the use of the MLSN guidelines is as simple as planning how many beers to buy for an upcoming party. And at this party, I want to ensure that I don't run out of beer to serve my friends.
+In these seminars, I explained that the use of the MLSN guidelines is as simple as planning how many beers to buy for an upcoming party. And at this hypothetical party, I want to ensure that I don't run out of beer to serve my friends.
 
 {{< figure src="featured.jpg" >}}
 
-This is a quick summary.
+This is a quick summary of the points I highlighted in the seminars.
 
 {{< tweet "864929242827464704" >}}
 
