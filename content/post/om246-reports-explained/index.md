@@ -37,6 +37,8 @@ The charts on the report show these things:
 
 * The entire [surface layer OM by time](https://www.youtube.com/watch?v=wUtpJC1YPU0&t=1406s), which combines the OM2, OM4, and OM6 data, with adjustments for soil bulk density, to show how the surface layer is changing as a whole
 
+{{< figure src="featured.jpg" >}}
+
 After trying many different ways to look at OM246 results, the ones that I now find most useful are the four that I show on the report. I describe these in detail in the video. So if you'd like to hear more about what these charts are showing, and my comments about what I find especially relevant, please have a watch and listen.
 
 Also, when you know the sand topdressing amount, and have OM246 data, you can start to make precise sand topdressing calculations based on the calculated [organic matter accumulation rate]({{< relref "/post/three-things-to-do-with-om246-data-right-now" >}}).
