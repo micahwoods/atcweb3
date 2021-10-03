@@ -23,7 +23,7 @@ math: true
 
 Organic material measurement by mass loss on ignition is reported on a mass basis. 
 
-For OM246 testing, I prefer doing a burn at 440 °C.[^1] The equation for loss on ignition (LOI) as a percentage takes the mass of sample dried at 105 °C ($m_{105}$), subtracts the mass of the sample after burning at 400 °C ($m_{440}$), divides by the original mass, and multiplies that by 100.
+For OM246 testing, I prefer doing a burn at 440 °C.[^1] The equation for loss on ignition (LOI) as a percentage takes the mass of sample dried at 105 °C ($m_{105}$), subtracts the mass of the sample after burning at 440 °C ($m_{440}$), divides by the original mass, and multiplies that by 100.
 
 [^1]: I prefer doing a burn at 440 °C because that temperature does a complete ashing of the stems, rhizomes, and stolons in the sample. See my post on [temperature for loss on ignition in turfgrass soils]({{< relref "/post/measuring-organic-matter-ignition-temperature" >}}) for more about this. A burn at 360 °C returns almost the same number---there is not a big difference between the mass loss from a 360 and a 440 °C burn. But I prefer the way stolons and rhizomes and stems and roots---the grass plants themselves---look after they have been completely ashed at 440 °C.
 
@@ -61,7 +61,7 @@ Organic matter is light. Soil, sand, those are heavy. Six or seven times heavier
 
 To find the bulk density ($\rho_{i}$) for depth $i$ of the rootzone, I use this equation that assumes[^2] the organic material at depth $i$, represented as ($OM_{i}$), has a bulk density of 0.22 kg/m<sup>3</sup> and the sand at depth $i$ has a bulk density of 1.56 kg/m<sup>3</sup>.
 
-[^2]: I believe these are the same values used in McCoy's [organic matter management tool](https://buckeyeturf.osu.edu/organicmattertool).
+[^2]: I believe these are the same values used in McCoy's [organic matter management tool](https://buckeyeturf.osu.edu/organicmattertool). You will find many more useful equations in the documentation for that tool.
 
 $$\rho_{i} = \frac{100}{\frac{OM_{i}}{0.22} + \frac{100 - OM_{i}}{1.56}} $$
 
