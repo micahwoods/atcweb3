@@ -34,7 +34,7 @@ Jon Wall asked an interesting question about this.
 
 My short answer to this is no, I don't think one will get additional information about the trueness and the smoothness of the green from longer rolls with a higher initial rate of motion. 
 
-Here's a three part answer explaining why I give that answer.
+Here's a three part answer explaining why.
 
 ### 1. The ball's rate of motion during the test
 
