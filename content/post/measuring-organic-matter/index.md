@@ -3,6 +3,7 @@ date: "2019-06-10T00:00:00Z"
 tags:
 - organic matter
 - sand
+- om246
 title: Measuring organic matter
 authors: [admin]
 image:
