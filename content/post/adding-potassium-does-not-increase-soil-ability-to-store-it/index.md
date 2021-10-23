@@ -22,7 +22,7 @@ image:
 
 ---
 
-You've probably listened to one of my seminars in which I explained why conventional nutrient guidelines for turfgrass are [*broken*]({{< relref "/post/conventional-nutrient-guidelines-explaining-what-i-mean-by-broken" >}}). Jackie Guevara's [thesis](https://www.proquest.com/openview/722c0d26d9eec5c2fa53d2b6d57995fd/1?pq-origsite=gscholar&cbl=18750&diss=y) on "Effects of Different Soil Testing Philosophies on Creeping Bentgrass and Annual Bluegrass Putting Greens" is an excellent demonstration of this.
+You've probably listened to one of my seminars in which I explained why conventional nutrient guidelines for turfgrass are [*broken*]({{< relref "/post/conventional-nutrient-guidelines-explaining-what-i-mean-by-broken" >}}). Jackie Guevara's [thesis](https://www.proquest.com/openview/722c0d26d9eec5c2fa53d2b6d57995fd) on "Effects of Different Soil Testing Philosophies on Creeping Bentgrass and Annual Bluegrass Putting Greens" is an excellent demonstration of this.
 
 The project looked at applying P and K fertilizer in amounts calculated by three methods:
 
