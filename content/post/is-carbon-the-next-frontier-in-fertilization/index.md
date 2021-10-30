@@ -18,7 +18,7 @@ image:
 
 ---
 
-There is an interesting article about carbon by Bryan G. and Tyler J. Hopkins in the latest issue of [*Crops & Soils*](https://dl.sciencesocieties.org/publications/crops-and-soils) magazine. Here's a quick summary, put together with a series of quotes from the article.
+There is an interesting article about carbon by Bryan G. and Tyler J. Hopkins in the latest issue of [*Crops & Soils*](https://doi.org/10.2134/cs2018.51.0307) magazine. Here's a quick summary, put together with a series of quotes from the article.
 
 ### Introduction
 

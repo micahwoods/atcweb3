@@ -24,9 +24,11 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [ClipVol]
+tags:
+- ClipVol
+- book
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -58,7 +60,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [ClipVol]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -67,3 +69,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+You don’t have to measure the clipping volume. But if you are interested in doing so, I’ve written quite a bit about this topic, and I’ve put the information together here so those who are interested can find it in one place.
+
+Even if you aren’t going to measure clipping volume, you might be intrigued at just how useful some turfgrass managers find this simple measurement.

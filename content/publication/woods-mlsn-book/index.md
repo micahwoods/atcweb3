@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "芝草科学とグリーンキーピング (マイカの時間 The BOOK)"
+title: "The Secret MLSN Operations Manual"
 authors: [M. S. Woods]
-date: 2017-03-06
+date: 2021-10-30T16:00:39+07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-01-09T14:36:46+07:00
+publishDate: 2021-10-30T16:00:39+07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,6 +25,7 @@ abstract: ""
 summary: ""
 
 tags: 
+- MLSN
 - book
 categories: []
 featured: true
@@ -43,7 +44,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://www.amazon.co.jp/dp/4772841725/ref=cm_sw_r_cp_ep_dp_U-eyAbHH25ZNN
+url_source: https://micahwoods.github.io/mlsn_manual/
 url_video:
 
 # Featured image
@@ -52,14 +53,14 @@ url_video:
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [MLSN]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -69,4 +70,4 @@ projects: []
 slides: ""
 ---
 
-Golf is a sport and is played on grass. The greenkeeper works with the grass to produce the best possible playing surface for golf. But just as each golf course has its own design and setting into the landscape, so also the grass on each golf course is growing in its own soil, in a particular climate, with an innumerable list of differences from any other golf course. By understanding and then applying scientific principles of greenkeeping, the results are predictable, and the playing surface can be optimized at any golf course. That’s what this book is about.
+This is a compilation of the best content from the [MLSN newsletter](https://www.subscribepage.com/mlsn). It's all about this modern method for soil test interpretation for turfgrass---how it works, how MLSN was developed, answers to common questions, and some fun stories about this project.
