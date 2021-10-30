@@ -25,4 +25,6 @@ I've got lots more to write and say about this. For a couple of things you can l
 
 1. It is, I hope, more general than the title suggests. [How much do clouds affect photosynthetic irradiance? Measures of light at Thailand, Hong Kong, Vietnam, and Japan.]({{< relref "/publication/woods-2012-light" >}})
 
-2. Screencast of my presentation on [Eternal Sunshine of the Spotless Green](https://vimeo.com/micahwoods/eternalsunshine) about light, shade, and turf.
+2. Screencast of my presentation on [Eternal Sunshine of the Spotless Green](https://youtu.be/86mtuiQVi2Y) about light, shade, and turf.
+
+{{< youtube "86mtuiQVi2Y" >}}
