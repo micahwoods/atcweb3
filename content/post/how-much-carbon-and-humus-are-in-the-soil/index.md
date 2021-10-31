@@ -24,7 +24,7 @@ Turfgrass creates a lot of soil organic matter (SOM), also called *humus*, and t
 
 I made this chart to summarize the amount of C in the top 10 cm (4 inches) of a turfgrass rootzone. Specifically, in the sand-based rootzones used for intensively-trafficked sporting surfaces around the world.
 
-{{< figure src="rootzoneC.svg" >}}
+{{< figure src="rootzoneC.png" >}}
 
 I was wondering how much change in soil C to expect for a change of 0.1% (1 g/kg) in SOM. When the SOM changes by 0.1%, there's a difference of about 70 g C/m<sup>2</sup> in the top 10 cm of the rootzone, which is also 700 g/ha, 14 lbs/1000 ft<sup>2</sup>, and 610 lbs/acre.
 
