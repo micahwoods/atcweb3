@@ -26,6 +26,6 @@ I made this chart to summarize the amount of C in the top 10 cm (4 inches) of a 
 
 {{< figure src="rootzoneC.png" >}}
 
-I was wondering how much change in soil C to expect for a change of 0.1% (1 g/kg) in SOM. When the SOM changes by 0.1%, there's a difference of about 70 g C/m<sup>2</sup> in the top 10 cm of the rootzone, which is also 700 g/ha, 14 lbs/1000 ft<sup>2</sup>, and 610 lbs/acre.
+I was wondering how much change in soil C to expect for a change of 0.1% (1 g/kg) in SOM. When the SOM changes by 0.1%, there's a difference of about 70 g C/m<sup>2</sup> in the top 10 cm of the rootzone, which is also 700 kg/ha, 14 lbs/1000 ft<sup>2</sup>, and 610 lbs/acre.
 
 This calculation shows the scale of humus creation and C addition by turfgrass to the soil.
