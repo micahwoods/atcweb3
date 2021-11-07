@@ -11,6 +11,7 @@
 # https://www.blog.asianturfgrass.com/2016/12/how-to-lose-120-million-yen-with-frost-delays.html  /post/how-to-lose-millions-with-golf-frost-delays/
 
 # do ones I later realize need done
+/project/books/								/#books
 /project/mlsn/                                                          /mlsn/
 /project/shiny-apps/							/shiny-apps/
 /2014_gss_report/                                                       https://micahwoods.github.io/2014_gss_report/
@@ -24,7 +25,7 @@ https://www.asianturfgrass.com/img/photo2_large_patch.jpg               https://
 /library/								/publication/
 /media/									/tag/video/
 /shiny/									/project/shiny-apps/
-/books/									/project/books/
+/books/									/#books
 /lists/									/#newsletters
 /buckets/								https://micahwoods.github.io/buckets
 /2020-12-30-top-blog-posts-2020/					/post/top-10-posts-2020/

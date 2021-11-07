@@ -1,6 +1,6 @@
 ---
 date: "2021-10-26"
-external_link: "#books"
+external_link: "/#books"
 image:
   caption: ""
   focal_point: Smart
