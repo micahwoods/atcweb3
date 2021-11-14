@@ -7,6 +7,8 @@ authors: [admin]
 tags: 
 - ClipVol
 - growth potential
+- turfgrass speedo
+- growth ratio
 categories: []
 date: 2021-11-13T16:14:19+07:00
 lastmod: 2021-11-13T16:14:19+07:00
