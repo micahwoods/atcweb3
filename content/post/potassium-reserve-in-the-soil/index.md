@@ -4,7 +4,8 @@ title: "A potassium reserve in the soil: non-exchangeable and mineral K"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: []
+tags: 
+- potassium
 categories: []
 date: 2021-11-23T16:38:54+07:00
 lastmod: 2021-11-23T16:38:54+07:00
@@ -71,7 +72,7 @@ They also measured total soil K.
 
 They found that this increase in total K was coming from the mineral K applied in topdressing sand, and that this mineral K was supplying enough to meet all the plant requirements for K.
 
-When one thinks about the results of these experiments, it's apparent that routine soil test tests for exchangeable K will often identify sand rootzones as likely to respond to K fertilizer, when in fact many of these sand rootzones may not respond to K fertilizer.
+When one thinks about the results of these experiments, it's apparent that routine soil tests for exchangeable K will often identify sand rootzones as likely to respond to K fertilizer, when in fact many of these sand rootzones may not respond to K fertilizer.
 
 ## A practical solution
 
