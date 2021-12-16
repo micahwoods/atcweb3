@@ -35,7 +35,7 @@ And leisure is an apt word, because this "office hour" conversation ended up str
 
 <br>
 
-Fortunately, YouTube and podcast players have settings to listen at increased speed, which works great for native English speakers who want to get through such a long episode more quickly. But this approach doesn't work so well if you don't understand English so well. 
+Fortunately, YouTube and podcast players have settings to listen at increased speed, which works great for native English speakers who want to get through such a long episode more quickly. But this approach doesn't work if you don't understand English so well. 
 
 Here, then, [by request](https://twitter.com/FrancoisViovy/status/1471024683948691457?s=20), is a summary of the conversation. I also have the [auto-generated transcript](https://www.asianturfgrass.com/post/office-hour-discussion-summarized/transcript_woods_tritabaugh.txt) if that's useful for anyone to read or to analyze with translation software.
 
@@ -49,7 +49,7 @@ Here, then, [by request](https://twitter.com/FrancoisViovy/status/14710246839486
 
 * We both expressed surprise, if I recall correctly, that in the past we would have thought it necessary to do a lot more disruptive work to the putting surfaces, to prevent organic matter from accumulating in excessive amounts. And we find this OM246 testing, together with regular assessment of playing performance through stimpmeter measurements and the bobble test, quite effective in allowing the putting surfaces to be optimized for golf play during the greatest possible number of days in the golfing season. What we mean by that is a count of the days during which the greens have a speed at or above a level desired by the membership, and the greens on those days have no scars from cultivation or loose sand on the greens that could affect the ball roll.
 
-* Much of the discussion was about the playability of the surfaces, and how this can be accomplished while still effectively managing the organic matter. We recommended, I think, that a way to accomplish the desired playability at any facility using this type of approach might be effective with measurement of the quantity of sand applied, measurement of the OM246 values over time, so that the effectiveness of the sand topdressing can be evaluated, and that measurement of ball roll (and possibly ball bounce, or surface firmness) can be remarkably effective in optimizing the work that will then allow for maximum days of excellent putting surfaces.
+* Much of the discussion was about the playability of the surfaces, and how this can be accomplished while still managing the organic matter at a suitable level. We recommended, I think, that a way to accomplish the desired playability at any facility using this type of approach might include measurement of the quantity of sand applied, measurement of the OM246 values over time, so that the effectiveness of the sand topdressing can be evaluated, and measurement of ball roll (and possibly ball bounce, or surface firmness); knowledge of these things allows the turf manager to optimize work that will produce the maximum possible days of excellent putting surfaces.
 
 That's what I recall. 
 
