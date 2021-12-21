@@ -1,15 +1,8 @@
 ---
-date: "2018-10-15T00:00:00Z"
-
-tags:
-- bermudagrass
-- zoysia
-- water
-- irrigation
-- drought
-title: Drought, bermudagrass, and zoysiagrass
+title: "Drought, bermudagrass, and zoysiagrass"
 authors: [admin]
-
+date: 2018-10-15
+tags: ["irrigation", "water", "zoysia", "bermudagrass", "drought"]
 image:
   preview_only: false
   caption: "Bermudagrass is green and growing in dry soil that has caused dormancy in surrounding zoysiagrass"
