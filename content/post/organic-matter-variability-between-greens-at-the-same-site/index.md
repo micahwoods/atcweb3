@@ -23,7 +23,7 @@ Daniel Hahn asked an interesting question about organic matter.
 
 Talking about "variability between greens at the same site," he wondered, "could you explain what your opinion is about the statement, if you think greens vary a lot in OM or if you see minor difference? I think that is a very interesting topic."
 
-So do I, so I took a look at it with recent OM246 samples. These are 34 recent sampling events[^1] from 2020 and 2021, excluding any research samples. These mean values show the average of all the greens tested on the course at that sampling date. 
+So do I, so I took a look at it with recent OM246 samples tested at [Brookside Labs](https://www.blinc.com/) by ATC and by [BRT Agronomy](https://brtagronomy.com/). These are 34 recent sampling events[^1] from 2020 and 2021, excluding any research samples. These mean values show the average of all the greens tested on the course at that sampling date. 
 
 [^1]: I use the term *sampling event* to mean a unique golf course and sampling date pair. There are a few of these that are the same course, but measured at different dates.
 
