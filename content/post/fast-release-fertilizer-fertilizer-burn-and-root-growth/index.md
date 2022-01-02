@@ -12,9 +12,9 @@ image:
 
 ---
 
-I gave a seminar in July in which I discussed how much one can expect grass to grow.
+I led a seminar in which I discussed how much one can expect grass to grow.
 
-I said something like: 
+During that seminar, I said something like: 
 
 > grass can always grow more, but turfgrass managers restrict the growth rate by supplying less nitrogen fertilizer than the grass can use. For example, I could apply 100 g/m<sup>2</sup> of 10-10-10, and the grass would grow more rapidly than if I applied only 10 g/m<sup>2</sup>.
 

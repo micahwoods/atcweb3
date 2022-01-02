@@ -44,16 +44,16 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/asianturfgrasscenter
+  label: ATC's YouTube channel
+  display:
+    header: true
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/asianturfgrass
   label: Follow ATC on Twitter
-  display:
-    header: true
-- icon: discord
-  icon_pack: fab
-  link: https://discord.gg/K8tWApB5ME
-  label: Join the Discord server
   display:
     header: true
 - icon: google-scholar
@@ -67,23 +67,23 @@ social:
   link: https://vimeo.com/micahwoods
   label: Watch our videos
   display:
-    header: true
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/asianturfgrasscenter
-  label: See our YouTube channel
-  display:
-    header: true
+    header: false
 - icon: github
   icon_pack: fab
   link: https://github.com/micahwoods
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/micah-woods-57a94522/
+- icon: discord
+  icon_pack: fab
+  link: https://discord.gg/K8tWApB5ME
+  label: Join the atc-turf Discord server
+  display:
+    header: true
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/asianturfgrass
-  label: Find on Facebook
+  label: ATC on Facebook
   display:
     header: true
   
