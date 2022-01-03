@@ -1,6 +1,5 @@
 ---
 date: "2018-09-16T00:00:00Z"
-lastmod: 2021-12-17
 tags:
 - turf info
 - web/tech
