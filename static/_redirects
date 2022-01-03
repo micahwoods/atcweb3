@@ -10,12 +10,16 @@
 # try a redirect of blog subdomain single post
 # https://www.blog.asianturfgrass.com/2016/12/how-to-lose-120-million-yen-with-frost-delays.html  /post/how-to-lose-millions-with-golf-frost-delays/
 
+## related to github
+/2014_gss_report/                                                       https://micahwoods.github.io/2014_gss_report/
+/turf_twitter_2017/                                                     https://micahwoods.github.io/turf_twitter_2017/
+/buckets/								https://micahwoods.github.io/buckets
+
 # do ones I later realize need done
 /project/books/								/#books/
 /project/mlsn/                                                          /mlsn/
 /project/shiny-apps/							/shiny-apps/
-/2014_gss_report/                                                       https://micahwoods.github.io/2014_gss_report/
-https://www.asianturfgrass.com/img/photo1_leaf_sheath_blight.jpg       https://www.asianturfgrass.com/media/photo1_leaf_sheath_blight.jpg
+https://www.asianturfgrass.com/img/photo1_leaf_sheath_blight.jpg        https://www.asianturfgrass.com/media/photo1_leaf_sheath_blight.jpg
 https://www.asianturfgrass.com/img/photo2_large_patch.jpg               https://www.asianturfgrass.com/media/photo2_large_patch.jpg
 /about/									/#about
 /tags/									/#tags
@@ -27,7 +31,6 @@ https://www.asianturfgrass.com/img/photo2_large_patch.jpg               https://
 /shiny/									/project/shiny-apps/
 /books/									/#books
 /lists/									/#newsletters
-/buckets/								https://micahwoods.github.io/buckets
 /2020-12-30-top-blog-posts-2020/					/post/top-10-posts-2020/
 /2020-12-28-awesome-things-other-people-did-turfgrass-this-year/	/post/non-comprehensive-awesome-list-2020/
 /2020-12-24-sand-topdressing-by-depth/					/post/sand-topdressing-by-depth/
@@ -351,7 +354,4 @@ https://www.asianturfgrass.com/img/photo2_large_patch.jpg               https://
 /2016-09-10-august-roundup/						/post/august-2016-roundup/
 /2016-09-06-thailand-putting-green-performance-in-july-a-summary/	/post/thailand-putting-green-performance-in-july-a-summary/
 /2013-11-24-3-reasons-sheep-are-better-than-cows-for-mowing-fairways/	/post/3-reasons-sheep-are-better-than-cows-for-mowing-fairways/
-
-		
-
 
