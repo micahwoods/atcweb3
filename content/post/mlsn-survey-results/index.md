@@ -6,6 +6,7 @@ summary: ""
 authors: [admin]
 tags: 
 - MLSN
+- survey
 categories: []
 date: 2021-05-25T12:44:51+07:00
 lastmod: 2021-05-25T12:44:51+07:00

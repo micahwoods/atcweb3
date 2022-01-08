@@ -7,6 +7,7 @@ authors: [admin]
 tags: 
 - web/tech
 - turf info
+- survey
 categories: []
 date: 2022-01-08
 featured: false
@@ -52,7 +53,9 @@ The podcast results were especially interesting. It's a love/hate type of thing 
 
 ## For written content, which do you prefer?
 
-I asked "For blog posts and other written content, if you had a choice, would you prefer?" to the blog email group, and the results were clear. 69% were happy to get all the turf info they can, and answered "Both!". 26% prefer short content more frequently, and only 5% prefer longer content shared less frequently. 
+I asked "For blog posts and other written content, if you had a choice, would you prefer?" to the blog email group, and the results were clear.
+
+{{< figure src="q3.jpg" >}}
 
 These results were clear and I omitted this question from the survey link I shared on Twitter.
 
