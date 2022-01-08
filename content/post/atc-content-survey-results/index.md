@@ -48,7 +48,7 @@ The table below shows the summary results by group. It's no surprise that the gr
 | 5    | YouTube videos      | Scientific articles |
 | 6    | Books               | Books               |
 
-The podcast results were especially interesting. It's a love/hate type of thing that averages out to those rankings. For the blog email list group, 24% of the respondents had podcasts as their first choice, and next was 21%---as their fourth choice. For the Twitter group, 28% had podcasts as their first choice, and next was 19%---as their fifth choice. This is not 
+The podcast results were especially interesting. It's a love/hate type of thing that averages out to those rankings. For the blog email list group, 24% of the respondents had podcasts as their first choice, and next was 21%---as their fourth choice. For the Twitter group, 28% had podcasts as their first choice, and next was 19%---as their fifth choice. 
 
 ## For written content, which do you prefer?
 
