@@ -1,6 +1,6 @@
 ---
 
-title: "The wonders of [the right amount of] traffic on turfgrass"
+title: "The wonders of [just enough] traffic on turfgrass"
 subtitle: ""
 summary: ""
 authors: [admin]
@@ -23,7 +23,7 @@ image:
 projects: []
 ---
 
-I like to walk around with an eye on the grasses that are growing, no matter where I am. I've noticed that traffic---the right amount of traffic---can transform some grasses into an amazing type of surface. I've seen this with *Cynodon* in China, with *Festuca* in Iceland, and I'm sure in other places as well, but those are a couple that come to mind.
+I've noticed that traffic---just enough traffic---can transform some grasses into an amazing type of surface. I've seen this with *Cynodon* in China, with *Festuca* in Iceland, and in other places as well, but those are a couple that come to mind. 
 
 However, nothing I've seen compares with the way *Zoysia* is changed by traffic. I've [shown photos of this before]({{< relref "/post/zoysia-driveways-thailand-taught-me-about-rolling" >}}). I ran past that same driveway again, and the effect is just as pronounced this year as it was then, if not more. 
 
