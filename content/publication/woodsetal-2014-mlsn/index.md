@@ -7,6 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Golf Course Management*"
-url_pdf: "http://bit.ly/gcm_mlsn"
+url_pdf: "http://files.asianturfgrass.com/201401_woods_et_al_gcm_mlsn.pdf"
 ---
 
