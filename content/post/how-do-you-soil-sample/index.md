@@ -23,12 +23,6 @@ I know how I do it.
 
 As I've been thinking about it, and as I've asked a few people, I realize there may be a lot of variation in how turfgrass managers are collecting and preparing samples. 
 
-
-Will you please complete this survey? I'm really interested to see the results, and I'll share them here in an upcoming blog post. You can [complete the survey at this link](https://rbwzpuqaf47.typeform.com/to/hth1VGAV), or in the embedded frame below. Thank you.
-
-<div data-tf-widget="hth1VGAV" data-tf-iframe-props="title=How do you soil sample?" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
-
-<br>
 I'm curious to know how you collect, process, and prepare soil samples. By <strong>soil samples</strong> here I mean routine soil nutrient analyses. These are the kind of soil tests that measure soil pH, usually soil organic matter, phosphorus and potassium, and sometimes secondary and micronutrients too.
 
 The standard recommendation, which I've [written about here]({{< relref "/post/composite-samples-2" >}}), is to take a minimum of 12 subsamples from each area being tested. These subsamples are then to be combined and mixed in a **composite** sample. Area here would refer to a single golf course putting green, for example, or a single home lawn, or a single golf course fairway, or a single sports field. That's what I mean by **area**.
