@@ -4,7 +4,8 @@ title: "What is the variance in the growth potential (GP) equation?"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: []
+tags:
+- growth potential
 categories: []
 date: 2022-02-13T13:48:26+07:00
 lastmod: 2022-02-13T13:48:26+07:00
