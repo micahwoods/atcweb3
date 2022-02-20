@@ -34,7 +34,17 @@ Sixteen golf courses in the 2016 yearbook provided monthly (and annual) totals f
 
 {{< figure src="gk2016_table.jpg" >}}
 
-I have taken these data from the 16 golf courses and report the median value in the chart below. I have made an adjustment by assuming that the P and K in the yearbook are really P<sub>2</sub>O<sub>5</sub> and K<sub>2</sub>O. In the chart, I'm showing P as 44% of the median from the yearbook, and K as 83% of the median from the yearbook.
+I have taken these data from the 16 golf courses and report the median value in the chart below. This is adjusted in two ways. 
+
+First, the median N supply for these 16 courses was 11.16 g/m<sup>2</sup>. I have scaled the N and all the other elements by the same factor so that N is at 10 in the chart, and all the other elements are shown in relation to an N amount of 10. The point of the chart is to show relative amounts, not absolute ones. I made a second adjustment by assuming that the P and K in the yearbook are really P<sub>2</sub>O<sub>5</sub> and K<sub>2</sub>O. In the chart, I'm showing P as 44% of the median from the yearbook, and K as 83% of the median from the yearbook.
+
+For some background information about the sixteen courses from which these data are reported:
+
+* all are creeping bentgrass greens
+* 11 have the one green system; 5 have the [two green system](https://www.asianturfgrass.com/tag/2-green-system/)
+* Eight of the courses have 18 holes, four have 27 holes, and four have 36 holes
+* The median annual number of rounds played (adjusted to a per 18 holes basis) was 35,667
+* The median green size was 600 m<sup>2</sup>
 
 {{< figure src="gk2016.png" >}}
 
