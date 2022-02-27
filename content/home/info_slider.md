@@ -29,7 +29,7 @@ item:
     cta_icon_pack: fab
     cta_icon: youtube
   - title: ATC Office Hours
-    content: 'I talk with turfgrass scientists, managers, and students, as we discuss new developments in how grass is grown and managed around the world.'
+    content: 'Office Hours (as a podcast) with turf managers, scientists, and students, about grass around the world.<br>'
     align: center
     overlay_img: headers/banyan.jpg 
     cta_label: 'Listen to ATC Office Hours'
