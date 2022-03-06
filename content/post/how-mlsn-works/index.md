@@ -13,7 +13,7 @@ image:
 
 The recording of my seminar about "How MLSN Works" is [now available](https://youtu.be/6SWT2GyUO7k) on YouTube.
 
-{{< youtube "6SWT2GyUO7k" >}}
+{{< youtube "QSVTR3XTsEA" >}}
 
 I want to correct something. At the very end, I misstated that irrigation water normally has 20 to 60 ppm (mg/L) potassium. That's incorrect. Potassium is normally 5 to 20 ppm, [according to Penn State's irrigation water quality guidelines](https://extension.psu.edu/irrigation-water-quality-guidelines-for-turfgrass-sites). It is calcium that normally has a concentration of 20 to 60 ppm.
 
