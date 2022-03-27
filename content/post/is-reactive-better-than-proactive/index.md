@@ -20,13 +20,13 @@ Here's the problem. When we make things happen with the grass, we invariably ove
 
 First there was [this one about fertilizer](https://twitter.com/gslefty/status/573364242662883329):
 
-{{< tweet user="gslefty" id="573364242662883329" >}}
+{{< tweet "573364242662883329" >}}
 
 One can think of this in two ways. Either apply N to cause growth, or think of the plant using N, and after some point it will require more, and then reapply when it does. The first approach is proactive, and the second is reactive.
 
 Then there was [this one about sand](https://twitter.com/gslefty/status/908912111098634240):
 
-{{< tweet user="gslefty" id="908912111098634240" >}}
+{{< tweet "908912111098634240" >}}
 
 When one can get better playing surfaces with less sand, why is the industry so proactive about applying sand? 
 
