@@ -17,7 +17,7 @@ item:
     align: center
     overlay_img: headers/singha_Ac.jpg 
     cta_label: 'Listen to The ATC Doublecut'
-    cta_url: 'https://atc-doublecut.transistor.fm/subscribe'
+    cta_url: 'https://atc-doublecut.transistor.fm'
     cta_icon_pack: fab
     cta_icon: podcast
   - title: ATC videos and livestreams
@@ -33,7 +33,7 @@ item:
     align: center
     overlay_img: headers/banyan.jpg 
     cta_label: 'Listen to ATC Office Hours'
-    cta_url: 'https://atc-office-hours.transistor.fm/subscribe'
+    cta_url: 'https://atc-office-hours.transistor.fm'
     cta_icon_pack: fab
     cta_icon: podcast
   - title: ATC newsletters
