@@ -21,7 +21,7 @@ image:
 projects: []
 ---
 
-There's an interesting phenomenon that happens when grass is planted on a golf course putting green. There's not much organic material in the soil when the green is planted. The organic material increases rapidly, to about 4% organic material in the top inch (2.5 cm) of the rootzone within five years after planting. The organic matter continues to increase as the years go by, but the accumulation rate of organic matter decreases.
+An interesting phenomenon happens when grass is planted on a golf course putting green. There's typically not much organic material in the soil when the green is first planted. The organic material increases rapidly, to about 4% organic material in the top inch (2.5 cm) of the rootzone within five years after planting. The organic matter continues to increase as the years go by, but as that increase in OM happens, the accumulation rate of organic matter decreases. 
 
 {{< figure src="om_year.png" >}}
 
@@ -41,8 +41,10 @@ One implication of this is that the very process of reducing soil organic materi
 
 The organic matter accumulation rate decreases as the greens age. That's to be expected. The organic matter content of the top inch of the putting greens also increase with age of the green.
 
-By calculating what would be expected to happen to the organic matter content of the top inch of the green with the addition of topdressing sand, and then accounting for how the organic matter does change on average, it is possible to make a chart like the one below. This shows that when the organic matter content of the top inch is at a low level, the net OM accumulation rate is expected to be more than 
+By calculating what would be expected to happen to the organic matter content of the top inch of the green with the addition of topdressing sand, and then accounting for how the organic matter does change on average, it is possible to make a chart like the one below. This shows that when the organic matter content of the top inch is kept at around 2%, for example, the net OM accumulation rate in that zone is expected to be about twice what it would be if the OM were at 4%.
 
 {{< figure src="accum_om.png" >}}
+
+The implication of this is that the very process of making greens younger, by adding sand, and by reducing organic matter, appears to inherently increase the organic material accumulation rate at the surface of those same greens.
 
 
