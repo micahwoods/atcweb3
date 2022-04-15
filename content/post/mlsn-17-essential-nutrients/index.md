@@ -7,6 +7,7 @@ tags:
   - fertilizer
   - MLSN
   - carbon
+  - micronutrients
 image:
   preview_only: true
 ---

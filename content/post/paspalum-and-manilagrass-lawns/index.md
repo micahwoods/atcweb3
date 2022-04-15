@@ -5,6 +5,7 @@ tags:
 - manilagrass
 - paspalum
 - weeds
+- lawns
 title: Paspalum and manilagrass lawns
 
 authors: [admin]

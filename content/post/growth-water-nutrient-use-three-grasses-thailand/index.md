@@ -8,6 +8,7 @@ tags:
 - Thailand
 - paspalum
 - bermudagrass
+- lawns
 title: The growth, nutrient use, and water use of 3 grasses in central Thailand
 image:
   preview_only: true
