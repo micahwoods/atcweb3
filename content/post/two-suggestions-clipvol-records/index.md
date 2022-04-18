@@ -10,7 +10,9 @@ image:
   preview_only: yes
 ---
 
-I've recommended these before, and having found myself repeatedly suggesting the [Wisconsin clipping tracker template](https://turf.wisc.edu/2020/03/wisconsin-clipping-tracker/) and the [Data organization in spreadsheets](https://doi.org/10.1080/00031305.2017.1375989) article, this post is a bookmark for that topic.
+I've recommended these before, and having found myself repeatedly suggesting the [Wisconsin clipping tracker template](Wisconsin-Clipping-Tracker-Template.xlsx) (read about this at the UW site[^1]) and the [Data organization in spreadsheets](https://doi.org/10.1080/00031305.2017.1375989) article. This post is a bookmark for that topic.
+
+[^1]: Read more about this topic at the UW site: <https://turf.wisc.edu/2020/03/wisconsin-clipping-tracker/>. I've hosted a duplicate copy of the template file on the ATC site.
 
 {{< figure src="clipvol_2recs.jpg" >}}
 
