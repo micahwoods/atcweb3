@@ -11,7 +11,7 @@ image:
 
 Topdressing. Mowing. Irrigation. Fertilizing. Fungicides. All these maintenance practices should produce good turf, right? They usually do. But have you ever seen a situation where the most intensively maintained turf on a property ends up with substandard conditions? In that case, something has gone wrong with the application of those maintenance practices.
 
-In today's seminar at the [WCTA](http://wcta-online.com/) conference, I'll explain how I use the [*grammar of greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping) to make a site specific plan for how much of these maintenance practices are required, and when. Careful attention to this invariably leads to two things.
+In my seminar at the [WCTA](http://wcta-online.com/) conference, I explained how I use the [*grammar of greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping) to make a site specific plan for how much of these maintenance practices are required, and when. Careful attention to this invariably leads to two things.
 
 1. Turf conditions get better for the same amount of work being done. That's improved conditions and improved efficiency.
 
@@ -27,7 +27,6 @@ This approach to turfgrass management work is described in [*A Short Grammar of 
 
 This provides a somewhat standardized language for thinking about and communicating about greenkeeping work. One can use this grammar to compare the work done on different areas of the same site -- greens and fairways, for example, almost certainly require a different growth rate and require different amounts of work -- and to compare the work that is done to turfgrass anywhere in the world. By doing this, one can see improving turf conditions, can make those improvements systematically and in full control of the turf, and maybe even do so with less work.
 
-That's what I'll be talking about today.
 
 
 
