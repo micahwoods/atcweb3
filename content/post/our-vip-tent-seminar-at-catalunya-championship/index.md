@@ -23,7 +23,6 @@ image:
 
 header: 
   image: "headers/pga_catalunya_tools.jpg"
-  caption: "Measuring tools for green speed, surface firmness, soil water content, and weather conditions on the third green of PGA Catalunya's Stadium Course."
   
 projects: []
 ---
@@ -42,9 +41,9 @@ This is a fine location for a seminar, and David invited many superintendents, a
 
 {{< figure src="pastries.jpg" >}}
 
-{{< figure src="graeme.jpg" caption="Graeme MacNiven, tournament agronomist with the European Tour, join the seminar and shared his expertise." >}}
+{{< figure src="graeme.jpg" caption="Graeme MacNiven, tournament agronomist with the European Tour, joined the seminar and shared his expertise." >}}
 
-I didn't prepare slides, and spoke extemporaneously about some of my recent research and about the work I was doing at the Catalunya Championship. Here's a summary.
+I didn't prepare slides, instead speaking extemporaneously about some of my recent research and about the work I was doing at the Catalunya Championship. Here's a summary.
 
 ## Recent research
 
@@ -58,7 +57,7 @@ In that project, we (David, Xavi Giol, and me) had been looking at the organic m
 
 After telling that story, and explaining how the OM246 test is done and how samples are collected, I emphasized two things that I've learned from doing this testing.
 
-First, almost all the change in soil organic material in short term (one growing season type of time frames) happens in the top 2 cm of the rootzone. That's less than an inch---it's just right there at the surface.
+First, almost all the change in soil organic material in the short term (one growing season type of time frames) happens in the top 2 cm of the rootzone. That's less than an inch---it's just right there at the surface.
 
 Second, for samples from all grass types from multiple continents, there is not much change at all in season-long time spans at the deeper depths of 2 to 4 cm and 4 to 6 cm. 
 

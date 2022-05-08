@@ -35,7 +35,7 @@ Here's an excerpt from an email I sent last year, explaining this:
 
 ### Getting started, considering 3 locations
 
-I used the [Dark Sky](https://darksky.net/poweredby/) API to get daily temperature data from each day in 2018 from three locations. That is, I took the latitude and longitude of Hazeltine National GC in Chaska, Minnesota (creeping bentgrass); Keya GC in Itoshima, Japan (manilagrass); and Van Tri GC in Hanoi, Vietnam (seashore paspalum); I then obtained the observed weather conditions from those locations.
+I used the Dark Sky API to get daily temperature data from each day in 2018 from three locations. That is, I took the latitude and longitude of Hazeltine National GC in Chaska, Minnesota (creeping bentgrass); Keya GC in Itoshima, Japan (manilagrass); and Van Tri GC in Hanoi, Vietnam (seashore paspalum); I then obtained the observed weather conditions from those locations.
 
 {{< figure src="genki_level_temps.png" >}}
 
@@ -51,7 +51,7 @@ The GP makes it easy to compare locations. And it is also straightforward to mak
 
 I think it is useful to use the same *standard* N for the calculations, and then to express differences in the way turf is managed as the **genki level**. That makes it easy to compare the relative amount of pushing the grass, or pulling on the grass, between different seasons at the same location, or between different locations.
 
-I've shown here how the temperature can be expressed as a GP and how that GP can be expressed as a *standard* amount of N. Coming up in part 2 and part 3, I'll show the genki level and how much the grass actually did grow. And I'll relate this to the [turfgrass speedo](https://www.turfhacker.com/2018/12/turfgrass-speedo.html) explained by Jason Haines.
+I've shown here how the temperature can be expressed as a GP and how that GP can be expressed as a *standard* amount of N. Coming up in part 2 and part 3, I'll show the genki level and how much the grass actually did grow. And I'll relate this to the [turfgrass speedo](https://fusariummy.blogspot.com/2018/12/turfgrass-speedo.html) explained by Jason Haines.
 
 ### More reading
 
@@ -60,7 +60,7 @@ If you just can't get enough of this stuff, or want more details and examples ab
 * [Using temperature to predict turfgrass growth potential and to estimate turfgrass nitrogen use](http://www.files.asianturfgrass.com/201306_growth_potential.pdf)
 * [Nutrient requirements of tropical turfgrass](http://www.files.asianturfgrass.com/20130311_woods_handout_nutrient_requirements_tropical_turfgrass.pdf)
 * [What fertilizer should I use?](http://www.files.asianturfgrass.com/20130313_woods_handout_fertilizer_choice.pdf)
-* [Turfgrass speedo](https://www.turfhacker.com/2018/12/turfgrass-speedo.html)
+* [Turfgrass speedo](https://fusariummy.blogspot.com/2018/12/turfgrass-speedo.html)
 * [*A Short Grammar of Greenkeeping*](https://leanpub.com/short_grammar_of_greenkeeping) 
 
 
