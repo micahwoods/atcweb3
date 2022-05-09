@@ -27,4 +27,4 @@ The cores are collected in central drums and are emptied in about a minute besid
 
 After that fast and clean coring of the fairways, sand topdressing was applied, and these creeping bentgrass fairways were ready for the upcoming summer season.
 
-{{< figure src="before_after.jpg" >}}
+{{< figure src="before_after.png" >}}

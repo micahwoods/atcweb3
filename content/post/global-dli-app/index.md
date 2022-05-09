@@ -40,13 +40,13 @@ Some results are shown within the app, but they are not formatted for perfect di
 
 That was my objective, to make a downloadable summary chart (like these representative ones shown below for Cairo, Cape Town, New York City, and Tokyo). I hope you'll find this useful. And I hope there aren't too many bugs!
 
-{{< figure library="true" src="cairo_dli.jpg" >}}
+{{< figure src="cairo_dli.jpg" >}}
 
-{{< figure library="true" src="cape_town_dli.jpg" >}}
+{{< figure src="cape_town_dli.jpg" >}}
 
-{{< figure library="true" src="nyc_dli.jpg" >}}
+{{< figure src="nyc_dli.jpg" >}}
 
-{{< figure library="true" src="tokyo_dli.jpg" >}}
+{{< figure src="tokyo_dli.jpg" >}}
 
 
 

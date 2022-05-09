@@ -31,7 +31,6 @@ I used [ImageJ](https://imagej.net/ImageJ) to identify the green leaf coverage s
 This is the pot fertilized with N + P + K on August 24, 178 days after planting.
 
 {{< figure src="imagej_original.jpg" >}}
-![]()
 
 The pots I used were 13.5 cm in diameter. ImageJ starts with the images measured in pixels, and I drew a line and specified that the length was 13.5 cm, so the measurements of green leaf area could be reported in cm<sup>2</sup>.
 
