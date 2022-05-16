@@ -1,11 +1,12 @@
 ---
 widget: slider
-headless: true 
+active: true
+weight: 1
 
 # Use `false` to disable animation or enter a time in ms, e.g. `6000` (5s).
 interval: 6000
 
-weight: 1
+
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.

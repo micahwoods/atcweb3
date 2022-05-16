@@ -14,4 +14,7 @@ header:
   
 image: 
   preview_only: true
+  
+cascade:
+  show_related: true
 ---
