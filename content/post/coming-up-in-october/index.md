@@ -32,7 +32,7 @@ This talk is all about the quantity of grass clippings mown from golf course put
 
 This now starts to be more common in [other places too](https://twitter.com/altshot2/status/883359012191744000).
 
-{{< tweet "883359012191744000" >}}
+{{< tweet user="altshot2" id="883359012191744000" >}}
 
 I'll explain in this presentation how the clippings are collected, what the point of the extra work is, and how the data collected can be put to use. And I'll share some summary data about what is typical in terms of clipping volume and clipping volume variation.
 

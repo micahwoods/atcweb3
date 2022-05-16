@@ -35,7 +35,7 @@ Of course one can find a relationship between firmness and speed by carefully se
 
 First, I've always thought it obvious that this must be the case, with [no need for data](https://www.blog.asianturfgrass.com/2017/06/i-dont-really-need-to-show-any-data-for-this-to-be-certain.html) to be certain that when clipping volume goes up, the speed must go down. You may recall that [Bill Kreuser](https://twitter.com/UNLturf/status/879015787524104194?s=20) had a nice dataset with *no correlation* between clipping yield and green speed.
 
-{{< tweet "879015787524104194" >}}
+{{< tweet user="PGRBill" id="879015787524104194" >}}
 
 I've wanted to explore this further, so I've continued to look at clipping volume and green speed. 
 

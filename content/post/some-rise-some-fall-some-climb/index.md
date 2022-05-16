@@ -38,13 +38,13 @@ That's good use of these data. I predict turf on 14 green will be better for not
 
 Second, Jon Merchant is measuring the clipping volume and finds the grass keeps on growing even more than desired, even with ["no N since May 4th"](https://twitter.com/Walsall_Greens/status/1004339720032309248):
 
-{{< tweet "1004339720032309248" >}}
+{{< tweet user="Walsall_Greens" id="1004339720032309248" >}}
 
 Here's a case where N applications seem to be delayed, skipped, or reduced in order to bring the growth rate to a desired level.
 
 Third, Allan Dewald showed how temperature---and the associated increase in turfgrass growth potential---are ["interacting"](https://twitter.com/allan_dewald/status/1002037683189792774) with clipping yields:
 
-{{< tweet "1002037683189792774" >}}
+{{< tweet user="allan_dewald" id="1002037683189792774" >}}
 
 One can look at forecast temperatures and plan out fertilizer applications to hit the desired growth rates, and then make adjustments on the fly.
 

@@ -14,7 +14,7 @@ image:
 
 When Andrew McDaniel wrote about [#MLSN greens](https://twitter.com/drumcturf/status/897392993186873344), I thought it may be interesting to show a few details of what this is about:
 
-{{< tweet "897392993186873344" >}}
+{{< tweet user="drumcturf" id="897392993186873344" >}}
 
 Keya GC hosts a golf tournament each year at the end of August. Andrew wants to make sure the turf is supplied with enough nutrients throughout the year, and he uses the [MLSN nutrient guidelines]({{< relref "/mlsn" >}}) to accomplish this.
 

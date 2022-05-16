@@ -16,7 +16,7 @@ I recently repeated this analysis for [Turf Twitter in 2018](https://asianturfgr
 
 The [top 50 "influential" accounts](https://twitter.com/asianturfgrass/status/1081322417572655104) for 2018 are here:
 
-{{< tweet "1081322417572655104" >}}
+{{< tweet user="asianturfgrass" id="1081322417572655104" >}}
 
 Adrian Logue has made a similar analysis and ranking of [golf course architecture Twitter accounts](https://twitter.com/AdrianLogue/status/1077995671720873985).
 

@@ -14,9 +14,9 @@ Who would have thought that adding potassium would increase disease? I enjoyed t
 
 You've probably seen [the photos](http://www.blog.asianturfgrass.com/2017/02/the-winters-tale.html). Here are a couple examples.
 
-{{< tweet "712639271258222592" >}}
+{{< tweet user="djsoldat" id="712639271258222592" >}}
 
-{{< tweet "451454212686090240" >}}
+{{< tweet user="djsoldat" id="451454212686090240" >}}
 
 A few highlights from [the abstract](https://ashs.confex.com/ashs/2017/meetingapp.cgi/Paper/25979):
 

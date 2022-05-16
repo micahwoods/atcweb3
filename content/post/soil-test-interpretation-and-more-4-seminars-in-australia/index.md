@@ -20,7 +20,7 @@ In these seminars, I explained that the use of the MLSN guidelines is as simple 
 
 This is a quick summary of the points I highlighted in the seminars.
 
-{{< tweet "864929242827464704" >}}
+{{< tweet user="Livingturf" id="864929242827464704" >}}
 
 1: Soil test calibration involves establishing different levels of nutrients in the soil, growing a grass in those soils, and then evaluating the grass response to different levels of that nutrient. It quickly becomes apparent that these calibrations will be specific to the soil type, grass variety, and climate in which the calibration is done. Doug Soldat called these tests "expensive and time consuming." On a global scale, the word I use to describe this is *impossible*.
 

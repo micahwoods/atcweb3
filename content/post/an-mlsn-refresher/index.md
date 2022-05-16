@@ -16,7 +16,7 @@ Not everyone understands how the MLSN guidelines work.
 
 I saw a [photo](https://twitter.com/drumcturf/status/852291408765493248) shared by Andrew McDaniel followed by a number of replies from [STSAsia](https://twitter.com/STSAsia/status/852794439118471169) exhibiting confusion on the latter's part about the use of the MLSN guidelines.
 
-{{< tweet "852291408765493248" >}}
+{{< tweet user="drumcturf" id="852291408765493248" >}}
 
 <br>
 

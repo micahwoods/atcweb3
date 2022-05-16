@@ -26,7 +26,7 @@ An easy way to relate inches of irrigation or inches of evapotranspiration (ET) 
 
 I was thrilled to see [the calculations](https://twitter.com/PGRBill/status/1405549770651938817) shared by Bill Kreuser. It turns out this is incredibly simple.
 
-{{< tweet "1405549770651938817" >}}
+{{< tweet user="PGRbill" id="1405549770651938817" >}}
 
 Take the depth of water added (or lost) and divide by the depth of the rootzone and you are now in units of VWC. It's that simple, and doing this provides a straightforward way to convert between units of soil VWC and ET and irrigation amounts.
 

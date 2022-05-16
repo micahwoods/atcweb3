@@ -19,12 +19,12 @@ I'm especially interested in how the ball reacts on the greens because there was
 
 Seven. That's one more time than the greens have been sand topdressed in the past three years. Because the greens have only been topdressed twice this year, twice in 2018, and twice in 2017, I wanted to confirm that the surface firmness of the greens was still fine for the tournament. 
 
-{{< tweet "1166125666330234880" >}}
+{{< tweet user="asianturfgrass" id="1166125666330234880" >}}
 
 <br>
 
-{{< tweet "1166131575425077248" >}}
+{{< tweet user="asianturfgrass" id="1166131575425077248" >}}
 
 <br>
 
-{{< tweet "1166137088401530880" >}}
+{{< tweet user="asianturfgrass" id="1166137088401530880" >}}

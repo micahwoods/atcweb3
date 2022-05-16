@@ -16,9 +16,7 @@ image:
   preview_only: true
 ---
 
-There was a discussion on Twitter [about soil moisture and surface hardness](https://twitter.com/PenderSuper/status/439622183115964416). I use the terms *surface hardness* and *surface firmness* interchangeably, but I usually prefer surface hardness.
-
-{{< tweet 439622183115964416 >}}
+I use the terms *surface hardness* and *surface firmness* interchangeably, but I usually prefer surface hardness.
 
 In [the report I prepared in August 2012](http://www.files.asianturfgrass.com/20120802_data_report.pdf) I included this figure, showing the relationship I measured between soil water content (using a [Delta-T Device Theta Probe](https://delta-t.co.uk/product/ml3/) with 6 cm rods) and surface hardness (using a 500 g [Clegg Impact Soil Tester](https://sdinst.com/content/golf-course-firmness-tester-type-cist883-data-logging-bluetooth)).
 

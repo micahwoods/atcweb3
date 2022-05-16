@@ -20,7 +20,9 @@ image:
 projects: []
 ---
 
-In a recent episode of the [Pullin' Weeds](https://podcasts.apple.com/us/podcast/micah-woods/id1448223294?i=1000561410364) podcast, I answered a bevy of hard-hitting questions from host Tim Kreger: "What's my favorite grass? Can MLSN be applied to automobile maintenance? How many species of insects have I eaten? Is clipping volume related to mass or to depth?" 
+In a recent episode of the [Pullin' Weeds](https://podcasts.apple.com/us/podcast/micah-woods/id1448223294?i=1000561410364) podcast, I answered a bevy of hard-hitting questions from host Tim Kreger: 
+
+> What's my favorite grass? Can MLSN be applied to automobile maintenance? How many species of insects have I eaten? Is clipping volume related to mass or to depth?
 
 We also discussed the travels that brought me to South Carolina, and I told some stories about how I ended up doing what I do.
 

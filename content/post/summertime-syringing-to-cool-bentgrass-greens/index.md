@@ -13,7 +13,7 @@ image:
   preview_only: true
 ---
 
-{{< tweet "331193155670118400" >}}
+{{< tweet user="fc3s_13b" id="331193155670118400" >}}
 
 This question about lowering leaf temperature prompted [an extensive discussion](https://twitter.com/asianturfgrass/status/330223824782114817) about the effectiveness of syringing greens. When I was a greenkeeper, I used to syringe[^1] greens on hot summer afternoons. But more recently I've had a chance to study many experiments that have been done about syringing, and knowing what I know now, I wouldn't syringe today. Here's why.
 

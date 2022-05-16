@@ -14,7 +14,7 @@ image:
 
 Golf course architect Paul Jansen and I have discussed favorite golfing destinations, favorite airports, and favorite grasses. He wrote wrote about the [great golfing destination of Vietnam](http://www.jansengolfdesign.com/blog/vietnam-golf-and-just-being-a-tourist/), especially Danang, where he was lead architect for Faldo Design at the spectacular Laguna Lang Co.
 
-{{< tweet "316628843504992256" >}} 
+{{< tweet user="pauljansengolf" id="316628843504992256" >}} 
 
 While I agree with Paul that Vietnam is a great destination for tourism and for golf, my choice is Hokkaido for the best golfing destination in Asia. My recommendation comes with a caveat---the golfing season in Hokkaido is short. But what a season it is! 
 

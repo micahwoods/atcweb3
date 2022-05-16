@@ -24,7 +24,7 @@ image:
 
 Phil Collinson [asked an interesting question](https://twitter.com/PhilColl_ICL/status/1368208113719971851): when calculating N inputs, do greenkeepers account for N added outside of fertilizer?
 
-{{< tweet 1368208113719971851 >}}
+{{< tweet user="PhilColl_ICL" id="1368208113719971851" >}}
 
 Phil mentioned possible N addition from fensoil or compost topdressings, and possible N addition from irrigation water treatments.
 

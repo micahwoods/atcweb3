@@ -12,7 +12,7 @@ image:
 
 There is a really interesting [manga comic](https://en.wikipedia.org/wiki/Manga) this year in the Japanese weekly パーゴルフ (Par Golf) magazine.
 
-{{< tweet "969937627464941568" >}}
+{{< tweet user="drumcturf" id="969937627464941568" >}}
 
 Why is it so interesting? This is a [fictional story based on the KBC Augusta golf tournament](https://twitter.com/drumcturf/status/969937627464941568), and it includes a storyline related to golf course maintenance during the tournament and includes the course superintendent [Andrew McDaniel](https://twitter.com/drumcturf). The story is about the "KBS" Augusta tournament, rather than KBC, and in the manga, the Andrew character is "Daniel-san."
 
@@ -20,7 +20,7 @@ Why is it so interesting? This is a [fictional story based on the KBC Augusta go
 
 Print magazines are a big business in Japan. Go to any convenience store---those are a big business in Japan too---and there will be a rack with all kinds of magazines, including golf weeklies, golf monthlies, and golf magazines that specialize in travel, fashion, and features.
 
-{{< tweet "979488785493737473" >}}
+{{< tweet user="drumcturf" id="979488785493737473" >}}
 
 It is fascinating to see a golf course superintendent and golf course maintenance [included in the mainstream golf media](https://twitter.com/drumcturf/status/979488785493737473) in Japan. This is great exposure and promotion of this industry and the career opportunities available in it.
 

@@ -15,7 +15,7 @@ image:
 
 Mike Richardson shared [an image of aerifying half a green at a time](https://twitter.com/ArkansasTurf/status/1105357071187247104). The purpose of this, the superintendent said, was to always have a good surface for the hole.
 
-{{< tweet "1105357071187247104" >}}
+{{< tweet user="Arkansasturf" id="1105357071187247104" >}}
 
 The comments, and I paraphrase here, ranged from "what a ridiculous and counterproductive way to do it" to "that's a great idea and the golfers love it."
 

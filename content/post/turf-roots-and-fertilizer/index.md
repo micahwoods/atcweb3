@@ -32,7 +32,7 @@ I'd rather have good surfaces than amazing roots.
 
 3- I've been reading about an increase in roots and a simultaneous reduction in organic matter. Jerry Kershasky and I had [a conversation](https://twitter.com/JerryKershasky/status/865718771281010688) about this:
 
-{{< tweet "865718771281010688" >}}
+{{< tweet user="Jerrykershasky" id="865718771281010688" >}}
 
 Let's say one generates massive roots. Like those on the poor surfaces in section 2, above. Or by increasing the N rate (an easy and underrated method for stimulating root growth) as shown in the [precision fertilisation guide](http://www.sterf.org/sv/library/handbooks/fertilisation) from STERF.
 

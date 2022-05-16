@@ -12,7 +12,7 @@ image:
 
 This is a [quick way](https://twitter.com/asianturfgrass/status/1149077795185680384?s=20) to get smoother fairways. The fairways at Bangsai Country Club near Bangkok have been rolled with a 10 ton vibratory road roller to make them smoother and, one presumes, a bit firmer.
 
-{{< tweet "1149077795185680384" >}} 
+{{< tweet user="asianturfgrass" id="1149077795185680384" >}} 
 
 Rolling was done during the rainy season in 2018 and this treatment had such a good effect on the fairways that the 10 ton roller was brought back in 2019.
 

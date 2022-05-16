@@ -22,32 +22,32 @@ He's not kidding. Ok, maybe he was kidding, but we sure had a great time. [Aleja
 
 ### [Leaf nutrient analysis, or tissue testing, and #MLSN](https://twitter.com/Reyes_golf/status/781105631424118784)
 
-{{< tweet "781105631424118784" >}} 
+{{< tweet user="Reyes_golf" id="781105631424118784" >}} 
 
 
 ## 29 September 2016
 
 ### [#ClipVol](https://twitter.com/Reyes_golf/status/781472923743813632)
 
-{{< tweet "781472923743813632" >}} 
+{{< tweet user="Reyes_golf" id="781472923743813632" >}} 
 
 ## 30 September 2016
 
 ### [Disturbance theory, and favoring fescue or bent or poa](https://twitter.com/Reyes_golf/status/781824820023586816)
 
-{{< tweet "781824820023586816" >}}
+{{< tweet user="Reyes_golf" id="781824820023586816" >}}
 
 ## 1 October 2016
 
 ### [Coring, is it really necessary?](https://twitter.com/Reyes_golf/status/782187403436036096)
 
-{{< tweet "782187403436036096" >}} 
+{{< tweet user="Reyes_golf" id="782187403436036096" >}} 
 
 ## 2 October 2016
 
 ### [What's the best paella?](https://twitter.com/Reyes_golf/status/782576364054544385)
 
-{{< tweet "782576364054544385" >}}
+{{< tweet user="Reyes_golf" id="782576364054544385" >}}
 
 ---
 

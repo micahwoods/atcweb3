@@ -35,15 +35,15 @@ Manilagrass survives, and in fact thrives in this climate, where it is provided 
 
 All grasses stop growing in drought conditions. Zoysia stops growing before bermudagrass does. And then when the soil is rewetted, it takes zoysia a long time to start growing again. These photos from side-by-side tests in the USA show the dramatic differences between species.
 
-{{< tweet "1283805717967798273" >}}
+{{< tweet user="UCRturfdrought" id="1283805717967798273" >}}
 
 <br>
 
-{{< tweet "1294416003850317826" >}}
+{{< tweet user="UCRturfdrought" id="1294416003850317826" >}}
 
 <br>
 
-{{< tweet "1281792700816203776" >}}
+{{< tweet user="TravisShaddox" id="1281792700816203776" >}}
 
 <br>
 

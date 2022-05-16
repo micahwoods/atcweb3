@@ -17,7 +17,7 @@ Once upon a time, I was the greenkeeper (golf course superintendent) at a golf c
 
 I was reminded of my adventures in trying to prepare the course for opening by this tweet from Albert Bancroft after a substantial snowfall in Tokyo:
 
-{{< tweet "290960249970634753" >}}
+{{< tweet user="alban3074" id="290960249970634753" >}}
 
 When I was working in Japan, we tried what seemed like everything, from water (not recommended!) to melt the snow, to charcoal ...
 

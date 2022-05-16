@@ -13,7 +13,7 @@ image:
 
 Steve Chappell shared these [photos of snow and ice](https://twitter.com/CentenaryHGK/status/825635231373856768) at Gleneagles, and I joked that it would be nice to play golf in such weather:
 
-{{< tweet "825635231373856768" >}}
+{{< tweet user="Centenaryhgk" id="825635231373856768" >}}
 
 For example, see [Jim Prusa's video of snow removal](https://youtu.be/xmn33S7hHE8?t=3m6s) at SKY72 in Korea.
 

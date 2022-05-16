@@ -12,7 +12,7 @@ image:
 
 I've now uploaded my presentation slides shown at the [Oregon GCSA's](https://twitter.com/OregonGCSA/status/1192230165444608000?s=20) fall meeting. 
 
-{{< tweet "1192230165444608000" >}}
+{{< tweet user="Oregongcsa" id="1192230165444608000" >}}
 
 You can view or download the slides here:
 

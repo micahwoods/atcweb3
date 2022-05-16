@@ -10,9 +10,7 @@ image:
   preview_only: yes
 ---
 
-Jason Haines ([@PenderSuper](https://twitter.com/PenderSuper)) passed 4,000 Twitter followers last week. In the turfgrass industry, that's a lot. But wouldn't it be nice to have more? He asked if [I had any suggestions](https://twitter.com/PenderSuper/status/883749775295758336):
-
-{{< tweet "883749775295758336" >}} 
+Jason Haines passed 4,000 Twitter followers in July 2017. In the turfgrass industry, that's a lot. But wouldn't it be nice to have more? He asked if I had any suggestions about how to get more followers as a superintendent.
 
 I thought that was an interesting question, so I had a quick look. First I got the information for the accounts that I follow and for the accounts that follow me, thinking that will give a pretty good sample of the turfgrass industry. 
 

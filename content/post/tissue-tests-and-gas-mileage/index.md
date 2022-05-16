@@ -14,7 +14,7 @@ I had an interesting conversation a few weeks ago about turfgrass nutrition. The
 
 Well, if you've had this conversation with me before (and [I'm sure many of you have](https://twitter.com/Reyes_golf/status/781105631424118784)), you'll know that I think tissue testing is [a great tool for research](http://www.asianturfgrass.com/2017-08-07-tissue-testing-wrong-target/), but there are [four big reasons I don't like tissue testing](http://www.asianturfgrass.com/2017-08-09-not-tissue-test-3-reasons/) as a way to decide which fertilizers to apply.
 
-{{< tweet "781105631424118784" >}}
+{{< tweet user="Reyes_golf" id="781105631424118784" >}}
 
 And in the conversation a few weeks ago, it suddenly occurred to me that tissue testing is a lot like checking gas mileage (or *fuel economy*, or *miles per gallon*, or *L/100 km*, or whatever one likes to call it). 
 

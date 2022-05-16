@@ -16,7 +16,7 @@ Ryan Goss made a good point in the discussion about how much fertilizer is appli
 
 [^1]: The original blog post was [That's not how it is supposed to work]({{< relref "/post/thats-not-the-way-it-is-supposed-to-work" >}}).
 
-{{< tweet "814615557756440576" >}}
+{{< tweet user="NMSUTurfgrass" id="814615557756440576" >}}
 
 There are two basic scenarios. 
 

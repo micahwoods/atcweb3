@@ -15,13 +15,13 @@ Here's a non-comprehensive list for this year. I've certainly missed lots of awe
 
 * Maggie Reiter showed [this striking aerial image](https://twitter.com/maggie_reiter/status/1199730314009907200?s=20) of herbicide effect over time.
 
-{{< tweet "1199730314009907200" >}}
+{{< tweet user="maggie_reiter" id="1199730314009907200" >}}
 
 * John Dempsey has shared a lot of his slides from [presentations all over the world this year](https://www.slideshare.net/JohnDempsey8). Thank you! 
 
 * Miranda Robinson shared awesome photos, videos, insight, and humour all year. If I had a vote, [this would be tweet of the year](https://twitter.com/turfmow/status/1140961675773956096?s=20).
 
-{{< tweet "1140961675773956096" >}}
+{{< tweet user="turfmow" id="1140961675773956096" >}}
 
 * Bruce Clarke, Paul Vincelli, Paul Koch, and Gregg Munshaw updated the [Chemical Control of Turfgrass Diseases 2020](https://twitter.com/turfmow/status/1140961675773956096?s=20) reference. There's an amazing amount of useful information in those 34 pages.
 

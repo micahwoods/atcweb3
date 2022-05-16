@@ -13,27 +13,21 @@ image:
 
 There was a longish discussion about amino acids and [marketing to educated turf pros](https://twitter.com/BIGTurfTeaching/status/1042134023353577477).
 
-{{< tweet "1042134023353577477" >}}
+{{< tweet user="BIGTurfteaching" id="1042134023353577477" >}}
 
 I wrote about the analogy of airplane fuel requirements related to [soil test calcium and MLSN](https://www.asianturfgrass.com/2018-09-07-airplane-fuel-requirements-calcium-mlsn/).
 
 Chris Chase took some [pre-typhoon pictures](https://twitter.com/HKChase/status/1039480943134691328):
 
-{{< tweet "1039480943134691328" >}}
+{{< tweet user="HKChase" id="1039480943134691328" >}}
 
-Jason Haines talked about [mental health in greenkeeping](https://youtu.be/qylXG7HWwj8).
-
-{{< youtube "qylXG7HWwj8" >}} 
-
-<br>
-
-Jason also wrote about rain and turf growth. I made some calculations related to [nitrogen, rain, and starting point estimates](https://www.asianturfgrass.com/2018-09-12-nitrogen-rain-starting-point-estimates/).
+Jason Haines wrote about rain and turf growth. I made some calculations related to [nitrogen, rain, and starting point estimates](https://www.asianturfgrass.com/2018-09-12-nitrogen-rain-starting-point-estimates/).
 
 The Walking Greenkeeper, Joe Gulotti, started his [The Talking Greenkeeper](https://twitter.com/hardg43/status/1040693377426227202) podcast.
 
 Martin Nilsson showed ["the maximum in funny looking golf course"](https://twitter.com/armadilloen/status/1039401122979557377):
 
-{{< tweet "1039401122979557377" >}}
+{{< tweet user="armadilloen" id="1039401122979557377" >}}
 
 [The Sodfathers](https://soundcloud.com/user-376549797) started podcasting too. This is from "a couple of turf students with a new podcast coming with a comedic take on the green industry." 
 
@@ -43,7 +37,7 @@ I wrote about [shopping for golf magazines at 4 a.m.](https://www.asianturfgrass
 
 Bobby Wolverton took [a picture of topdressing zen](https://twitter.com/csugolfstudio/status/1037658790546612225):
 
-{{< tweet "1037658790546612225" >}} 
+{{< tweet user="csugolfstudio" id="1037658790546612225" >}} 
 
 Video of my presentation about [managing turfgrass diseases in Asia with minimal input](https://www.asianturfgrass.com/2018-09-15-recording-of-my-presentation-about-turf-diseases-in-asia/).
 
@@ -55,7 +49,7 @@ A [12 point checklist](https://www.asianturfgrass.com/2018-09-23-catching-up-on-
 
 Sue Crawford showed [post-summer #MLSN results](https://twitter.com/eastcoastsue1/status/1038852343360565248):
 
-{{< tweet "1038852343360565248" >}} 
+{{< tweet user="eastcoastsue1" id="1038852343360565248" >}} 
 
 Our [morning discussion topics at the 2016 Ryder Cup](https://www.asianturfgrass.com/2018-09-27-what-we-talked-about/).
 
@@ -65,7 +59,7 @@ Doug Soldat taught [this webinar](https://www.turfnet.com/webinar_archives.html/
 
 Aaron Patton [explained why](https://twitter.com/PurdueTurfDoc/status/1044257398167425025) it is bermudagrass and not Bermuda grass or bermuda-grass:
 
-{{< tweet "1044257398167425025" >}} 
+{{< tweet user="PurdueTurfDoc" id="1044257398167425025" >}} 
 
 ["Hell, I did that 30 years ago,"](https://www.asianturfgrass.com/2018-09-29-did-that-30-years-ago/) said Kevin Ross about measuring clipping volume.
 
@@ -73,11 +67,11 @@ Aaron Patton [explained why](https://twitter.com/PurdueTurfDoc/status/1044257398
 
 [Bouncing mowers](https://twitter.com/DirtyBulk/status/1041981901722939392) from Jon Wall:
 
-{{< tweet "1041981901722939392" >}}
+{{< tweet user="DirtyBulk" id="1041981901722939392" >}}
 
 [Severe typhoon damage](https://twitter.com/AGCSA2/status/1042561660047679488) at Shek O in Hong Kong:
 
-{{< tweet "1042561660047679488" >}} 
+{{< tweet user="TheASTMA" id="1042561660047679488" >}} 
 
 [New from Joshi et al.](https://doi.org/10.1016/j.jclepro.2018.09.125): "74% of [survey] respondents were willing to pay an additional premium for a higher quality turfgrass on the golf course fairways"
 
@@ -85,11 +79,11 @@ Murray et al. wrote an international consensus statement on golf and health. You
 
 Jared Stanek showed what overseeding looks like [when the water comes on](https://twitter.com/WyoJared/status/1046066674464694272).
 
-{{< tweet "1046066674464694272" >}}
+{{< tweet user="WyoJared" id="1046066674464694272" >}}
 
 Alejandro Reyes and [the Ryder Cup greenkeeping team](https://twitter.com/JacobsenTurf/status/1046327326529794049), from Jacobsen Turf:
 
-{{< tweet "1046327326529794049" >}}
+{{< tweet user="JacobsenTurf" id="1046327326529794049" >}}
 
 ---
 

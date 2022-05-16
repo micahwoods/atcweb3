@@ -10,7 +10,7 @@ image:
   preview_only: true
 ---
 
-{{< tweet "346048543250841601" >}}
+{{< tweet user="fc3s_13b" id="346048543250841601" >}}
 
 Have you seen one of these before? Do you know its use?
 

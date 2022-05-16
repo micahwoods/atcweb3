@@ -29,9 +29,7 @@ This is really useful for turfgrass management, as a starting point estimate for
 
 ### An example of the starting point estimate
 
-Jason Haines wrote a few days ago that ["the rains have brought an increased growth rate despite applying almost no fertilizer in the last month."](https://twitter.com/PenderSuper/status/1038544627505057792)
-
-{{< tweet "1038544627505057792" >}}
+Jason Haines wrote at the end of summer in 2018 that "the rains have brought an increased growth rate despite applying almost no fertilizer in the last month."
 
 I wondered how this model might make some estimates related to changes in soil moisture content. I got temperature data from the Pender Harbour GC location using the [Dark Sky API](https://darksky.net/dev/docs). Then I estimated N mineralization using equations based on the Gilmour and Mauromoustakos model.
 

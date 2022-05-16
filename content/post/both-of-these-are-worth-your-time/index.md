@@ -25,7 +25,7 @@ This is a really good article for referencing what is standard in 2016, but I'm 
 
 The second item is the [recent TurfNet Radio podcast](http://www.turfnet.com/blog/4/entry-1328-frankly-speaking-chris-tritabaugh-on-managing-for-the-ryder-cup/) with Frank Rossi and Chris Tritabaugh about managing for the Ryder Cup. If you listen to this, you will find that they discuss organic matter on putting greens (and a lot of other interesting things), but if you haven't heard, there has been [no core aeration on the greens at Hazeltine since 2013](https://twitter.com/ct_turf/status/782189319616364544).
 
-{{< tweet "782189319616364544" >}}
+{{< tweet user="ct_turf" id="782189319616364544" >}}
 
 The article says coring provides the most consistent results, and the podcast explains how greens are managed to a high standard without coring. It's good to be informed about this topic, so that you can be sure to make the right choices for any turf that you manage.
 

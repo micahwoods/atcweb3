@@ -13,7 +13,7 @@ Golf architect [Paul Jansen](https://twitter.com/pauljansengolf) is in the midst
 
 What kind of places is he visiting? Do you [recall Nuwara Eliya](https://www.blog.asianturfgrass.com/2012/04/turfgrass-mystery-what-grass-is-this.html)? C.V. Piper wrote about the club in _Turf for Golf Courses_. When Piper visited, the course was already 22 years old! And that was 116 years ago. How good is the [turf at Nuwara Eliya](https://twitter.com/pauljansengolf/status/855200982715596800) today? Pretty impressive. The fairways are primarily narrowleaf carpetgrass (_Axonopus affinis_) and kikuyugrass (_Pennisetum clandestinum_), and Paul has shared some stunning images of the fairways at this club that was founded in 1889.
 
-{{< tweet "855200982715596800" >}}
+{{< tweet user="pauljansengolf" id="855200982715596800" >}}
 
 I find it especially interesting to follow this tour. Some of the reasons include:
 

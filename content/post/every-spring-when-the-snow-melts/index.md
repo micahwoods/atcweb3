@@ -20,19 +20,19 @@ I look forward to some photos from Doug Soldat. For many years, he's had some fa
 
 In the spring of 2014, there was [more snow mold where K was applied](https://twitter.com/djsoldat/status/451454212686090240).
 
-{{< tweet "451454212686090240" >}}
+{{< tweet user="djsoldat" id="451454212686090240" >}}
 
 ### Spring of 2015
 
 The next year, there was also [more snow mold where K was applied](https://twitter.com/djsoldat/status/579280933104152578).
 
-{{< tweet "579280933104152578" >}}
+{{< tweet user="djsoldat" id="579280933104152578" >}}
 
 ### Spring of 2016
 
 Again, [more snow mold where K was applied](https://twitter.com/djsoldat/status/712639271258222592).
 
-{{< tweet "712639271258222592" >}}
+{{< tweet user="djsoldat" id="712639271258222592" >}}
 
 ---
 

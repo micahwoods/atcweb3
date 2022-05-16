@@ -34,7 +34,7 @@ I've been asked various times what the relation is, or if there is a correlation
 
 Last year [I saw this](https://twitter.com/drumcturf/status/1205329909704318976?s=20) from the Presidents Cup.
 
-{{< tweet "1205329909704318976" >}}
+{{< tweet user="drumcturf" id="1205329909704318976" >}}
 
 That's pretty firm. The Clegg still gives a reading. And it gives a value that is exactly in line with what I'd expect for really firm greens. I heard that the ball bearing drop (the Precision tool in images above) was difficult, perhaps impossible to use on those greens, because the bearing wasn't making an indentation in the greens. Thus, the firmness could not be assessed by that method.
 

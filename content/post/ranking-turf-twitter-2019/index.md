@@ -14,7 +14,7 @@ I recently completed an analysis of Turf Twitter in 2019, with the [searchable r
 
 Based on the number of followers, mentions of the account, the favorites and retweets and quotes of that accounts' tweets, and the number of tweets sent from the account, these are the [top 50 "influential" accounts](https://twitter.com/asianturfgrass/status/1213109021747503105) for 2019:
 
-{{< tweet "1213109021747503105" >}}
+{{< tweet user="asianturfgrass" id="1213109021747503105" >}}
 
 For more like this, see:
 

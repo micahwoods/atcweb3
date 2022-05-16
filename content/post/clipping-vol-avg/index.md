@@ -11,7 +11,7 @@ image:
 
 It is really interesting, for me at least, to see how much grass grows. One way to put a number to how much grass grows is to measure the clipping volume of the grass mown from an area. With putting greens, for example, the baskets are going to be emptied anyway, so why not record how many clippings are in the baskets? It [doesn't take much time](https://twitter.com/asianturfgrass/status/918212669521379328).
 
-{{< tweet "918212669521379328" >}}
+{{< tweet user="asianturfgrass" id="918212669521379328" >}}
 
 After one has the measurement, it may look something like this. These are the clipping volumes for 19 greens (18 holes plus the practice green) on a golf course in Japan that was mown 189 out of 273 days from January 1 through September 30 this year.
 

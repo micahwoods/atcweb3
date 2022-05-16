@@ -18,7 +18,7 @@ The MLSN guidelines are an excellent way to do this, because they make a fertili
 
 I'll explain how this works to answer an [interesting question](https://twitter.com/planterraturf/status/893137371595669504) that I received a few days ago. This is in reference to K.
 
-{{< tweet "893137371595669504" >}}
+{{< tweet user="planterraturf" id="893137371595669504" >}}
 
 The usual conversion from pounds per acre to parts per million (ppm) is to divide by 2, so I'll guess that the soil test was about 24 ppm (below the MLSN guideline of 37 ppm) and after application of 175 lbs K (I'll assume this is elemental K rather than K<sub>2</sub>O for the purposes of the calculation) the soil is now at 26 ppm. Addition of 175 lbs K/acre is about 20 g K m<sup>-2</sup>.
 

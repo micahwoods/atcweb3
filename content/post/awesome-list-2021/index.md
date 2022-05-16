@@ -33,11 +33,11 @@ Devon Carroll's [review article](https://doi.org/10.1002/csc2.20441) about *Poa 
 
 Charlie Goode shared the kind of [turfgrass archaeology photo](https://twitter.com/GoodeTurf/status/1389338041659977731?s=20) that one can study for a long time. Do I see a Huesgen layer there? 
 
-{{< tweet "1389338041659977731" >}}
+{{< tweet user=GoodeTurf" id="1389338041659977731" >}}
 
 Bjarni Hannesson helped me out numerous times with some really poor original audio. And he [offers his audio engineering expertise](https://twitter.com/BHannesson/status/1428828756672753666?s=20) to anyone in the industry. "Need help with bad audio on your turf videos," he says, "I can help. But it has to be turf related."
 
-{{< tweet "1428828756672753666" >}}
+{{< tweet user="BHannesson" id="1428828756672753666" >}}
 
 I read two superb articles by Michael Bekken this year.
 
@@ -53,11 +53,11 @@ The link I have is broken already, but remember the ladies from Accordia Golf vo
 
 Greens Pro/Midlife made some great stuff last year. I especially liked the ["I'm up"](https://twitter.com/GreensPro/status/1426565209724960771) video.
 
-{{< tweet "1426565209724960771" >}}
+{{< tweet user="Greenspro" id="1426565209724960771" >}}
 
 Andrew McDaniel's lawn is so impressive that it makes the awesome list for another year. 
 
-{{< tweet "1370360274398502912" >}} 
+{{< tweet user="drumcturf" id="1370360274398502912" >}} 
 
 Chris Tritabaugh had a couple really good articles this year. Remember the awesome one about [clipping volume](https://www.gcmonline.com/course/maintenance/news/clipping-volume-turfgrass) from *GCM*? How about his [Stimpmeter Love Story](https://ct-turf.medium.com/stimpmeter-a-love-story-8130df4cba1a)?
 

@@ -30,13 +30,13 @@ Fortunately, data on green speed are easy to obtain, so if silica application re
 
 Jason Hooper sees the benefit not as something to increase green speed, but from silica application for plant defense against pests:
 
-{{< tweet "571710872759844864" >}}
+{{< tweet user="superjhooper" id="571710872759844864" >}}
 
 Continuing that discussion, I pointed out (with [the help of John Dempsey](https://twitter.com/J_J_Dempsey/status/571796566647939072)) that silica application (in this case, calcium silicate) can also [cause a dramatic increase in turf disease](http://ticpass.lib.msu.edu/cgi-bin/flink.pl?recno=204960), especially with brown patch. So although I think Si application to turf is something worth investigating, and because the reported results are so divergent, Si is something that especially calls for a check plot.
 
 Jason pointed out that MLSN might not be all good either, and that with low levels of N, if that is what the MLSN guidelines were recommending, there could be increased disease too, particularly dollar spot and anthracnose:
 
-{{< tweet "571866760674033664" >}}
+{{< tweet user="superjhooper" id="571866760674033664" >}}
 
 I want to explain that now, because grass with low N in the leaves is more prone to dollar spot or anthracnose when the other conditions are right for those diseases.
 

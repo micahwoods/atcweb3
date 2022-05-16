@@ -13,7 +13,7 @@ image:
 
 When I saw [this photo](https://twitter.com/ct_turf/status/618752954884038656) captioned "a little potassium replenishment being applied," I asked "replenishment from what loss?" As I found out, the potassium (K) was being applied after a heavy rain event.
 
-{{< tweet "618752954884038656" >}}
+{{< tweet user="ct_turf" id="618752954884038656" >}}
 
 I don't think it is necessary to apply K after a heavy rainfall. Potassium fertilization can be made a lot simpler by ensuring the grass is supplied with enough K to meet all the grass requirements, and to ensure the soil stays above the MLSN guideline. The approach I advocate will ensure the grass has more than enough K, and will avoid unnecessary K applications.
 

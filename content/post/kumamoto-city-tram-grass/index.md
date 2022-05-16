@@ -26,7 +26,7 @@ Here are a few photos. The grass was looking the best I have ever seen it. I exp
 
 After I shared [a few of these photos on Twitter](https://twitter.com/asianturfgrass/status/1169756438635237376), I was asked how the grass was mowed. And a couple people sent videos that showed the impressive mowing machine used in Kagoshima.
 
-{{< tweet "1169756438635237376" >}}
+{{< tweet user="asianturfgrass" id="1169756438635237376" >}}
 
 I don't know if this same type of machine is used to care for the grass on the Kumamoto City Tram system. 
 

@@ -42,7 +42,7 @@ During August, the temperatures at Keya GC are hot, and there is a lot of N mine
 
 But by October, the GL is now more than the speedo. That indicates that the grass is being pushed to grow but isn't responding during that same time duration. The temperatures are getting cool in October; the growth of korai slows dramatically by October in Fukuoka but by supplying N the [green color of the turf](https://twitter.com/drumcturf/status/790395640932995073) can be retained into the winter. Here are photos from Keya in October a couple years ago:
 
-{{< tweet "790395640932995073" >}}
+{{< tweet user="drumcturf" id="790395640932995073" >}}
 
 In the next charts, I show all the months in which the greens were mown, and I show also for Hazeltine National GC and for Van Tri GC. I've also normalized this in one more way; I've set the maximum growth for the speedo at 600 mL m<sup>-2</sup> month<sup>-1</sup> for all the locations. 
 

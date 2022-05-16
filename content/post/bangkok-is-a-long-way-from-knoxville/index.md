@@ -71,7 +71,7 @@ In parks, palace lawns, and temples, one tends to find tropical carpetgrass (_Ax
 
 We were lucky with the weather for that time of year. With 22 golf courses visited, we got rained out zero times. Normal weather in July at Bangkok will have 155 mm of rain and 13 rainy days.
 
-{{< tweet "753952701445120000" >}}
+{{< tweet user="turfblade" id="753952701445120000" >}}
 
 We saw a bit of rain, but not enough to interfere with our work.
 

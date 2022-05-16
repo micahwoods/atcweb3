@@ -27,7 +27,7 @@ Another reason is to understand what is happening on different areas of the same
 
 There will be some variation from subsample to subsample, but how much is normal? 
 
-{{< tweet "1279330051180441601" >}}
+{{< tweet user="BertSandell" id="1279330051180441601" >}}
 
 Bert shared that in this set of samples, at the 0 to 25 mm depth (1 inch---I prefer cutting to 20 mm for even more precision, but 20 and 25 mm are practically the same), the mean was 58 g/kg (5.8%) and the standard deviation was 6.5 g/kg (0.65%). 
 

@@ -30,13 +30,13 @@ How can we avoid the misuse of fertilizer, and instead take advantage of this "n
 
 * James Sergeant described the results he is getting with these techniques. In short, ["Members very happy visitors envious!"](https://twitter.com/lonegreenkeeper/status/1010253951231512577)
 
-{{< tweet "1010253951231512577" >}}
+{{< tweet user="lonegreenkeeper" id="1010253951231512577" >}}
 
-* Jason Haines wonders if [feast or famine](http://www.turfhacker.com/2018/06/is-feast-or-famine-beneficial.html) nutrient applications may be better than light and frequent.
+* Jason Haines wonders if [feast or famine](https://fusariummy.blogspot.com/2018/06/is-feast-or-famine-better-than-light.html) nutrient applications may be better than light and frequent.
 
 * Just yesterday, Andrew McDaniel [showed surfaces (and roots)](https://twitter.com/drumcturf/status/1010330051689107456) produced without application of fertilizer P, Ca, or carbon---except the C in urea---for the past five years.
 
-{{< tweet "1010330051689107456" >}}
+{{< tweet user="drumcturf" id="1010330051689107456" >}}
 
 * To learn more about MLSN, I recommend [the MLSN cheat sheet](https://www.asianturfgrass.com/2018-02-03-new-mlsn-cheat-sheet/).
 

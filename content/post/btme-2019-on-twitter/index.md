@@ -176,7 +176,7 @@ These were the top 10 tweets ranked by number of retweets as of this morning.
 
 There were a lot of tweets with "media"---photos or videos---shared during BTME. [This was the media tweet](https://twitter.com/SeanPower747/status/1086336859347783681) with the most favorites:
 
-{{< tweet "1086336859347783681" >}}
+{{< tweet user="Seanpower747" id="1086336859347783681" >}}
 
 What were people tweeting about? I looked at all the words used in the 1,202 tweets, excluding some common [stop words](https://en.wikipedia.org/wiki/Stop_words) and excluding BTME and excluding Harrogate.
 

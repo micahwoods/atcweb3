@@ -29,7 +29,7 @@ In the presentation, I mentioned the article [A Year of Measuring Putting Green 
 
 In the video I put together today I rushed through these topics. During the seminar I spoke for a more leisurely 45 minutes about these same things, and then [Andrew McDaniel](https://twitter.com/asianturfgrass/status/1198772920258113537?s=20), the greenkeeper and assistant general manager of Keya GC in Japan, spoke about his work.
 
-{{< tweet "1198772920258113537" >}}
+{{< tweet user="asianturfgrass" id="1198772920258113537" >}}
 
 
 

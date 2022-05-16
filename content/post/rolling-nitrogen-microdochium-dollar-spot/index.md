@@ -24,7 +24,7 @@ With N fertilizer, I'd think of it in terms of [how much growth]({{< relref "/po
 
 And while we are on the subject of rolling, how about circle rolling this green, [NASCAR style](https://twitter.com/asianturfgrass/status/1239803548835016705?s=20), in Thailand. 
 
-{{< tweet "1239803548835016705" >}}
+{{< tweet user="asianturfgrass" id="1239803548835016705" >}}
 
 Here's a similar type of roller on a football pitch near Bangkok.
 

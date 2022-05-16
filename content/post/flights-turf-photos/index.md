@@ -41,8 +41,6 @@ I was in Bangkok and went to a restaurant in beautiful landscape near the Chao P
 
 I saw the pitch at Suphanburi in April, and a couple weeks ago I saw the announcement for the best ground of 2019. Congratulations!
 
-{{< tweet "1207615267552911360" >}}
-
 {{< figure src="colour_hua_hin.jpg" caption="May: end of dry season colours in Hua Hin" >}}
 
 More about consistency. I played two rounds at Royal Hua Hin in 2019. First in May, then again in October. The conditions have been excellent. I wrote a [blog post about that](https://www.asianturfgrass.com/2019-06-05-turf-consistency-color/) and showed more photos of this superb holiday destination. It's got elephant riding at a winery, and an amazing birdie dance photo too.
@@ -59,7 +57,7 @@ Right beside the Ping River in Chiang Mai you can find beautiful lawns and lands
 
 I had a great time at the US Open and talked about grasses in California and around the world with a lot of people. One grass I didn't see around the 7<sup>th</sup> green was zoysia. [Maggie Reiter](https://twitter.com/maggie_reiter) and [Eric Johnson](https://twitter.com/altshot2) and I went on a botanizing expedition at Spyglass Hill, but we couldn't find any zoysia.
 
-{{< tweet "1138933682943643653" >}}
+{{< tweet user="asianturfgrass" id="1138933682943643653" >}}
 
 {{< figure src="mammoth_birdie.jpg" caption="June: one of two mammoth birdie dances" >}}
 

@@ -32,7 +32,7 @@ projects: ["turf-twitter"]
 
 I've repeated an analysis of tweets and accounts from another year in the turf industry. Last week I [shared some overall results](https://twitter.com/asianturfgrass/status/1345366768156459009) and category-specific rankings.
 
-{{< tweet "1345366768156459009" >}}
+{{< tweet user="asianturfgrass" id="1345366768156459009" >}}
 
 The searchable [Turfgrass Twitter 2020](https://asianturfgrass.shinyapps.io/turf_twitter_2020/) Shiny app has all the results.
 

@@ -22,7 +22,7 @@ The idea that golf courses in Japan with the two green system have a _summer_ gr
 
 Trevor Dormer and I had a [brief discussion](https://twitter.com/GolfIntegrative/status/868770718678306817) about this.
 
-{{< tweet "868770718678306817" >}}
+{{< tweet user="GolfIntegrative" id="868770718678306817" >}}
 
 Survey data I looked at some years ago showed 37% of courses in Japan use the two green system. That number will be slightly lower today. But I expect most courses with the two green system will have two bentgrass greens. 
 

@@ -13,8 +13,7 @@ image:
 
 Cale Bigelow asked me an [important question](https://twitter.com/BIGTurfTeaching/status/1143712753460371459) last month. I'd suggested that measuring the total organic matter over time is a way "to simultaneously produce a putting surface with the desired characteristics while minimizing the amount of disruptive work done to the putting surface."
 
-
-{{< tweet "1143712753460371459" >}}
+{{< tweet user="BIGturfteaching" id="1143712753460371459" >}}
 
 Cale asked about the sampling, specifically the number of cores to take and the sample volume. 
 

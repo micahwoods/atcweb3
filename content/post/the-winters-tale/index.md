@@ -14,7 +14,7 @@ image:
 
 Doug Soldat has [photos showing  more snow mold](https://twitter.com/djsoldat/status/833702016652365824) where potassium fertilizer was applied. Where potassium was not applied, there is less snow mold.
 
-{{< tweet "833702016652365824" >}}
+{{< tweet user="djsoldat" id="833702016652365824" >}}
 
 [This photo](https://twitter.com/djsoldat/status/833702016652365824), starting in the top right plot with the lowest amount of snow mold, and going clockwise, is:
 
