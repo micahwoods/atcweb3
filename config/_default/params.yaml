@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: m
+  font_size: L
 
 # SEO
 
@@ -41,12 +41,14 @@ header:
 
 # Site footer
 
-i_am_a_sponsor: true
-
 footer:
   copyright:
     notice: '© 2006--{year} [Asian Turfgrass Center](https://www.asianturfgrass.com/). This site made with [Wowchemy](https://wowchemy.com/) & [Hugo](https://gohugo.io/).'
-
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
 
@@ -56,9 +58,6 @@ locale:
   address_format: en-us
 
 # Site features
-
-section_pager: true
-show_related: true
 
 features:
   syntax_highlighter:
@@ -84,19 +83,12 @@ features:
       show_count: true
     commento:
       url: ''
-  # search:
-  #   provider: wowchemy
-  #   algolia:
-  #     app_id: ''
-  #     api_key: ''
-  #     index_name: ''
-  #     show_logo: false
   search:
-    provider: wowchemy
+    provider: algolia
     algolia:
-      app_id: 'IIVNQT87S5'
-      api_key: '97eaa6e0ca2f48a52bd5cb4b45a5e721'
-      index_name: 'netlify_42333bde-3158-439e-9846-64e6abf25f0c_master_all'
+      app_id: '5DHGESJLP4'
+      api_key: 'd64fcd206975d583cc9ff63df49a23bb'
+      index_name: 'wow_atc'
       show_logo: true
   map:
     provider: ''
