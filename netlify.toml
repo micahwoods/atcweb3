@@ -1,5 +1,6 @@
 [build]
   command = "hugo --gc --minify -b $URL"
+  base = "atcweb3/"
   publish = "public"
 
 [build.environment]
