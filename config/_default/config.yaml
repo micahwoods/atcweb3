@@ -56,8 +56,9 @@ permalinks:
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
+## removed redirects from the list of home outputs
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest, headers]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
