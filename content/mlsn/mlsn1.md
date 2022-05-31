@@ -56,7 +56,7 @@ Download the [current guidelines](https://www.paceturf.org/PTRI/Documents/1202_r
 
 Get the [MLSN cheat sheet](http://files.asianturfgrass.com/mlsn_cheat_sheet.pdf).
 
-Sign up for the [MLSN newsletter](#newsletters).
+Sign up for the [MLSN newsletter](https://subscribepage.com/atc_newsletters).
 
 Read our *Golf Course Management* article [Just what the grass requires](http://www.files.asianturfgrass.com/201401_woods_et_al_gcm_mlsn.pdf).
 
