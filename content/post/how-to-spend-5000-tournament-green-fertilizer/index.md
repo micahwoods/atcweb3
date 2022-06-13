@@ -12,7 +12,7 @@ image:
   preview_only: yes
 ---
 
-I don't often write about this, because I assume everyone knows it. But I've read a few things recently about amazing sums of money being saved by changing the way of fertilizing, all while getting the same or better turf conditions. See for example [this (69% savings)](https://www.bradrevillturf.com/goingagainstthegrain/23/5/2017/mlsn-nikanti-gc-reducing-expenses-and-inputs-since-2016) or [this (~$150,000 reduction)](http://www.blog.asianturfgrass.com/2017/01/this-is-one-more-post-the-financial-controllers-might-not-want-to-see.html) or [this (82% savings)](http://www.asianturfgrass.com/2017-07-05-saving-82-percent-gsr/). 
+I don't often write about this, because I assume everyone knows it. But I've read a few things recently about amazing sums of money being saved by changing the way of fertilizing, all while getting the same or better turf conditions. See for example [this (69% savings)](https://brtagronomy.com/goingagainstthegrain/mlsn-nikanti-gc-reducing-expenses-and-inputs-since-2016) or [this (~$150,000 reduction)](https://www.asianturfgrass.com/post/this-is-one-more-post-the-financial-controllers-might-not-want-to-see/) or [this (82% savings)](http://www.asianturfgrass.com/2017-07-05-saving-82-percent-gsr/). 
 
 I'm glad to read about these kind of success stories, but that they even exist suggests to me that not everyone realizes how much it needs to cost to produce high quality turf. There are a lot of ways to produce high quality turf. Some cost more than others.
 
