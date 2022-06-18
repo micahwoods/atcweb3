@@ -7,7 +7,8 @@ tags:
   - bermudagrass
   - climate
   - Japan
-  - zoysia
+  - Zoysia
+  - playability
 image:
   preview_only: true
 ---
@@ -43,11 +44,3 @@ To put this amount of sunshine --- 2.4 hours per day on average at Maebaru durin
 Atlanta and Fukuoka are at a similar latitude. On average, there are 8.3 hours of sunshine per day in Atlanta during August. There were [zero days](https://www.data.jma.go.jp/obd/stats/etrn/view/daily_s1.php?prec_no=82&block_no=47807&year=2014&month=08&day=&view=) in August 2014 with that much sunshine at the Fukuoka weather station.
 
 The reason for choosing korai instead of bermuda in East and Southeast Asia is that korai doesn't die. Imagine growing bermudagrass greens and trying to prepare them for a tournament when the amount of sunshine is less than London in February or Portland in January, or when not a single day for a month has as much sunshine as an average day in Atlanta.
-
-For more about this, see:
-
-* [A note on light and grass selection in warm-season areas](https://www.blog.asianturfgrass.com/2014/05/a-note-on-light-and-grass-selection-in-warm-season-areas.html)
-
-* [Sunshine, zoysia, and grass performance in Asia](https://www.blog.asianturfgrass.com/2012/02/sunshine-zoysia-and-grass-performance-in-asia.html)
-
-* [Of trees, turf, and tropical tournament golf](https://www.blog.asianturfgrass.com/2014/05/of-trees-turf-and-tournament-golf.html)
