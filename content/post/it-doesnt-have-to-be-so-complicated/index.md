@@ -1,28 +1,29 @@
 ---
+
+title: It doesn't have to be so complicated
+authors: [admin]
 date: "2018-07-15T00:00:00Z"
-share-media: https://c1.staticflickr.com/1/843/28417208667_ba7d4f694c_b_d.jpg
-subtitle: 3 conversations about sodium, salt, and salinity
+subtitle: Three conversations about sodium, salt, and salinity
 tags:
 - salinity
 - soil
 - sand
 - irrigation
 - water
-title: It doesn't have to be so complicated
-authors: [admin]
+
 image:
   preview_only: true
 ---
 
-Irrigation water quality, salinity, gypsum, and sodium---I'm not even going to mention the problems that bicarbonate doesn't cause---are topics that are sure to stir up some discussion. I shared a couple old blog posts last week, related to sodium, sodicity, and gypsum, and sure enough, there were all kinds of responses, with much of it taking a tangent from what the blog posts were about. 
+Irrigation water quality, salinity, gypsum, and sodium---I'm not even going to mention the problems that bicarbonate doesn't cause---are topics that are sure to stir up some discussion.
 
-I'm writing this post to put links to those old posts into one place, and to share excerpts from three recent conversations that might clarify some solutions, and the simplicity of the solutions, *especially* when dealing with turf growing in a sand rootzone.
+I'm writing this to put links to a few old posts abot sodium and salinity into one place, and to share excerpts from three recent conversations that might clarify some solutions, and the simplicity of the solutions, *especially* when dealing with turf growing in a sand rootzone.
 
-## 3 old articles about salinity and sodicity
+## 3 articles about salinity and sodicity
 
-* [Is sodium an imaginary problem?](http://www.blog.asianturfgrass.com/2015/02/is-sodium-an-imaginary-problem.html)
-* [Soil and water management: 3 problems, 3 solutions](http://www.seminar.asianturfgrass.com/water_and_soil_handout.html)
-* [No matter how much sodium one puts into a sand rootzone, the soil structure cannot be affected, so gypsum won't be required](http://www.blog.asianturfgrass.com/2017/06/no-matter-how-much-sodium-one-puts-into-a-sand-rootzone-the-soil-structure-cannot-be-affected-so-gyp.html)
+* [Is sodium an imaginary problem?]({{< relref "/post/is-sodium-an-imaginary-problem" >}})
+* [Soil and water management: 3 problems, 3 solutions]({{< relref "/post/soil-water-management-3-problems-with-solutions" >}})
+* [No matter how much sodium one puts into a sand rootzone, the soil structure cannot be affected, so gypsum won't be required]({{< relref "/post/no-matter-how-much-sodium-one-puts-into-a-sand-rootzone" >}})
 
 From that last one, I wrote about how to classify the problems, and how to find the solutions for each one:
 
@@ -70,13 +71,13 @@ My correspondent wrote back with more information: "Our EC is 0.58 [dS/m] and TD
 
 I concluded with this: "Those are negligible salt levels. I'd worry about total water content in the soil. Keep that in the optimum range for your turf and you should be fine."
 
-See Harivandi's [Interpreting Turfgrass Irrigation Water Test Results](http://anrcatalog.ucanr.edu/pdf/8009.pdf) for more details. Water with that much salt is classified as **Degree of restriction on use: none**.
+See Harivandi's [Interpreting Turfgrass Irrigation Water Test Results](https://anrcatalog.ucanr.edu/pdf/8009.pdf) for more details. Water with that much salt is classified as **Degree of restriction on use: none**.
 
 Take home message: understand threshold salinity levels that might cause problems, and stay safely away from them.
 
 ### 3. Salt and *physiological drought*
 
-Tom Calder [asked](https://twitter.com/tomosocanoso/status/1017892794751336448), "if we do have salts in our soils, is the concern/problem more about the salts almost stealing the water from the plant like a sponge?" 
+Tom Calder asked, "if we do have salts in our soils, is the concern/problem more about the salts almost stealing the water from the plant like a sponge?" 
 
 That's kind of the problem, although I like to think of it more in terms of salinity reduces the availability of water to the grass, and because of that it reduces the growth rate of the grass. Here are two technical descriptions of this from textbooks:
 
