@@ -53,14 +53,14 @@ content:
         text: 'Sign up to ATC newsletters'
         url: 'https://subscribepage.com/atc_newsletters'
     - title: ATC Office Hours
-      content: 'Office Hours podcast with turf managers, scientists, and students, about grass around the world.'
-      align: center
-      background: 
-        position: center
-        media: headers/banyan.jpg
       link: 
         icon: podcast
         icon_pack: fas
         text: "Listen to ATC Office Hours"
         url: 'https://atc-office-hours.transistor.fm'
+      content: 'Office Hours podcast with turf managers, scientists, and students, about grass around the world.'
+      align: center
+      background: 
+        position: center
+        media: headers/banyan.jpg
 ---
