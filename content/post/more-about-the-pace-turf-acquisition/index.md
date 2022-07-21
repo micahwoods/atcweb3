@@ -30,7 +30,7 @@ It was no surprise to me, therefore, that at the recent International Turfgrass 
 
 Here's how I answered those inquiries.
 
-First, Larry and Wendy have put together such a valuable library of information, and I want to make sure this continues to be available. As an example, subscribers to the PACE Turf information service can access reference guides on topics ranges from algae to zebra mussels, and pretty much everything in between. Curious about black layer,  brown patch, disease diagnostic laboratories, flea beetles, irrigation audits, turf photography guides, golfer education, or water quality? You'll find that, and much more, in the [Reference](https://www.paceturf.org/reference) section of the website. 
+First, Larry and Wendy have put together such a valuable library of information, and I want to make sure this continues to be available. As an example, subscribers to the PACE Turf information service can access reference guides on topics ranging from algae to zebra mussels, and pretty much everything in between. Curious about black layer,  brown patch, disease diagnostic laboratories, flea beetles, irrigation audits, turf photography guides, golfer education, or water quality? You'll find that, and much more, in the [Reference](https://www.paceturf.org/reference) section of the website. 
 
 {{< figure src="references.jpg" caption="The **Reference** section (subscriber-only) is a rapid directory to guidance on pretty much every turfgrass issue you could imagine." >}}
 
@@ -46,7 +46,7 @@ Of course I'll be adding my own view of turfgrass management as well. I've been 
 
 I said again and again that "this is an exciting opportunity," or something to that effect. And it is. I've used information from PACE Turf since I was a young golf course superintendent myself, 25 years ago. I've used information from PACE Turf in my work ever since. I've been fortunate to collaborate with Larry and Wendy on projects such as the [MLSN](https://www.paceturf.org/journal/minimum_level_for_sustainable_nutrition) guidelines for soil test interpretation. And to now be in charge of PACE Turf myself, it really is exciting.
 
-A few people asked me about where I'll live, and if I will merge ATC and PACE Turf, or how that will all work. No changes are planned in that regard. I plan to operate both ATC and the PACE Turf information service as separate entities for now, and to do so from wherever I happen to be in the world. 
+A few people asked me about where I'll live, and if I will merge ATC and PACE Turf, or how that will all work. No changes are planned in that regard at the moment. I plan to operate both ATC and the PACE Turf information service as separate entities for now, and to do so from wherever I happen to be in the world.
 
 
 
