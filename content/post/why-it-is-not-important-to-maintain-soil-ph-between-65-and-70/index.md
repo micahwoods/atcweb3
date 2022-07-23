@@ -12,7 +12,7 @@ image:
   preview_only: true
 ---
 
-I read a post on the Golfdom Daily about soil pH in which it was suggested that it was important to maintain soil pH in the range from 6.5 to 7.0. The reason was given "that most nutrients (whether applied or in the soil) are readily available to the plant in this pH range. Outside of this range many nutrients (both macro- and micro-nutrients) are not readily available to the plant."
+I read a post on the [Golfdom Daily](http://golfdom.blogspot.com/2012/09/turf-toughie-take-our-one-question-exam.html) about soil pH in which it was suggested that it was important to maintain soil pH in the range from 6.5 to 7.0. The reason was given "that most nutrients (whether applied or in the soil) are readily available to the plant in this pH range. Outside of this range many nutrients (both macro- and micro-nutrients) are not readily available to the plant."
 
 {{< figure src="golfdom_daily.jpg" >}}
 
