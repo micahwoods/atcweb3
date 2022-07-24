@@ -1,7 +1,7 @@
 ---
 
 title: "Drought performance of warm-season turfgrasses"
-subtitle: ""
+subtitle: "St. Augustinegrass (*Stenotaphrum secundatum*) performed the best, and zoysiagrass the worst, with bermudagrass and seashore paspalum in-between, in this three year study."
 summary: ""
 authors: [admin]
 tags: 
