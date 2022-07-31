@@ -2,7 +2,6 @@
 title: The Best Golfing Destination in Asia
 authors: [admin]
 date: 2013-05-14T19:52:15+00:00
-lastmod: 2021-07-24
 tags:
   - bentgrass
   - Japan
@@ -12,7 +11,7 @@ image:
   preview_only: true
 ---
 
-Golf course architect Paul Jansen and I have discussed favorite golfing destinations, favorite airports, and favorite grasses. He wrote wrote about the [great golfing destination of Vietnam](http://www.jansengolfdesign.com/blog/vietnam-golf-and-just-being-a-tourist/), especially Danang, where he was lead architect for Faldo Design at the spectacular Laguna Lang Co.
+Golf course architect Paul Jansen and I have discussed favorite golfing destinations, favorite airports, and favorite grasses. He wrote about the [great golfing destination of Vietnam](http://www.jansengolfdesign.com/blog/vietnam-golf-and-just-being-a-tourist/), especially Danang, where he was lead architect for Faldo Design at the spectacular Laguna Lang Co.
 
 {{< tweet user="pauljansengolf" id="316628843504992256" >}} 
 
