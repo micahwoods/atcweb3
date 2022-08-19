@@ -21,7 +21,7 @@ image:
 projects: []
 ---
 
-I gave two presentations, about two of my favorite topics, and the Golf Matters NZ Conference in Christchurch. Links to the recorded screencasts are below, if you'd like to get the entire presentation in rapid form. 
+I gave two presentations, about two of my favorite topics, at the Golf Matters NZ Conference in Christchurch. Links to the recorded screencasts are below, if you'd like to get the entire presentation in rapid form. 
 
 ## Highlighted key points from "Methods for site-specific optimisation"
 
@@ -33,7 +33,7 @@ At this point, we've got the inputs (the work) and the output (the playing condi
 
 Do that for one season and now you've got the site-specific growth rate aboveground for a given amount of inputs, and the site-specific belowground growth rate given your aboveground growth rate, your soil types, your grass, your climate, and your site's soil biology. 
 
-With these bits of information it is straightforward to adjust to create more growth, or less growth, or more soil OM management, or less, and so on, with a goal of optimising the playing conditions.
+With these bits of information it is straightforward to adjust to create more growth, or less growth, or schedule more soil OM management, or less, and so on, with a goal of optimising the playing conditions and doing all the disruptive work that is necessary, *but no more than that*.
 
 ## Highlighted key points from "A modern method for turfgrass nutrition"
 
@@ -47,9 +47,9 @@ Then we make another reasonable assumption:
 
 > If the soil has a lot of nutrients, the soil contains a lot of nutrients.
 
-From those two assumptions, it follows that what we want to do is prevent deficiency, because the grass performance can be excellent across a wide range of soil nutrient levels. We want to make sure that the grass is supplied with all the nutrients that it can use. Adding any more than that quantity is a waste. 
+From those two assumptions, it follows that what we want to do is prevent deficiency, because the grass performance can be excellent across a wide range of soil nutrient levels. But grass performance won't be acceptable if a nutrient is deficient. We want to make sure that the grass is supplied with all the nutrients that it can use. Adding any more than that quantity is a waste. 
 
-There's conveniently an upper limit on the quantity of nutrients the grass can use. That upper limit is fixed at the cumulative growth of the turf. This value can either be obtained by measurement (I recommend [clipping volume](https://micahwoods.github.io/buckets/)), or by recognizing that the grass cannot grow more than the quantity of N used, so the N use value can be used as an upper value for growth.
+There's conveniently an upper limit on the quantity of nutrients the grass can use. That upper limit is fixed at the cumulative growth of the turf. This value can either be obtained by measurement (I recommend [clipping volume](https://micahwoods.github.io/buckets/)), or by recognizing that the grass cannot grow more than the quantity of N used, so that N value can be used as an upper value for growth.
 
 The MLSN method is based on ensuring the grass will be supplied with all the nutrients it can use, whether that supply is by fertilizer or from the soil, or from a combination of the two sources. 
 
