@@ -23,7 +23,7 @@ image:
 projects: []
 ---
 
-I was in Japan for two weeks to work at the KBC Augusta tournament, have some meetings, and visit some turfgrass sites. On this trip, I made a deliberate effort to record some videos to show a few things that I find interesting about turfgrass management in Japan. 
+I was in Japan for two weeks to work at the KBC Augusta tournament, have meetings, and visit turfgrass sites. On this trip, I made a deliberate effort to record some videos to show a few things that I find interesting about turfgrass management in Japan. 
 
 {{< figure src="featured.jpg" >}}
 
