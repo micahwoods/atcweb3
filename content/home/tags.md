@@ -7,7 +7,7 @@ widget: tag_cloud
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 22
 
 title: Tagged topics
 subtitle: ''

@@ -12,6 +12,7 @@ title: Putting green organic matter by depth in the soil
 authors: [admin]
 image:
   preview_only: true
+featured: true
 ---
 
 I watched the Greenkeeper App meeting about organic matter, and I recommend you do too. [The video](https://youtu.be/LJ2q2ctoMv8) has Doug Soldat, Bill Kreuser, and Roch Gaussoin talking about soil organic matter, rootzones, sand topdressing, and turf performance.

@@ -4,7 +4,7 @@ tags:
 - zoysia
 - sod
 title: Converting grass stolon planting rates from bushels to mass per area
-featured: true
+featured: false
 image:
   preview_only: true
 authors: [admin]

@@ -6,7 +6,8 @@ type: "widget_page"  # Page type is a Widget Page
 
 image:
   preview_only: true
-  
+
+featured: true
 math: true
 ---
 

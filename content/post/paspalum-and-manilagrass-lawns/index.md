@@ -9,7 +9,7 @@ tags:
 title: Paspalum and manilagrass lawns
 
 authors: [admin]
-featured: true
+featured: false
 
 image:
   preview_only: true

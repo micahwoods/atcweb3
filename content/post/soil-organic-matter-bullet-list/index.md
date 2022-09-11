@@ -5,7 +5,7 @@ tags:
 - Organic matter
 - Soil test
 title: 'Soil organic matter: a bullet list'
-featured: true
+featured: false
 authors: [admin]
 image:
   caption: ''

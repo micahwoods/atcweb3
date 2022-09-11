@@ -12,7 +12,7 @@ tags:
 image:
   preview_only: true
   
-featured: true
+featured: false
 ---
 
 I was talking with a golf course designer recently, and he mentioned that "zoysia starts to look pretty attractive because of its lower water use." That led to a long conversation about how incorrect that statement is. 

@@ -5,7 +5,7 @@ tags:
 - Soil
 - Fertilizer
 title: New MLSN cheat sheet
-featured: true
+featured: false
 image: 
   preview_only: true
 authors: [admin]

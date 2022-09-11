@@ -6,7 +6,7 @@ tags:
 - research
 - history
 title: Is it turf grass, or turfgrass?
-featured: true
+featured: false
 image:
   preview_only: true
 ---

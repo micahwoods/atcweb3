@@ -10,7 +10,7 @@ tags:
 - OM246
 date: 2021-03-08T14:33:07+07:00
 lastmod: 2021-03-08T14:33:07+07:00
-featured: false
+featured: true
 draft: false
 
 image:

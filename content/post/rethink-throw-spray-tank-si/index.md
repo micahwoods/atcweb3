@@ -9,7 +9,7 @@ tags:
 - stimpmeter
 - silica
 authors: [admin]
-featured: true
+featured: false
 image:
   preview_only: true
 ---
