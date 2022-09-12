@@ -62,7 +62,9 @@ All testing services are provided through industry-leading [Brookside Labs](http
 
 ## Research
 
-ATC does a lot of research in this area too. My [Ph.D. dissertation](/publication/woods-2006-thesis) was about soil testing methods and nutrient availability to turfgrass in sand rootzones. Since then, I've helped to develop the [MLSN
+ATC does a lot of research in this area too. You can [sign up here](https://subscribepage.com/soil) to receive ATC's free soil testing newsletter with advice and news about this topic.
+
+My [Ph.D. dissertation](/publication/woods-2006-thesis) was about soil testing methods and nutrient availability to turfgrass in sand rootzones. Since then, I've helped to develop the [MLSN
  guidelines](/mlsn/), conduct the [Global Soil Survey](https://osf.io/rg49p/), and I continue to study testing methods, sampling techniques, and nutrient content of soils and turfgrass.
 
 {{< cite page="/publication/woodsetal-2020" view="1" >}}
