@@ -57,7 +57,7 @@ locale:
 
 # Site features
 
-section_pager: true
+pager: true
 show_related: true
 
 features:
@@ -84,7 +84,7 @@ features:
       show_count: true
     commento:
       url: ''
-  search:
+  search: 
     provider: wowchemy
     algolia:
       app_id: '5DHGESJLP4'

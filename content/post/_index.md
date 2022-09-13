@@ -17,4 +17,5 @@ image:
   
 cascade:
   show_related: true
+  pager: true
 ---
