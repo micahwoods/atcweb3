@@ -30,7 +30,12 @@ They collected a large soil sample and mixed it.
 
 > This soil was then placed into sample bags, which were randomly assigned to different combinations of storage temperature and duration. One set of samples was kept in a refrigerator while the other set was kept in a cargo box in a truck bed. To monitor changes in soil test levels over time, three sample bags were removed from the refrigerator and truck box every two days (48 hours) and tested in the lab.
 
-After four days, the sample kept in the truck bed had double the nitrate of the refrigerated sample. After ten days, the nitrate in the truck bed sample was three times the level it was in the refrigerated sample. Some of their take home points and recommendations include:
+After four days, the sample kept in the truck bed had double the nitrate of the refrigerated sample. After ten days, the nitrate in the truck bed sample was three times the level it was in the refrigerated sample. 
+
+{{< figure src="Nitrogen_Fig.png" caption="Figure 1 from the [blog post](https://eupdate.agronomy.ksu.edu/article_new/soil-sample-handling-practices-can-affect-soil-nitrate-test-accuracy-511-4) by Rutter and Diaz showing how the nitrate can increase dramatically if a soil is not kept refrigerated (or dried) after removal from the ground." >}}
+
+
+Some of their take home points and recommendations include:
 
 > * Mineralization and nitrification led to more than a 3x increase in soil test nitrate in the undried and unrefrigerated “Truck Cargo Box” samples 
 > * Soil test nitrogen did not change substantially in refrigerated samples.
