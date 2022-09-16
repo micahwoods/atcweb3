@@ -16,7 +16,7 @@ Ok, here is a relatively easy one. What is causing the splotchy dew pattern on t
 
 This is bermudagrass (*Cynodon dactylon*) holding the dew, and zoysiagrass not holding as much dew. In the second picture, the [cart path tracks](https://youtu.be/0DXgJznHpD4), used with remote-controlled golf carts at so many courses in Japan, gives the country away.
 
-{{< figure src="splotchy2.jpg" >}}
+{{< figure src="featured.jpg" >}}
 
 This course was originally planted to *Zoysia japonica* in the rough and *Zoysia matrella* on the tees and fairways. In central and western Japan, when a little bit of bermudagrass finds its way onto the course, it tends to spread and spread, and these photos show just how much it has spread, as evidenced by the morning dew patterns.
 
