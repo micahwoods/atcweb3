@@ -20,7 +20,7 @@ On February 28, I took Wana---a fine-bladed putting green type manilagrass---rhi
 
 The sand had a starting pH of 6.4 and Mehlich 3 extractable P and K of 17 and 20 mg/kg, respectively.
 
-I had been applying different fertilizers to grasses [during establishment](https://www.asianturfgrass.com/2020-04-17-grass-grows-more-makes-roots/) at [#ATC南店]((https://twitter.com/hashtag/ATC%E5%8D%97%E5%BA%97?src=hashtag_click)) to demonstrate two things.
+I had been applying different fertilizers to grasses [during establishment](https://www.asianturfgrass.com/2020-04-17-grass-grows-more-makes-roots/) at [#ATC南店](https://twitter.com/hashtag/ATC%E5%8D%97%E5%BA%97?src=hashtag_click) to demonstrate two things.
 
 1. That zoysia does respond to N fertilizer when grown from sprigs.
 

@@ -17,7 +17,7 @@ While [Eric Reasor](https://twitter.com/TurfBlade?lang=en) was collecting the da
 
 I took 3 stimpmeter readings per green, measured 9 locations per green with a 500 g Clegg soil impact tester, and used a TDR-300 with 7.5 cm rods to measure soil water content at those same 9 locations. I also made some measurements of soil temperature, surface temperature, and air temperature.
 
-I showed the distribution of air temperature (median was 31.8°C) and heat index (median was 38.9°C) in [a previous post]((http://www.blog.asianturfgrass.com/2016/09/bangkok-is-a-long-way-from-knoxville.html)).
+I showed the distribution of air temperature (median was 31.8°C) and heat index (median was 38.9°C) in [a previous post](http://www.blog.asianturfgrass.com/2016/09/bangkok-is-a-long-way-from-knoxville.html).
 
 Here's the summary of soil and surface temperature from these greens.
 
