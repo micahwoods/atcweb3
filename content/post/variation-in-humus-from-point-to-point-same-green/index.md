@@ -4,7 +4,7 @@ authors: [admin]
 tags:
 - OM246
 - organic matter
-- soil testing
+- soil test
 title: Variation in rootzone organic matter (humus) from point to point on the same
   green
 image:

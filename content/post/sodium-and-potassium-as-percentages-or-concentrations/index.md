@@ -5,7 +5,7 @@ subtitle: ""
 summary: ""
 authors: [admin]
 tags: 
-- soil testing
+- soil test
 - potassium
 - sodium
 categories: []

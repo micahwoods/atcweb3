@@ -4,9 +4,9 @@ authors: [admin]
 date: 2013-09-28T19:56:33+00:00
 lastmod: 2021-04-08
 tags:
-  - Fertilizer
-  - Seminar
-  - Turfgrass Information
+  - fertilizer
+  - seminar
+  - turf info
   - Iceland
   - MLSN
 

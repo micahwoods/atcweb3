@@ -3,8 +3,8 @@ date: "2019-11-30T00:00:00Z"
 authors: [admin]
 tags:
 - seminar
-- sweden
-- mlsn
+- Sweden
+- MLSN
 - fertilizer
 title: Three hours of an MLSN seminar on just one slide
 image:

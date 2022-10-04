@@ -1,7 +1,7 @@
 ---
 date: "2020-04-10T00:00:00Z"
 tags:
-- soil testing
+- soil test
 - pH
 - phosphorus
 title: It is difficult to run a fertilizer down the field when the corn is six feet

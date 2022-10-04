@@ -2,9 +2,9 @@
 date: "2019-09-08T00:00:00Z"
 tags:
 - seminar
-- philippines
-- soil testing
-- om246
+- Philippines
+- soil test
+- OM246
 title: A continuous improvement system for turfgrass
 authors: [admin]
 image:

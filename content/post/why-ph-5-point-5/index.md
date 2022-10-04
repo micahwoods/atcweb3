@@ -2,7 +2,7 @@
 date: "2020-03-14T00:00:00Z"
 tags:
 - pH
-- soil testing
+- soil test
 title: Why soil pH should usually be kept above 5.5
 authors: [admin]
 image: 
