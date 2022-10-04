@@ -5,7 +5,7 @@ subtitle: "One can look at clipping volume as a cumulative amount through the ye
 summary: ""
 authors: [admin]
 tags: 
-- clipvol
+- ClipVol
 categories: []
 date: 2022-10-03T16:06:46+07:00
 lastmod: 2022-10-03T16:06:46+07:00
