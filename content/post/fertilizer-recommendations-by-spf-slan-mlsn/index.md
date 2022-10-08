@@ -26,7 +26,7 @@ Daniel Hahn and Romain Giraud wrote [an article on LinkedIn](https://www.linkedi
 
 I read it twice, and I made a few notes to share here.
 
-First, we calculated the MLSN based on Mehlich 3 soil test results. The article states that "it is essential to send a sample to a laboratory that uses Mehlich-3 nutrient extraction" if you want to use MLSN. I recommend that, but there are some workarounds if you can't get Mehlich 3 data. Please have a look at the [MLSN cheat sheet]({{< relref "/post/new-mlsn-cheat-sheet" >}}) for some alternatives. 
+First, we ([PACE Turf](https://www.paceturf.org/) and ATC) calculated the MLSN based on Mehlich 3 soil test results. The article states that "it is essential to send a sample to a laboratory that uses Mehlich-3 nutrient extraction" if you want to use MLSN. I recommend that, but there are some workarounds if you can't get Mehlich 3 data. Please have a look at the [MLSN cheat sheet]({{< relref "/post/new-mlsn-cheat-sheet" >}}) for some alternatives. My preferred alternative is to do what Giraud has done---calculated a regionally specific MLSN value based on his own database of soil test results from good-performing turf.
 
 Second, they wrote that "for the MLSN guidelines, it is important to measure the soil nutrient levels at the beginning of the season and at the end of the season." I don't recommend that. I generally recommend sampling once per year, and I suggest autumn, or the end of rainy season in locations with pronounced wet and dry seasons, as the preferred sampling time.
 
