@@ -30,7 +30,7 @@ First, we ([PACE Turf](https://www.paceturf.org/) and ATC) calculated the MLSN b
 
 Second, they wrote that "for the MLSN guidelines, it is important to measure the soil nutrient levels at the beginning of the season and at the end of the season." I don't recommend that. I generally recommend sampling once per year, and I suggest autumn, or the end of rainy season in locations with pronounced wet and dry seasons, as the preferred sampling time.
 
-Third, I like to put fertilizer recommendations into a larger context. What is really happening when one implements one method of fertilizer recommendation over another. To do that, I considered 1 000 simulated soils (locations), and calculated a P fertilizer recommendation for each of those locations across a range of N fertilizer inputs.
+Third, I like to put fertilizer recommendations into a larger context. What is really happening when one implements one method of fertilizer recommendation over another? To do that, I considered 1 000 simulated soils (locations), and calculated a P fertilizer recommendation for each of those locations across a range of N fertilizer inputs.
 
 {{< figure src="simulated_1000_P.png" >}}
 
