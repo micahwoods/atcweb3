@@ -21,6 +21,7 @@ content:
   count: 12
   # Filter on criteria
   filters:
+    featured_only: true
     author: ""
     category: ""
     publication_type: ""
