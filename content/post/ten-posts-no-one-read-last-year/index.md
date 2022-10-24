@@ -40,7 +40,7 @@ The median blog post on this site in 2020 got 245 views.[^1] And there were two 
 
 {{< figure library=true src="post_views_2020.png" title="Histogram of page views in 2020 for the 88 new posts on the ATC website that year." >}}
 
-There were [these top 10](post/top-10-posts-2020/) that *everyone* read. 
+There were [these top 10](/post/top-10-posts-2020/) that *everyone* read. 
 
 And then there were these bottom 10 that almost *no one* read. These ones ranged from 66 to 129 views. To put that in context, for all of 2020 there were 65,626 pageviews across the entire site.
 

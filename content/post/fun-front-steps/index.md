@@ -48,7 +48,7 @@ Then I made a few more clicks to get the simple image of a white background with
 
 {{< figure src="imagej_bw.jpg" >}}
 
-This timeline sequence shows a set of [nine images](n_panels.jpg) from the pot receiving N.
+This timeline sequence shows a set of nine images from the pot receiving N.
 
 {{< figure src="n_panels.jpg" >}}
 

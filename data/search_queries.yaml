@@ -8,19 +8,19 @@
   link: /mlsn/
 
 - query: Micah Woods
-  link: /#about
+  link: /authors/admin/
 
 - query: Zoysia grass
   link: /tag/zoysia/
+
+- query: Bobble test
+  link: /post/five-different-ways-to-measure-smoothness-trueness-ball-roll/
 
 - query: Zoysia grass in California
   link: /post/four-reasons-zoysia-poor-choice-california/
 
 - query: Tropical carpetgrass
   link: /post/tropical-carpetgrass-on-putting-greens/
-
-- query: Bobble test
-  link: /post/five-different-ways-to-measure-smoothness-trueness-ball-roll/
 
 - query: Zoysia putting greens
   link: /post/zoysia-on-putting-greens-why/

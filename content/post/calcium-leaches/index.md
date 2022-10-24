@@ -2,8 +2,8 @@
 date: "2020-02-14T00:00:00Z"
 share-media: https://www.asianturfgrass.comkeya_15_irrigation.jpg
 tags:
-- Calcium
-- Irrigation
+- calcium
+- irrigation
 - ClipVol
 title: "Calcium leaches?"
 authors: [admin]
@@ -33,7 +33,7 @@ Clippings are collected from the greens at Keya GC after mowing, and the volume 
 
 {{< figure library="true" src="keya_clipvol_bucket.jpg" title="The quantity of clippings harvested from greens is recorded at each mowing." >}}
 
-I estimate that the ratio of volume to dry weight for [korai clippings is 1:0.11](https://www.asianturfgrass.com/buckets/june-2017-clipping-volume-report.html#estimating-nutrient-use-and-harvest). For every 1 mL of korai clippings, the expected dry weight is 0.11 g. That 15 mL of ClipVol weighs about 1.65 g. 
+I estimate that the ratio of volume to dry weight for [korai clippings is 1:0.11](https://micahwoods.github.io/buckets/june-2017-clipping-volume-report.html#estimating-nutrient-use-and-harvest). For every 1 mL of korai clippings, the expected dry weight is 0.11 g. That 15 mL of ClipVol weighs about 1.65 g. 
 
 Leaf nutrient analyses were conducted monthly from the 11<sup>th</sup> green at Keya GC in 2019, and the average Ca content of the clippings was 0.21%. In those 1.65 g of clippings harvested in a day, that works out to a daily Ca harvest of 3.5 mg.
 

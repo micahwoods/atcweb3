@@ -38,7 +38,7 @@ I have written about [deep and infrequent or light and frequent irrigation]({{< 
 
 An important consequence of that, although a counterintuitive one, is that soil air content can be higher when irrigation is applied more frequently.
 
-The new STERF publication [Irrigation of Turf on Golf Courses](www.sterf.org/Media/Get/1232/irrigation-of-turf-on-golf-courses.pdf) by Kvalbein and Aamlid, includes convincing data that supports the frequent approach.
+The new STERF publication [Irrigation of Turf on Golf Courses](http://www.sterf.org/Media/Get/1232/irrigation-of-turf-on-golf-courses.pdf) by Kvalbein and Aamlid, includes convincing data that supports the frequent approach.
 
 To paraphrase their results: frequent irrigation---6 times per week---to 70% of of field capacity resulted in consistently better turf quality, fewer dry spots, and a 30% reduction in total water use compared to deep and infrequent irrigation to field capacity 1 time per week.
 
