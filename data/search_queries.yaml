@@ -1,17 +1,26 @@
-- query: Soil testing for nutrients or organic matter
+- query: Soil testing
   link: /project/soil-tests/
 
-- query: Carbon fertilizer or carbon-based fertilizer
+- query: Carbon-based fertilizer
   link: /post/is-carbon-the-next-frontier-in-fertilization/
 
 - query: MLSN
   link: /mlsn/
 
+- query: ATC podcasts
+  link: /post/office-hours-and-doublecut-debut/
+  
 - query: Micah Woods
   link: /authors/admin/
 
+- query: PACE Turf
+  link: https://www.paceturf.org/
+  
 - query: Zoysia grass
   link: /tag/zoysia/
+
+- query: Shiny app calculators
+  link: /shiny-apps/
 
 - query: Bobble test
   link: /post/five-different-ways-to-measure-smoothness-trueness-ball-roll/
