@@ -36,9 +36,12 @@ organizations:
 - name: Asian Turfgrass Center
   url: "https://www.asianturfgrass.com"
   role: President & Chief Scientist
+- name: PACE Turf
+  url: "https://www.paceturf.org/"
+  role: Director
 - name: University of Tennessee
   url: "https://plantsciences.tennessee.edu/"
-  role: Adjunct Assistant Professor
+  role: Adjunct Professor
   
 social:
 - icon: envelope
