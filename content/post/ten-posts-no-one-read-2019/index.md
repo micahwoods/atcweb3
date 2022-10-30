@@ -35,7 +35,7 @@ And then there were these bottom 10 that almost *no one* read. Just in case you 
 
 [7] March, ["Pretty hopeless in predicting deficiency"](https://www.asianturfgrass.com/2019-03-05-hopeless-in-predicting-deficiency/) is a quote about tissue tests for micronutrients.
 
-[8] November, [Grammatik for greenkeepere, plus buckets and stimp stats](https://www.asianturfgrass.com/2019-11-12-grammatik-for-greenkeepere/)
+[8] November, *Grammatik for greenkeepere, plus buckets and stimp stats*
 
 [9, tie] January, [Ten posts that no one read in 2018](https://www.asianturfgrass.com/2019-01-27-ten-posts-no-one-read-2018/) 
 

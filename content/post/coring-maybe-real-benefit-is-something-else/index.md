@@ -81,7 +81,7 @@ And I don't think that growth stimulation is entirely due to the coring itself. 
 * increased mowing height
 * reduced plant growth regular rates
 
-Any of those maintenance practices on their own can lead to more growth.[^1] All of them together can really give a growth boost to the grass.
+Any of those maintenance practices on their own can lead to more growth.[^1] All of them together can really give a growth boost to the grass. Plus there's that boost of mineralization that happens when the soil gets disturbed.
 
 [^1]: Perhaps reduced mowing frequency would lead to more *belowground* growth. Reduced mowing frequency in the short term may lead to less aboveground growth.
 

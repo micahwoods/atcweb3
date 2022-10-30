@@ -26,7 +26,7 @@ Some are obviously of limited interest to the general public, such as those abou
 
 [8] March, [Par Golf Impact Manga](https://www.asianturfgrass.com/2018-03-31-par-golf-impact-manga/), which describes a golf course superintendent who is featured in a weekly magazine in Japan. 
 
-[7] February, [If you are reading this by email](https://www.asianturfgrass.com/2018-02-13-if-you-are-reading-this-by-email/), describing some fixes to the site's [email feed](http://www.subscribepage.com/atc_blog_email) to show the full content now, rather than a snippet.
+[7] February, *If you are reading this by email*, describing some fixes to the site's [email feed](http://www.subscribepage.com/atc_blog_email) to show the full content now, rather than a snippet.
 
 [6] February, [When does it usually rain in Bangkok?](https://www.asianturfgrass.com/2018-02-09-when-rainy-season-bangkok/), I asked, in an analysis of when the rainy season usually starts there. Someone had asked me that question, so I looked at some recent (previous 10 years) data.
 
