@@ -24,7 +24,7 @@ image:
 projects: []
 ---
 
-This topic---carbon in golf turf---was the subject of a Frankly Speaking podcast episode. One of the topics host Frank Rossi spoke about with guests Drs. Claire Phillips and Alec Kowalewski was the nitrogen mineralized from soil organic matter. This is a fundamental topic and I recommend you listen to [this episode](https://www.turfnet.com/podcasts/rossi/understanding_carbon/).
+This topic---carbon in turfgrass soils---was the subject of a Frankly Speaking podcast episode. One of the topics host Frank Rossi spoke about with guests Drs. Claire Phillips and Alec Kowalewski was the nitrogen mineralized from soil organic matter. This is a fundamental topic and I recommend you listen to [this episode](https://www.turfnet.com/podcasts/rossi/understanding_carbon/).
 
 At about 26:50, Frank asked this:
 
