@@ -1,7 +1,7 @@
 ---
 
 title: "Park Grass photos"
-subtitle: "Photos from each subplot of the Park Grass experiment from 9 or 13 May 2022 prior to the first cut on 15 June 2022."
+subtitle: "Photos from each subplot of the Park Grass experiment from May 2022 prior to the first cut in June 2022."
 summary: ""
 authors: [admin]
 tags: 
