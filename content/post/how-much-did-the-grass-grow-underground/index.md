@@ -1,5 +1,4 @@
 ---
-
 title: "How much did the grass grow underground?"
 subtitle: ""
 summary: ""
@@ -21,7 +20,9 @@ image:
 projects: []
 ---
 
-I spent a couple hours today collecting total organic material (OM246) samples and soil nutrient samples. When this Tifeagle bermudagrass green was tested for total organic material twelve months ago, the OM2 (total organic material in the top 2 cm) was 11.3%. 
+I spent a couple hours today collecting total organic material (OM246) samples and soil nutrient samples. When this Tifeagle bermudagrass green was tested for total organic material twelve months ago, the OM2 (total organic material in the top 2 cm) was 11.3%.[^1]
+
+[^1]: The soil organic matter (the organic fraction of the soil excluding the undecomposed living and dead plant and animal material) to a 10 cm depth was 3.29% on this green twelve months ago.
 
 {{< figure src="cut1.jpg" caption="The top 2 cm (0.8 inches) of this soil core will be dried, weighed, burned, and re-weighed. The mass loss on ignition is considered to be the total organic material of the sample." >}}
 
@@ -29,7 +30,7 @@ When the samples collected today are tested, I'll know what the OM2 is right now
 
 {{< figure src="cut3.jpg" caption="OM246 samples are cut at 2, 4, and 6 cm below the surface."  >}}
 
-How does that work, you might ask? Well, the change in total organic material over time is part of the answer. Most professional turfgrass managers will know how much sand was applied to the rootzone. That's another part of the answer. And if one has removed some of the soil (and the small amount of organic material that comes with it, that can be part of the answer too.
+How does that work, you might ask? Well, the change in total organic material over time is part of the answer. Most professional turfgrass managers will know how much sand was applied to the rootzone. That's another part of the answer. And if one has removed some of the soil (and the small amount of organic material that comes with it), that can be part of the answer too.
 
 {{% callout note %}}
 The [OM246 calculator](https://asianturfgrass.shinyapps.io/om246/) calculates the accumulation rate of total organic material.
@@ -37,9 +38,9 @@ The [OM246 calculator](https://asianturfgrass.shinyapps.io/om246/) calculates th
 
 The OM246 calculator takes these inputs and calculates the accumulation rate.
 
-{{< figure src="cut_labeled.jpg">}}
+{{< figure src="cut_labeled.jpg" caption="Because the total organic material is measured at different depths, one can find out not only *how much* is happening underground, but also *where* it is happening.">}}
 
-With clipping volume, one can find out how much the grass grew aboveground. With OM246, one can do the same underground.
+With clipping volume, one can find out how much the grass grew aboveground. With OM246, one can do the same underground. Not only can one find the total amount of growth underground, but it's also possible to check *where* that happened because of the different depths measured with OM246 testing.
 
 {{% callout note %}}
 Read more about the OM246 test on the [OM246 project page](https://www.asianturfgrass.com/project/om246/).
