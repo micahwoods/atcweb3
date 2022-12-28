@@ -26,7 +26,7 @@ projects: []
 
 I use the turfgrass growth potential (GP) all the time. I make use of the GP for all kinds of things, like predicting sand topdressing amounts, comparing locations, predicting nutrient use, checking overseeding dates, estimating mowing requirements, and many more.[^1]
 
-[^1]: I've written a lot of things about GP, and you can many in [English](https://www.asianturfgrass.com/tag/growth-potential/), along with these introductory articles in [Chinese](https://www.asianturfgrass.com/post/number-between-1-0-using-the-turfgrass-growth-potential/) and [Spanish](https://www.files.asianturfgrass.com/201304_woods_gp_aedg.pdf), and in some chapters of [this book in Japanese](https://www.amazon.co.jp/dp/4772841725/ref=cm_sw_r_cp_ep_dp_U-eyAbHH25ZNN).
+[^1]: I've written a lot of things about GP, and you can find many in [English](https://www.asianturfgrass.com/tag/growth-potential/), along with these introductory articles in [Chinese](https://www.asianturfgrass.com/post/number-between-1-0-using-the-turfgrass-growth-potential/) and [Spanish](https://www.files.asianturfgrass.com/201304_woods_gp_aedg.pdf), and in some chapters of [this book in Japanese](https://www.amazon.co.jp/dp/4772841725/ref=cm_sw_r_cp_ep_dp_U-eyAbHH25ZNN).
 
 Do you notice that those uses are all about prediction, estimation, comparison, and analysis? I've often explained that I'd make use of things like [sand topdressing estimates](https://www.asianturfgrass.com/post/updated-sand-topdressing-by-gp/) or [nutrient use estimates](https://www.paceturf.org/journal/climate) for planning purposes, and then I'd adjust based on the turf response.
 
@@ -34,7 +34,7 @@ I think of this as planning into the future, or looking forward, based on some p
 
 ### Example 1: nitrogen fertilizer
 
-I may estimate N fertilizer by multiplying GP by a max of 2 g N/m<sup>2</sup> (0.4 lbs N/1,000 ft<sup>2</sup>) for a 10 year old creeping bentgrass green. When the time comes to make an N application, however, I would be adjusting based on whether the recent [clipping volume](https://www.asianturfgrass.com/tag/clipvol/) is too little, just right, or too much. 
+I may estimate monthly N fertilizer by multiplying GP by a max of 2 g N/m<sup>2</sup> (0.4 lbs N/1,000 ft<sup>2</sup>) for a 10 year old creeping bentgrass green. When the time comes to make an N application, however, I would be adjusting based on whether the recent [clipping volume](https://www.asianturfgrass.com/tag/clipvol/) is too little, just right, or too much. 
 
 ### Example 2: sand topdressing amounts
 
