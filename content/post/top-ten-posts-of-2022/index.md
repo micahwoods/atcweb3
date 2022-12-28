@@ -17,7 +17,7 @@ draft: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 projects: []
 ---
@@ -48,7 +48,7 @@ Here they are.
 
 [10] December, [Some surprising results](https://www.asianturfgrass.com/post/some-surprising-results/) about playability and the ability to topdress less frequently and in lower quantities than I once thought possible.
 
-{{< figure src="featured.jpg" caption="This screenshot is showing the top 31 posts. There were a lot of interesting topics to write about this year. If you want an easy way to see a list of all the posts on the blog, the [secret archive page](https://www.asianturfgrass.com/archive/) is a good one to bookmark." >}}
+{{< figure src="list.jpg" caption="This screenshot is showing the top 31 posts. There were a lot of interesting topics to write about this year. If you want an easy way to see a list of all the posts on the blog, the [secret archive page](https://www.asianturfgrass.com/archive/) is a good one to bookmark." >}}
 
 
 
