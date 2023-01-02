@@ -5,7 +5,7 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 title: The ATC Doublecut with Micah Woods
 subtitle: 
-weight: 1  # section position on page
+weight: 3  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'

@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 2
 
 title: New Posts
 subtitle:
