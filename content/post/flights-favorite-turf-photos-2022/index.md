@@ -52,10 +52,12 @@ Now for the photos.
 
 {{< figure src="pines.jpg"  caption="*Zoysia matrella* lawns in central Tokyo and pine trees glittering in the summer sun." >}}
 
-{{< figure src="ski.jpg" caption="Near Copenhagen in July, I took a field trip at the International Turfgrass Research Conference that brought me to a grassed ski slope that is on top of a power plant. Extraordinary!" >}}
+{{< figure src="ski.jpg" caption="Near Copenhagen in July, I took a field trip at the International Turfgrass Research Conference that brought me to a grassed ski slope that is [on top of a power plant](https://en.wikipedia.org/wiki/Amager_Bakke). Extraordinary!" >}}
 
 {{< figure src="sheep.jpg" caption="We've all heard about the courses in New Zealand that are grazed by sheep. In August, I stopped by Taihape Golf Course and saw one for myself." >}}
 
 {{< figure src="zoysia.jpg"  caption="There are two different varieties of fine-bladed *Zoysia* invading this Tifeagle green near Bangkok." >}}
 
 {{< figure src="lawn.jpg" caption="This lawn in Bangkok was planted more than a decade ago to *Zoysia matrella*. It is now primarily tropical carpetgrass --- *Axonopus compressus*. I check this lawn when I am in Bangkok for species composition, and in 2022 I also checked for seasonal zoysia seedhead production and made some observations of leaf wetness." >}}
+
+{{< figure src="mow.jpg"  caption="Another beautiful morning at Camiral. Also, check the overlap on this half freaky doublecut." >}}
