@@ -28,6 +28,8 @@ Returns the expected photosynthetic photon flux density (PPFD) for a second with
 
 I have downloaded turf industry tweets and analyzed them along with account characteristics. This analysis finds some of the most influential industry accounts.
 
+- [Turf Twitter in 2022](https://asianturfgrass.shinyapps.io/turf_twitter_2022/)
+
 - [Turf Twitter in 2021](https://asianturfgrass.shinyapps.io/turf_twitter_2021/)
 
 - [Turf Twitter in 2020](https://asianturfgrass.shinyapps.io/turf_twitter_2020/)
