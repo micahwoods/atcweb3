@@ -27,7 +27,7 @@ As an example of an alternative ranking, I like this one that omits the tweet cr
 
 {{< figure src="new5rank_2022.svg" >}} 
 
-This approach brings some new accounts into the top 50. Hello, [PGRBill](https://twitter.com/PGRBill), [John Ledwidge](https://twitter.com/johnledwidge), [GreenkeeperMiss](https://twitter.com/GreenkeeperMiss), [Karl Standley](https://twitter.com/karl_standley), and [Kyle Callahan](https://twitter.com/callahan_kyle).
+This approach brings some new accounts into the top 50. Hello, [PGRBill](https://twitter.com/PGRBill), [John Ledwidge](https://twitter.com/johnledwidge), [GreenkeeperMiss](https://twitter.com/GreenkeeperMiss), [Karl Standley](https://twitter.com/karl_standley), [TurfMow](https://twitter.com/turfmow), and [Kyle Callahan](https://twitter.com/callahan_kyle).
 
 I recommend Garrick Aden-Buie's [Tweets of the Year](https://gadenbuie.shinyapps.io/tweets-of-the-year/) app for a look at any account's year on Twitter. 
 
