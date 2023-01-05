@@ -48,6 +48,8 @@ I have downloaded turf industry tweets[^1] and analyzed them along with account 
 
 [^1]: The methodology is explained here: <https://micahwoods.github.io/turf_twitter_2017/>
 
+- [Turf Twitter in 2022](https://asianturfgrass.shinyapps.io/turf_twitter_2022/)
+
 - [Turf Twitter in 2021](https://asianturfgrass.shinyapps.io/turf_twitter_2021/)
 
 - [Turf Twitter in 2020](https://asianturfgrass.shinyapps.io/turf_twitter_2020/)
