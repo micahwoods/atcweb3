@@ -19,13 +19,13 @@ Someone asked me that question while we were working at a golf tournament. The *
 
 3. Since July 2022, I've been the director of the [PACE Turf information service](https://www.paceturf.org/). There are some free resources there, and a wealth of additional material is available to [subscribers](https://www.paceturf.org/members/signup).
 
-4. Sign up for one or more of the [ATC email newsletters](https://subscribepage.com/atc_newsletters). You can automatically get an email with the full text of each new blog the same day it is posted. You can choose to get an email every few months with highlights. You can get a newsletter *only* about MLSN.
+4. Sign up for one or more of the [ATC email newsletters](https://subscribepage.com/atc_newsletters). You can automatically get an email with the full text of each new blog the same day it is posted. You can choose to get an email every few months with highlights. You can get a newsletter *only* about MLSN. There's even a secret one about soil testing.
 
 5. The [About section](https://www.asianturfgrass.com/#about) on the website has links for all of ATC's social media accounts.
 
 6. There are turfgrass videos on the [ATC YouTube Channel](https://www.youtube.com/asianturfgrasscenter).
 
-7. You can listen to podcasts: [The ATC Doublecut with Micah Woods](https://atc-doublecut.transistor.fm/) and to [ATC Office Hours](https://atc-office-hours.transistor.fm/). 
+7. You can listen to podcasts: [The ATC Doublecut with Micah Woods](https://atc-doublecut.transistor.fm/) and [ATC Office Hours](https://atc-office-hours.transistor.fm/). 
 
 8. Books. I've got [four books available now](https://www.asianturfgrass.com/#books) and am always working on getting more.
 
