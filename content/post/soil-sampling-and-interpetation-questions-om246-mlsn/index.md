@@ -90,7 +90,7 @@ I've written about this in [a blog post](https://www.asianturfgrass.com/post/rem
 For anyone who has read this far, you may be interested in [ATC's soil testing newsletter](https://subscribepage.com/soil). This newsletter is for ATC's soil testing clients, but it contains information about sampling recommendations and the types of topics being discussed in this blog post.
 
 * [ATC soil testing newsletter #1](https://www.asianturfgrass.com/newsletter/202209_atc_soil_testing_newsletter_1.pdf)
-* [ATC soil testing newsletter #2](https://www.asianturfgrass.com//newsletter/202210_atc_soil_testing_newsletter_2.pdf)
+* [ATC soil testing newsletter #2](https://www.asianturfgrass.com/newsletter/202210_atc_soil_testing_newsletter_2.pdf)
 {{% /callout %}}
 
 
