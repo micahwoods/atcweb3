@@ -21,7 +21,7 @@ image:
 projects: []
 ---
 
-Doug Soldat joined me on the ATC Doublecut to discuss potassium and snow mold. I brought up soil pH charts, and we discussed the common one that I don't like, and don't use, starting at about the [46:20 time in this video](https://youtu.be/ilPhk30NQlQ?t=2780). You can also listen to this episode [as a podcast, here](https://atc-doublecut.transistor.fm/episodes/spots-of-excitement-snow-mold-spots-in-an-otherwise-boring-potassium-experiment-with-doug-soldat).
+You've see the photos from Doug Soldat with the striking effect of potassium on snow mold, haven't you? He joined me on the ATC Doublecut to talk about that. At the end of the show, I brought up soil pH charts, and we discussed the common one that I don't like, and don't use, starting at about the [46:20 time in this video](https://youtu.be/ilPhk30NQlQ?t=2780). You can also listen to this episode [as a podcast, here](https://atc-doublecut.transistor.fm/episodes/spots-of-excitement-snow-mold-spots-in-an-otherwise-boring-potassium-experiment-with-doug-soldat).
 
 We were talking specifically about the article [Soil pH - nutrient relationships: the diagram](https://doi.org/10.1007/s11104-022-05861-z) by Hartemink and Barrow. That article reviews "the diagram," that chart that you've certainly seen some version of. It's the one showing essential mineral nutrients as bars across a gradient of pH, with the thickness of the bar at any pH meant to indicate the availability of that element at that soil pH. I don't like that diagram because I think there are so many exceptions to it that it is misleading. Hartemink and Barrow wrote this:
 
@@ -31,4 +31,6 @@ What I do is describe soil pH in words, rather than with a chart. I like to keep
 
 {{< figure src="featured.jpg" >}}
 
-While I had pH diagrams on my mind, I was pleasantly surprised to come across this one by Dr. Carrow. This is one I like. It's got all the reasons why I like to use pH 5.5 and 8.5 as cutoff points for a normal acceptable range, and the few extra bits about potential nutrient deficiencies are nicely phrased.
+While I had pH diagrams on my mind, I was pleasantly surprised to come across this one by Dr. Carrow.[^1] This is one I like. It's got all the reasons why I like to use pH 5.5 and 8.5 as cutoff points for a normal acceptable range, and the few extra bits about potential nutrient deficiencies are nicely phrased.
+
+[^1]: The chart is in Dr. Carrow's article [Soil testing for fertilizer recommendations](https://tic.msu.edu/tgif/flink?recno=35803).
