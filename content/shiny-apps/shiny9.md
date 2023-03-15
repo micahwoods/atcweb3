@@ -49,7 +49,7 @@ title = "GP avatar"
  css_class = ""
 +++
 
-### [Open GP avatar app](https://paceturf.shinyapps.io/GPAvatar/)
+### [Open GP avatar app](https://asianturfgrass.shinyapps.io/GPAvatar/)
 
 This app developed with [PACE Turf](https://www.paceturf.org/) generates a downloadable avatar that shows two lines -- blue and red. Blue is the cool-season growth potential through the year, and red is the warm season growth potential. We put this together in a hackathon when I visited PACE Turf headquarters a few years ago.
 
