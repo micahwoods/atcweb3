@@ -31,7 +31,7 @@ image:
 url_code: ""
 url_pdf: "https://leanpub.com/short_grammar_of_greenkeeping"
 url_slides: ""
-url_video: "https://vimeo.com/showcase/7916864/"
+url_video: "https://youtube.com/playlist?list=PLrsictdhhM0P_WL5Z2OQXpvjqFKuNnKg5"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -44,4 +44,4 @@ weight: 55
 
 I've made some movies with my friends to explain how the grammar of greenkeeping works. You may enjoy watching.
 
-<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7916864/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLrsictdhhM0P_WL5Z2OQXpvjqFKuNnKg5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
