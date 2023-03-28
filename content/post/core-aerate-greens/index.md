@@ -6,6 +6,8 @@ tags:
 title: Core aerating putting greens, or not
 featured: true
 authors: [admin]
+image:
+  preview_only: true
 ---
 
 There was an [article on the *Golf Course Industry* website](https://www.golfcourseindustry.com/article/red-ledges-maintenance-practices/) about a course that hasn't core aerified putting greens since the course opened 12 years ago. It's a short article---466 words. That's shorter than a lot of posts on this blog. There's not much information in the article, but I thought it interesting enough to share.
@@ -46,7 +48,7 @@ The [slide embedded below](https://speakerdeck.com/micahwoods/thinking-different
 
 When an article is written by USGA agronomists and is published in the *Green Section Record*, I consider that to be a somewhat official recommendation. As recently as 2016, the standard *official* recommendation continues to be 15 to 20% surface area removal and 12 to 15 mm of sand topdressing. 
 
-I think it is pretty easy to justify doing the work necessary to produce the desired conditions at any facility, and I would hope that some of the information here at the ATC website is useful in that regard (see for example the most-read post of all time from this site, from 2009, on [Core aeration of Putting Greens...how much is enough?](https://www.blog.asianturfgrass.com/2009/07/core-aeration-of-putting-greens-how-much-is-enough.html)). 
+I think it is pretty easy to justify doing the work necessary to produce the desired conditions at any facility, and I would hope that some of the information here at the ATC website is useful in that regard.
 
 At the same time, when there are standard recommendations that are widely known---certainly more widely known than the barely-read content that I produce---I find it worthwhile to share and highlight some of those situations where an alternative to the standard recommendation is producing good results. 
 
