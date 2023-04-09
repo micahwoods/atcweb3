@@ -1,6 +1,6 @@
 ---
 
-title: "What should my clipvol be?"
+title: "What should my ClipVol be?"
 subtitle: ""
 summary: ""
 authors: [admin]
