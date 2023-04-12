@@ -9,7 +9,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 18
 
 title: Top posts
 subtitle: ""
@@ -21,6 +21,7 @@ content:
   count: 12
   # Filter on criteria
   filters:
+    featured_only: true
     author: ""
     category: ""
     publication_type: ""
