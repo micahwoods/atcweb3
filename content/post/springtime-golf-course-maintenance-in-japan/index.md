@@ -38,7 +38,7 @@ Now for the photos from a recent trip.
 
 {{< figure src="cherry_tee.jpg" >}}
 
-There are a lot of cherry trees in Japan. Golf courses often have cherry trees as part of the landscape. This tee, for example, is enclosed by cherry trees. You'll notice on the yardage sign at this tee that there are two yardages given. This course is one of the approximately 30% of courses in Japan that use the [2 green system](https://www.asianturfgrass.com/tag/2-green-system/).
+There are a lot of cherry trees in Japan. Golf courses often have cherry trees as part of the landscape. This tee, for example, is enclosed by cherry trees. You'll notice on the yardage sign at this tee that there are two yardages given. This course is one of the approximately [35%]({{< relref "/post/grass-species-and-the-2-green-system" >}}) of courses in Japan that use the [2 green system](https://www.asianturfgrass.com/tag/2-green-system/).
 
 {{< figure src="fuji.jpg" >}}
 
