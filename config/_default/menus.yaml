@@ -5,7 +5,6 @@
 
 main:
   - name: 'Blog'
-    url: '#posts'
     identifier: 'blog-top-menu'
     weight: 20
   - name: 'New posts'
@@ -17,15 +16,36 @@ main:
   - name: 'Topic list'
     url: '#tags'
     parent: 'blog-top-menu'
+  - name: 'Podcasts'
+    identifier: 'podcast-top-menu'
+    weight: 25
+  - name: 'ATC Doublecut with Micah Woods'
+    url: 'https://atc-doublecut.transistor.fm/'
+    parent: 'podcast-top-menu'
+  - name: 'ATC Office Hours'
+    url: 'https://atc-office-hours.transistor.fm/'
+    parent: 'podcast-top-menu'
+  - name: 'Research'
+    weight: 50
+    identifier: 'research-top-menu'
   - name: 'Projects'
     url: '#projects'
-    weight: 30
-  - name: 'MLSN'
-    url: '/mlsn/'
-    weight: 40
+    parent: 'research-top-menu'
   - name: 'Library'
     url: '#publications'
-    weight: 50
+    parent: 'research-top-menu'
+  - name: 'Soil tests'
+    weight: 40
+    identifier: 'soil-top-menu'
+  - name: 'MLSN'
+    url: '/mlsn/'
+    parent: 'soil-top-menu'
+  - name: 'OM246'
+    url: '/project/om246/'
+    parent: 'soil-top-menu'
+  - name: 'Soil tests and other lab services'
+    url: '/project/soil-tests/'
+    parent: 'soil-top-menu'
   - name: 'Newsletters'
     url: '#newsletters'
     weight: 55
