@@ -41,7 +41,7 @@ Then soil organic matter to a 4 inch (10 cm) depth is explicitly clear. There's 
 
 I hope this will catch on.[^1] I have too many discussion that go back and forth simply trying to figure out what type of organic matter measurement we are talking about. And I see the occasional test shared with me where someone thinks they are looking at total organic material, but from the values on the test, it's apparent that they've actually gotten a test for soil organic matter, rather than for total organic material.
 
-[^1]: You'll see from my previous posts on this topic that I have often used the terms "organic matter" or "soil organic matter" to refer to what I now am saying we should call "total organic material." I'm going to try to better about that, to be clear myself in how I communicate about this.
+[^1]: You'll see from my previous posts on this topic that I have often used the terms "organic matter" or "soil organic matter" to refer to what I now am saying we should call "total organic material." I'm going to try to do better about that, to be clear and more consistent in how I communicate about this.
 
 For more about this, these three posts elaborate and include photos and test results:
 
