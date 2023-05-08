@@ -20,10 +20,10 @@ main:
     identifier: 'podcast-top-menu'
     weight: 25
   - name: 'ATC Doublecut with Micah Woods'
-    url: 'https://atc-doublecut.transistor.fm/'
+    url: 'https://doublecut.asianturfgrass.com/'
     parent: 'podcast-top-menu'
   - name: 'ATC Office Hours'
-    url: 'https://atc-office-hours.transistor.fm/'
+    url: 'https://office-hours.asianturfgrass.com/'
     parent: 'podcast-top-menu'
   - name: 'Research'
     weight: 50
