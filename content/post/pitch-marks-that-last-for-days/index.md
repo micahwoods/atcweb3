@@ -7,7 +7,7 @@ authors: [admin]
 tags: 
 - bentgrass
 - playability
-- firmness
+- surface hardness
 categories: []
 date: 2022-06-12T17:15:26+07:00
 lastmod: 2022-06-12T17:15:26+07:00

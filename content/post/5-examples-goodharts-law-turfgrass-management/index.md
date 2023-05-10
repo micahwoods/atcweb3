@@ -2,14 +2,14 @@
 date: "2020-12-04T00:00:00Z"
 authors: [admin]
 tags:
-- Data
-- Stimpmeter
-- Water
-- Soil moisture
-- Coring
-- Aeration
-- Calcium
-- Soil test
+- data
+- stimpmeter
+- water
+- soil water content
+- coring
+- aeration
+- calcium
+- soil test
 title: "5 examples of Goodhart's law in turfgrass management"
 image:
   preview_only: false

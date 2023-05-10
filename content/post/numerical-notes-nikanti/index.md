@@ -5,9 +5,8 @@ tags:
 - Thailand
 - om246
 - organic matter
-- firmness
-- playability
 - surface hardness
+- playability
 - data
 - bermudagrass
 title: Numerical notes from Nikanti GC

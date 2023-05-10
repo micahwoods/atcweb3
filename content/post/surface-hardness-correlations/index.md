@@ -3,8 +3,7 @@ date: "2020-04-18T00:00:00Z"
 tags:
 - greenkeeping
 - playability
-- hardness
-- firmness
+- surface hardness
 title: Four tools to measure surface hardness
 authors: [admin]
 image:

@@ -3,10 +3,11 @@ date: "2019-09-22T00:00:00Z"
 tags:
 - tournament
 - green speed
+- surface hardness
 - Japan
 - clipvol
 - mowing
-- surface hardness
+
 title: Putting green speed, surface hardness, and clipping volume
 authors: [admin]
 image:

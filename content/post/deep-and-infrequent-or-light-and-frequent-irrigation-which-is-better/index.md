@@ -4,8 +4,9 @@ authors: [admin]
 date: 2013-06-02T20:50:42+00:00
 lastmod: 2021-05-10
 tags:
-  - water
-  - irrigation
+- water
+- irrigation
+- soil water content
 image: 
   preview_only: true
 

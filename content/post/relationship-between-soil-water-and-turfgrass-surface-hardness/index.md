@@ -5,9 +5,10 @@ date: "2014-03-02T08:04:18+00:00"
 lastmod: "2021-04-07T13:20:18+07:00"
 
 tags:
-- Drainage
-- Surface firmness
-- Research
+- drainage
+- surface hardness
+- research
+- soil water content
 
 featured: false
 draft: false

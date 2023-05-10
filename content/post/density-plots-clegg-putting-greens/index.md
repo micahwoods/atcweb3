@@ -4,8 +4,7 @@ date: "2020-04-19T00:00:00Z"
 tags:
 - greenkeeping
 - playability
-- hardness
-- firmness
+- surface hardness
 title: Surface hardness of eight grass species on putting greens
 authors: [admin]
 image:

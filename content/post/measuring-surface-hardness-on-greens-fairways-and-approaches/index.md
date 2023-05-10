@@ -4,11 +4,11 @@ authors: [admin]
 date: 2014-10-14T18:52:00+00:00
 lastmod: 2021-04-08
 tags:
-  - Soil
-  - Thailand
-  - Research
-  - Soil moisture
-  - Surface hardness
+- soil
+- Thailand
+- research
+- soil water content
+- surface hardness
 
 image:
   preview_only: true

@@ -5,7 +5,7 @@ tags:
 - Japan
 - topdress
 - weather
-- firmness
+- surface hardness
 title: Ball bounce on greens after 7 days of rain
 authors: [admin]
 image:

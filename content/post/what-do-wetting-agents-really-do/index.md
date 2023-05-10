@@ -25,7 +25,7 @@ What wetting agents do, when the soil moisture content is measured after applica
 
 > Wetting agent products tested in this trial effectively reduced localized dry spot incidence and increased soil moisture uniformity over a wide range of depths (3 to 8 inches) compared to untreated turf.
 
-This is same result reported by Soldat et al. in [their 2010 article](https://dx.doi.org/10.1097/SS.0b013e3181d6fa02): 
+This is same result as reported by Soldat et al. in [their 2010 article](https://dx.doi.org/10.1097/SS.0b013e3181d6fa02): 
 
 > The uniformity of soil volumetric water content of the surfactant treatments was significantly greater, and soil water repellency was lower [and] … surfactant treatments were faster to recover from the drought … **The surfactants had a minimal effect on soil water content … however the three surfactants significantly improved soil moisture uniformity compared with the untreated control** in both years during drought conditions … These results indicate that the surfactants evaluated are effective tools for improving soil water content uniformity, maintaining good visual appearance, and reducing soil water repellency in sand-based golf putting greens under conditions of drought and irrigation restrictions.
 
