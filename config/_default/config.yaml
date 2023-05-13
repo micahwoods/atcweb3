@@ -60,12 +60,16 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 ## removed redirects from the list of home outputs
+
+## limit the RSS to show only x
+rssLimit: 20
+
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 80
   anchor: smart
 timeout: 600000
 taxonomies:
