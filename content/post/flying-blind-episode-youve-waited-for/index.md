@@ -7,13 +7,15 @@ tags:
 - OM246
 - stimpmeter
 title: "Flying Blind: the episode you've been waiting for"
+authors: [admin]
 image:
   preview_only: true
 ---
 
 You've seen the [trailer](https://youtu.be/Aegnb9FFckk) and heard the bleeps. Now, you can watch the full episode. This is ["Flying Blind"](https://youtu.be/n8Ir2lVnGyE), Episode 3 in Season 1 of my [Grammar of Greenkeeping](https://www.youtube.com/playlist?list=PLrsictdhhM0P_WL5Z2OQXpvjqFKuNnKg5) show.
 
-{{< youtube "https://youtu.be/n8Ir2lVnGyE" >}}
+{{< youtube "n8Ir2lVnGyE" >}}
+<br>
 
 This episode is about playing conditions, on putting greens especially. It features guest stars from around the world: Lee Strutt, David Bataller, and Brad Revill. And Bjarni Hannesson worked some magic with a remix of the audio track. 
 
