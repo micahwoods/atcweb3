@@ -1,20 +1,19 @@
 ---
 date: "2020-12-16T00:00:00Z"
-share-media: https://www.asianturfgrass.comflying_blind_montage.jpg
 tags:
-- Video
+- video
 - MLSN
 - ClipVol
 - OM246
-- Stimpmeter
+- stimpmeter
 title: "Flying Blind: the episode you've been waiting for"
 image:
   preview_only: true
 ---
 
-You've seen the [trailer](https://vimeo.com/490095020) and heard the bleeps. Now, you can watch the full episode. This is ["Flying Blind"](https://vimeo.com/micahwoods/flying), Episode 3 in Season 1 of my [Grammar of Greenkeeping](https://vimeo.com/showcase/7916864) show.
+You've seen the [trailer](https://youtu.be/Aegnb9FFckk) and heard the bleeps. Now, you can watch the full episode. This is ["Flying Blind"](https://youtu.be/n8Ir2lVnGyE), Episode 3 in Season 1 of my [Grammar of Greenkeeping](https://www.youtube.com/playlist?list=PLrsictdhhM0P_WL5Z2OQXpvjqFKuNnKg5) show.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/489313049" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+{{< youtube "https://youtu.be/n8Ir2lVnGyE" >}}
 
 This episode is about playing conditions, on putting greens especially. It features guest stars from around the world: Lee Strutt, David Bataller, and Brad Revill. And Bjarni Hannesson worked some magic with a remix of the audio track. 
 

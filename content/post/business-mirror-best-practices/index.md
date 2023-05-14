@@ -16,7 +16,7 @@ A friend sent me a link to the [Business Mirror's Golf Section](https://issuu.co
 
 {{< figure src="business_mirror_v2.png" >}}
 
-I spoke at the seminar about a continuous improvement system for turfgrass, and recorded [this screencast](https://vimeo.com/375475148) describing that system.
+I spoke at the seminar about a continuous improvement system for turfgrass, and recorded [this screencast](https://youtu.be/3fAk32YYZ3Q) describing that system.
 
-{{< vimeo "375475148" >}}
+{{< youtube "3fAk32YYZ3Q" >}}
 
