@@ -61,7 +61,7 @@ This is what made sense to me that day, as a way to explain some of the things t
 
 7. On a trip to Australia in 2011, I visited a lot of golf courses and saw what the bentgrass turf looked like, and I was surprised in a few cases by how little N was applied to produce those surfaces.
 
-8. I kept checking N rates for bentgrass greens in Japan, and I came to realize that the amount predicted by a growth potential (GP) model with the maximum N set at 3 g N/m<sup>2</sup>/month was more than was actually being applied. I saw a lot of good greens that had N applied at a rate that was closer to a 1.5 to 2 g monthly link to GP. New research by [Bekken and Soldat](https://doi.org/10.1002/glr2.12024) on golf course nitrogen use efficiency comes up with a 2.3 g value.
+8. I kept checking N rates for bentgrass greens in Japan, and I came to realize that the amount predicted by a growth potential (GP) model with the maximum N set at 3 g N/m<sup>2</sup>/month was more than was actually being applied. I saw a lot of good greens that had N applied at a rate that was closer to a 1.5 to 2 g monthly link to GP. New research by [Bekken and Soldat](https://doi.org/10.1002/glr2.12024) on golf course nitrogen use efficiency comes up with a 2.3 g value for cool-season putting greens.
 
 9. In a place like Sydney, Australia, or Tokyo, Japan, running GP models for cool-season grass with the maximum set at 3 g N produces an annual N rate that is considerably higher than what I saw turf managers using to get good results.
 
