@@ -5,7 +5,7 @@ date: 2009-05-12T09:51:00+00:00
 tags:
 - mowing
 - greenkeeping
-img:
+image:
   preview_only: true
 
 ---
@@ -18,7 +18,7 @@ The reason for the color difference is the mowing pattern; for the Masters Tourn
 
 Why do I mention this? To emphasize the importance of having a well-considered mowing program. The way the grass is mowed has a huge impact on the appearance of the golf course. Grass may not be perfect, but if the mowing program is planned to accentuate the appearance of the grass, then the course will look better. It is possible to make the grass look greener without using more fertilizer, appear weed-free even when there are some weeds, and to emphasize the fairway or the rough or other areas of the course, all by implementing an effective mowing program. 
 
-{{< figure src="kentos.jpg" >}}
+{{< figure src="featured.jpg" >}}
 
 This is the 2<sup>nd</sup> hole of Kentos Golf Club in Tochigi-ken, Japan. This mowing pattern emphasizes the center of the fairway as an aiming target, saves mowing time (perhaps 20% time reduction at the average facility), and in this case the left side of the fairway is mowed from tee to green, while the right side of the fairway is mowed from green to tee.
 

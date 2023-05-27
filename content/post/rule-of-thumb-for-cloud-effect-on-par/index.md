@@ -6,7 +6,7 @@ lastmod: 2023-05-27
 tags:
 - light
 - climate
-img:
+image:
   preview_only: true
 
 ---
@@ -19,7 +19,7 @@ For each day, as a function of latitude, and for each time within the day, as a 
 
 But how much do the clouds reduce PAR? If you carry a PPFD meter around with you all the time, you can check it yourself. If you don't carry a PPFD meter, I suggest this rule of thumb to get some idea of just how much the clouds are reducing PAR.
 
-{{< figure src="micah_field_day.png" >}}
+{{< figure src="featured.png" >}}
 
 I explained this at the 2016 Asian Turfgrass Field Day, when it was conveniently partly cloudy, with clouds of varying thickness, and I also conveniently had a meter for measuring the PPFD.
 
