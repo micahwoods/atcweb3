@@ -1,5 +1,6 @@
 ---
 date: "2018-09-16T00:00:00Z"
+lastmod: "2023-05-28"
 tags:
 - turf info
 - web/tech
@@ -29,6 +30,6 @@ Someone asked me that question while we were working at a golf tournament. The *
 
 8. Books. I've got [four books available now](https://www.asianturfgrass.com/#books) and am always working on getting more.
 
-9. Have you ever checked out [Google Scholar](https://scholar.google.com/citations?user=JAlxOXEAAAAJ&hl=en)? That link has a lot of technical articles I've written or co-authored. And there are even more---209 to be exact, as of today---at the [Turfgrass Information File](http://tic.lib.msu.edu/tgif/flink?name=Woods,%20Micah).
+9. Have you ever checked out [Google Scholar](https://scholar.google.com/citations?user=JAlxOXEAAAAJ&hl=en)? That link has a lot of technical articles I've written or co-authored. And there are even more---211 the last time I checked---at the [Turfgrass Information File](http://tic.lib.msu.edu/tgif/flink?name=Woods,%20Micah).
 
 

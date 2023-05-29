@@ -22,7 +22,7 @@ These results are especially useful in the evaluation of past topdressing effect
 
 {{< figure src="om246_sketch.jpg" >}}
 
-At course A, the organic matter is staying constant, so the turf managers there know that the organic matter production over the past year has been matched almost exactly by the topdressing. At course B, the organic matter is being produced faster than it is being decomposed, diluted, or removed. Knowing exactly what is happening with the organic matter makes it easy to make the right decisions about what work to do.
+At course A, the organic matter is staying constant, so the turf managers there know that the organic matter production over the past year has been matched almost exactly by the [topdressing](https://www.asianturfgrass.com/tag/topdress/). At course B, the organic matter is being produced faster than it is being decomposed, diluted, or removed. Knowing exactly what is happening with the organic matter makes it easy to make the right decisions about what work to do.
 
 I've also shared [charts of expected organic matter in cool-season greens]({{< relref "/post/total-organic-matter-surface-putting-greens" >}}).
 
