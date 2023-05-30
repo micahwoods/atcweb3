@@ -19,7 +19,7 @@ image:
   focal_point: ""
   preview_only: true
 
-projects: []
+projects: [om246]
 ---
 
 {{< figure src="featured.jpg" >}}

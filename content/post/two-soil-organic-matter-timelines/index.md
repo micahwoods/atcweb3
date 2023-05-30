@@ -18,7 +18,7 @@ image:
   focal_point: ""
   preview_only: true
 
-projects: []
+projects: [om246]
 ---
 
 I've tried to explain the value of total organic material testing by comparing it to the soil organic matter. In the timelines shown below, the **total organic material** in the top 2 cm (0.8 inches) of the rootzone is five or six times greater than the **soil organic matter** in the top 10 cm (4 inches) of the rootzone. 

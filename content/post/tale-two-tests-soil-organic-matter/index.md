@@ -11,6 +11,7 @@ math: true
 authors: [admin]
 image:
   preview_only: true
+projects: [om246]  
 ---
 
 This post takes a few minutes to read because it covers this topic in a bit of detail. The summary is, I make use of two types of soil organic matter tests for turfgrass, these tests measure two different things, both important, and I recommend turfgrass managers measure both of these, ideally once a year.

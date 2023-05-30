@@ -2,8 +2,9 @@
 date: "2020-02-17T00:00:00Z"
 tags:
 - OM246
-- Organic matter
-- Soil test
+- organic matter
+- soil test
+- total organic material
 title: 'Soil organic matter: a bullet list'
 featured: false
 authors: [admin]
@@ -11,21 +12,22 @@ image:
   caption: ''
   focal_point: ''
   preview_only: yes
+projects: [om246]
 ---
 
-These are some key things I've learned after studying organic matter (OM) for a few years. This is about organic matter in the context of playing conditions---how a ball reacts when it hits the surface. And this is also about the maintenance done to manage organic matter, like sand topdressing, core aerification, and scarification. 
+These are some key things I've learned after studying soil organic matter (SOM) for a few years. This is about organic matter in the context of playing conditions---how a ball reacts when it hits the surface. And this is also about the maintenance done to manage organic matter, like sand topdressing, core aerification, and scarification. 
 
-* Standard tests for soil organic matter *exclude* undecayed plant material like thatch, stems, and roots. That misses a big chunk of the organic matter that people are trying to measure, and then managing by topdressing, scarifying, or coring.
+* Standard tests for soil organic matter *exclude* undecayed plant material like thatch, stems, and roots. That misses a big chunk of the organic matter that people are trying to measure, and then managing by topdressing, scarifying, or coring. 
 
 * Standard soil tests for turfgrass sites are to a 10 cm depth, but organic matter accumulation (and ball reaction) are at the surface.
 
-* A special test is required to measure *total organic matter* at specific depths. I recommend the international standard: 0 to 2 cm, 2 to 4 cm, and 4 to 6 cm. These depths are more precise than going inch by inch. This is what ATC does with all our clients' samples at Brookside Labs.
+* A special test is required to measure *total organic material* at specific depths. I recommend the international standard: 0 to 2 cm, 2 to 4 cm, and 4 to 6 cm. These depths are more precise than going inch by inch. This is what ATC does with all our clients' samples at Brookside Labs.
 
-* Measuring total organic matter in soil samples taken to a 2 cm (0.8 inches) depth provides a useful assessment of prior topdressing effect and of future topdressing requirement. Actually, this is even better than a useful assessment, it is an exact measurement of results.
+* Measuring total organic material in soil samples taken to a 2 cm (0.8 inches) depth provides a useful assessment of prior topdressing effect and of future topdressing requirement. Actually, this is even better than a useful assessment, it is an exact measurement of results.
 
 * I find it most effective to test 100% of the sample that is sent to the lab, with no screening, no removal of aboveground plant material, and with a burn at 440 °C.
 
-* Measurements I've made of total organic matter from putting greens, in the top 2 cm, give an average of 7.3%. That's 73 g of organic matter per 1 kg of sample.
+* Measurements I've made of total organic material from putting greens, in the top 2 cm, give an average of 7.3%. That's 73 g of organic matter per 1 kg of sample.
 
 * For golf courses, I recommend testing at least three putting greens annually, and taking at least five subsamples per green to form a composite sample.
 
