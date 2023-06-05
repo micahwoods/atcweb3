@@ -9,6 +9,8 @@ tags:
 - weeds
 - turf reads
 - lawns
+- ecology
+- Park Grass
 
 image:
   preview_only: true
