@@ -19,7 +19,7 @@ At a Vancouver Island Golf Superintendent Association meeting in spring 2014, I 
 
 > **Can the soil supply enough of an element to meet the grass requirements, and if it cannot, then how much of the element must be applied as fertilizer?**
 
-The presentation [handout and slides](http://www.seminar.asianturfgrass.com/20140402_victoria.html) contain the detailed answer to that question. The short answer is that we can identify the amount necessary as fertilizer from just 3 numbers:
+The presentation [handout and slides](/seminar/2014-04-victoria/) contain the detailed answer to that question. The short answer is that we can identify the amount necessary as fertilizer from just 3 numbers:
 
   1. the amount we **have** (soil test amount)
   2. the amount we **need** to have in the soil (the MLSN guideline)

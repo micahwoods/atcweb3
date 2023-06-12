@@ -16,6 +16,6 @@ image:
   preview_only: true
   
 cascade:
-  show_related: true
+  show_related: false
   pager: true
 ---
