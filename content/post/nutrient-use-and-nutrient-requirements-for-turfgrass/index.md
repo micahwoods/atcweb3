@@ -24,7 +24,7 @@ In presentations at the Eastern Pennsylvania Turf Conference and Trade Show ([vi
 
 What does this ecological experiment have to do with nutrient requirements for turfgrass? Well, the results of the Park Grass experiment show that many species used as turfgrass can grow well at lower nutrient levels than one might expect, and certainly at lower levels of soil nutrients such as potassium and calcium than [weedy species such as dandelion](https://doi.org/10.2307/2641171).
 
-The minimum levels for sustainable nutrition (MLSN) guidelines can be used to ensure that turfgrass plants are supplied with the necessary amount of nutrients, while avoiding overapplication of any nutrient. [This article in the January 2014 issue](https://www.asianturfgrass.com/publication/woodsetal-2014-mlsn/) of _Golf Course Management_ explains how the MLSN guidelines were developed and how they can be applied.
+The minimum levels for sustainable nutrition ([MLSN](https://www.asianturfgrass.com/mlsn/)) guidelines can be used to ensure that turfgrass plants are supplied with the necessary amount of nutrients, while avoiding overapplication of any nutrient. [This article in the January 2014 issue](https://www.asianturfgrass.com/publication/woodsetal-2014-mlsn/) of _Golf Course Management_ explains how the MLSN guidelines were developed and how they can be applied.
 
 In the presentations, I showed how a temperature-based growth potential can be used to estimate how much the grass will grow and consequently how much of each element will be used.
 
