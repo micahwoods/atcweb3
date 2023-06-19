@@ -24,8 +24,6 @@ projects: []
 math: true
 ---
 
-Handouts for minimum nutrient, Park Grass, and calcium and potassium fertilizer presentations
-=====================
 This information supplements the presentations made on these topics by Micah Woods at the Eastern Pennsylvania Turfgrass Conference and Trade Show on 7 and 8 January 2014.
 
 For general information about turfgrass management, see [the Asian Turfgrass Center website](https://www.asianturfgrass.com/). Follow Micah Woods on Twitter [@asianturfgrass](https://twitter.com/asianturfgrass) for turfgrass photos, links to interesting articles, and new information about turf management.

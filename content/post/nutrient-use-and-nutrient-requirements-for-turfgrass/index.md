@@ -13,7 +13,7 @@ image:
 
 ---
 
-In presentations at the Eastern Pennsylvania Turf Conference and Trade Show ([view handout here](http://www.seminar.asianturfgrass.com/20140107_pa.html)), I introduced the nutrient use and nutrient requirement talks by discussing the Park Grass experiment at Rothamsted. Do you know about this experiment? It is the longest-running ecological experiment in the world, with a start date of 1856. And it is on permanent grassland, with many species used as turfgrass growing there.
+In presentations at the Eastern Pennsylvania Turf Conference and Trade Show ([view handout here](/seminar/2014-01-pennsylvania/)), I introduced the nutrient use and nutrient requirement talks by discussing the Park Grass experiment at Rothamsted. Do you know about this experiment? It is the longest-running ecological experiment in the world, with a start date of 1856. And it is on permanent grassland, with many species used as turfgrass growing there.
 
 * [Park Grass experiment](https://www.era.rothamsted.ac.uk/experiment/rpg5)
 * [Park Grass article](https://www.asianturfgrass.com/post/fertilizer-and-weeds-at-park-grass/) in the USGA *Green Section Record*
