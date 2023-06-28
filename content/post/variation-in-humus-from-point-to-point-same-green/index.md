@@ -5,7 +5,7 @@ tags:
 - OM246
 - organic matter
 - soil test
-title: Variation in rootzone organic matter (humus) from point to point on the same
+title: Variation in soil organic matter (humus) from point to point on the same
   green
 image:
   preview_only: true
@@ -21,15 +21,15 @@ This small material that does get tested is humus, and it meets the definition o
 
 **humus:** *The well decomposed, more or less stable part of the organic matter in mineral soils.* 
 
-My [previous post](https://www.asianturfgrass.com/2020-07-06-within-green-variability-of-total-organic-matter/) concerned the spatial variability of total organic matter in the top 2 cm of putting green soils. That's from [OM246 measurements](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/), which measure the total organic matter in the sample by---no surprise---measuring the entire sample. There's no removal of undecayed plant and animal residues. 
+My [previous post](https://www.asianturfgrass.com/2020-07-06-within-green-variability-of-total-organic-matter/) concerned the spatial variability of total organic material in the top 2 cm of putting green soils. That's from [OM246 measurements](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/), which measure the total organic material in the sample by---no surprise---measuring the entire sample. There's no removal of undecayed plant and animal residues. 
 
-The coefficient of variation (**cv**) that I would expect in the total organic matter right at the soil surface in the top 2 cm, going from point to point across the green, is 14%. That means that on average, I'd expect the next point I sample to be 14% higher, or lower, in total organic matter, compared to the average total organic matter measured across the entire green.
+The coefficient of variation (**cv**) that I would expect in the total organic material right at the soil surface in the top 2 cm, going from point to point across the green, is 14%. That means that on average, I'd expect the next point I sample to be 14% higher, or lower, in total organic material, compared to the average total organic material measured across the entire green.
 
 {{< figure src="multiple_samples_keya_11.jpg" >}}
 
-What about the humus? What's the spatial variability of that? I've been doing some research about this too, and I checked the cv of samples taken from the same green. These data are from samples taken to a 10 cm depth (4 inches), with the undecayed material removed. This is the organic matter you see on regular soil tests---this is the humus. This is the number to look at for estimates of nitrogen mineralization and for calculating the contribution of soil organic matter to the soil CEC. For evaluating sand topdressing requirements, or assessing sand topdressing effect, I'd use OM246.
+What about the humus? What's the spatial variability of that? I've been doing some research about this too, and I checked the cv of samples taken from the same green. These data are from samples taken to a 10 cm depth (4 inches), with the undecayed material removed. This is the soil organic matter you see on regular soil tests---this is the humus. This is the number to look at for estimates of nitrogen mineralization and for calculating the contribution of soil organic matter to the soil CEC. For evaluating sand topdressing requirements, or assessing sand topdressing effect, I'd use OM246.
 
-This is a small dataset, with 75 samples so far from six greens. The median cv for these is 13%. It's almost the same as the variability in the total organic matter at the surface.
+This is a small dataset, with 75 samples so far from six greens. The median cv for these is 13%. It's almost the same as the variability in the total organic material at the surface.
 
 For more about this, see:
 
