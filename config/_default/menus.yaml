@@ -34,6 +34,12 @@ main:
   - name: 'Library'
     url: '#publications'
     parent: 'research-top-menu'
+  - name: 'Shiny Apps'
+    url: '/shiny-apps'
+    parent: 'research-top-menu'
+  - name: 'ClipVol'
+    url: '/project/clipvol/'
+    parent: 'research-top-menu'
   - name: 'Soil tests'
     weight: 40
     identifier: 'soil-top-menu'
@@ -57,6 +63,9 @@ main:
     parent: 'about'
   - name: 'Contact'
     url: '#contact'
+    parent: 'about'
+  - name: 'PACE Turf'
+    url: 'https://www.paceturf.org/'
     parent: 'about'
 
 # Link to a PDF of your resume/CV from the menu.
