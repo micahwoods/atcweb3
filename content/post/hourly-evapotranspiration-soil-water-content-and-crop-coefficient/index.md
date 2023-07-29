@@ -33,7 +33,7 @@ The weather was pleasant, with cloudy skies at sunrise giving way to partly sunn
 {{< youtube "agKu3tpr_xY" >}}
 <br>
 
-Those measurements included volumetric water content (VWC) of the 4<sup>th</sup> and 11<sup>th</sup> greens. I took nine measurements across each green and consider the mean value as that green's VWC. The 4<sup>th</sup> green is surrounded by pine trees, has partial shade, and some restricted air movement. The 11<sup>th</sup> green is at the top of a hill, is in full sun, and has plenty of air movement.
+Those measurements included volumetric water content (VWC) of the 4<sup>th</sup> and 11<sup>th</sup> greens. I took nine measurements across each green and consider the mean value as that green's VWC. The 4<sup>th</sup> green is surrounded by pine trees, has partial shade, and sits in a hollow that restricts air movement. The 11<sup>th</sup> green is at the top of a hill, is in full sun, and has unrestricted air movement.
 
 {{< figure src="hourly_et_june9_plot1.png" >}}
 
@@ -49,7 +49,7 @@ After getting those morning data, and making some calculations, I went for lunch
 
 After my delicious lunch, and after the final group had played the holes I measured in the morning, I went back on the course with my tools and took the same playability and growing condition measurements I had made prior to play. This included another measurement of VWC. 
 
-There had been some ET<sub>o</sub>, and I am going to look at how the ET<sub>o</sub> in the 6.5 hours between the morning and the early afternoon measurement is related to the change I measured in VWC from morning to afternoon. There was no rain and no irrigation applied in the 6.5 hours between the morning and afternoon measurements.
+Some ET<sub>o</sub> had accumulated. I am going to look at how the ET<sub>o</sub> in the 6.5 hours between the morning and the early afternoon measurement is related to the change I measured in VWC from morning to afternoon. There was no rain and no irrigation applied in the 6.5 hours between the morning and afternoon measurements.
 
 {{< figure src="featured.png" >}}
 
@@ -63,7 +63,9 @@ Because I know the VWC at known times of the day, and because I calculated the h
 
 The accumulated ET<sub>o</sub> from the morning VWC measurement time to the afternoon VWC measurement time was 2.3 mm. If the K<sub>c</sub> were 1, then I'd expect the VWC to go down by 2.3%. 
 
-For warm-season turf---the greens at Keya GC are korai (*Zoysia matrella*)---it is customary to use a K<sub>c</sub> of somewhere around 0.6 or 0.7. The VWC went down on #4 green by 1.49%. That's an apparent K<sub>c</sub> for #4 green of $\frac{1.49}{2.3}=0.64$. 
+For warm-season turf---the greens at Keya GC are korai (*Zoysia matrella*)---it is customary to use a K<sub>c</sub> of somewhere around 0.6 or 0.7. The VWC went down on #4 green by 1.49%. That's an apparent K<sub>c</sub> for #4 green[^2] of $\frac{1.49}{2.3}=0.64$. 
+
+[^2]: If you are reading this in the RSS feed or by email, the equations won't display properly. They require MathJax to display and that only happens when the post is rendered in a web browser.
 
 On #11, which is in full sun and has more air movement, the VWC went down from the morning to the afternoon measurement by 1.95%. That's a water loss of 1.95 mm, and an apparent on-course K<sub>c</sub> of $\frac{1.95}{2.32}=0.84$. 
 
