@@ -6,7 +6,7 @@ authors: [admin]
 tags: 
 - OM246
 - playability
-- BobbleTest
+- bobble test
 - stimpmeter
 - sand
 categories: []

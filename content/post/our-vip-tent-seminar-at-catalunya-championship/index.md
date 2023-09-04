@@ -7,7 +7,7 @@ authors: [admin]
 tags: 
 - tournament
 - playability
-- BobbleTest
+- bobble test
 - OM246
 - Spain
 categories: []

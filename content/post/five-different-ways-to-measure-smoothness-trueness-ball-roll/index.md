@@ -8,7 +8,7 @@ tags:
 - trueness
 - stimpmeter
 - green speed
-- BobbleTest
+- bobble test
 - playability
 categories: []
 date: 2021-09-06T16:48:26+07:00

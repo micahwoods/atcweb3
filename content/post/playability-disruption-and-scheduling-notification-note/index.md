@@ -6,7 +6,7 @@ summary: ""
 authors: [admin]
 tags: 
 - playability
-- BobbleTest
+- bobble test
 - stimpmeter
 categories: []
 date: 2022-02-25T11:27:59+07:00

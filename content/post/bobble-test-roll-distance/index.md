@@ -5,7 +5,7 @@ subtitle: "Some notes about the methodology of the bobble test"
 summary: ""
 authors: [admin]
 tags: 
-- BobbleTest
+- bobble test
 - playability
 - golf
 categories: []
