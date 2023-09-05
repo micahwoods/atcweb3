@@ -19,11 +19,11 @@ image:
 projects: []
 ---
 
-Golf courses in Japan usually have creeping bentgrass greens, korai (*Zoysia matrella*) tees and fairways, and noshiba (*Zoysia japonica*) rough. The korai and noshiba will be dormant in the winter, and the don't grow much in spring or autumn even if they have some color. It's customary to apply fungicides to prevent diseases (especially large patch and spring dead spot) from developing. It is also customary to apply pre-emergent herbicides to prevent winter annual and summer annual weeds from growing. And it is also customary to apply insecticide to prevent grubs from reaching damaging levels.
+Golf courses in Japan usually have creeping bentgrass greens, korai (*Zoysia matrella*) tees and fairways, and noshiba (*Zoysia japonica*) rough. The korai and noshiba will be dormant in the winter, and these grasses don't grow much in spring or autumn even if they have some color. It's customary to apply fungicides to prevent diseases (especially large patch and spring dead spot) from developing. It is also customary to apply pre-emergent herbicides to prevent winter annual and summer annual weeds from growing. And it is also customary to apply insecticide to prevent grubs from reaching damaging levels.
 
 {{< figure src="golden.jpg" caption="Dormant korai (*Zoysia matrella*) fairway and noshiba (*Zoysia japonica*) rough free of visible weeds or disease symptoms in western Japan, March" >}}
 
-When those preventative treatments are applied with the right timing, the one gets a straw-colored stand of weed-free and disease-free turf in the winter. When the products aren't applied, then large patch and other diseases can be unsightly.
+When those preventative treatments are applied with the right timing, one gets a straw-colored stand of weed-free and disease-free turf in the winter. When the products aren't applied, then large patch and other diseases can be unsightly.
 
 {{< figure src="large.jpg" caption="Large patch symptoms on noshiba in central Japan in October will be visible all autumn, winter, and spring. It's rare to see this scale of outbreak because large patch is usually prevented with fungicides." >}}
 
@@ -41,7 +41,7 @@ The reason these sprayers are at the distributor's warehouse is because customer
 
 The standard type of spraying machine in Japan is not the "spouter." It is the "tanksha." The tanksha sprayers usually have a 1,000 liter (265 gallon) tank. The largest I've seen have a 2,000 liter tank. But the 1,000 L version is easy to drive on fairways and rough without much worry about tire tracking or weight. 
 
-{{< figure src="sprayers-inside-2.jpg" >}}
+{{< figure src="sprayers-inside-2.jpg" caption="Tanksha sprayers and a Toro sprayer on a flatbed truck are ready for action to apply large patch preventatives this autumn." >}}
 
 The tanksha sprayers can be fitted with a boom and multiple nozzles along the boom, although they are commonly used with boomless nozzles that spray a lot of material through just a couple nozzles (see photo below).
 
