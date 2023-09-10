@@ -22,7 +22,7 @@ At almost every golf course, the mowing height is known. Surprisingly, some of t
 
 Although one doesn't need to know all these numbers, I suggested that adding more of these numbers to one's vocabulary will lead to improved putting green performance. This is a summary of the 10 numbers I talked about in this presentation.[^2]
 
-[^2]: A quick review of this list in 2023 has me adjusting a few things. I'd use the [Bobble Test](https://www.asianturfgrass.com/tag/bobbletest/) to assess reliability of a putting surface, rather than the Holing Out Test. I would also like to know clipping volume. And [total organic material](https://www.asianturfgrass.com/project/om246/).
+[^2]: A quick review of this list in 2023 has me adjusting a few things. I'd use the [Bobble Test](https://www.asianturfgrass.com/tag/bobble-test/) to assess reliability of a putting surface, rather than the Holing Out Test. I would also like to know clipping volume. And [total organic material](https://www.asianturfgrass.com/project/om246/).
 
 {{< figure src="mow.png" caption="1-- mowing height" >}}
 

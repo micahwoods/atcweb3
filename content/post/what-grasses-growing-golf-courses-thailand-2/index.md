@@ -11,7 +11,7 @@ tags:
   - Paspalum
   - Thailand
   - Zoysia
-
+draft: true
 ---
 In 2006, ATC conducted a survey of the grass types on golf courses in Thailand. Surveys were sent to the more than 200 courses in Thailand, and 41 of the surveys were completed and returned. Data from that survey are shown in this table:
 
