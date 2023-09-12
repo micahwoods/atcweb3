@@ -6,8 +6,8 @@ summary: ""
 authors: [admin]
 tags: [growth potential, temperature, climate, turf tourism]
 categories: []
-date: 2023-09-12T14:37:00+07:00
-lastmod: 2023-09-12T14:37:00+07:00
+date: 2023-09-12T19:37:00+07:00
+lastmod: 2023-09-12T19:37:00+07:00
 featured: false
 draft: false
 
