@@ -49,7 +49,7 @@ Sydney is promising. Sydney has a lot of days with good temperatures for cool-se
 
 {{< figure src="gpc3_sydney.png" >}}
 
-That's still only 249 days per year at Sydney. What would me need to get more consistent temperature through the year? We'd need to get close to the equator, if possible, although for our pursuit of cool-season GP the high temperatures near the equator will be problematic. Or perhaps we could get to an island location, where ocean currents and proximity to the ocean may keep the temperatures moderated through the year.
+That's still only 249 days per year at Sydney. What would we need to get more consistent temperature through the year? We'd need to get close to the equator, if possible, although for our pursuit of cool-season GP the high temperatures near the equator will be problematic. Or perhaps we could get to an island location, where ocean currents and proximity to the ocean may keep the temperatures moderated through the year.
 
 {{< figure src="bandama-view.jpg" caption="Real Club de Golf de Las Palmas is the oldest golf course in Spain and sits right on the edge of the Bandama caldera." >}}
 
@@ -67,7 +67,7 @@ Let's keep that in mind, and continue. In fact, let's go straight to the home of
 
 So it *is* possible. There are places in the world with temperatures like this. Although this means that cool-season grasses can grow at such a location, simply having a high growth potential all through the year does *not* mean that cool-season grasses will dominate the grasslands or the lawns or managed turf of the area. That's because warm-season (C<sub>4</sub>) grasses can also grow pretty well when the temperatures are high enough for cool-season grasses to have a high GP. And those C<sub>4</sub> grasses are more efficient in nitrogen, water, and light use than are cool-season grasses. 
 
-Therefore, anywhere in the world that is warm enough for year-round "ideal" GP for cool-season grasses will tend to be dominated by swards of warm-season grasses, although one will often find cool-season grasses used in small areas and for specific purposes (such as golf course putting greens.
+Therefore, anywhere in the world that is warm enough for year-round "ideal" GP for cool-season grasses will tend to be dominated by swards of warm-season grasses, although one will often find cool-season grasses used in small areas and for specific purposes (such as golf course putting greens).
 
 We can get to places near the equator that are too cold, too!
 
