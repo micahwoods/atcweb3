@@ -1,6 +1,6 @@
 ---
 
-title: "One chatter or snaking event in every third ball roll"
+title: "One additional chatter or snaking event in every third ball roll"
 subtitle: ""
 summary: ""
 authors: [admin]
