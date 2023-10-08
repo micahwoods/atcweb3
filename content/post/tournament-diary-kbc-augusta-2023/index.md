@@ -104,7 +104,7 @@ The average for Wednesday of tournament week was 21 mL/m<sup>2</sup>. That, from
 
 The tournament got underway, and I recorded an ATC Doublecut with Andrew in which we discussed green firmness and the [4 ton roller](https://twitter.com/asianturfgrass/status/1694593992581861843?s=20) than had been used on the greens. 
 
-{{< tweet "1694593992581861843" >}}
+{{< tweet id="1694593992581861843" user="asianturfgrass">}}
 
 The weather this week was consistent from day to day, for the most part. There were no rains significant enough to cause washouts, work adjustments, or play delays. The measurements I was getting were as expected. Thus, there was time to watch some golf, and to make a video of [Thursday morning greenkeeping work.](https://youtube.com/shorts/UBGW8s5cklM?si=zIO8Fad3fJdM1PhD)
 
