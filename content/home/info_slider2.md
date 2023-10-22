@@ -1,6 +1,6 @@
 ---
 widget: slider
-weight: 25
+weight: 15
 active: true
 headless: true
 
@@ -27,7 +27,7 @@ content:
         icon: podcast
         icon_pack: fas
         text: 'Listen to The ATC Doublecut'
-        url: 'https://atc-doublecut.transistor.fm'
+        url: 'https://doublecut.asianturfgrass.com'
     - title: Videos & livestreams
       content: 'A turfgrass library of videos, conversations, and seminar screencasts.'
       align: center
@@ -57,7 +57,7 @@ content:
         icon: podcast
         icon_pack: fas
         text: "Listen to ATC Office Hours"
-        url: 'https://atc-office-hours.transistor.fm'
+        url: 'https://office-hours.asianturfgrass.com'
       content: 'Office Hours podcast with turf managers, scientists, and students, about grass around the world.'
       align: center
       background: 

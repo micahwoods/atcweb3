@@ -37,7 +37,7 @@ Here are three items that cover the topic of surface hardness, or the firmness o
 If you are reading this by email, this post is the first one with a new expanded "blog email" format. What do you think? 
 
 {{% callout note %}}
-Did you know you can get each new ATC blog post by email? [Sign up here](https://www.asianturfgrass.com/#newsletters) if you'd like to receive this information by email.
+Did you know you can get each new ATC blog post by email? [Sign up here](/newsletter/) if you'd like to receive this information by email.
 {{% /callout %}}
 
 

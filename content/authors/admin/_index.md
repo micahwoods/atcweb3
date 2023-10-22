@@ -65,12 +65,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-9140-5147
-- icon: vimeo
+- icon: instagram
   icon_pack: fab
-  link: https://vimeo.com/micahwoods
-  label: Watch our videos
-  display:
-    header: false
+  link: https://www.instagram.com/asianturfgrass/
 - icon: github
   icon_pack: fab
   link: https://github.com/micahwoods

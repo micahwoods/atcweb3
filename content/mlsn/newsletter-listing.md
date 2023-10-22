@@ -11,6 +11,6 @@ design:
 * [MLSN newsletter #19](mlsn-newsletter-19.pdf)
 * [MLSN newsletter #18](mlsn-newsletter-18.pdf)
 
-Sign-up for this free newsletter [here](/#newsletters).
+Sign-up for this free newsletter [here](/newsletter).
 
 

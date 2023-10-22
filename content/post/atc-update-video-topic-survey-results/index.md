@@ -33,7 +33,7 @@ image:
 projects: []
 ---
 
-In the last [ATC update newsletter](/#newsletters) I included a survey about future video topics. These are the results. 
+In the last [ATC update newsletter](/newsletter/) I included a survey about future video topics. These are the results. 
 
 {{< figure library=true src="atc_video_survey.jpg" >}}
 

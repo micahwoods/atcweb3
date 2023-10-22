@@ -21,7 +21,7 @@ image:
 
 {{< figure src="mlsn_survey.png" >}}
 
-In the 14<sup>th</sup> MLSN [newsletter]({{< relref "/#newsletters" >}}), I asked *what would you like to see, hear, learn, or know about MLSN?* I summarized the results of that survey in the chart above. 
+In the 14<sup>th</sup> MLSN [newsletter]({{< relref "/newsletter" >}}), I asked *what would you like to see, hear, learn, or know about MLSN?* I summarized the results of that survey in the chart above. 
 
 I was pleased to see the interest in tutorials and case studies. If you have used MLSN and would like to make a new tutorial or case study, there are a lot of people who would be interested to read or watch or listen to what you produce. Here are four examples of the type of material that I'm thinking of.
 

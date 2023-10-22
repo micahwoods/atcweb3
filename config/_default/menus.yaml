@@ -53,7 +53,7 @@ main:
     url: '/project/soil-tests/'
     parent: 'soil-top-menu'
   - name: 'Newsletters'
-    url: '#newsletters'
+    url: '/newsletter/'
     weight: 55
   - name: 'About'
     url: '#about'
