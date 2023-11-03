@@ -38,7 +38,11 @@ I mentioned Chris Tritabaugh's Substack newsletter. You can read it, and get a f
 
 I mentioned the [MLSN cheat sheet](/post/new-mlsn-cheat-sheet/) having information about converting between soil test methods other than Mehlich 3.
 
-We also discussed some soil testing methods, and the scoop sizes for soil testing. [This video](https://youtu.be/PyL2bfdiBdE?si=xMiTajjgIEsc8gjY) takes a tour through the soils lab at Brookside, and you can see some of the scoops, testing robots, and see all the steps of routine soil nutrient analysis.
+We also discussed some soil testing methods, and the scoop sizes for soil testing. 
+
+[This 35 second video](https://youtu.be/CPp8xivJ9wE?si=rPGYqlv2pt21czAI) shows the 2 g scoop and the small crucibles used for soil organic matter testing.
+
+[This video](https://youtu.be/PyL2bfdiBdE?si=xMiTajjgIEsc8gjY) takes a 22 minutes tour through the Brookside soils lab, and you can see some of the scoops, testing robots, and see all the steps of routine soil nutrient analysis.
 
 For even more information, see:
 
