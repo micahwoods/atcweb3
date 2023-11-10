@@ -50,7 +50,7 @@ At St. Endreol, I showed the C<sub>3</sub> growth potential (GP) (above) and men
 
 {{< figure src="st_endreol_gpc4_2022.png" >}}
 
-The estimated N that I expect for these temperatures for *Cynodon* is 140 kg/ha (14 g/m<sup>2</sup>). 
+The estimated N that I expect for these temperatures for *Cynodon* is 142 kg/ha (14.2 g/m<sup>2</sup>). 
 
 ## How do I get those N values?
 
