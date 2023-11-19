@@ -69,7 +69,10 @@ main:
     parent: 'about'
   - name: 'PACE Turf'
     url: 'https://www.paceturf.org/'
-    parent: 'about'
+    weight: 60
+  - name: Thai conference
+    url: 'https://stmia.asianturfgrass.com/'
+    weight: 65
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
