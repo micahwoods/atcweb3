@@ -21,7 +21,7 @@ projects: []
 
 This is one of those blog posts that I finally can move from the list of notes about what I might write about, to the published and completed section.
 
-> [2020-08-29 Sat] On my run this morning from [...] to [...] I was thinking that a little bit of quantitative like OM246, knowing nutrient supply, clipvol, it goes a long way in leading to improved turf conditions.
+<mark>> [2020-08-29 Sat] On my run this morning from [...] to [...] I was thinking that a little bit of quantitative like OM246, knowing nutrient supply, clipvol, it goes a long way in leading to improved turf conditions.</mark>
 
 That was my simple note. I'd like to explain it like this.
 
