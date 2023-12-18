@@ -8,7 +8,7 @@ title: Posts
 view: 2
 
 # Optional header image (relative to `static` folder).
-header:
+banner:
   caption: ""
   image: ""
   
