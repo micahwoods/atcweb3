@@ -36,7 +36,7 @@ The grasses here are tropical beachgrass (*Thuarea involuta*) and a little bit o
 
 {{< figure src="sunshine-coast.jpg" caption="Sunshine Coast Golf & Country Club (British Columbia), March" >}}
 
-I went to Canada in March and has a chance to visit Jason Haines at Sunshine Coast Golf and Country Club (along with Tristan Tuplin at Blue Ocean). I was impressed with the quality of the playing surfaces achieved through---how to describe it---attention to fundamentals and managing the growth rate. Jason and I had a talk about this. Watch and see more [in this video](https://youtu.be/L8Q8v5SAzSo).
+I went to Canada in March and had a chance to visit Jason Haines at Sunshine Coast Golf and Country Club (along with Tristan Tuplin at Blue Ocean). I was impressed with the quality of the playing surfaces achieved through---how to describe it---attention to fundamentals and managing the growth rate. Jason and I had a talk about this. Watch and see more [in this video](https://youtu.be/L8Q8v5SAzSo).
 
 {{< figure src="inasa.jpg" caption="Yamazakura at Inasa GC, Shizuoka, March" >}}
 
