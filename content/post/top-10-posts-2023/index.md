@@ -25,7 +25,7 @@ These posts had the most views in 2023. They are on a nice balance of topics: th
 
 Here they are.
 
-[1] May, [Reflections on growth rate, nitrogen, and topdressing](/post/reflections-on-growth-rate-and-nitrogen/) about how and my my thoughts have changed on these topics.
+[1] May, [Reflections on growth rate, nitrogen, and topdressing](/post/reflections-on-growth-rate-and-nitrogen/) about how and why my thoughts have changed on these topics.
 
 [2] April, [The growth ratio equation](/post/the-growth-ratio-equation/) writes out the simple formula for evaluating actual growth compared with expected growth.
 
@@ -33,7 +33,7 @@ Here they are.
 
 [4] October, [How much organic matter is too much?](/post/how-much-om-is-too-much/) This answers a question that I don't like to answer, and I provide both an answer and a suggestion of how to think about this.
 
-[5] January, [An analysis of turfgrass industry Twitter accounts in 2022](/post/turf-twitter-analysis-2022/) did this analysis for the last time. Changes in the X.com API no longer allow me to do this analysis. It was fun while it lasted.
+[5] January, [An analysis of turfgrass industry Twitter accounts in 2022](/post/turf-twitter-analysis-2022/) did this analysis for the final time. Changes in the X.com API no longer allow me to do this analysis. It was fun while it lasted.
 
 [6] January, [Is two tenths of a pound of nitrogen a lot, or a little?](/post/is-two-tenths-of-a-pound-of-nitrogen-a-lot-or-a-little/) In terms of how much growth can be produced from that much N, it's a lot.
 
@@ -43,7 +43,7 @@ Here they are.
 
 [9] June, [Coring three times a year is recommended when ...](/post/coring-three-times-a-year-is-recommended-when/) when what I would consider a lot of N is applied.
 
-[10] July, [Sand topdressing measurement by exact methods](/post/sand-topdressing-measurement-by-exact-methods/) shows how to know exactly how much sand is being applied.
+[10] July, [Sand topdressing measurement by exact methods](/post/sand-topdressing-measurement-by-exact-methods/) shows how to check and confirm exactly how much sand is being applied.
 
 If you want to scroll through all the posts, here are two lists of ATC posts that you may not have seen:
 
