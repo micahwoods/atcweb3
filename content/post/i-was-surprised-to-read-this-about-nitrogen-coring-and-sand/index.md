@@ -36,19 +36,21 @@ I looked under the management heading for pythium root dysfunction and read this
 
 I was surprised to read that in a book published in 2023. Instead of trying to apply those amounts of N, hollow-tine aerification, and sand topdressing, my advice is to measure playing conditions, then adjust the growth of the grass (including the N rate) and the surface and soil management (including sand topdressing) as necessary to maximize the number of days in the year with playing conditions at the desired level. 
 
+{{< figure src="featured.jpg" caption="It takes a lot of applications through the year to apply 5,000 lbs of sand per 1,000 ft<sup>2</sup>" >}}
+
 The idea is to find site-specific growth rates and sand topdressing rates, and these rates can be a lot lower than what the book says. The question, of course, is whether that alternative method works. Basically, should a turf manager listen to the books, or listen to me?
 
 ### Now for a bit of backstory
 
 Chris Tritabaugh wrote about this in a Substack post with the title ["At what point can we say 'this works!'"](https://open.substack.com/pub/ctunderscoreturf/p/at-what-point-do-we-say-this-works?r=dakt8&utm_campaign=post&utm_medium=web)
 
-He's been applying N at about 25% of that recommended rate (from the book) and sand at about 25% of that recommended rate from the book, and has not been doing bi-weekly solid-tine aeration during the summer to increase root survival (the book also recommended that). After doing this for multiple years, he knows that it works. 
+He's been applying N at about 25% of that recommended rate (from the book) and sand at about 25% of that recommended rate from the book, and has not been doing biweekly solid-tine aeration during the summer to increase root survival (the book also recommended that). After doing this for multiple years, he knows that it works. 
 
-Chris and I discussed a conversation about whether this works, or not, right at the start of [this ATC Office Hours episode](https://youtube.com/live/atipVSlT1ws?feature=share). We'd had a conversation with John Kaminski about not putting sand topdressing and not disturbing a bentgrass putting green surface during the season.
+Chris and I discussed a conversation about whether this works, or not, right at the start of [this ATC Office Hours episode](https://youtube.com/live/atipVSlT1ws?feature=share). We'd had a conversation with John Kaminski about not doing regular sand topdressing and not disturbing a bentgrass putting green surface with hollow-tine or solid-tine (venting) during the season.
 
 Joe Gulotti asked John about that conversation right at the start of [this Talking Greenkeeper episode](https://podcasts.apple.com/us/podcast/kaminski/id1435947281?i=1000636985397).
 
-Then it came up *again*, when Joe and I discussed it on another episode of the The Talking Greenkeeper, specifically starting at the [44:30 time in this episode]https://podcasts.apple.com/us/podcast/the-micah-woods-annual-holiday-special/id1435947281?i=1000639222356).
+Then the topic came up *again* when Joe and I discussed it on another episode of the The Talking Greenkeeper, specifically starting at the [44:30 time in this episode](https://podcasts.apple.com/us/podcast/the-micah-woods-annual-holiday-special/id1435947281?i=1000639222356).
 
 The point for me is that it seems that frequent disruption, and a lot more sand and surface disruption than Chris is doing, remain the standard. Reading about that in a book published in 2023 confirms to me that yes, those types of recommendations *are* the standard. 
 
