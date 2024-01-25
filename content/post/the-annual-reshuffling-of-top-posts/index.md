@@ -21,9 +21,9 @@ projects: []
 
 There are hundreds of posts on the ATC website. [Topics](/#tags) range from the [2 green system](/tag/2-green-system/), [aeration](/tag/aeration/), and [algae](/tag/algae/) to [winter](/tag/winter/), [writing](/tag/writing/), and [zoysia](/tag/zoysia/).
 
-Some posts get a lot more views that others, and about once a year I update [this list](/#top-posts) of top posts. 
+Some posts get a lot more views than others, and about once a year I update [this list](/#top-posts) of top posts. 
 
-These aren't just the [posts from the last calendar year](/post/top-10-posts-2023/) that got the most views. No, these are the posts---with no restriction on date of publication---that got the most views in the past two years. It's more like the top posts on the blog of all time, with an extreme weighting toward what's been read recently.
+These aren't just the [posts from the last calendar year](/post/top-10-posts-2023/) that got the most views. No, these are the posts---with no restriction on date of publication---that got the most views in the past two years. It's more like the top posts on the blog of all time, with an extreme weighting toward what's been most read recently.
 
 Without further ado, this is the reshuffle.
 

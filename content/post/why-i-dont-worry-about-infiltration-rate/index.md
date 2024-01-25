@@ -23,7 +23,7 @@ I understand there are a lot of different ways to manage grass. One way involves
 
 There are eight things[^1] I do like to measure. Two of those---the soil water content and the total organic matter (OM246)---provide plenty of information to ensure the infiltration rate is fine.
 
-[^1]: I explained all eight things I like to measure in the [Flying Blind](https://vimeo.com/micahwoods/flying) episode.
+[^1]: I explained all eight things I like to measure in the [Flying Blind](https://youtu.be/n8Ir2lVnGyE) episode.
 
 {{< figure src="rainy_kagoshima.jpg" caption="Hitting a bunker shot on a rainy day in Kagoshima." >}}
 

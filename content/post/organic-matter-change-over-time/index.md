@@ -20,11 +20,11 @@ image:
 ---
 {{< figure src="beach_film.jpg" caption="Recording a monologue about OM246 in southern Thailand." >}}
 
-I've been working on an explanation of what OM246 testing is. [This short video](https://vimeo.com/559319048)[^1] is the first of a trilogy, and in it I emphasize one important thing that I think everyone should understand about the measurement of total organic matter.
+I've been working on an explanation of what OM246 testing is. [This short video](https://youtu.be/FombB_mnORM)[^1] is the first of a trilogy, and in it I emphasize one important thing that I think everyone should understand about the measurement of total organic matter.
 
 [^1]: Thanks to Bjarni Hannesson who provided expert audio engineering for this episode. 
 
-{{< vimeo "559319048" >}}
+{{< youtube "FombB_mnORM" >}}
 
 The main point I wanted to make in part 1 is that the change in total organic matter between two measuring dates shows the result of topdressing, and growth, and weather, and microbial activity, and coring, and scarification, between those two dates. 
 

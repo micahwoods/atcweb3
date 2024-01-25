@@ -1,6 +1,5 @@
 ---
 date: "2019-01-02T00:00:00Z"
-share-media: https://c2.staticflickr.com/2/1727/40645377050_964dc0cf2c_b_d.jpg
 tags:
 - web/tech
 - turf info
@@ -14,7 +13,7 @@ These posts had the most views in 2018. Here they are, counting down from ten to
 
 [10] November, [Kurofune keeper](https://www.asianturfgrass.com/2018-11-17-kurofune-keeper/) about the feature article on Andrew McDaniel in *Weekly Golf Digest*. That post has a download link for the article; it's also available [here](http://www.files.asianturfgrass.com/andrew_digest_2018.html) in an easy-reading format.
 
-[9] November, [Humbug, the MLSN movie](https://www.asianturfgrass.com/2018-11-29-humbug-the-mlsn-movie/). This was a fun project, producing and playing the lead role in a [film about MLSN](https://vimeo.com/micahwoods/humbug). If you haven't seen this yet, please have a watch this winter. As [the trailer](https://vimeo.com/micahwoods/humbugshort) shows, it's got drama, unbounded optimism, humour, international intrigue, and even ice cream.
+[9] November, [Humbug, the MLSN movie](https://www.asianturfgrass.com/2018-11-29-humbug-the-mlsn-movie/). This was a fun project, producing and playing the lead role in a [film about MLSN](https://youtu.be/5NrnNBi4SWY). If you haven't seen this yet, please have a watch this winter. As [the trailer](https://youtu.be/p3K3wMM9oEM) shows, it's got drama, unbounded optimism, humour, international intrigue, and even ice cream.
 
 [8] July, [A pleasant day, with an unpleasant termination](https://www.asianturfgrass.com/2018-07-10-pleasant-day-unpleasant-termination/). Of the top 10 posts, I'd choose this one as my personal favorite. It's about something applicable everywhere---playing conditions and the type of work required to achieve the desired conditions. And as I wrote, "surely this is not the only place where this can happen?"
 

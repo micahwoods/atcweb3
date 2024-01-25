@@ -45,7 +45,7 @@ i_am_a_sponsor: true
 
 footer:
   copyright:
-    notice: '© 2006--{year} [Asian Turfgrass Center](https://www.asianturfgrass.com/). This site made with [Wowchemy](https://wowchemy.com/) & [Hugo](https://gohugo.io/).'
+    notice: '© 2006--{year} [Asian Turfgrass Center](https://www.asianturfgrass.com/). This site made with [Hugo Blox](https://hugoblox.com/) & [Hugo](https://gohugo.io/).'
 
 
 # Localization

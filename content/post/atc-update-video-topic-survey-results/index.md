@@ -6,11 +6,11 @@ subtitle: ""
 summary: ""
 authors: ["admin"]
 tags: 
-- Video
+- video
 - OM246
-- Nitrogen
+- nitrogen
 - survey
-- Web/Tech
+- web/tech
 categories: []
 date: 2021-01-13T08:03:44+07:00
 lastmod: 2021-01-13T08:03:44+07:00
@@ -43,11 +43,11 @@ But I'm going to work on surface OM and surface firmness first, based on the res
 
 And I have good news. If you haven't seen them, a couple videos I've made already cover some of these topics.
 
-- [A continuous improvement system for turfgrass](https://vimeo.com/micahwoods/improve) includes a discussion of surface OM and surface firmness.
+- [A continuous improvement system for turfgrass](https://youtu.be/3fAk32YYZ3Q) includes a discussion of surface OM and surface firmness.
 
-- [Humbug](https://vimeo.com/micahwoods/humbug) is *the* MLSN movie and looks at that topic from all kinds of angles.
+- [Humbug](https://youtu.be/5NrnNBi4SWY) is *the* MLSN movie and looks at that topic from all kinds of angles.
 
-- [Leaves of grass](https://vimeo.com/micahwoods/clip1) takes a look at measurement of clipping volume.
+- [Leaves of grass](https://youtu.be/bEP--V_douY) takes a look at measurement of clipping volume.
 
 
 

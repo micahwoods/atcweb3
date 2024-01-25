@@ -19,9 +19,9 @@ From that came the idea to make a movie about [MLSN]({{< relref "/mlsn" >}}).
 
 Is it a documentary? A tutorial? A comedy? You can watch and judge for yourself.
 
-The [trailer is here](https://vimeo.com/micahwoods/humbugshort), and you can watch the full 44 minute film at the premiere in The Netherlands on November 28, or on a screen near you after the worldwide release on November 29.
+The [trailer is here](https://youtu.be/p3K3wMM9oEM), and you can watch the full 44 minute film at the premiere in The Netherlands on November 28, or on a screen near you after the worldwide release on November 29.
 
-{{< vimeo "301014516" >}}
+{{< youtube "p3K3wMM9oEM" >}}
 
 <br>
 
