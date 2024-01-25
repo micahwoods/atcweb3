@@ -3,7 +3,7 @@ date: "2020-06-24T00:00:00Z"
 tags:
 - fertilizer
 - mowing
-- clipvol
+- ClipVol
 - research
 title: Twice the growth at a different mowing height
 authors: [admin]
@@ -23,6 +23,6 @@ For more about this, see:
 
 * a book about it, [*One Bucket at a Time*](https://www.asianturfgrass.com/buckets/)
 
-* a video about it, [Leaves of Grass](https://vimeo.com/micahwoods/clip1)
+* a video about it, [Leaves of Grass](https://youtu.be/bEP--V_douY)
 
 * a blog post about it, [Creeping Bentgrass Nutrient Use in Summer](https://www.asianturfgrass.com/2019-04-18-creeping-bentgrass-nutrient-use-in-summer/)

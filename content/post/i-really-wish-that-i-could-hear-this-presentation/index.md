@@ -14,9 +14,9 @@ image:
 
 That's what Jon Scott wrote to me on October 7, 2014, after I shared the slides from my shade talk at the Northwest Turfgrass Association conference. We've been having a back and forth about this ever since. Some elaboration at the end of this post.
 
-I finally recorded some audio to go with those slides, and posted [here on my Vimeo account](https://vimeo.com/259138126).
+I finally recorded some audio to go with those slides, and posted [here](https://youtu.be/86mtuiQVi2Y).
 
-{{< vimeo "259138126" >}}
+{{< youtube "86mtuiQVi2Y" >}}
 
 <br>
 

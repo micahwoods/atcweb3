@@ -45,7 +45,7 @@ For more information about this important topic, please have a look at:
 * [Measuring organic matter](https://www.asianturfgrass.com/2019-06-10-measuring-organic-matter/)
 * Total organic matter [sample number and sample volume](https://www.asianturfgrass.com/2019-07-29-total-organic-matter-testing-sample-size/)
 * Three reasons for [expressing sand topdressing amount as a depth](https://www.asianturfgrass.com/2019-08-08-three-reasons-sand-depth/)
-* Video about a [continuous improvement system](https://vimeo.com/micahwoods/improve) that includes OM measurement
+* Video about a [continuous improvement system](https://youtu.be/3fAk32YYZ3Q) that includes OM measurement
 * From Charles Henderson at ETL, [relating greens organic matter to the amounts of sand applied](https://www.etl-ltd.com/relating-greens-organic-matter-loi-to-the-amounts-of-sand-applied/)
 * Also from ETL, [organic matter testing, part one](https://www.etl-ltd.com/european-turfgrass-laboratories/sports-turf-material-testing/organic-matter-testing-part-one/)
 

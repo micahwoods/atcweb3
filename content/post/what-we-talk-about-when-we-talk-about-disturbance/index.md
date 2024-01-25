@@ -1,6 +1,6 @@
 ---
 
-title: "What We Talk About When We Talk About Disturbance"
+title: "What we talk about when we talk about disturbance"
 subtitle: ""
 summary: ""
 authors: [admin]
@@ -8,6 +8,7 @@ tags:
 - bentgrass
 - Poa annua
 - ecology
+- Spain
 categories: []
 date: 2021-07-25T17:30:45+07:00
 lastmod: 2021-07-25T17:30:45+07:00
@@ -24,13 +25,13 @@ When I think about disturbance, I think primarily of verticutting and hollow-tin
 
 {{< figure src="sign_care_post_planting_grass.jpg" caption="I'd generally like to minimize disturbance, to have less of a need to care for the grass.">}}
 
-There was a discussion about this on the [atc-turf Discord](https://discord.gg/K8tWApB5ME), and I mentioned how I think of disturbance. This is an elaboration on that, because when I think of a mixed stand of bentgrass and *Poa annua*, and minimal disturbance, I think of David Bataller and the bentgrass greens at PGA Catalunya.
+There was a discussion about this on the atc-turf Discord, and I mentioned how I think of disturbance. This is an elaboration on that, because when I think of a mixed stand of bentgrass and *Poa annua*, and minimal disturbance, I think of David Bataller and the bentgrass greens at Camiral (formerly PGA Catalunya).
 
-Here's a short clip from [Flying Blind](https://vimeo.com/micahwoods/flying) in which David explains this.
+Here's a short clip from [Flying Blind](https://youtu.be/n8Ir2lVnGyE) in which David explains this.
 
 {{< video src="disturbance.mp4" controls="yes" >}}
 
-The first time I went to PGA Catalunya it was late autumn of 2012 and there was already plenty of snow in the Pyrenees.
+The first time I went to Girona it was late autumn of 2012 and there was already plenty of snow in the Pyrenees.
 
 {{< figure src="pga_cat_2012.jpg" >}}
 

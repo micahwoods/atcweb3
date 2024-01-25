@@ -7,6 +7,7 @@ authors: [admin]
 tags: 
 - OM246
 - organic matter
+- total organic material
 - soil test
 categories: []
 date: 2021-06-19T17:02:51+07:00
@@ -28,9 +29,9 @@ I don't recall if I read this exact statement, or if it occurred to me when I re
 
 The OM246 trilogy videos explain more about how I would do this.
 
-* [Trilogy OM2](https://vimeo.com/559319048)
+* [Trilogy OM2](https://youtu.be/FombB_mnORM)
 
-* [Trilogy OM4](https://vimeo.com/559336170)
+* [Trilogy OM4](https://youtu.be/8ufZXhVpgKY)
 
-* [Trilogy OM6](https://vimeo.com/559391502)
+* [Trilogy OM6](https://youtu.be/n1EuiNxK1rI)
 

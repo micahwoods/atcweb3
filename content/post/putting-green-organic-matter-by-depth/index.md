@@ -15,13 +15,11 @@ image:
 featured: true
 ---
 
-I watched the Greenkeeper App meeting about organic matter, and I recommend you do too. [The video](https://youtu.be/LJ2q2ctoMv8) has Doug Soldat, Bill Kreuser, and Roch Gaussoin talking about soil organic matter, rootzones, sand topdressing, and turf performance.
-
-{{< youtube "LJ2q2ctoMv8" >}}
+I watched a Greenkeeper App meeting about organic matter in spring of 2020. The video doesn't seem to be available anymore. It has Doug Soldat, Bill Kreuser, and Roch Gaussoin talking about soil organic matter, rootzones, sand topdressing, and turf performance.
 
 They brought up some really good points, and raised a few questions. I made notes as I watched because there were a few of these questions that have really practical and effective solutions. 
 
-In particular, I'm providing an alternative answer to the question Doug asked at about the [22 minute mark](https://youtu.be/LJ2q2ctoMv8?t=1320), "What protocol would you recommend for sampling greens for organic matter?"
+In particular, I'm providing an alternative answer to the question Doug asked at about the 22 minute mark, "What protocol would you recommend for sampling greens for organic matter?"
 
 1-- It's useful to think of two types of organic matter in turfgrass soils. One meets the definition of **soil organic matter** as defined by the Soil Science Society of America: "The organic fraction of the soil exclusive of undecayed plant and animal residues." Gaussoin et al. wrote about this at length in [Characterization, Development, and Management of Organic Matter in Turfgrass Systems](https://onlinelibrary.wiley.com/doi/abs/10.2134/agronmonogr56.c12). In fact, that's where I came across the link to the [SSSA soils glossary](https://www.soils.org/publications/soils-glossary). If you get a soil test done in the USA, and get a test for organic matter, it is almost certainly going to meet that definition. And the way it meets that definition, "exclusive of undecayed plant and animal residues," is by removing those materials from the sample prior to testing. All the grass plants, all the living and dead roots, any thatch or mat, gets removed from the sample.
 
@@ -101,21 +99,5 @@ In particular, I'm providing an alternative answer to the question Doug asked at
 
 11-- Doug also mentioned cost of testing. And Roch recommended testing every green. I recommend [testing at least 6 greens per 18 holes](https://www.asianturfgrass.com/2020-02-09-composite-samples-7/) for nutrients, pH, and organic matter by the way organic matter is defined. For total organic matter by depth, I'd test a [minimum of 3 greens](https://www.asianturfgrass.com/2019-07-29-total-organic-matter-testing-sample-size/) at 3 depths, per 18 holes. ATC is charging USD $300 for that amount of total organic matter testing, which seems reasonable for the information gained. I've made some limited measurements of within green variability (in organic matter, and in total organic matter by depth, and in nutrients) and compared that to between green variability. Because the within green and between green variability in my measurements has been similar in magnitude, I'd rather do enough testing to get an accurate average for the course, and then use something other than test results to determine management green by green. 
 
-12-- Frank Rossi and I talked about all these things and more on a call for his Frankly Speaking podcast a year ago, but unfortunately the audio wasn't good on the call going halfway around the world, so it never got released. We talked about organic matter accumulation and decomposition by climate, verdure on/off and the pronunciation of verdure, sand topdressing amounts, and lots about total organic matter testing by depth. Since I don't have that podcast to share, if you'd like to hear me talk a bit more about this, I discussed the practical use of this testing in a video I recorded called [A continuous improvement system for turfgrass](https://vimeo.com/micahwoods/improve).
-
----
-
-For more about this topic, I'd recommend:
-
-* [Soil organic matter: a bullet list](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/)
-
-* [This one simple trick can transform putting greens from usually good to consistently great ](https://www.asianturfgrass.com/2019-06-25-one-simple-trick-better-greens/) 
-
-* [The GreenKeeper App Blog](https://greenkeeper.blog/)
-
-* [Measuring organic matter](https://www.asianturfgrass.com/2019-06-10-measuring-organic-matter/)
-
-* [Total organic matter testing on putting greens: sample number and sample volume](https://www.asianturfgrass.com/2019-07-29-total-organic-matter-testing-sample-size/)
-
-
+12-- Frank Rossi and I talked about all these things and more on a call for his Frankly Speaking podcast a year ago, but unfortunately the audio wasn't good on the call going halfway around the world, so it never got released. We talked about organic matter accumulation and decomposition by climate, verdure on/off and the pronunciation of verdure, sand topdressing amounts, and lots about total organic matter testing by depth. Since I don't have that podcast to share, if you'd like to hear me talk a bit more about this, I discussed the practical use of this testing in a video I recorded called [A continuous improvement system for turfgrass](https://youtu.be/3fAk32YYZ3Q).
 

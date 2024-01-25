@@ -3,9 +3,9 @@ date: "2020-07-06T00:00:00Z"
 authors: [admin]
 tags:
 - OM246
-- organic matter
+- total organic material
 - soil test
-title: How much does total organic matter vary within the same green?
+title: How much does total organic material vary within the same green?
 image: 
   preview_only: true
 math: true
@@ -15,19 +15,19 @@ There's a ton of work done to modify the soil organic matter of turfgrass surfac
 
 [Bert Sandell shared an interesting chart](https://twitter.com/BertSandell/status/1279330051180441601?s=20), looking at how organic matter varies across a single putting green. This is important for a lot of reasons, and as Bert noted, it is a common question.
 
-First, to put this in context, I recommend having a review of [this organic matter bullet list](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/).
+First, to put this in context, I recommend having a review of [this organic matter bullet list](/post/soil-organic-matter-bullet-list/).
 
 {{< figure src="om_bullet.jpg" >}}
 
 Next, why is this important? 
 
-One reason is for sampling accuracy. If one is going to make decisions about sand topdressing and other cultivation practices for entire green surfaces or for a set of say 20 greens, it's crucial to get samples that are representative of the area to be treated. Knowing how much the total organic matter varies allows one to [calculate the number of subsamples required](https://www.asianturfgrass.com/2019-07-29-total-organic-matter-testing-sample-size/).
+One reason is for sampling accuracy. If one is going to make decisions about sand topdressing and other cultivation practices for entire green surfaces or for a set of say 20 greens, it's crucial to get samples that are representative of the area to be treated. Knowing how much the total organic matter varies allows one to [calculate the number of subsamples required](/post/total-organic-matter-testing-sample-size/).
 
 Another reason is to understand what is happening on different areas of the same green, or from green to green on the course. I've noticed that the healthiest greens on a golf course usually have a little more total organic matter in the top 2 cm than do other greens on the same property. Those greens with more surface OM also tend to have a bit more soil moisture, and also to be a little softer. When one looks within the same green, it is expected that areas with bunker sand splash might have lower OM, shaded and high trafficked areas might have less OM, and areas with the best growing environment might have higher OM.
 
 There will be some variation from subsample to subsample, but how much is normal? 
 
-{{< tweet user="BertSandell" id="1279330051180441601" >}}
+{{< figure src="bert.jpg" >}}
 
 Bert shared that in this set of samples, at the 0 to 25 mm depth (1 inch---I prefer cutting to 20 mm for even more precision, but 20 and 25 mm are practically the same), the mean was 58 g/kg (5.8%) and the standard deviation was 6.5 g/kg (0.65%). 
 
@@ -54,13 +54,13 @@ You can get this kind of sampling done through ATC, or with any of the [Amplify]
 
 For more about this, see:
 
-* a short blog post, [Soil organic matter: a bullet list](https://www.asianturfgrass.com/2020-02-17-soil-organic-matter-bullet-list/)
+* a short blog post, [Soil organic matter: a bullet list](/post/soil-organic-matter-bullet-list/)
 
-* an answer to: [What protocol would you recommend for sampling greens for organic matter?](https://www.asianturfgrass.com/2020-05-13-putting-green-organic-matter-by-depth/)
+* an answer to: [What protocol would you recommend for sampling greens for organic matter?](/post/putting-green-organic-matter-by-depth/)
 
-* a video, [A Continuous Improvement System for Turfgrass](https://vimeo.com/375475148)
+* a video, [A Continuous Improvement System for Turfgrass](https://youtu.be/3fAk32YYZ3Q)
 
-* a long blog post, [Total organic matter testing on putting greens: sample number and sample volume](https://www.asianturfgrass.com/2019-07-29-total-organic-matter-testing-sample-size/)
+* a long blog post, [Total organic matter testing on putting greens: sample number and sample volume](/post/total-organic-matter-testing-sample-size/)
 
 
 

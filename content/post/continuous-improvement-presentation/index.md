@@ -15,9 +15,9 @@ image:
 
 I've recorded a quick video to describe the presentation I delivered at Nutranta's Best Practices seminar last week.
 
-I spoke about a [continuous improvement system for turfgrass](https://vimeo.com/micahwoods/improve).
+I spoke about a [continuous improvement system for turfgrass](https://youtu.be/3fAk32YYZ3Q).
 
-{{< vimeo "375475148" >}}
+{{< youtube "3fAk32YYZ3Q" >}}
 
 In the presentation, I mentioned the article [A Year of Measuring Putting Green Performance](http://gsrpdf.lib.msu.edu/ticpdf.py?file=/article/hartwiger-year-11-1-19.pdf) by Chris Hartwiger.
 

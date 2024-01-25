@@ -7,6 +7,7 @@ tags:
   - OM246
   - video
   - organic matter
+  - total organic material
 categories: []
 date: 2021-06-09T14:11:09+07:00
 lastmod: 2021-06-09T14:11:09+07:00
@@ -24,9 +25,10 @@ Everyone understands the segmentation of OM246 samples by depth. That is in the 
 
 {{< figure src="om_profile_labeled.jpg" >}}
 
-Most people understand that OM246 testing is a mass loss on ignition of *all* the material. Measuring all the organic material is a key feature of this type of testing. That is what I explained in [episode 5](https://vimeo.com/559336170) of the *Grammar of Greenkeeping* show.
+Most people understand that OM246 testing is a mass loss on ignition of *all* the material. Measuring all the organic material is a key feature of this type of testing. That is what I explained in [episode 5](https://youtu.be/8ufZXhVpgKY) of the *Grammar of Greenkeeping* show.
 
-{{< vimeo "559336170" >}}
+{{< youtube "8ufZXhVpgKY" >}}
+<br>
 
 Measuring all the organic material is substantially different than measuring the soil organic matter. Remember, soil organic matter, [by definition]({{< relref "/post/putting-green-organic-matter-by-depth" >}}), does not include "undecayed plant and animal residues." 
 
