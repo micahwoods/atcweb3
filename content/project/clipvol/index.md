@@ -52,7 +52,7 @@ It turns out, clipping volume is way more useful, and easier to implement, than 
 
 - posts with [ClipVol](/tag/clipvol/) tag
 
-- video [Leaves of Grass](https://vimeo.com/micahwoods/clip1): applications and implications of clipping volume
+- video [Leaves of Grass](https://youtu.be/bEP--V_douY): applications and implications of clipping volume
 
 - video [Five reasons why you should measure clipping volume](https://www.turfnet.com/webinar_archives.html/five-reasons-why-you-should-measure-clipping-volume-r180/)
 

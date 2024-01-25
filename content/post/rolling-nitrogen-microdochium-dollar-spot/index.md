@@ -2,7 +2,7 @@
 date: "2020-03-23T00:00:00Z"
 tags:
 - fertilizer
-- roll
+- rolling
 - nitrogen
 - disease
 title: Rolling, nitrogen, dollar spot, and Microdochium patch

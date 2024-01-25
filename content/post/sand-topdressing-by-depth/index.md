@@ -2,7 +2,7 @@
 date: "2020-12-24T00:00:00Z"
 tags:
 - sand
-- topdressing
+- topdress
 - turf hacks
 title: 'Sand topdressing by exact depth: how to work it out'
 authors: [admin]
@@ -20,7 +20,8 @@ The [best way to express sand topdressing amount](https://www.asianturfgrass.com
 
 The USGA has produced [this video](https://youtu.be/7tPilHP5QiA) showing an exact way to measure sand topdressing application rate, with no need for the overthrow correction, and this measures in mass. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7tPilHP5QiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "7tPilHP5QiA" >}}
+<br>
 
 You could, of course, figure out the volume by looking at the volume displacement when the sand is added to a known amount of water. But we can also assume that the sand has a bulk density (when dry) of about 1.5 g/cm<sup>3</sup>. I generally use 1.5. That's a common conversion factor for sand-based rootzones used in turfgrass. In civil engineering I think sand is often assumed to have a bulk density of 1.63 g/cm<sup>3</sup>. Whether you use 1.5 or 1.63 or something close to either of those, we are going to be within about 10% of the real number.
 

@@ -7,7 +7,7 @@ tags:
 - organic matter
 - coring
 - sand
-- aerify
+- aeration
 - OM246
 - cultivation
 - hollow-tine

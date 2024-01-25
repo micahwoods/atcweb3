@@ -7,7 +7,7 @@ authors: [admin]
 tags: 
   - OM246
   - organic matter
-  - topdressing
+  - topdress
   - turf hacks
 
 date: 2021-06-10T11:58:44+07:00
@@ -26,9 +26,11 @@ When the total organic material is known at time A and at time B, the accumulati
 
 {{< figure src="featured.jpg" >}}
 
-I demonstrated this "killer feature" of OM246 testing in [episode 6](https://vimeo.com/559391502) of the *Grammar of Greenkeeping* show.
+I demonstrated this "killer feature" of OM246 testing in [episode 6](https://youtu.be/n1EuiNxK1rI) of the *Grammar of Greenkeeping* show.
 
-{{< vimeo "559391502" >}}
+{{< youtube "n1EuiNxK1rI" >}}
+
+<br>
 
 The role of sand is important in calculating the accumulation rate. Imagine a scenario where the total organic material in the top 2 cm was 6% on 1 June 2020 (time A) and was also 6% on 1 November 2020 (time B). The OM2 did not change. 
 

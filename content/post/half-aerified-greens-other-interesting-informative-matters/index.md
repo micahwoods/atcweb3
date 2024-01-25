@@ -1,12 +1,12 @@
 ---
 date: "2019-03-19T00:00:00Z"
 tags:
-- aerify
+- aeration
 - Thailand
 - Japan
 - overseed
 - frost
-- Turf tourism
+- turf tourism
 title: Half-aerified greens; sodded fairway stripes; with other interesting and informative matters
 authors: [admin]
 image:

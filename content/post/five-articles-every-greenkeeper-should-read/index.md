@@ -3,12 +3,12 @@ date: 2018-04-05T00:00:00Z
 lastmod: 2021-01-21T19:04:21+07:00
 authors: [admin]
 tags:
-- Fertilizer
-- Topdress
-- Water
-- Aerify
-- Growth potential
-- Turf reads
+- fertilizer
+- topdress
+- water
+- aeration
+- growth potential
+- turf reads
 title: "Learn the rules like a pro, so you can break them like an artist"
 image:
   preview_only: true

@@ -11,7 +11,7 @@ tags:
 categories: []
 date: 2023-04-08T19:53:23-04:00
 lastmod: 2023-04-08T19:53:23-04:00
-featured: false
+featured: true
 draft: false
 math: true
 

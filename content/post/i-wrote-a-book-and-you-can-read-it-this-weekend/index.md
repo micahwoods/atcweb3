@@ -3,7 +3,7 @@ title: I wrote a book and you can read it this weekend
 authors: [admin] 
 date: 2016-03-25T19:24:24+00:00
 tags:
-- books
+- book
 - turf info
 - grammar of greenkeeping
 

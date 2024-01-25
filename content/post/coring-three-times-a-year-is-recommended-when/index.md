@@ -7,7 +7,7 @@ authors: [admin]
 tags: 
 - coring
 - nitrogen
-- aerification
+- aeration
 - growth potential
 categories: []
 date: 2023-06-26T17:26:26+07:00

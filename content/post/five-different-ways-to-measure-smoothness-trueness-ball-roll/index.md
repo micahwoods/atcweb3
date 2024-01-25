@@ -13,7 +13,7 @@ tags:
 categories: []
 date: 2021-09-06T16:48:26+07:00
 lastmod: 2021-09-06T16:48:26+07:00
-featured: true
+featured: false
 draft: false
 
 image:

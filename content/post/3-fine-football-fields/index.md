@@ -5,7 +5,7 @@ date: 2014-06-12T16:01:18+00:00
 tags:
 - Japan
 - Paspalum
-- sports turf
+- sports
 - Thailand
 - video
 

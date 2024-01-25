@@ -10,7 +10,7 @@ tags:
   - MLSN
   - ClipVol
   - greenkeeping
-  - TurfReads
+  - turf reads
 title: "Books"
 weight: 30
 ---

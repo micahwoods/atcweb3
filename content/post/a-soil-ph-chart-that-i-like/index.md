@@ -10,7 +10,7 @@ tags:
 categories: []
 date: 2023-02-04T12:09:43+07:00
 lastmod: 2023-02-04T12:09:43+07:00
-featured: false
+featured: true
 draft: false
 
 image:

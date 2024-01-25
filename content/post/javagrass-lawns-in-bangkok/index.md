@@ -3,7 +3,7 @@ date: "2018-03-18T00:00:00Z"
 tags:
 - Thailand
 - javagrass
-- parks
+- park and garden
 - lawns
 - turf tourism
 title: Javagrass lawns in Bangkok

@@ -11,7 +11,7 @@ tags:
 categories: []
 date: 2021-05-03T09:07:31+07:00
 lastmod: 2021-05-03T10:07:31+07:00
-featured: true
+featured: false
 draft: false
 image:
   caption: ""

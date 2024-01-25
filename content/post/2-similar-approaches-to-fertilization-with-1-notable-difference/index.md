@@ -4,13 +4,13 @@ date: "2015-04-26T09:57:00Z"
 authors: [admin]
 
 tags:
-- Fertilizer
-- Research
-- Science
-- Soil
+- fertilizer
+- research
+- science
+- soil
 - MLSN
 title: 2 similar approaches to turfgrass nutrition, with 1 notable difference
-featured: true
+featured: false
 image: 
   preview_only: false
 ---

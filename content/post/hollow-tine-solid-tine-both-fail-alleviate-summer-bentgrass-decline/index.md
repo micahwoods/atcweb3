@@ -4,7 +4,7 @@ authors: [admin]
 tags:
 - bentgrass
 - coring
-- aerify
+- aeration
 - science
 - research
 title: Hollow-tine cultivation and solid-tine spiking both failed to alleviate summer

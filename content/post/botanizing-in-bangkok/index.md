@@ -3,10 +3,11 @@ title: Botanizing in Bangkok
 authors: [admin] 
 date: 2015-12-07T20:36:45+00:00
 tags:
-  - Gardens and Parks
+  - park and garden
   - Thailand
   - carpetgrass
   - zoysia
+  - lawns
   
 image:
   preview_only: true

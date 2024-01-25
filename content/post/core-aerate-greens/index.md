@@ -1,10 +1,10 @@
 ---
 date: "2019-09-29T00:00:00Z"
 tags:
-- aerify
+- aeration
 - coring
 title: Core aerating putting greens, or not
-featured: true
+featured: false
 authors: [admin]
 image:
   preview_only: true

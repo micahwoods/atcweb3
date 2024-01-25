@@ -2,7 +2,7 @@
 date: "2017-12-20T00:00:00Z"
 tags:
 - sand
-- topdressing
+- topdress
 - Japan
 title: Topdressing frequency on golf course putting greens in Japan
 image: 

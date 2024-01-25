@@ -4,7 +4,7 @@ tags:
 - climate
 - bermudagrass
 - Thailand
-- Portgual
+- Portugal
 title: Year to date rain, and bermudagrass quality
 authors: [admin]
 image:

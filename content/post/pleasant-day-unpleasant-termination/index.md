@@ -5,7 +5,7 @@ tags:
 - tournament
 - Japan
 - zoysia
-- aerify
+- aeration
 - korai
 - sand
 - topdress

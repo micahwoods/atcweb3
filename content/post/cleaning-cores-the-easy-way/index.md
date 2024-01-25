@@ -4,7 +4,7 @@ tags:
 - Japan
 - equipment
 - coring
-- aerify
+- aeration
 title: Cleaning cores the easy way
 authors: [admin]
 image:
@@ -13,9 +13,9 @@ image:
 
 On a recent trip to Japan, I'd wanted to get a new video of a core sweeper in operation. Unfortunately for me, but fortunately for the greenkeeper, who had a laugh about this, the sweepers clean the greens so fast that by the time I arrived there were no more cores to sweep. The machine was parked in the maintenance yard.
 
-I made a [short video](https://vimeo.com/micahwoods/sweepers) with a few old clips I have of these machines.
+I made a [short video](https://youtu.be/yv26e9rqwBw) with a few old clips I have of these machines.
 
-{{< vimeo "360224608" >}}
+{{< youtube "yv26e9rqwBw" >}}
 
 <br>
 
