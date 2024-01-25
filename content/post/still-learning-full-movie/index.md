@@ -19,4 +19,4 @@ I had a great time making this movie. I've been fortunate to have many friends a
 
 I hope you'll enjoy watching this second episode of my *Grammar of Greenkeeping* show: [Still Learning](https://youtu.be/v7vGx9GQV2w).
 
-{{< "youtube" "v7vGx9GQV2w" >}}
+{{< youtube "v7vGx9GQV2w" >}}
