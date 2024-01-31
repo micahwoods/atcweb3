@@ -35,7 +35,7 @@ When I am talking about maximum N, or standard N, what I mean is the quantity of
 
 {{< figure src="featured.jpg" caption="A kangaroo at Lake Karrinyup Country Club on a fine autumn day with GP of about 50%." >}}
 
-These values give a really good starting point. For example, I spoke with Fraser Brown, the course superintendent at Lake Karrinyup Country Club in Perth, Western Australia. He said that he's been applying an annual N rate that is about 180 to 200 kg/ha (18 to 20 g N/m<sup>2</sup>. When I checked the temperatures there, and calculated the predicted N using the *standard* rate of 2 g/N/m<sup>2</sup> monthly, the annual total comes to 170 kg/ha. 
+These values give a really good starting point. For example, I spoke with Fraser Brown, the course superintendent at Lake Karrinyup Country Club in Perth, Western Australia. He said that he's been applying an annual N rate that is about 180 to 200 kg/ha (18 to 20 g N/m<sup>2</sup>). When I checked the temperatures there, and calculated the predicted N using the *standard* rate of 2 g/N/m<sup>2</sup> monthly, the annual total comes to 170 kg/ha. 
 
 Using this procedure to check N rates can get one very close to what is working to produce high quality turf at other places around the world, but adjusted to the exact temperature conditions of one's site. 
 
