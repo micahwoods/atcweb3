@@ -18,7 +18,7 @@ image:
 
 This photo illustrates two things about salinity problems. First, the salinity stress is most evident in the *low areas*, because the salts drain with the water. Second---and this one can be counterintuitive at first---the solution to an irrigation water salinity problem is to add even more[^1] of that "bad" water as irrigation.
 
-[^1]: The equations for the two step process of calculating a water requirement are [in this handout](http://www.seminar.asianturfgrass.com/water_and_soil_handout.html). One first calculates what is called the **leaching requirement** (LR) based on the irrigation water salinity and on the soil salinity tolerance of the grass species being grown. The irrigation **water requirement** uses the evapotranspiration and the previously calculated LR to determine the amount of water to apply as irrigation.
+[^1]: The equations for the two step process of calculating a water requirement are [shown here](/post/soil-water-management-3-problems-with-solutions/). One first calculates what is called the **leaching requirement** (LR) based on the irrigation water salinity and on the soil salinity tolerance of the grass species being grown. The irrigation **water requirement** uses the evapotranspiration and the previously calculated LR to determine the amount of water to apply as irrigation.
 
 {{< figure src="salinity_drain.jpg" caption="The seashore paspalum turf on the high areas of this fairway is fine, but it has died in the low areas where salt accumulated, except where a leaking sprinkler has supplied a sufficient leaching fraction." >}}
 
