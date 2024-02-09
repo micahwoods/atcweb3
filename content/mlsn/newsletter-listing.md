@@ -6,6 +6,7 @@ design:
   columns: "1"
 ---
 
+* [MLSN newsletter #22](mlsn-newsletter-22.pdf)
 * [MLSN newsletter #21](mlsn-newsletter-21.pdf)
 * [MLSN newsletter #20](mlsn-newsletter-20.pdf)
 * [MLSN newsletter #19](mlsn-newsletter-19.pdf)
