@@ -6,7 +6,7 @@ headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: '350px'
+  slide_height: '375px'
   is_fullscreen: false
   # Automatically transition through slides?
   loop: true
@@ -51,7 +51,7 @@ content:
         icon: envelope
         icon_pack: fas
         text: 'Sign up to ATC newsletters'
-        url: 'https://subscribepage.com/atc_newsletters'
+        url: 'https://www.asianturfgrass.com/newsletter/'
     - title: ATC Office Hours
       link: 
         icon: podcast
