@@ -30,7 +30,7 @@ You can download the slides here:
 
 * [Systematic improvement of golf course conditions](improvement.pdf), 3.1 MB PDF file 
 
-* [10 things I’ve learned about clipping volume](clipvol-slides.pdf), 2.8 MB PDF file)
+* [10 things I’ve learned about clipping volume](clipvol-slides.pdf), 2.8 MB PDF file
 
 ### Systematic improvement notes
 
