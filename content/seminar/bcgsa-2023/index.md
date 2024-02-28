@@ -1,7 +1,7 @@
 ---
 
-title: "BCGSA Professional Development Days, December 7–8, 2023"
-subtitle: ""
+title: "BCGSA Professional Development Days"
+subtitle: "7–8 December 2023"
 summary: ""
 authors: [admin]
 tags: 

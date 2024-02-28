@@ -1,7 +1,7 @@
 ---
 
-title: "Regal Live, December 6, 2023"
-subtitle: ""
+title: "Regal Live"
+subtitle: "December 6, 2023"
 summary: ""
 authors: [admin]
 tags: 

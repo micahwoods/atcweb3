@@ -13,6 +13,9 @@ date: 2024-02-26
 featured: false
 draft: false
 
+banner:
+  image: 'headers/montreal-header.jpg'
+
 image:
   caption: ""
   focal_point: ""
@@ -27,7 +30,7 @@ You can download the slides here:
 
 * [Systematic improvement of golf course conditions](improvement.pdf), 3.1 MB PDF file 
 
-* *10 Things I’ve Learned About Clipping Volume*, PDF file slides posted soon
+* [10 things I’ve learned about clipping volume](clipvol-slides.pdf), 2.8 MB PDF file)
 
 ### Systematic improvement notes
 
@@ -44,11 +47,15 @@ We discussed:
 * Bill Kreuser answers all my questions about plant growth regulators in [this video](https://youtu.be/oh2ish7HQR0)
 * The ClipVol book, [One Bucket at a Time](https://micahwoods.github.io/buckets/)
 * [OM246 testing as a four step process](https://youtu.be/Tc8dcBBt1zc) video
+* [Bobble test rating scale](/post/bobble-test-rating-scale/)
+* [Bobble test video](/post/teaching-the-bobble-test-video/)
 
+### 10 things I've learned about ClipVol notes
 
-### 10 things about ClipVol notes
+See the [slides](clipvol-slides.pdf) (2.8 MB PDF file) for the list of items, ranging from the normal amount harvested in a single mow being 12 mL/m<sup>2</sup>, to adjusting N rate based on how much the grass is growing.
 
-Coming soon.
+* The [One Bucket at a Time](https://micahwoods.github.io/buckets/) book
+* How to use the [growth ratio](/post/the-growth-ratio-equation/) to adjust nitrogen rate based on an assessment of one thing---how much the grass is growing in comparison to how much you expect it to be growing given the recent weather: [Turfgrass growth ratio, nitrogen harvest, and fertilizer adjustment](/post/growth-ratio-nitrogen-harvest-and-fertilizer-adjustment/)
 
 ### Notes
 
@@ -57,8 +64,6 @@ You can get new information from ATC through our [email newsletters](/newsletter
 Find turfgrass reference information, site-specific weather and climate appraisals, and weekly updates at the [PACE Turf](https://www.paceturf.org/) information center.
 
 For more about ATC's soil testing services, and example reports, see our [soil tests](https://www.asianturfgrass.com/project/soil-tests/) page.
-
-### OM and videos and podcasts
 
 See more about OM246 testing, including sampling instructions and a sample report, at the [OM246 project page](https://www.asianturfgrass.com/project/om246/).
 

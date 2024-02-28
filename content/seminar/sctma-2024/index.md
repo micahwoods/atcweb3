@@ -1,7 +1,7 @@
 ---
 
-title: "South China Turf Managers Association, January 19, 2024"
-subtitle: ""
+title: "South China Turf Managers Association"
+subtitle: "January 19, 2024"
 summary: ""
 authors: [admin]
 tags: 
