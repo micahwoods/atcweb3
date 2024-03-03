@@ -6,8 +6,8 @@ summary: ""
 authors: [admin]
 tags: [soil test, fertilizer, research]
 categories: []
-date: 2024-03-04T06:27:18+07:00
-lastmod: 2024-03-04T06:27:18+07:00
+date: 2024-03-04T02:27:18+07:00
+lastmod: 2024-03-04T02:27:18+07:00
 featured: false
 draft: false
 
