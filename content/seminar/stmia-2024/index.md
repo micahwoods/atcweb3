@@ -35,17 +35,29 @@ You can download the slides here.
 
 * [Strategies to minimize disease with reduced fungicide use](healthy.pdf), 1.5 MB PDF file
 
-* [High quality playing surfaces with minimal water use]()
+* [High quality playing surfaces with minimal water use](irrigation.pdf), 2 MB PDF file
 
 * *What every superintendent should know about tropical turfgrasses* --- coming soon
 
-### Notes 
+### Notes on minimizing disease
 
 See normal levels of leaf nutrients in bermudagrass, seashore paspalum, and zoysiagrass putting green clippings in the "strategies to minimize disease with reduced fungicide use slides."
 
 For more about estimating nutrient harvest by measuring clippings, see [Turfgrass growth ratio, nitrogen harvest, and fertilizer adjustment](/post/growth-ratio-nitrogen-harvest-and-fertilizer-adjustment/).
 
 For more about clipping measurement, see the [clipvol project page](/project/clipvol/) or the [*One Bucket at a Time*](https://micahwoods.github.io/buckets/) book.
+
+### Notes on water use
+
+Article on [mapping fairway soil moisture for improved irrigation decisions at your golf course](https://turf.umn.edu/news/mapping-fairway-soil-moisture-improved-irrigation-decisions-your-golf-course) by Straw and MacKenzie.
+
+Get the [protocol for golf course soil moisture mapping](https://license.umn.edu/product/protocol-for-golf-course-soil-moisture-mapping).
+
+Sifers and Beard (1997) on [bermudagrass vs. zoysiagrass irrigation requirement](https://tic.msu.edu/tgif/flink?recno=213631).
+
+Gouveia et al. on [warm-season turfgrass species quality under drought](https://doi.org/10.1111/jac.12681).
+
+Serena et al. on a [15 to 30% reduction in water use](https://doi.org/10.2134/agronj2018.03.0148) by using trinexapac-ethyl and soil surfactants---without reducing color or quality of bermudagrass.
 
 ### More information and resources
 
