@@ -33,11 +33,27 @@ projects: []
 
 You can download the slides here.
 
+**Slides from Micah Woods**
+
 * [Strategies to minimize disease with reduced fungicide use](healthy.pdf), 1.5 MB PDF file
 
 * [High quality playing surfaces with minimal water use](irrigation.pdf), 2 MB PDF file
 
 * *What every superintendent should know about tropical turfgrasses* --- coming soon
+
+**Slides from Dr. Devon Carroll, Dr. Michael Bekken, and Bruce Williams, CGCS**
+
+* [Herbicide modes of action: the building blocks to weed control](carroll-moa.pdf), 1.4 MB PDF file
+
+* [The golf course carbon cycle: how to reduce emissions and maximize sequestration on golf courses](bekken-carbon.pdf), 2.3 MB PDF file
+
+* [Resisting resistance: strategies for maintaining chemical control efficacy](carroll-resistance.pdf), 922 KB PDF file
+
+* [The traits of a successful superintendent](williams-traits.pdf), 282 KB PDF file
+
+* [Quantifying golf course resource use efficiency](bekken-resources.pdf), 2.7 MB PDF file
+
+* [Programming and management of troublesome turfgrass weeds](carroll-weed-mgmt.pdf), 2.8 MB PDF file
 
 ### Notes on minimizing disease
 
@@ -58,6 +74,18 @@ Sifers and Beard (1997) on [bermudagrass vs. zoysiagrass irrigation requirement]
 Gouveia et al. on [warm-season turfgrass species quality under drought](https://doi.org/10.1111/jac.12681).
 
 Serena et al. on a [15 to 30% reduction in water use](https://doi.org/10.2134/agronj2018.03.0148) by using trinexapac-ethyl and soil surfactants---without reducing color or quality of bermudagrass.
+
+PACE Turf's [water budget spreadsheet](https://www.paceturf.org/PTRI/Documents/140404_blank_waterbudget.xlsx) is "an easy to use water budget spreadsheet that will estimate how much irrigation water [was expected to be used] at your location. By calculating water budgets for previous years, you can get an idea of whether you are over using irrigation water, or whether you are staying within generally acceptable guidelines."
+
+The image below shows the factors you need to provide. The spreadsheet then calculates the estimated irrigation use.
+
+{{< figure src="pace-water-budget.jpg" >}}
+
+### Notes on the water droplet penetration test
+
+PACE Turf's [water droplet test video](https://youtu.be/ujtvjFvKPJk?si=adesNtultQ9gRjaO) explains the test and demonstrates exactly how to do it.
+
+My discussion with Bill Kreuser about [wetting agent re-application intervals by growing degree days](https://youtu.be/l_DDlsgnxbU?si=6rOYOMKLmWx457eE).
 
 ### More information and resources
 
