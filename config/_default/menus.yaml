@@ -40,9 +40,6 @@ main:
   - name: 'ClipVol'
     url: '/project/clipvol/'
     parent: 'project-top-menu'
-  - name: 'Seminar handouts'
-    url: '/seminar/'
-    parent: 'project-top-menu'
   - name: 'Soil tests'
     weight: 40
     identifier: 'soil-top-menu'
@@ -67,6 +64,9 @@ main:
   - name: 'Contact'
     url: '#contact'
     parent: 'about'
+  - name: 'Seminar handouts'
+    url: '/seminar/'
+    weight: 57
   - name: 'PACE Turf'
     url: 'https://www.paceturf.org/'
     weight: 60

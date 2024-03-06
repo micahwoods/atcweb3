@@ -55,6 +55,8 @@ You can download the slides here.
 
 * [Programming and management of troublesome turfgrass weeds](carroll-weed-mgmt.pdf), 2.8 MB PDF file
 
+This is the link to the [mobile weed manual](https://www.mobileweedmanual.com/) mentioned by Dr. Carroll. A list of her publications is available [here](https://orcid.org/0000-0002-0364-5889), where you can find the article about fraise mowing and weed control through that method. 
+
 ### Notes on minimizing disease
 
 See normal levels of leaf nutrients in bermudagrass, seashore paspalum, and zoysiagrass putting green clippings in the "strategies to minimize disease with reduced fungicide use slides."
