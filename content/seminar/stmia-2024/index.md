@@ -39,7 +39,7 @@ You can download the slides here.
 
 * [High quality playing surfaces with minimal water use](irrigation.pdf), 2 MB PDF file
 
-* *What every superintendent should know about tropical turfgrasses* --- coming soon
+* [What every superintendent should know about tropical turfgrasses](grasses.pdf), 2 MB PDF file
 
 **Slides from Dr. Devon Carroll, Dr. Michael Bekken, and Bruce Williams, CGCS**
 
@@ -86,6 +86,20 @@ The image below shows the factors you need to provide. The spreadsheet then calc
 PACE Turf's [water droplet test video](https://youtu.be/ujtvjFvKPJk?si=adesNtultQ9gRjaO) explains the test and demonstrates exactly how to do it.
 
 My discussion with Bill Kreuser about [wetting agent re-application intervals by growing degree days](https://youtu.be/l_DDlsgnxbU?si=6rOYOMKLmWx457eE).
+
+### Notes on tropical grasses
+
+There's a fascinating article by Jack Murray and Milt Engelke from the USGA *Green Section Record* in 1983: [Exploration for zoysiagrass in eastern Asia](https://gsrpdf.lib.msu.edu/?file=/1980s/1983/830508.pdf). Many of the new varieties of *Zoysia* now coming from the USA are selections from, or the result of breeding from, this collection of material.
+
+* Greg Wiecko's article about [bermudagrass struggling in Asia](wiecko2000.pdf)
+
+* ATC posts about [bermudagrass](/tag/bermudagrass/)
+
+* ATC posts about [zoysiagrass](/tag/zoysia/)
+
+* ATC posts about [seashore paspalum](/tag/paspalum/)
+
+* Bobble test [scale, explanations, and videos](/tag/bobble-test/)
 
 ### More information and resources
 
