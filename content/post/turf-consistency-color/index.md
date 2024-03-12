@@ -1,12 +1,15 @@
 ---
 date: "2019-06-05T00:00:00Z"
+authors: [admin]
 tags:
 - Thailand
 - turf tourism
 title: Turf color, consistency, and the oldest course in Thailand
+img:
+  preview_only: false
 ---
 
-Last month I made a trip to Hua Hin and visited two of the fine golf courses there---Royal Hua Hin GC and Banyan GC. 
+Last month I made a trip to Hua Hin and visited two of the fine golf courses there---Royal Hua Hin GC and Banyan GC (now Pineapple Valley GC Hua Hin).
 
 {{< figure src="royal_colour.jpg" caption="All kinds of colors through the green at Royal Hua Hin GC in May" >}}
 
@@ -42,13 +45,13 @@ Speaking of flying through the air ... I made a birdie and tried a new pose for 
 
 Of course the Royal is not the only course in town. There are a lot of golf courses in this popular holiday and retirement area. 
 
-One of my favorites is the Banyan GC. Colors there change even more dramatically than at Royal Hua Hin. That's because the Banyan is set into a valley, surrounded on three sides by forests. Those forests range from green to orange to brown to yellow, depending on the light, and depending on the season.
+One of my favorites is the Pineapple Valley GC (formerly Banyan GC). Colors there change even more dramatically than at Royal Hua Hin. That's because the course is set into a valley, surrounded on three sides by forests. Those forests range from green to orange to brown to yellow, depending on the light, and depending on the season.
 
-{{< figure src="banyan10.jpg" caption="View from the tenth tee at Banyan GC in May" >}}
+{{< figure src="banyan10.jpg" caption="View from the tenth tee at Pineapple Valley GC in May" >}}
 
-The playing conditions at Banyan GC are superb, with native manilagrass fairways and smooth Tifeagle greens. When it is dry, it seems the ball can run forever. 
+The playing conditions there are superb, with native manilagrass fairways and smooth Tifeagle greens. When it is dry, it seems the ball can run forever. 
 
-{{< figure src="banyan8.jpg" caption="I found the fairway on this hole at Banyan GC" >}}
+{{< figure src="banyan8.jpg" caption="I found the fairway on the long eighth" >}}
 
 After you've played golf, and have checked the colors of the grass, you can also check the color of the sky at sunset, and the colors at the beach.
 

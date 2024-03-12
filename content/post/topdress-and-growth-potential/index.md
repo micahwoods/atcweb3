@@ -3,14 +3,14 @@ date: "2017-08-20T00:00:00Z"
 subtitle: A new spreadsheet from PACE Turf uses growth potential to estimate topdressing
   rates
 tags:
-- Topdress
-- Growth potential
-- Sand
+- topdress
+- growth potential
+- sand
 title: Sand topdressing to match grass growth
 authors: [admin]
 image:
   preview_only: no
-  caption: "Tifeagle at Banyan Golf Club in Hua Hin, Thailand"
+  caption: "Tifeagle at Banyan Golf Club in Hua Hin, Thailand (now Pineapple Valley Golf Club Hua Hin)"
 ---
 
 There's a [new spreadsheet](https://www.paceturf.org/PTRI/Documents/Sand_GP_1.xls) available from [PACE Turf](https://www.paceturf.org/) that uses the temperature-based [growth potential](https://www.paceturf.org/reference/Turf_growth_potential) to estimate the quantity of sand required as topdressing. They [wrote](https://www.paceturf.org/memberedition/sand_and_gp):

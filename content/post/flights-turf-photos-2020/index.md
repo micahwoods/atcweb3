@@ -68,9 +68,9 @@ Nikanti GC is all bermudagrass in Nakhon Pathom just west of Bangkok. It was loo
 
 I had not been to this course (formerly Milford) since 2011. The trees have grown up a lot, and blocked a lot of the views, but it remains a spectacular setting for golf.
 
-{{< figure library="true" src="banyan_3_morning.jpg" title="Morning view of the third at Banyan GC, December" >}}
+{{< figure library="true" src="banyan_3_morning.jpg" title="Morning view of the third at Banyan GC (now Pineapple Valley GC), December" >}}
 
-Speaking of spectacular settings for golf, Banyan GC in Hua Hin has one of the best. This is a morning view. The late afternoon view from the 19<sup>th</sup> hole, Mulligan's Pub, is one of the best in the world. Maybe I can get that picture this year!
+Speaking of spectacular settings for golf, this is a morning view at Pineapple Vally. The late afternoon view from the 19<sup>th</sup> hole, Mulligan's Pub, is one of the best in the world. Maybe I can get that picture another year!
 
 
 

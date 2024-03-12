@@ -13,7 +13,7 @@ featured: false
 draft: false
 
 image:
-  caption: "Pineapples on the par 3 fifteenth hole at Banyan GC in Hua Hin, Thailand"
+  caption: "Pineapples on the par 3 fifteenth hole at Banyan GC in Hua Hin, Thailand (now Pineapple Valley Golf Club Hua Hin)"
   focal_point: ""
   preview_only: false
 
@@ -26,7 +26,7 @@ See [here](https://www.facebook.com/brannholm/posts/10159182254234177) for some 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbrannholm%2Fposts%2F10159182254234177&show_text=true&width=500" width="500" height="741" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-We did most of the shooting at Banyan Golf Club.
+We did most of the shooting at Banyan Golf Club (now Pineapple Valley Golf Club Hua Hin).
 
 {{< figure src="filming.jpg" caption="Shooting the latest MLSN film with Mattias Brännholm." >}}
 
@@ -34,7 +34,7 @@ When anyone is taking care of grass, it's necessary to ask, and then get a good 
 
 The MLSN method gives the right answer to those questions, pretty much every time, if your objective is to prevent nutrient deficiencies while at the same time avoiding unnecessary application of fertilizer.
 
-{{< figure src="banyan1.jpg" caption="The par 4 first hole at Banyan Golf Club." >}}
+{{< figure src="banyan1.jpg" caption="The par 4 first hole at Pineapple Valley Golf Club Hua Hin" >}}
 
 For a bit more about MLSN, see:
 

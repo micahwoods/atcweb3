@@ -19,7 +19,7 @@ Some recent measurements have provided a bit more information. The grass I refer
 
 Many golf courses in Thailand were planted to bermudagrass when they were constructed in the 1990s and through a natural conversion process, the *nuan noi* has taken over. Courses such as Windmill, Green Valley, Thana City, and Phoenix Gold have all been through this transition.
 
-{{< figure src="banyan.png" caption="Banyan GC in Hua Hin, Thailand was planted to this grass at the time of construction." >}}
+{{< figure src="banyan.png" caption="Banyan GC in Hua Hin, Thailand (now Pineapple Valley Golf Club Hua Hin) was planted to this grass at the time of construction." >}}
 
 I've measured how fast this grass spreads, both when it is invading bermudagrass, and when it is establishing on bare ground without competition from other grasses. Here are four separate measurements.
 
