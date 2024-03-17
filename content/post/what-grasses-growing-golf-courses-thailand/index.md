@@ -9,7 +9,7 @@ tags:
   - paspalum
   - Thailand
   - zoysia
-img:
+image:
   preview_only: true
 ---
 
@@ -19,7 +19,7 @@ In 2006, ATC conducted a survey of the grass types on golf courses in Thailand. 
 
 From January 1 to June 8, 2011, I visited or played golf at 24 different golf courses in Thailand. I thought it would be interesting to summarize the different grass types that were being grown on these courses. Of the 24 courses, 79% have hybrid bermudagrass on the greens, 4% seashore paspalum, and 17% use _Zoysia matrella_. On fairways, 38% of the courses I visited had seashore paspalum, bermudagrass and _Zoysia matrella_ were each on 29% of the courses, and a native grass mixture was on 4%.
 
-{{< figure src="laguna-phuket.jpg" >}}
+{{< figure src="featured.jpg" >}}
 
 I like the native grasses on the fairways because of reduced fertilizer and water requirements and the paucity of pests on _Zoysia_ or _Axonopus_ in Thailand. Not only do these fairways have great color (as at Laguna Phuket in the photo above from 2011), they also have great playability.
 
